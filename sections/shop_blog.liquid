@@ -1,0 +1,81 @@
+<div class="shpo_space pcontainer">
+    <div class="shop_block">
+            {% for block in section.blocks %}
+                    <div class="shop_content">
+                       <div class="shopheadcon">
+                       <div>
+                        {%- if block.settings.delivery != blank -%}
+                           <img class="deliveryicon" src="{{  block.settings.delivery  | img_url: 'medium' }}" />
+                        {%- endif -%}
+                        </div>
+                          <div class=" shop-pos">
+                              <h3 class="shopbhead">{{block.settings.bhead}}</h3>
+                              <p class="shopdes">{{block.settings.bdes}}</p>
+                                <div class="blogbodr1">
+                                  {%- if forloop.index == 2 -%}
+                                    <a href="{{ block.settings.allshopurl }}" class="btnspace">{{ block.settings.allshopbtn }} 
+                                      <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
+                                        <path d="M1.11719 4.5L32.7415 4.5M32.7415 4.5L26.2995 1M32.7415 4.5L26.2995 8" stroke="#1E1E1E" stroke-linecap="round"/>
+                                      </svg>
+                                    </a>
+                                  {%- endif -%}
+                                </div> 
+                          </div>
+                       </div>
+                    </div>
+            {% endfor %}
+    </div>
+</div>
+{% schema %}
+{
+  "name": "shop_blog",
+  "tag": "section",
+  "class": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "shop_head",
+      "label": "Heading"
+    }
+  ],
+   "blocks": [
+  {
+    "type": "blogs",
+    "name": "blogs",
+    "limit":3,
+    "settings": [
+        { "type": "image_picker",
+          "id": "delivery",
+          "label": "Image"
+        },
+       {
+      "type": "text",
+      "id": "allshopbtn",
+      "label": "Button"
+    },
+     {
+      "type": "url",
+      "id": "allshopurl",
+      "label": "Button Link"
+    },
+       {
+    "type": "text",
+    "id": "bhead",
+    "label": "Heading"
+      },
+      {
+        "type":"text",
+        "id":"bdes",
+        "label":"Description"
+      }
+    ]
+  }
+    ],
+ "presets": [
+    {
+      "name": "shop_blog"
+    }
+  ]
+}
+
+{% endschema %}
