@@ -235,6 +235,7 @@
     },
     "939ed13e-8961-40fb-be57-ecbc1f35dd30": {
       "type": "Certified_Coaches",
+      "disabled": true,
       "blocks": {
         "2f041b2b-6910-44af-8f65-bd68d739ba9f": {
           "type": "block",
@@ -372,7 +373,7 @@
             "image_max_height": "950px",
             "layout": "image_first",
             "button_label": "BOOK DR. RUTH",
-            "button_link": "shopify:\/\/pages\/contact-us"
+            "button_link": "shopify:\/\/pages\/speaker"
           }
         },
         "6cf814f5-9988-477c-88de-aaa7e79bd990": {
