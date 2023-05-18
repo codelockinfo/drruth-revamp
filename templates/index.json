@@ -531,52 +531,6 @@
         "section_padding_bottom_mobile": 50
       }
     },
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
-            "font_family": "font_blt"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "GET THE RECIPES HERE",
-            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/coursepic.png",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "left",
-        "content_layout": "overlap",
-        "grid_type": "type2",
-        "imgText-bg-color": "#f5f8f1",
-        "show_arrow_mobile": "no",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 88
-      }
-    },
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56": {
       "type": "rx-rich-text",
       "blocks": {
@@ -649,6 +603,52 @@
         "container_bgcolor": "#ffffff",
         "title_color": "#1e1e1e",
         "price_color": "#184b44"
+      }
+    },
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
+            "font_family": "font_blt"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET THE RECIPES HERE",
+            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coursepic.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_title_alignment": "left",
+        "desktop_content_alignment": "left",
+        "desktop_button_alignment": "left",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "#f5f8f1",
+        "show_arrow_mobile": "no",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 88
       }
     },
     "42a0c8a2-518d-4af7-81cd-2253cf91765e": {
@@ -1003,9 +1003,9 @@
     "0816fc52-33ac-4b35-81ac-4c842628750a",
     "df6ff21b-835d-453a-ab12-a99160479690",
     "2b1d20ae-49de-4e39-ab92-d62ff31188a4",
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56",
     "40e124d8-821b-4b01-8eb8-2482449db53a",
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "42a0c8a2-518d-4af7-81cd-2253cf91765e",
     "2758b93a-1c5e-4890-87a5-086ee9572e15",
     "41def7a6-c370-4591-a416-a22b442ac6d4",
