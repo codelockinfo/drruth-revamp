@@ -51,7 +51,7 @@
             </div>
            
         </div>
-            <p class="">{{ block.settings.confimedp }}</p>
+            <p class="truncate">{{ block.settings.confimedp }}</p>
           <div class="starflex1">
             <div class="starbg"><img src="{{ block.settings.mainimage |img_url: '800x' }}"></div>
             <h2 class="starthead"> {{ block.settings.signtext }}</h2>
@@ -175,6 +175,8 @@ slider-component.slider-mobile-gutter.page-width.page-width-desktop {
     justify-content:flex-start;
    align-items: center;
        margin-top: -5%;
+       position: absolute;
+    bottom: 4%;
 }
   i.fa.fa-quote-right {
       color: rgb(203 202 181);
@@ -209,7 +211,8 @@ slider-component.slider-mobile-gutter.page-width.page-width-desktop {
     border-radius: 30px;
  background:#fff;
  margin-top:15%;
-        min-height: 1100px;
+        min-height: 550px;
+    max-height: 550px;
   }
   .customerdetail img {
     margin: auto;
@@ -233,6 +236,11 @@ slider-component.slider-mobile-gutter.page-width.page-width-desktop {
     line-height: 30px;
     color: #1E1E1E;
     text-align:left;
+ 
+margin-bottom:0;
+    }
+    a.readmorebtn{
+      text-align:left;
     }
       .buttondiv{
             text-align: center;

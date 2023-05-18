@@ -6495,3 +6495,9 @@ text-align: center;
     font-size: 14px;
 }
 }
+.toggle-text-link {
+  display: inline;
+}
+.toggle-text-content span {
+  display: none;
+}
