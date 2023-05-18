@@ -672,12 +672,20 @@
             "button_label_1": "SUBMIT YOUR APPLICATION",
             "button_link_1": "shopify:\/\/pages\/application-form"
           }
+        },
+        "4b4c6522-a49c-4ab3-a420-aa06f5c88a56": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "COACHING",
+            "button_link_1": "shopify:\/\/pages\/coachingmain1"
+          }
         }
       },
       "block_order": [
         "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-0",
         "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-1",
-        "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-2"
+        "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-2",
+        "4b4c6522-a49c-4ab3-a420-aa06f5c88a56"
       ],
       "custom_css": [
         ".bbutton {margin-top: 4%;}"
