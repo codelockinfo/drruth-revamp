@@ -369,7 +369,8 @@
         "3d49c927-c2f9-42c2-8b36-433af209847a"
       ],
       "custom_css": [
-        ".feature-type1 .container {max-width: 120rem; padding: 0px 6rem; margin: 5% auto; padding-bottom: 5%;}"
+        ".feature-type1 .container {max-width: 120rem; padding: 0px 6rem; margin: 5% auto; padding-bottom: 5%;}",
+        "@media screen and (max-width: 400px) {.feature-type1 .box{width:100%; }}"
       ],
       "settings": {
         "feature_title_color": "#000",
