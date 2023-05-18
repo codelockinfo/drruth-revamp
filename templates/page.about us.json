@@ -114,6 +114,50 @@
         "layout": "image_first"
       }
     },
+    "b6ca843a-115e-4556-8b3c-64c93a18553c": {
+      "type": "my-story-img",
+      "blocks": {
+        "c151ca66-9153-4180-aaf1-9f693080f04a": {
+          "type": "block",
+          "settings": {
+            "storyimg": "shopify:\/\/shop_images\/Image_13.png"
+          }
+        },
+        "7c662612-d978-44a6-891a-b4e16df55eb1": {
+          "type": "block",
+          "settings": {
+            "storyimg": "shopify:\/\/shop_images\/Image_15.png"
+          }
+        },
+        "7ca383d3-fd33-4bf4-b782-8e3f2eec09af": {
+          "type": "block",
+          "settings": {
+            "storyimg": "shopify:\/\/shop_images\/Image_16.png"
+          }
+        },
+        "fa45a4f4-b691-4135-8201-3db213571088": {
+          "type": "block",
+          "settings": {
+            "storyimg": "shopify:\/\/shop_images\/Image_14.png"
+          }
+        },
+        "28d4ecc1-a489-4180-ad3d-b1ef4d53e2c7": {
+          "type": "block",
+          "settings": {
+            "storyimg": "shopify:\/\/shop_images\/Image_17.png"
+          }
+        }
+      },
+      "block_order": [
+        "c151ca66-9153-4180-aaf1-9f693080f04a",
+        "7c662612-d978-44a6-891a-b4e16df55eb1",
+        "7ca383d3-fd33-4bf4-b782-8e3f2eec09af",
+        "fa45a4f4-b691-4135-8201-3db213571088",
+        "28d4ecc1-a489-4180-ad3d-b1ef4d53e2c7"
+      ],
+      "settings": {
+      }
+    },
     "81fb0bf7-19b9-4a02-8459-cc96b63dea4f": {
       "type": "rx-list-component",
       "disabled": true,
@@ -181,7 +225,7 @@
       ],
       "custom_css": [
         "h2.rx_rich-text__heading {margin-top: 7%;}",
-        ".rx_rich-text__text{line-height:40px;}"
+        ".rx_rich-text__text {line-height: 40px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -259,6 +303,7 @@
     "1a5dedc7-619e-4d76-af24-3059fc78e784",
     "300e0ff2-9a81-4844-9bfa-17d36bba4d8b",
     "09b0af44-a9f1-4a92-a2d0-9addd848789b",
+    "b6ca843a-115e-4556-8b3c-64c93a18553c",
     "81fb0bf7-19b9-4a02-8459-cc96b63dea4f",
     "f60fcd36-95e3-42dc-83ea-518aef727035",
     "bd7ea1b0-5c57-4106-a7e6-a09658dca609",
