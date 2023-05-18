@@ -179,6 +179,9 @@
         "template--14898486247489__f60fcd36-95e3-42dc-83ea-518aef727035-168139761018b48100-0",
         "template--14898486247489__f60fcd36-95e3-42dc-83ea-518aef727035-168139761018b48100-1"
       ],
+      "custom_css": [
+        "h2.rx_rich-text__heading {margin-top: 7%;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
