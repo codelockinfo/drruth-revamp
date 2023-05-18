@@ -718,7 +718,7 @@
           "type": "button",
           "settings": {
             "button_label": "MY STORY",
-            "button_link": "shopify:\/\/pages\/about-us"
+            "button_link": "shopify:\/\/pages\/about-us-1"
           }
         }
       },
