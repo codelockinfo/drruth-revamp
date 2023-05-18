@@ -368,6 +368,9 @@
         "template--14921794945089__076cca24-afc2-49c9-b943-89e7c854f445-1684396709ce749c6e-3",
         "3d49c927-c2f9-42c2-8b36-433af209847a"
       ],
+      "custom_css": [
+        ".feature-type1 .container {max-width: 120rem; padding: 0px 6rem; margin: 5% auto; padding-bottom: 5%;}"
+      ],
       "settings": {
         "feature_title_color": "#000",
         "feature_title_font_size": 16,
@@ -377,7 +380,7 @@
         "feature_text_font_mob_size": 14,
         "type_header_font": "assistant_n4",
         "section_bg_color": "#f5f8f1",
-        "row_on_mobile": false,
+        "row_on_mobile": true,
         "max_container_width": "120rem",
         "padding_top": 68,
         "padding_bottom": 100
