@@ -116,6 +116,7 @@
     },
     "81fb0bf7-19b9-4a02-8459-cc96b63dea4f": {
       "type": "rx-list-component",
+      "disabled": true,
       "blocks": {
         "ca8dfa28-dce9-4131-bd91-675d5427991e": {
           "type": "text",
