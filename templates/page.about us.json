@@ -376,7 +376,7 @@
         "feature_text_font_size": 14,
         "feature_text_font_mob_size": 14,
         "type_header_font": "assistant_n4",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#f5f8f1",
         "row_on_mobile": false,
         "max_container_width": "120rem",
         "padding_top": 68,
