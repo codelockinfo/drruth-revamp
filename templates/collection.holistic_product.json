@@ -187,7 +187,8 @@
         "12db348e-5b71-4b4d-bcf1-fee74bd24759"
       ],
       "custom_css": [
-        ".slidecontent{text-align:center;}"
+        ".slidecontent {text-align: center;}",
+        "@media screen and (max-width:1300px){.slidebg{min-height:150px;}"
       ],
       "settings": {
         "shop_head": "Shop by health concern and life stages"
