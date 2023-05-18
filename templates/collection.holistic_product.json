@@ -24,6 +24,7 @@
         "6bfbfa35-c205-4c78-897d-72bf9f7841cf": {
           "type": "slider",
           "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
             "slide_text": "Brain\/ Cognitive Support",
             "slide_type": "Pet device System Supported",
             "slide_val": "Brain\/ Cognitive Support"
@@ -32,6 +33,7 @@
         "41be0c2f-3d9f-4ebc-9710-ed0a3787b146": {
           "type": "slider",
           "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_3.webp",
             "slide_text": "Cancer support",
             "slide_type": "Pet device System Supported",
             "slide_val": "Cancer support"
