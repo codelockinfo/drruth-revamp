@@ -15,6 +15,7 @@
         "ff0fe0c0-cd60-4dcd-a9f4-12e4813aef8a": {
           "type": "slider",
           "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_6.webp",
             "slide_text": "Bone & Joint Support",
             "slide_type": "Pet device System Supported",
             "slide_val": "Bone & Joint Support"
