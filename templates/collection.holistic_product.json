@@ -186,6 +186,9 @@
         "b051e3b0-d04a-46d9-b072-c397ffa0f578",
         "12db348e-5b71-4b4d-bcf1-fee74bd24759"
       ],
+      "custom_css": [
+        ".slidecontent{text-align:center;}"
+      ],
       "settings": {
         "shop_head": "Shop by health concern and life stages"
       }
