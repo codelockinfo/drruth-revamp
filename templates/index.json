@@ -679,6 +679,9 @@
         "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-1",
         "template--14898486050881__42a0c8a2-518d-4af7-81cd-2253cf91765e-1679661306817b050b-2"
       ],
+      "custom_css": [
+        ".bbutton {margin-top: 4%;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-1.jpg",
         "image_overlay_opacity": 10,
