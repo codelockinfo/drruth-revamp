@@ -9,8 +9,16 @@
     <div>
         <div class="slideflex">
         {% for block in section.blocks %}
+          
                 <div class="slidebg" data-type="{{block.settings.slide_type}}" data-val="{{block.settings.slide_val}}">
-                       <h4 class="slidecontent">{{block.settings.slide_text}}{% render 'email-arrow' %}</h4>
+                        
+                       <div class="collimg">
+                        {%- if block.settings.allshopicon != blank -%}
+                           <img class="shophelpicon" src="{{  block.settings.allshopicon  | img_url: 'small' }}" />
+                            {%- endif -%}
+                       </div>
+                        
+                       <h4 class="slidecontent">{{block.settings.slide_text}}</h4>
                     <h2 class="slidetype">{{block.settings.slide_type}}</h2>
                   <h2 class="slidevalue">{{block.settings.slide_val}}</h2>
                 </div>
@@ -35,6 +43,10 @@
     "type": "slider",
     "name": "slider",
     "settings": [
+       { "type": "image_picker",
+          "id": "allshopicon",
+          "label": "Image"
+        },
        {
     "type": "text",
     "id": "slide_text",
@@ -61,6 +73,19 @@
 }
 
 {% endschema %}
+<style>
+.slidebg.slick-slide{
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.slidecontent{
+  margin: 10px;
+}
+.collimg {
+    padding-top: 8%;
+}
+</style>
 <script>
 $(document).ready(function() {
     $('.slideflex').slick({
@@ -71,7 +96,7 @@ $(document).ready(function() {
     infinite: true,
     slidesToShow: 4,
     slidesToScroll: 1,
-    autoplay: true,
+    autoplay: false,
     prevArrow:"<button type='button' class='drag dogarrow1 slick-prev pull-left'><i class='fa fa-angle-left' aria-hidden='true'></i></button>",
     nextArrow:"<button type='button' class='drag dogarrow2  slick-next pull-right'><i class='fa fa-angle-right' aria-hidden='true'></i></button>",
        responsive: [

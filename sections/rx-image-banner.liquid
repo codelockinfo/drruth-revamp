@@ -180,9 +180,7 @@
               <span>{{ block.settings.text | escape }}</span>
             </div>
           {%- when 'buttons' -%}
-            <div
-              {{ block.shopify_attributes }}
-            >
+          <div {{ block.shopify_attributes }} class="bbutton">
               {%- if block.settings.button_label_1 != blank -%}
                 <a
                   {% if block.settings.button_link_1 == blank %}
@@ -199,6 +197,7 @@
                     class="rx_read_more_arrow_img_banner"
                   >
                 </a>
+                 
               {%- endif -%}
             </div>
         {%- endcase -%}
