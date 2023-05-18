@@ -369,11 +369,11 @@
         "3d49c927-c2f9-42c2-8b36-433af209847a"
       ],
       "custom_css": [
-        ".feature-type1 .container {max-width: 120rem; padding: 0px 6rem; margin: 5% auto; padding-bottom: 5%;}",
+        ".feature-type1 .container {max-width: 120rem; margin: 5% auto; padding-bottom: 0 6rem 5% 6rem;}",
         "@media screen and (max-width: 1024px) {.feature-type1 .box {width: 33%; margin-bottom: 10%; padding: 20px; }}",
         "@media screen and (max-width: 768px) {.feature-type1 .wrapper-box {flex-wrap: wrap; } .feature-type1 .box {width: 33%; margin-bottom: 10%; padding: 20px; }}",
         "@media screen and (max-width: 660px) {.feature-type1 .box {width: 50%; margin-bottom: 24%; padding: 20px; }}",
-        "@media screen and (max-width: 460px) {.feature-type1 .box {width: 100%; }}"
+        "@media screen and (max-width: 460px) {.feature-type1 .box {width: 100%; margin-bottom:5% }}"
       ],
       "settings": {
         "feature_title_color": "#000",
