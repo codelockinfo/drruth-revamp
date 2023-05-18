@@ -231,7 +231,7 @@
         "template--14921794945089__076cca24-afc2-49c9-b943-89e7c854f445-1684396709ce749c6e-3"
       ],
       "custom_css": [
-        ".feature-type1 .container {max-width: 120rem; margin: 5% auto; padding-bottom: 1px 2% 7% 2%;}",
+        ".feature-type1 .container {max-width: 120rem; margin: 5% auto; padding: 1px 2% 7% 2%;}",
         "@media screen and (max-width: 1024px) {.feature-type1 .box {width: 33%; margin-bottom: 10%; padding: 20px; }}",
         "@media screen and (max-width: 768px) {.feature-type1 .wrapper-box {flex-wrap: wrap; } .feature-type1 .box {width: 33%; margin-bottom: 10%; padding: 20px; }}",
         "@media screen and (max-width: 660px) and (min-width: 250px) {.feature-type1 .box {width: 50%; margin-bottom: 24%; padding: 20px; }}",
