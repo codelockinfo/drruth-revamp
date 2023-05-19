@@ -289,10 +289,10 @@
           <li>
                 <div class="d-flex_b">
                   <div class="text-dexore mbimg_width">
-                    <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Image_20.png?v=1684470955" class="attachment-shop_single size-shop_single sp-post-image">
+                    <img src="{{ section.settings.imagesingle }}" class="attachment-shop_single size-shop_single sp-post-image">
                 </div>
                   <div class="produc_tital text_center_bb">
-                      <a href="" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">What’s In Our Pet Multivitamins?</span></a>
+                      <p class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ section.settings.right_image_text }}</span></p>
                   </div>
                   <div class="custombtn width100_desk">
                 <a href="" class="customarticle">read more 
@@ -564,7 +564,17 @@ assign blog = blogs[section.settings.blog] -%}
         "type": "url",
     "id": "custbtnurl",
     "label": "Button Link"
-       }   ,
+       },
+          {
+        "type": "text",
+        "id": "right_image_text",
+        "label": "Right Side Text of Image "
+        },
+          {
+        "type": "image_picker",
+        "id": "imagesingle",
+        "label": "Add Single  Image"
+        } ,
        {
         "type": "text",
         "id": "morebl",
