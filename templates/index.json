@@ -1016,10 +1016,21 @@
             "confimedp": "“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looki...",
             "signtext": "Bea Swasey, HPH, NTP"
           }
+        },
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/D_800x_a42a6c3a-6891-4743-ab7a-b920e3234e8c.png",
+            "rating": 5,
+            "confimed": "This is a Great Program!",
+            "confimedp": "“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”",
+            "signtext": "Leah Bookhamer HPHC, NTP, MRWP"
+          }
         }
       },
       "block_order": [
-        "39163d6d-b350-4bd0-8e47-035c0a838c3c"
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c",
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8"
       ],
       "settings": {
         "starreviewhead": "Our happy clients say"
