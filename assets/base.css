@@ -6526,3 +6526,9 @@ text-align: center;
 .custom-model-inner.popup{
   width:800px;
 }
+.rx-email-field input{
+  text-transform: lowercase !important;
+}
+.rx_read_more_btn_green{
+  letter-spacing: .2em !important;
+}
