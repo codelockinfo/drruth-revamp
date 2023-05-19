@@ -470,26 +470,9 @@
 </div>
 </article>
 {% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
- {% for article in blog.articles limit:1 %}
-
-                    
-                      <div>
-  <h2>Article new</h2>
-</div>
-                    
-     <div class="">
-                      <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
-                  <div>
-   {% endfor %}
-  {% endif %}
-
-
-
-{%- assign blog = blogs[section.settings.blog] -%}
+    {%- assign blog = blogs[section.settings.blog] -%}
 
 {%- if blog.articles_count > 0 -%}
-  <ul>
-
     {%- for article in blog.articles limit:2 -%}
                 <div class="d-flex_b article-template__hero-container">
                   <div class="text-dexore">
@@ -504,9 +487,12 @@
                 </div>
               </li>
     {%- endfor -%}
-
-  </ul>
 {%- endif -%}
+{% endif %}
+
+
+
+
 
 
 <script type="application/ld+json">
