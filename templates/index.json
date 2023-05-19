@@ -690,7 +690,7 @@
       "custom_css": [
         ".bbutton {margin-top: 4%;}",
         "@media screen and (max-width: 560px) {.bbutton {margin-top: 7%; }}",
-        "@media screen and (max-width: 380px) {.rx_read_more_btn_green {padding: 15px 8px; letter-spacing: 0.2rem; } .bbutton {margin-top: 10%;} }"
+        "@media screen and (max-width: 380px) {.rx_read_more_btn_green {padding: 15px 8px; font-size: letter-spacing: 0.2rem; } .bbutton {margin-top: 10%; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-1.jpg",
