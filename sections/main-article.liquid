@@ -470,7 +470,7 @@
 </div>
                     {% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
     {%- assign blog = blogs[section.settings.blog] -%}
-<div class="d_flex_bb">
+<div class="d_flex_bb mar_top_bott_">
 {%- if blog.articles_count > 0 -%}
     {%- for article in blog.articles limit:2 -%}
             <div class="width_sp_b">
@@ -504,6 +504,10 @@
   .width85per{
         text-align: center;
     width: 85%;
+  }
+  .mar_top_bott_{
+        margin-top: 65px;
+    margin-bottom: 45px;
   }
 </style>
 
