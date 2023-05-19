@@ -473,7 +473,8 @@
 
 {%- if blog.articles_count > 0 -%}
     {%- for article in blog.articles limit:2 -%}
-                <div class="article-template__hero-container">
+            <div class="d-flex">
+                  <div class="article-template__hero-container">
                   <div class="text-dexore">
                     <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                 </div>
@@ -484,6 +485,7 @@
                   </div>
                   </div>
                 </div>
+            </div>
     {%- endfor -%}
 {%- endif -%}
 {% endif %}
