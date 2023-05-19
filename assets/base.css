@@ -6501,3 +6501,17 @@ text-align: center;
 .toggle-text-content span {
   display: none;
 }
+.rx_read_more_btn_green.cust-emil{
+  font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: transparent;
+    border-radius: 24px;
+    border: 2px solid #fff!important;
+    padding: 8px 40px;
+    opacity: 1;
+    cursor: pointer;
+}
