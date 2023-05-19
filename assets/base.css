@@ -7063,7 +7063,6 @@ width: 100%;
   width: 100%;
 }
 }
-
 @media only screen and (max-width: 768px) {
 .blogflex {
   width: 31%;
@@ -7443,7 +7442,7 @@ margin: 0 auto;
     margin-left: unset;
     padding-right: unset;
   }
-  .width768pls{
+  .width768plss{
     display: flex;
     flex-direction: column;
     justify-content: center;
