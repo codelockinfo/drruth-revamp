@@ -385,6 +385,34 @@
           </div>
     </div>
 </div>
+                    {% if article.title == "Is it cheaper to feed your dog homemade food?" %} {%-
+assign blog = blogs[section.settings.blog] -%}
+<h2 class="mar_t_35_ txt_center_">{{ section.settings.blog_title_ }}</h2>
+<div class="d_flex_bb mar_top_bott_">
+  {%- if blog.articles_count > 0 -%} {%- for article in blog.articles limit:2
+  -%}
+  <div class="width_sp_b">
+    <div class="">
+      <div class="text-dexore">
+        <img
+          class="flex__a_auto"
+          src="{{ article.image.src | img_url: '256x256' }}"
+          class="attachment-shop_single size-shop_single sp-post-image"
+        />
+      </div>
+      <div class="produc_tital width85per">
+        <a href="{{ article.url }}" class="product_slt txt_d_none"
+          ><span class="custom_prj product-title title_of_blog"
+            >{{ article.title }}</span
+          ></a
+        >
+        <div></div>
+      </div>
+    </div>
+  </div>
+  {%- endfor -%} {%- endif -%}
+</div>
+{% endif %}
 </article>
 
 <script type="application/ld+json">
