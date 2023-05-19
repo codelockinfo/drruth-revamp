@@ -307,7 +307,8 @@
           <h2 class="moreblog">{{section.settings.morebl_first}}</h2>
         <div>
              {%- if section.settings.cls_main -%}
-                 {% for product in collection.cls_main %}
+                {% assign collection = collections[section.settings.cls_main] %}
+                 {% for product in collection.products %}
              <li>
                     <div class="cus_d-flex_b">
                         <div class="cus-text-dexore">
