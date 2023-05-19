@@ -470,7 +470,7 @@
 </div>
                     {% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
     {%- assign blog = blogs[section.settings.blog] -%}
-<div>
+<div class="d-flex">
 {%- if blog.articles_count > 0 -%}
     {%- for article in blog.articles limit:2 -%}
             <div>
