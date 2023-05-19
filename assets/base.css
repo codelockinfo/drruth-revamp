@@ -6540,6 +6540,10 @@ text-align: center;
   .rx-testimonial-item-testimonial p{margin-top:0;margin-bottom:0;line-height:26px;}
 }
 @media(max-width: 1005px){
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-reviewer{
+    font-size:15px;
+    line-height:25px;
+  }
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px}
 }
 @media(max-width: 900px){
