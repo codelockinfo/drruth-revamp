@@ -6543,6 +6543,7 @@ text-align: center;
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-reviewer{
     font-size:15px;
     line-height:25px;
+    margin-left:0;
   }
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px}
 }
