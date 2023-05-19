@@ -780,6 +780,7 @@
     },
     "c07243a3-5fee-499e-a09b-241b56f0595c": {
       "type": "rx-testimonial",
+      "disabled": true,
       "blocks": {
         "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
           "type": "title",
@@ -827,6 +828,49 @@
         "card_bgcolor": "#ffffff",
         "filled_star_color": "#184b44",
         "empty_star_color": ""
+      }
+    },
+    "d4b87d47-4683-4708-8f34-83893a2233cf": {
+      "type": "star_review",
+      "blocks": {
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Dr. Ruth is an open book",
+            "confimedp": "“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looki...",
+            "signtext": "Bea Swasey, HPH, NTP"
+          }
+        },
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/D_800x_a42a6c3a-6891-4743-ab7a-b920e3234e8c.png",
+            "rating": 5,
+            "confimed": "This is a Great Program!",
+            "confimedp": "“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”",
+            "signtext": "Leah Bookhamer HPHC, NTP, MRWP"
+          }
+        },
+        "44d0f174-18d9-4217-80da-940fbbe11430": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine i...",
+            "signtext": "Dlorah Devore, HPHC, FNTP"
+          }
+        }
+      },
+      "block_order": [
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c",
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8",
+        "44d0f174-18d9-4217-80da-940fbbe11430"
+      ],
+      "settings": {
+        "starreviewhead": "Our happy clients say"
       }
     },
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c": {
@@ -1003,49 +1047,6 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
-    },
-    "d4b87d47-4683-4708-8f34-83893a2233cf": {
-      "type": "star_review",
-      "blocks": {
-        "39163d6d-b350-4bd0-8e47-035c0a838c3c": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
-            "rating": 5,
-            "confimed": "Dr. Ruth is an open book",
-            "confimedp": "“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looki...",
-            "signtext": "Bea Swasey, HPH, NTP"
-          }
-        },
-        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/D_800x_a42a6c3a-6891-4743-ab7a-b920e3234e8c.png",
-            "rating": 5,
-            "confimed": "This is a Great Program!",
-            "confimedp": "“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”",
-            "signtext": "Leah Bookhamer HPHC, NTP, MRWP"
-          }
-        },
-        "44d0f174-18d9-4217-80da-940fbbe11430": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
-            "rating": 5,
-            "confimed": "Mind Blowing!",
-            "confimedp": "\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine i...",
-            "signtext": "Dlorah Devore, HPHC, FNTP"
-          }
-        }
-      },
-      "block_order": [
-        "39163d6d-b350-4bd0-8e47-035c0a838c3c",
-        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8",
-        "44d0f174-18d9-4217-80da-940fbbe11430"
-      ],
-      "settings": {
-        "starreviewhead": "Our happy clients say"
-      }
     }
   },
   "order": [
@@ -1066,11 +1067,11 @@
     "2758b93a-1c5e-4890-87a5-086ee9572e15",
     "41def7a6-c370-4591-a416-a22b442ac6d4",
     "c07243a3-5fee-499e-a09b-241b56f0595c",
+    "d4b87d47-4683-4708-8f34-83893a2233cf",
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c",
     "1d7acd25-827c-4f3c-8845-e495b1105759",
     "8960ec65-5cef-4d84-b887-aa69c09a76a9",
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90",
-    "a22eed67-71d2-4d24-9266-adb3dc0550e6",
-    "d4b87d47-4683-4708-8f34-83893a2233cf"
+    "a22eed67-71d2-4d24-9266-adb3dc0550e6"
   ]
 }
