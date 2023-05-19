@@ -80,7 +80,8 @@
         "img {border-radius: 24px;}",
         "h1.article-template__title {font-family: \"BLT-Heirloom\"; font-weight: 300; font-size: 30px; line-height: 40px; text-align: center; color: #000000;}",
         ".article-template__content span {font-family: \"Josefin Sans\"; font-weight: 500; font-size: 18px; line-height: 30px; color: #000000; width: 70%;}",
-        ".article-template__hero-large{width: 710px; height: 430px; object-fit: cover;}"
+        ".article-template__hero-large {width: 710px; height: 430px; object-fit: cover;}",
+        ".cus-text-dexore > img {border-radius: 5px;}"
       ],
       "settings": {
         "reccheaddd": "Top Recommended Supplements",
