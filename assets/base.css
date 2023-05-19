@@ -7436,3 +7436,8 @@ margin: 0 auto;
 }
 /* custom blog page end */
 /* blog page end */
+@media only screen and (max-width: 767px) {
+  #shopify-section-template--14922497065025__main span {
+    width: 100%;
+}
+}
