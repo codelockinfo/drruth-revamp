@@ -6536,8 +6536,8 @@ text-align: center;
   cursor: pointer;
 }
 @media(max-width: 1100px){
-  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:54px 24px 35px 24px}
-  .rx-testimonial-item-testimonial p{margin-top:0;margin-bottom:0;line-height:26px;}
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:54px 24px 35px 24px  !important}
+  .rx-testimonial-item-testimonial p{margin-top:0;margin-bottom:0;line-height:26px;  !important}
 }
 @media(max-width: 1005px){
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-reviewer{
@@ -6545,10 +6545,10 @@ text-align: center;
     line-height:25px !important;
     margin-left:0;
   }
-  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px}
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px  !important}
 }
 @media(max-width: 960px){
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:35px 30px 35px 30px}
   .rx-testimonial-item-reviewer img{
-width:42px;
+width:42px !important;
 }
