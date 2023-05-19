@@ -473,8 +473,8 @@
 <div class="d_flex_bb">
 {%- if blog.articles_count > 0 -%}
     {%- for article in blog.articles limit:2 -%}
-            <div>
-                  <div class="width_sp_b">
+            <div class="width_sp_b">
+                  <div class="">
                   <div class="text-dexore">
                     <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                 </div>
@@ -499,8 +499,7 @@
     flex-wrap: wrap;
   }
   .width_sp_b{
-    width: 60%;
-    text-align: center;
+   width: 28%;
   }
 </style>
 
