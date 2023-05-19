@@ -7437,5 +7437,9 @@ margin: 0 auto;
 /* custom blog page end */
 /* blog page end */
 @media only screen (min-width: 768px) and (max-width: 1150px) {
-  
+  .blogabover{
+        top: -9%;
+    margin-left: unset;
+    padding-right: unset;
+  }
 }
