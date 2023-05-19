@@ -6569,3 +6569,8 @@ width:42px !important;
   @media(max-width: 460px){
     .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:20px !important;}
   }
+    @media(max-width: 400px){
+      .rx-slider-item.rx-testimonial-item, .rx-testimonial-item-inner{
+max-height: 600px!important;
+    min-height: 600px!important;}
+    }
