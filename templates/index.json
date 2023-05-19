@@ -688,7 +688,8 @@
         "4b4c6522-a49c-4ab3-a420-aa06f5c88a56"
       ],
       "custom_css": [
-        ".bbutton {margin-top: 4%;}"
+        ".bbutton {margin-top: 4%;}",
+        "@media screen and (max-width:560px){.bbutton {margin-top: 7%;}}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-1.jpg",
