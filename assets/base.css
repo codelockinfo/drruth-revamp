@@ -6552,3 +6552,10 @@ text-align: center;
   .rx-testimonial-item-reviewer img{
 width:42px !important;
 }
+@media(max-width: 865px){
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-title{
+    font-size:23px;
+     line-height:29px;
+     margin-top:0;
+  }
+}
