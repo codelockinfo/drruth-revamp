@@ -490,7 +490,7 @@
 {%- if blog.articles_count > 0 -%}
   <ul>
 
-    {%- for article in blog.articles limit: section.settings.post_limit -%}
+    {%- for article in blog.articles limit:2 -%}
 <!--       <li>
         <a href="{{ article.url }}">
           {%- if article.image -%}
