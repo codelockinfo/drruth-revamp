@@ -6564,7 +6564,7 @@ width:42px !important;
 }
   @media(max-width: 512px){
     .rx-testimonial-item-testimonial p{
-      font-size:16px line-height:26px;}
+      font-size:16px; line-height:26px;}
   }
   @media(max-width: 460px){
     .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:20px !important;}
