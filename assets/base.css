@@ -6548,12 +6548,12 @@ text-align: center;
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px  !important}
 }
 @media(max-width: 960px){
-  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:35px 30px 35px 30px}
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:35px 30px 35px 30px !important}
   .rx-testimonial-item-reviewer img{
 width:42px !important;
 }
   @media(max-width: 991px){
-    .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-reviewer{    margin-left: -12px;}
+    .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-reviewer{    margin-left: -12px; !important}
   }
 @media(max-width: 865px){
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-title{
