@@ -415,6 +415,48 @@ assign blog = blogs[section.settings.blog] -%}
 {% endif %}
 </article>
 
+                    
+<style>
+  .d_flex_bb{
+        display: flex;
+    flex-wrap: wrap;
+  }
+  .width_sp_b{
+   width: 28%;
+  }
+  .width85per{
+        text-align: center;
+    width: 85%;
+  }
+  .mar_top_bott_{
+        margin-top: 45px;
+    margin-bottom: 45px;
+  }
+  .mar_t_35_{
+        margin-top: 35px;
+  }
+  @media only screen and (max-width: 984px) {
+    .width_sp_b {
+    width: 37%;
+}
+  }
+  @media only screen and (max-width: 767px) {
+    .width_sp_b {
+    width: 100%;
+}
+    .width85per{
+      width:100%
+    }
+    .flex__a_auto{
+          margin: auto;
+    display: flex;
+    }
+    .txt_center_{
+      text-align: center;
+    }
+  }
+</style>
+
 <script type="application/ld+json">
   {
     "@context": "http://schema.org",
