@@ -6532,3 +6532,6 @@ text-align: center;
 .rx_read_more_btn_green{
   letter-spacing: .2em !important;
 }
+.toggle-text-link{
+  cursor: pointer;
+}
