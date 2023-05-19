@@ -205,7 +205,7 @@
         <div class="field">
           <input
             type="tel"
-            id="ContactForm-phone"
+            id="ContactForm-phone "
             class="field__input"
             autocomplete="tel"
             name="contact[{{ 'templates.contact.form.phone' | t }}]"
@@ -226,25 +226,54 @@
           <label class="field__label" for="ContactForm-country">Country</label>
         </div>
       </div>
-      <div class="rx-contact-message field">
-        <textarea
-          rows="80"
-          id="ContactForm-body"
-          class="text-area field__input"
-          name="contact[{{ 'templates.contact.form.comment' | t }}]"
-          placeholder="Message"
-        >
-          {{- form.body -}}
-        </textarea>
-        <label class="form__label field__label" for="ContactForm-body">
-          Please share more details about your event.<br/>
-          Event Name: <br/>
-          Event Date: <br/>
-          Location: <br/>
-          Description of the required service:<br/>
-
-        </label>
+      <div class="form-text">
+          <p>Please share more details about your event.</p>
       </div>
+       <div class="contact__fields">
+        <div class="field">
+          <input
+            type="text"
+            id="Evaentname "
+            class="field__input"
+            name="contact[name]"
+            placeholder="Event Name"
+          >
+          <label class="field__label" for="Evaentname">Event Name:</label>
+        </div>
+        <div class="field">
+          <input 
+            type="text" 
+            name="Location[name]" 
+            id="Locationname" 
+            class="field__input"
+            placeholder="Location:"
+          />
+          <label class="field__label" for="Locationname">Location: </label>
+        </div>
+      </div>
+      <div class="contact__fields">
+        <div class="field">
+          <input
+            type="Date"
+            id="Evaentdate "
+            class="field__input"
+            name="event[date]"
+            placeholder="Event Date"
+          >
+          <label class="field__label" for="Evaentdate">Event Date:</label>
+        </div>
+        <div class="field">
+          <input 
+            type="text" 
+            name="Description[name]" 
+            id="Descriptionname" 
+            class="field__input"
+            placeholder="Description of the required service:"
+          />
+          <label class="field__label" for="Descriptionname">Description of the required service: </label>
+        </div>
+      </div>
+     
       
       <div class="rx_contact_button">
         <button type="submit" class="rx_read_more_btn_green">
