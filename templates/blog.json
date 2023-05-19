@@ -123,11 +123,58 @@
         "padding_top": 68,
         "padding_bottom": 52
       }
+    },
+    "7079393e-e698-44dd-8019-845e54ee812c": {
+      "type": "podcast_slider",
+      "blocks": {
+        "cae84d32-2c4d-46f7-be5e-cccff5ce1438": {
+          "type": "collection",
+          "settings": {
+            "castheadd": "Lorem ipsum dolor sit amet consectetur",
+            "castdess": "March 6, 2023",
+            "slideimg": "shopify:\/\/shop_images\/Image_12_0525fb97-941c-4b93-85f9-2e4b9a5240d7.png"
+          }
+        },
+        "ebe129c3-a8b7-43bd-9e12-004e8d08feb6": {
+          "type": "collection",
+          "settings": {
+            "castheadd": "Lorem ipsum dolor sit amet consectetur",
+            "castdess": "March 7, 2023",
+            "slideimg": "shopify:\/\/shop_images\/Image_12_0525fb97-941c-4b93-85f9-2e4b9a5240d7.png"
+          }
+        },
+        "7ea9f4f0-33a6-4ed5-8716-6f981896b8c7": {
+          "type": "collection",
+          "settings": {
+            "castheadd": "Lorem ipsum dolor sit amet consectetur",
+            "castdess": "March 8, 2023",
+            "slideimg": "shopify:\/\/shop_images\/Image_12_0525fb97-941c-4b93-85f9-2e4b9a5240d7.png"
+          }
+        },
+        "135c0419-37ed-4ade-88ce-bf78687c6120": {
+          "type": "collection",
+          "settings": {
+            "castheadd": "Lorem ipsum dolor sit amet consectetur",
+            "castdess": "March 6, 2023",
+            "slideimg": "shopify:\/\/shop_images\/Image_12_0525fb97-941c-4b93-85f9-2e4b9a5240d7.png"
+          }
+        }
+      },
+      "block_order": [
+        "cae84d32-2c4d-46f7-be5e-cccff5ce1438",
+        "ebe129c3-a8b7-43bd-9e12-004e8d08feb6",
+        "7ea9f4f0-33a6-4ed5-8716-6f981896b8c7",
+        "135c0419-37ed-4ade-88ce-bf78687c6120"
+      ],
+      "settings": {
+        "slidertext": "Our podcast"
+      }
     }
   },
   "order": [
     "488913be-42fd-43d8-b2f3-07dc1854f7ab",
     "main",
-    "newsletter"
+    "newsletter",
+    "7079393e-e698-44dd-8019-845e54ee812c"
   ]
 }
