@@ -6545,10 +6545,10 @@ text-align: center;
     line-height:25px !important;
     margin-left:0;
   }
-  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px  !important}
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:40px 40px 35px 38px  !important;}
 }
 @media(max-width: 960px){
-  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:35px 30px 35px 30px !important}
+  .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:35px 30px 35px 30px !important;}
   .rx-testimonial-item-reviewer img{
 width:42px !important;
 }
@@ -6567,5 +6567,5 @@ width:42px !important;
       font-size:16px line-height:26px;}
   }
   @media(max-width: 460px){
-    .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:20px !important}
+    .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:20px !important;}
   }
