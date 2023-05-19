@@ -126,10 +126,31 @@
         "padding_top": 68,
         "padding_bottom": 52
       }
+    },
+    "58c31b65-2904-4c31-82b8-3b156b1d58af": {
+      "type": "recommended_slider",
+      "blocks": {
+        "486420a4-3758-41e0-a549-8a6f78d5f378": {
+          "type": "collection",
+          "settings": {
+            "product": "10-day-sp-detox-balance™-program",
+            "productcus": "activated-charcoal-560-mg-100-caps",
+            "proquee1": "What’s In Our Pet Multivitamins?",
+            "proanss1": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat."
+          }
+        }
+      },
+      "block_order": [
+        "486420a4-3758-41e0-a549-8a6f78d5f378"
+      ],
+      "settings": {
+        "reccheaddd1": "Top Recommended Supplements"
+      }
     }
   },
   "order": [
     "main",
-    "newsletter"
+    "newsletter",
+    "58c31b65-2904-4c31-82b8-3b156b1d58af"
   ]
 }
