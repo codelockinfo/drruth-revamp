@@ -491,15 +491,6 @@
   <ul>
 
     {%- for article in blog.articles limit:2 -%}
-<!--       <li>
-        <a href="{{ article.url }}">
-          {%- if article.image -%}
-            {{ article | img_url: '150x150', scale: 2 | img_tag: '' }}
-          {%- endif -%}
-          <h2>{{ article.title }}</h2>
-        </a>
-      </li> -->
-           <li>
                 <div class="d-flex_b">
                   <div class="text-dexore">
                     <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
