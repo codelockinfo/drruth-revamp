@@ -1003,6 +1003,27 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "d4b87d47-4683-4708-8f34-83893a2233cf": {
+      "type": "star_review",
+      "blocks": {
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Dr. Ruth is an open book",
+            "confimedp": "“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looki...",
+            "signtext": "Bea Swasey, HPH, NTP"
+          }
+        }
+      },
+      "block_order": [
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c"
+      ],
+      "settings": {
+        "starreviewhead": "Our happy clients say"
+      }
     }
   },
   "order": [
@@ -1027,6 +1048,7 @@
     "1d7acd25-827c-4f3c-8845-e495b1105759",
     "8960ec65-5cef-4d84-b887-aa69c09a76a9",
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90",
-    "a22eed67-71d2-4d24-9266-adb3dc0550e6"
+    "a22eed67-71d2-4d24-9266-adb3dc0550e6",
+    "d4b87d47-4683-4708-8f34-83893a2233cf"
   ]
 }
