@@ -6574,7 +6574,7 @@ width:42px !important;
 max-height: 600px!important;
     min-height: 600px!important;}
       .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-title{
-            font-size: 25px;
-    line-height: 28px;
+            font-size: 25px!important;
+    line-height: 28px!important;
       }
     }
