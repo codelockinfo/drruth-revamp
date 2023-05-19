@@ -316,7 +316,7 @@
                         </div>
                         <div class="cus-produc_tital mar_l_10_px">
                             <a href="" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
-                          <div>${{ product.price }} USD</div>
+                          <div class="cls_green_c">${{ product.price }} USD</div>
                         <div>  
                     </div> 
                 </li>
@@ -481,6 +481,10 @@ assign blog = blogs[section.settings.blog] -%}
   }
   .width100_desk{
         width: 100%;
+  }
+  .cls_green_c{
+    color:#184B44;
+
   }
   @media only screen and (max-width: 984px) {
     .width_sp_b {
