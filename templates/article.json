@@ -59,6 +59,15 @@
             "proquee": "What’s In Our Pet Multivitamins?",
             "proanss": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat.Holistic Total Body Support for Cats and Dogs is an all-natural, glandular-based multivitamin designed around what a pet’s natural diet should be.."
           }
+        },
+        "b477575c-92dc-470f-8c24-d169d189e3dd": {
+          "type": "reblogs",
+          "settings": {
+            "reccomurl": "",
+            "reccomtext": "view products",
+            "reccomurl1": "",
+            "reccomtext1": ""
+          }
         }
       },
       "block_order": [
@@ -69,7 +78,8 @@
         "abeda9dd-2a8d-4e2b-b8ac-ce9af66db802",
         "0a424a45-5bb5-4731-ab58-1149c220d04c",
         "6d9415f6-7005-4474-9cb6-4e5e3736b4cd",
-        "6b471024-6bb0-4422-8923-20987eaf8130"
+        "6b471024-6bb0-4422-8923-20987eaf8130",
+        "b477575c-92dc-470f-8c24-d169d189e3dd"
       ],
       "custom_css": [
         "article.article-template {max-width: 1100px; margin: 0 auto; padding: 0 15px;}",
