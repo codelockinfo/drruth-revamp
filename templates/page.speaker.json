@@ -22,7 +22,7 @@
         "template--14918065750081__0d6aef21-f073-427a-831f-9cda41c3f103-16835393372863b854-2"
       ],
       "custom_css": [
-        "a:not([href]) {cursor: allowed; }"
+        "a:not([href]) {cursor: pointer;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/banner-speaker.png",
