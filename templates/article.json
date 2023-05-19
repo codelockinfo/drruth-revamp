@@ -30,6 +30,7 @@
         },
         "abeda9dd-2a8d-4e2b-b8ac-ce9af66db802": {
           "type": "reproduct",
+          "disabled": true,
           "settings": {
             "product": "10-day-sp-detox-balance™-program",
             "proquee": "What’s In Our Pet Multivitamins?",
@@ -38,6 +39,7 @@
         },
         "0a424a45-5bb5-4731-ab58-1149c220d04c": {
           "type": "reproduct",
+          "disabled": true,
           "settings": {
             "product": "standardprocess-sp-detox-balance-10-day-program-kit-15010",
             "proquee": "What’s In Our Pet Multivitamins?",
@@ -46,6 +48,7 @@
         },
         "6d9415f6-7005-4474-9cb6-4e5e3736b4cd": {
           "type": "reproduct",
+          "disabled": true,
           "settings": {
             "product": "standardprocess-sp-detox-balance-28-day-program-kit-15028",
             "proquee": "What’s In Our Pet Multivitamins?",
@@ -54,6 +57,7 @@
         },
         "6b471024-6bb0-4422-8923-20987eaf8130": {
           "type": "reproduct",
+          "disabled": true,
           "settings": {
             "product": "standardprocess-a-c-carbamide-0625",
             "proquee": "What’s In Our Pet Multivitamins?",
