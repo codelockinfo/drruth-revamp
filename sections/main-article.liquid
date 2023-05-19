@@ -305,7 +305,21 @@
               </li>
       <div>
           <h2 class="moreblog">{{section.settings.morebl_first}}</h2>
-        
+        <div>
+             {%- if section.settings.cls_main -%}
+                {% assign collectionTopLeft = collections[section.settings.cls_main] %}
+             <li>
+                    <div class="cus_d-flex_b">
+                        <div class="cus-text-dexore">
+                            <img src="{{ collectionTopLeft.image | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
+                        </div>
+                        <div class="cus-produc_tital mar_l_10_px">
+                            <a href="" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ collectionTopLeft.title }}</span></a>
+                        <div>  
+                    </div> 
+                </li>
+        </div>
+                      {%- endif -%}
       </div>
             <h2 class="moreblog">{{section.settings.morebl}}</h2>
           {% for article in blog.articles limit:4 %}
@@ -583,7 +597,12 @@ assign blog = blogs[section.settings.blog] -%}
         "type": "text",
         "id": "morebl_first",
         "label": "Blog Title "
-        },  
+        }, 
+     {
+  "type": "collection",
+  "id": "cls_main",
+  "label": "select Collection"
+},
        {
         "type": "text",
         "id": "morebl",
