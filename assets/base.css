@@ -6537,4 +6537,5 @@ text-align: center;
 }
 @media(max-width: 1100px){
   .rx-testimonial-style1 .rx-testimonial-item .rx-testimonial-item-inner{padding:54px 24px 35px 24px}
+  .rx-testimonial-item-testimonial p{margin-top:0}
 }
