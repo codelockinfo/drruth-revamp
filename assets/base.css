@@ -7442,4 +7442,10 @@ margin: 0 auto;
     margin-left: unset;
     padding-right: unset;
   }
+  .width768pls{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
