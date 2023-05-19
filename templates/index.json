@@ -1026,11 +1026,22 @@
             "confimedp": "“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”",
             "signtext": "Leah Bookhamer HPHC, NTP, MRWP"
           }
+        },
+        "44d0f174-18d9-4217-80da-940fbbe11430": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine i...",
+            "signtext": "Dlorah Devore, HPHC, FNTP"
+          }
         }
       },
       "block_order": [
         "39163d6d-b350-4bd0-8e47-035c0a838c3c",
-        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8"
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8",
+        "44d0f174-18d9-4217-80da-940fbbe11430"
       ],
       "settings": {
         "starreviewhead": "Our happy clients say"
