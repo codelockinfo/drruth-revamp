@@ -303,6 +303,10 @@
             </div>
                 </div>
               </li>
+      <div>
+          <h2 class="moreblog">{{section.settings.morebl_first}}</h2>
+        
+      </div>
             <h2 class="moreblog">{{section.settings.morebl}}</h2>
           {% for article in blog.articles limit:4 %}
                 <li>
@@ -575,6 +579,11 @@ assign blog = blogs[section.settings.blog] -%}
         "id": "imagesingle",
         "label": "Add Single  Image"
         } ,
+      {
+        "type": "text",
+        "id": "morebl_first",
+        "label": "Blog Title "
+        },  
        {
         "type": "text",
         "id": "morebl",
