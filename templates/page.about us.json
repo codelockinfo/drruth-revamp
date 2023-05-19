@@ -238,10 +238,10 @@
         "@media screen and (max-width: 460px) {.feature-type1 .box {width: 100%; }}"
       ],
       "settings": {
-        "feature_title_color": "#000",
+        "feature_title_color": "#000000",
         "feature_title_font_size": 16,
         "feature_title_font_mob_size": 16,
-        "feature_text_color": "#4B4B4B",
+        "feature_text_color": "#4b4b4b",
         "feature_text_font_size": 14,
         "feature_text_font_mob_size": 14,
         "type_header_font": "assistant_n4",
@@ -346,6 +346,9 @@
     },
     "ad2b506a-a006-4757-abea-111ff8635172": {
       "type": "rx-banner-text",
+      "custom_css": [
+        ".container{display: flex; align-items: center;}"
+      ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/drruth1.jpg",
         "heading": "",
