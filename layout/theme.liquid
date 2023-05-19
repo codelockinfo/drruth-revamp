@@ -348,46 +348,21 @@ $(document).ready(function() {
     console.log('Sharing not supported');
   }
 });
+
+
 });
 
 
 
 
-// Show more text option 
-    var showChar = 380;  // How many characters are shown by default
-    var ellipsestext = "...";
-    var moretext = "Read more";
-    var lesstext = "Read less";
-    
-    //Cut content based on showChar length
-    if ($(".truncate").length) {
-        $(".truncate").each(function() {
+$(".toggle-text-link").on('click', function() {
+  console.log("dugsytfgs");
+  $dataId = $(this).attr('data-id');
+  $("#"+ $dataId).addClass('model-open');
+  //$(".custom-model-main.aaa").addClass('model-open');
+}); 
+$(".close-btn, .bg-overlay").click(function(){
+  $(".custom-model-main").removeClass('model-open');
+});
 
-            var content = $(this).html();
-            console.log(content + "...content");
-     
-            if(content.length > showChar) {
-     
-                var contentExcert = content.substr(0, showChar);
-                var contentRest = content.substr(showChar, content.length - showChar);
-                var html = contentExcert + '<span class="toggle-text-ellipses">' + ellipsestext + ' </span> <span class="toggle-text-content"><span>' + contentRest + '</span><a href="javascript:;" class="toggle-text-link">' + moretext + '</a></span>';
-     
-                $(this).html(html);
-            }
-        });
-    }
-    
-    //Toggle content when click on read more link
-    $(".toggle-text-link").click(function(){
-        if($(this).hasClass("less")) {
-            $(this).removeClass("less");
-            $(this).html(moretext);
-        } else {
-            $(this).addClass("less");
-            $(this).html(lesstext);
-        }
-        $(this).parent().prev().toggle();
-        $(this).prev().toggle();
-        return false;
-    });
 </script>

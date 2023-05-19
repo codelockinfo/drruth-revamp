@@ -6460,7 +6460,7 @@ text-align: center;
   cursor: pointer;
   z-index: 99;
   font-size: 30px;
-  color: #fff;
+  color: #000;
   margin-top: 3%;
 }
 
@@ -6514,4 +6514,15 @@ text-align: center;
     padding: 8px 40px;
     opacity: 1;
     cursor: pointer;
+}
+.popflex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popflex .stardiv{
+  margin-top: 0;
+}
+.custom-model-inner.popup{
+  width:800px;
 }
