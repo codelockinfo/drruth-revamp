@@ -469,9 +469,12 @@
     </div>
 </div>
 </article>
-<!--     {%- if section.settings -%}
-      
-      {% endif %}} -->
+
+ {% for article in blog.articles limit:2 %}
+     <div class="">
+                      <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
+                  <div>
+   {% endfor %}
 <div>
   <h2>Article new</h2>
 </div>
