@@ -7063,6 +7063,16 @@ width: 100%;
   width: 100%;
 }
 }
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .width768pls{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+
 @media only screen and (max-width: 768px) {
 .blogflex {
   width: 31%;
