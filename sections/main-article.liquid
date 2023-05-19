@@ -308,7 +308,7 @@
         <div>
              {%- if section.settings.cls_main -%}
                 {% assign collection = collections[section.settings.cls_main] %}
-                 {% for product in collection.products %}
+                 {% for product in collection.products limit:3 %}
              <li>
                     <div class="cus_d-flex_b">
                         <div class="cus-text-dexore">
