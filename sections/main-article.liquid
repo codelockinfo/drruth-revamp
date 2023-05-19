@@ -477,7 +477,7 @@
             <div class="width_sp_b">
                   <div class="">
                   <div class="text-dexore">
-                    <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
+                    <img class="flex__a_auto" src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                 </div>
                   <div class="produc_tital width85per">
                       <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
@@ -520,6 +520,10 @@
 }
     .width85per{
       width:100%
+    }
+    .flex__a_auto{
+          margin: auto;
+    display: flex;
     }
   }
 </style>
