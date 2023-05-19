@@ -1,9 +1,83 @@
 {
   "sections": {
+    "488913be-42fd-43d8-b2f3-07dc1854f7ab": {
+      "type": "main-blog-custom",
+      "blocks": {
+        "064b116a-b144-4838-ae3c-fab2c363cf30": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "ddda9a29-2968-4344-b1d9-1170c8e6d7ee": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "b12799bf-f8d1-43fa-bcb7-770e98e35c3c": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "bba8d281-4abf-4d7b-ab00-1eea0b4b7d86": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "8fdf101f-4834-4e53-9c03-7cfceb1da8d1": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "5d2e36c1-2817-433c-9f07-e4c84e58006d": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "da70c0bf-394f-41ce-8676-8070c0bd2641": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "596c6c8a-d8f4-4fab-8bf3-79a7edc0785c": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        },
+        "f5bf5fde-1132-49c5-9b00-76e9f2fd213f": {
+          "type": "block",
+          "settings": {
+            "blog_head": "blog topics"
+          }
+        }
+      },
+      "block_order": [
+        "064b116a-b144-4838-ae3c-fab2c363cf30",
+        "ddda9a29-2968-4344-b1d9-1170c8e6d7ee",
+        "b12799bf-f8d1-43fa-bcb7-770e98e35c3c",
+        "bba8d281-4abf-4d7b-ab00-1eea0b4b7d86",
+        "8fdf101f-4834-4e53-9c03-7cfceb1da8d1",
+        "5d2e36c1-2817-433c-9f07-e4c84e58006d",
+        "da70c0bf-394f-41ce-8676-8070c0bd2641",
+        "596c6c8a-d8f4-4fab-8bf3-79a7edc0785c",
+        "f5bf5fde-1132-49c5-9b00-76e9f2fd213f"
+      ],
+      "settings": {
+        "blogtext": "Our blogs",
+        "blogdes": "The most useful pet advice news."
+      }
+    },
     "main": {
       "type": "main-blog",
       "custom_css": [
-        ".title--primary{display:none;}"
+        ".title--primary {display: none;}"
       ],
       "settings": {
         "layout": "grid",
@@ -52,6 +126,7 @@
     }
   },
   "order": [
+    "488913be-42fd-43d8-b2f3-07dc1854f7ab",
     "main",
     "newsletter"
   ]
