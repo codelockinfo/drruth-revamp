@@ -469,7 +469,7 @@
         "reorderdes": "Earn a 10% commission on every sale made through your unique referral link.",
         "rewordorder": "shopify:\/\/shop_images\/Rectangle_3.png",
         "reorderbtn": "JOIN NOW",
-        "reorderbtnurl": "shopify:\/\/pages\/contact-us"
+        "reorderbtnurl": "\/account\/login?return_url=%2Faccount"
       }
     }
   },
