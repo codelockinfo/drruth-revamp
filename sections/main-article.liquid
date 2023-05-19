@@ -468,8 +468,7 @@
           </div>
     </div>
 </div>
-</article>
-{% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
+                    {% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
     {%- assign blog = blogs[section.settings.blog] -%}
 
 {%- if blog.articles_count > 0 -%}
@@ -489,6 +488,8 @@
     {%- endfor -%}
 {%- endif -%}
 {% endif %}
+</article>
+
 
 
 
