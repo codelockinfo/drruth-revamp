@@ -470,6 +470,7 @@
 </div>
                     {% if article.title == "Is it cheaper to feed your dog homemade food?"  %}
     {%- assign blog = blogs[section.settings.blog] -%}
+                      <h2>{{ section.settings.blog_title_ }}</h2>
 <div class="d_flex_bb mar_top_bott_">
 {%- if blog.articles_count > 0 -%}
     {%- for article in blog.articles limit:2 -%}
@@ -640,7 +641,13 @@
       "id": "blog",
       "type": "blog",
       "label": "Select Blog"
-    }
+    },
+      {
+        "type": "text",
+        "id": "blog_title_",
+        "label": "Blog Title "
+        }
+     
     ],
 
   "blocks": [
