@@ -415,7 +415,8 @@
     "78624dc2-84f9-4cfa-910b-8fb91908a1b1": {
       "type": "reword_order",
       "custom_css": [
-        "::placeholder{color:#fff;}"
+        "::placeholder {color: #fff;}",
+        ".reordebtn{float: left;}"
       ],
       "settings": {
         "reordrhead": "get 10% of your first order",
