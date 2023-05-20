@@ -83,6 +83,14 @@
     text-transform: uppercase;
     color: #000000;
       }
+     @media screen and (max-width:420px){
+     .width50_cou {
+    width: 98%;}
+   }
+  .btnbynow_courc {
+    width: 250px;
+  }
+  }
     @media screen and (max-width:991px){
       .btnbynow_courc {
       width: 350px;}
@@ -105,14 +113,6 @@
         }
         .d-flex-jus-end_{order:1;}
     }
-   @media screen and (min-width:420px){
-     .width50_cou {
-    width: 98%;}
-   }
-  .btnbynow_courc {
-    width: 250px;
-  }
-  }
 </style>
 <section class="page-width container_cources">
   {% assign product = all_products[section.settings.product] %}
