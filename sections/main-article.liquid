@@ -73,7 +73,42 @@
                 {% assign share_url = request.origin | append: article.url %}
                 {% render 'share-button', block: block, share_link: share_url %}
               </div>
+                        {%- when 'reproduct' -%}
             
+             {%- assign product = block.settings.product -%}
+                <div class="premiumproductflex">
+                 
+                    <div class="imagewrapper">
+                     <a href="{{ product.url }}" class="product__title">
+                        <div class="desktopimg">
+                            <img src="{{ product.featured_image | img_url: 'medium' }}">
+                        </div>
+                        <div class="desktoptitle">     
+                          <h2 class="premiumprtitle">{{ product.title | escape }}</h2>
+                          <h2 class="preeprice" >{% render 'price', product: product, price_class: '' %}</h2>
+                        </div>  </a>
+                    </div>
+                
+                    <div class="queandbtn">
+                        <div class="quecontent">
+                                <h2 class="proquee">{{block.settings.proquee}}</h2>
+                                <p class="proanss">{{block.settings.proanss}}</h2>
+                        </div>
+                        <div class="product-form__buttons">
+                          <form method="post" action="/cart/add" style="text-align: center">
+                          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+                          <button type="submit" class="addCart  " {% unless product.available %} disabled="disabled" {% endunless %}>
+                          {% unless product.available %}
+                          {{ "products.product.sold_out" | t }}
+                          {% else %}
+                          {{ "products.product.add_to_cart" | t }}
+                          {% endunless %}
+                          </button>
+                          </form>
+                          </div>
+                            
+                    </div>
+                </div> 
            
           {%- endcase -%}
         {%- endfor -%}
@@ -94,6 +129,7 @@
                 </a>
             </div> 
        </div>
+                          
 
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
