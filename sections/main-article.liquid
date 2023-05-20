@@ -315,7 +315,7 @@
                             <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                         </div>
                         <div class="cus-produc_tital mar_l_10_px">
-                            <a href="product.url" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
+                            <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
                           <div class="cls_green_c">{{ product.price| money }} USD</div>
                         <div>  
                     </div> 
