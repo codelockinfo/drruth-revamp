@@ -84,7 +84,7 @@
         ".arroww_btn {display: none;}",
         ".arrowheight {height: auto; overflow-y: unset;}",
         ".arrorrad {background: #f5f8f1;}",
-        "section{background: #fff;}"
+        ".publickbg {background: #fff;}"
       ],
       "settings": {
         "arrowid": "",
