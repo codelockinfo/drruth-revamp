@@ -79,7 +79,7 @@
           <span class="price_in_c line_center_"> {{ product.price | money }} USD</span>
         </p>
 
-        <button class="btnbynow_courc" href="{{ product.url }}">Buy Now</button>
+        <button class="btnbynow_courc"><a href="{{ product.url }}">Buy Now</a></button>
       </div>
       <div class="width50_cou d-flex-jus-end_">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
