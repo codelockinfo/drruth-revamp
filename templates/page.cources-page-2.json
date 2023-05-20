@@ -230,8 +230,11 @@
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-2"
       ],
       "custom_css": [
-        ".rich-text__text p {text-align: left; font-family: 'Josefin Sans';font-style: normal;font-weight: 500;font-size: 18px;line-height: 30px;}",
-        ".rich-text__blocks {max-width: 120rem;}"
+        ".rich-text__text p {text-align: left; font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px;}",
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__buttons {border: 2px solid #184b44; border-radius: 24px; margin-top: 50px;}",
+        ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase;}",
+        ".rich-text__buttons a svg{display: none;}"
       ],
       "settings": {
         "desktop_content_position": "center",
