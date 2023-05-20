@@ -1033,6 +1033,9 @@
         "58c0ab15-5522-4246-a61a-904c858c8e90",
         "6b48371e-cc6c-4dd7-8e0c-ddc176e616fc"
       ],
+      "custom_css": [
+        "span{color:#fff;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/dog-banner.png",
         "image_overlay_opacity": 0,
