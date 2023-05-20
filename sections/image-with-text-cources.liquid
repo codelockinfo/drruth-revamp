@@ -1,17 +1,17 @@
 <section>
+  {% assign product = all_products[section.settings.product] %}
+  {% for image in product.images %}
+    {{ product.title }}
+    {{ product.price | money_without_trailing_zeros }}
+    {{ product.vendor }}
+  {% endfor %}
   <div>
     <div class="width50_cou"></div>
-    <div class="width50_cou"></div>
+    <div class="width50_cou">
+      <img src="{{ image.src | product_img_url: 'grande' }}">
+    </div>
   </div>
 </section>
-
-{% assign product = all_products[section.settings.product] %}
-{% for image in product.images %}
-  <img src="{{ image.src | product_img_url: 'grande' }}">
-  {{ product.title }}
-  {{ product.price | money_without_trailing_zeros }}
-  {{ product.description }}
-{% endfor %}
 
 {% schema %}
 {
