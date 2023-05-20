@@ -165,12 +165,21 @@
             "benefit_head": "",
             "benefit_desc": "Easy to follow recipes"
           }
+        },
+        "a86a7f6f-a83f-49b2-a11c-8ac9349a1d7d": {
+          "type": "block",
+          "settings": {
+            "benefitimg": "shopify:\/\/shop_images\/verifiedLogo.png",
+            "benefit_head": "",
+            "benefit_desc": "Written by a renowned veterinarian with over 30 years of experiences in pet nutrition"
+          }
         }
       },
       "block_order": [
         "082171f5-b295-45bd-a122-1ce80e76c1ec",
         "0da9f2d4-0ac3-4fe3-ad3d-ef244bb2100e",
-        "125f39a1-fe3c-4d05-9c71-cf64f9b95303"
+        "125f39a1-fe3c-4d05-9c71-cf64f9b95303",
+        "a86a7f6f-a83f-49b2-a11c-8ac9349a1d7d"
       ],
       "custom_css": [
         "section {background: #f5f8f1;}",
