@@ -27,7 +27,6 @@
     font-weight: 500;
     font-size: 24px;
     line-height: 30px;
-    text-decoration-line: line-through;
           color: #184B44;
       }
       .author_cource{
@@ -62,6 +61,9 @@
     display: flex;
     justify-content: end;
   }
+  .line_center_{
+        text-decoration-line: blink;
+  }
 </style>
 <section class="page-width container_cources">
   {% assign product = all_products[section.settings.product] %}
@@ -72,7 +74,7 @@
         <p class="author_cource">{{ product.vendor }}</p>
         <p class="price_in_c">
           {{ product.price | money_without_trailing_zeros -}}
-          <span class="price_in_c">{{ product.compare_at_price | money_without_trailing_zeros }}</span>
+          <span class="price_in_c line_center_">{{ product.compare_at_price | money_without_trailing_zeros }}</span>
         </p>
 
         <button class="btnbynow_courc" href="{{ product.url }}">Buy Now</button>
