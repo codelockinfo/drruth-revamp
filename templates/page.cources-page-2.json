@@ -200,13 +200,7 @@
         "b7f0de8a-9cb8-440a-99a8-94a2a9309040"
       ],
       "custom_css": [
-        "section {background: #f5f8f1;}",
-        "h2.bhead {color: #184b44;}",
-        ".benefitblog {padding: 1%; background: #f5f8f1;}",
-        "p.benefitdes {text-align: left;}",
-        ".benefitblog {padding: 10px;}",
-        ".benefittext {margin-top: 2%; margin-bottom: 18px;}",
-        ".benefitdes{font-family: 'Josefin Sans';font-style: normal;font-weight: 500;font-size: 18px;line-height: 30px;color: #1E1E1E;}"
+
       ],
       "settings": {
         "bhead": "Benefits",
