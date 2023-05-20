@@ -92,7 +92,8 @@
         "email-form"
       ],
       "custom_css": [
-        "input {border: 2px solid #184B44;border-radius: 25.5px;}"
+        "input {border: 2px solid #184b44; border-radius: 25.5px;}",
+        "p{font-family: 'Josefin Sans';font-style: normal;font-weight: 500;font-size: 18px;line-height: 30px;text-transform: capitalize;color: #1E1E1E;}"
       ],
       "settings": {
         "color_scheme": "background-1",
