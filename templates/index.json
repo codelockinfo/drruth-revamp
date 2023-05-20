@@ -1034,7 +1034,7 @@
         "6b48371e-cc6c-4dd7-8e0c-ddc176e616fc"
       ],
       "custom_css": [
-        "span {color: #fff!;}"
+        "span {color: #fff!important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/dog-banner.png",
