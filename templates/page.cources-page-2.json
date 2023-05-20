@@ -230,7 +230,7 @@
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-2"
       ],
       "custom_css": [
-        ".rich-text__text p{text-align: left;}",
+        ".rich-text__text p {text-align: left; font-family: 'Josefin Sans';font-style: normal;font-weight: 500;font-size: 18px;line-height: 30px;}",
         ".rich-text__blocks {max-width: 120rem;}"
       ],
       "settings": {
