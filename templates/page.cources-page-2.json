@@ -204,7 +204,8 @@
         "h2.bhead {color: #184b44;}",
         ".benefitblog {width: 48%; background: #fff; align-items: flex-start; flex-direction: row;}",
         "benefitblog {padding: 1%;}",
-        "p.benefitdes {text-align: left;}"
+        "p.benefitdes {text-align: left;}",
+        ".benefitblog{padding: 10px;}"
       ],
       "settings": {
         "bhead": "Benefits",
