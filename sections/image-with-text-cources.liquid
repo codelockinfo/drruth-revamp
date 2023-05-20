@@ -12,13 +12,14 @@
     {{ product.title }}
     {{ product.price | money_without_trailing_zeros }}
     {{ product.vendor }}
-  {% endfor %}
-  <div class="d_flex_main">
-    <div class="width50_cou"></div>
-    <div class="width50_cou">
-      <img src="{{ image.src | product_img_url: 'grande' }}">
+
+    <div class="d_flex_main">
+      <div class="width50_cou"></div>
+      <div class="width50_cou">
+        <img src="{{ image.src | product_img_url: 'grande' }}">
+      </div>
     </div>
-  </div>
+  {% endfor %}
 </section>
 
 {% schema %}
