@@ -324,7 +324,7 @@
         </div>
                       {%- endif -%}
       </div>
-            <h2 class="moreblog">{{section.settings.morebl}}</h2>
+            <h2 class="moreblog mar_t_60_">{{section.settings.morebl}}</h2>
           {% for article in blog.articles limit:4 %}
                 <li>
                     <div class="cus_d-flex_b">
@@ -337,7 +337,7 @@
                     </div> 
                 </li>
           {% endfor %} 
-          <div class="cus-contact50">
+          <div class="cus-contact50 mar_t_60_">
               <h2 class="contcthead"> Send Us A Message</h2> 
               {{ 'section-contact-form.css' | asset_url | stylesheet_tag }}
 
