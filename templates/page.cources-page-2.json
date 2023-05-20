@@ -77,6 +77,9 @@
         "a046938b-2af8-4fc8-a593-601fdabc0d7e",
         "2af52bc7-9804-4b86-81c1-ea3f84e93101"
       ],
+      "custom_css": [
+        ".arroww_btn{display: none;}"
+      ],
       "settings": {
         "arrowid": "",
         "arrowtextbtn": ""
