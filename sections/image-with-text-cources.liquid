@@ -57,6 +57,8 @@
   letter-spacing: 0.3em;
   text-transform: uppercase;
   color: #1E1E1E;
+          text-align: center;
+          padding: 15px 0;
     }
   .d-flex-jus-end_{
     display: flex;
@@ -65,6 +67,9 @@
   .line_center_{
         text-decoration-line: blink;
         margin-left: 20px;
+  }
+  .none_td{
+        text-decoration: none;
   }
 </style>
 <section class="page-width container_cources">
@@ -78,7 +83,7 @@
           <span class="price_in_c ">{{ product.compare_at_price | money_without_trailing_zeros }}</span>
           <span class="price_in_c line_center_"> {{ product.price | money }} USD</span>
         </p>
-        <a href="{{ product.url }}"> <button class="btnbynow_courc">Buy Now</button></a>
+        <a class="none_td" href="{{ product.url }}"> <button class="btnbynow_courc">Buy Now</button></a>
       </div>
       <div class="width50_cou d-flex-jus-end_">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
