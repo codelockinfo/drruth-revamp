@@ -77,7 +77,10 @@
     "main": {
       "type": "main-blog",
       "custom_css": [
-        ".title--primary {display: none;}"
+        ".title--primary {display: none;}",
+        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 29px; left: 14px;}",
+        "h3.card__heading.h2 {padding-top: 30%;}",
+        "@media screen and (max-width: 463px) {.blog-articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}"
       ],
       "settings": {
         "layout": "grid",
@@ -167,7 +170,11 @@
         "135c0419-37ed-4ade-88ce-bf78687c6120"
       ],
       "custom_css": [
-        ".slidertexthead {text-align: center; margin-top: 0;}"
+        ".slidertexthead {text-align: center; margin-top: 0;}",
+        ".blogmax-container {padding: 0 25px;}",
+        "button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -2%;}",
+        "button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -2%;}",
+        "@media screen and (max-width:400px){button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -4%;}button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -4%;}}"
       ],
       "settings": {
         "slidertext": "Our podcast"
