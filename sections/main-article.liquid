@@ -96,13 +96,14 @@
        </div>
       <div>
         {% for metafield in article.metafields.custom.relatedarticle %}
-           {% for handle in metafield %}
-             {{ handle }}>>>>
+        {{ metafield }}////
+         {% assign bloghandle = metafield %}
+           {% for handle in bloghandle %}
                 {% for article in blogs[handle].articles %}
-                  {{  article.url }}
+                     {{  article.url }}
                   {{ article.image.src }}
                 {% endfor %}
-           {% endfor %}
+            {% endfor %}
         {% endfor %}
       </div>
 <!-- {% render 'reccomndedblog'%} -->
