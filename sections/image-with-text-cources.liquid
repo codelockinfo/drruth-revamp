@@ -65,7 +65,7 @@
         <h2 class="clsh2_cource">{{ product.title }}</h2>
         <p class="author_cource">{{ product.vendor }}</p>
         <p class="price_in_c">{{ product.price | money_without_trailing_zeros }}</p>
-        <a class="btnbynow_courc" href="{{ product.url }}">Buy Now</a>
+        <button class="btnbynow_courc" href="{{ product.url }}">Buy Now</button>
       </div>
       <div class="width50_cou">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
