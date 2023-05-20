@@ -139,10 +139,10 @@
     "a69f1c4c-6800-4139-a66f-96addc27d846": {
       "type": "modul",
       "settings": {
-        "m_head": "",
+        "m_head": "Course Content",
         "m_des": "",
-        "modulepare": "",
-        "moduledesc": "",
+        "modulepare": "Module  ",
+        "moduledesc": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices.",
         "moduledesc1": ""
       }
     },
