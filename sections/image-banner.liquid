@@ -106,7 +106,7 @@
             </div>
           {%- when 'buttons' -%}
           {{ page.title }}////
-         {% if collection.title == "All" and page.title == "affiliate" %}
+         {% if collection.title == "All" or page.title == "affiliate" %}
            {%- form 'customer', id: 'ContactFooter ', class: '  ' -%}
                   <input type="hidden" name="contact[tags]" value="newsletter">
                   <div class="newsletter-form__field-wrapper">
