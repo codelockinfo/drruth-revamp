@@ -229,6 +229,10 @@
         "1f873972-8f8f-47b0-a875-cb2d69deb759",
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-2"
       ],
+      "custom_css": [
+        ".rich-text__text p{text-align: left;}",
+        ".rich-text__blocks {max-width: 120rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
