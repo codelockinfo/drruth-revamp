@@ -7,7 +7,7 @@
   }
 </style>
 <section>
-  {% assign product = all_products[section.settings.product] %}
+  {% assign product = section.settings.product %}
   {% for image in product.images %}
     {{ product.title }}
     {{ product.price | money_without_trailing_zeros }}
