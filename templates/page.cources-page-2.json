@@ -81,7 +81,8 @@
         "2af52bc7-9804-4b86-81c1-ea3f84e93101"
       ],
       "custom_css": [
-        ".arroww_btn {display: none;}"
+        ".arroww_btn {display: none;}",
+        ".arrowheight {height: auto; overflow-y: unset;}"
       ],
       "settings": {
         "arrowid": "",
@@ -135,7 +136,8 @@
       "custom_css": [
         "section {background: #f5f8f1;}",
         "h2.bhead {color: #184b44;}",
-        ".benefitblog {width: 48%; background: #fff; align-items: flex-start;flex-direction: row;}"
+        ".benefitblog {width: 48%; background: #fff; align-items: flex-start; flex-direction: row;}",
+        "benefitblog {padding: 1%;}"
       ],
       "settings": {
         "bhead": "Benefits",
