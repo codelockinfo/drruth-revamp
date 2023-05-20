@@ -7499,6 +7499,9 @@ margin: 0 auto;
 .imagewrapper {
     width: 100%;
 }
+.premiumproductflex {
+  display:block;
+}
 .desktopimg img{
       width: 50%;
 }
