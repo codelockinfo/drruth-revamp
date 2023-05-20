@@ -139,17 +139,6 @@
         "arrowtextbtn": ""
       }
     },
-    "a69f1c4c-6800-4139-a66f-96addc27d846": {
-      "type": "modul",
-      "disabled": true,
-      "settings": {
-        "m_head": "Course Content",
-        "m_des": "",
-        "modulepare": "Module  ",
-        "moduledesc": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices.",
-        "moduledesc1": ""
-      }
-    },
     "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9": {
       "type": "benefits",
       "blocks": {
@@ -187,7 +176,8 @@
         "section {background: #f5f8f1;}",
         "h2.bhead {color: #184b44;}",
         ".benefitblog {width: 48%; background: #fff; align-items: flex-start; flex-direction: row;}",
-        "benefitblog {padding: 1%;}"
+        "benefitblog {padding: 1%;}",
+        "p.benefitdes {text-align: left;}"
       ],
       "settings": {
         "bhead": "Benefits",
@@ -381,7 +371,6 @@
     "1188d89b-a5aa-4533-9982-6d2c6c29f339",
     "2db1b70b-a212-469f-9c06-348c0ff32f8b",
     "25952c9c-d185-495e-b1b9-b5555a7b4972",
-    "a69f1c4c-6800-4139-a66f-96addc27d846",
     "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9",
     "72aa2fdf-a036-4044-b542-af8a45d6f69f",
     "7a572359-7330-470b-97a5-4c3a6489944b",
