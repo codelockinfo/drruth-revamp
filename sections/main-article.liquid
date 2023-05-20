@@ -97,7 +97,7 @@
       <div>
         {% for metafield in article.metafields.custom.relatedarticle %}
            {% for handle in metafield %}
-                {% for article in blogs[handle].articles limit:1 %}
+                {% for article in blogs[handle].articles %}
                   {{  article.url }}
                   {{ article.image.src }}
                 {% endfor %}
