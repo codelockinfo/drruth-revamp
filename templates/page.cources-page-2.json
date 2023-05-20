@@ -135,12 +135,30 @@
         "bhead": "Benefits",
         "bsubhead": ""
       }
+    },
+    "a69f1c4c-6800-4139-a66f-96addc27d846": {
+      "type": "modul",
+      "settings": {
+        "m_head": "",
+        "m_des": "",
+        "modulepare": "",
+        "moduledesc": "",
+        "moduledesc1": ""
+      }
+    },
+    "7a572359-7330-470b-97a5-4c3a6489944b": {
+      "type": "star_review",
+      "settings": {
+        "starreviewhead": ""
+      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9"
+    "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9",
+    "a69f1c4c-6800-4139-a66f-96addc27d846",
+    "7a572359-7330-470b-97a5-4c3a6489944b"
   ]
 }
