@@ -92,7 +92,7 @@
         "email-form"
       ],
       "custom_css": [
-        "button{border:1px solid black;}"
+        "input{border:2px solid #000;}"
       ],
       "settings": {
         "color_scheme": "background-1",
