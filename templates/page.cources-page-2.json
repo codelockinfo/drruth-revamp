@@ -214,7 +214,7 @@
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-2": {
           "type": "button",
           "settings": {
-            "button_label": "buy now",
+            "button_label": "BUY Now",
             "button_link": "shopify:\/\/pages\/coachingmain1",
             "button_style_secondary": true,
             "button_label_2": "",
