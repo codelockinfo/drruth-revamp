@@ -236,6 +236,12 @@
       "settings": {
         "starreviewhead": "What our graduates say"
       }
+    },
+    "1188d89b-a5aa-4533-9982-6d2c6c29f339": {
+      "type": "image-with-text-cources",
+      "settings": {
+        "product": "10-day-sp-detox-balance™-programfdfdfdgdgfgf"
+      }
     }
   },
   "order": [
@@ -245,6 +251,7 @@
     "a69f1c4c-6800-4139-a66f-96addc27d846",
     "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9",
     "72aa2fdf-a036-4044-b542-af8a45d6f69f",
-    "7a572359-7330-470b-97a5-4c3a6489944b"
+    "7a572359-7330-470b-97a5-4c3a6489944b",
+    "1188d89b-a5aa-4533-9982-6d2c6c29f339"
   ]
 }
