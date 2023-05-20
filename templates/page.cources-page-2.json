@@ -10,6 +10,31 @@
     },
     "1188d89b-a5aa-4533-9982-6d2c6c29f339": {
       "type": "image-with-text-cources",
+      "blocks": {
+        "07be0be1-0e84-448c-a9fd-fff06ebdc6a2": {
+          "type": "collection",
+          "settings": {
+            "txet_blog": "31 lessons"
+          }
+        },
+        "f1651cf1-1267-4d9b-a715-150c5479615a": {
+          "type": "collection",
+          "settings": {
+            "txet_blog": "Downloadable Files"
+          }
+        },
+        "b4c24aa9-f4a7-49fc-9de0-74f389337882": {
+          "type": "collection",
+          "settings": {
+            "txet_blog": "Weekly Live Q&A Session"
+          }
+        }
+      },
+      "block_order": [
+        "07be0be1-0e84-448c-a9fd-fff06ebdc6a2",
+        "f1651cf1-1267-4d9b-a715-150c5479615a",
+        "b4c24aa9-f4a7-49fc-9de0-74f389337882"
+      ],
       "settings": {
         "product": "tocpdandholistictotalbodysupportcombo"
       }
