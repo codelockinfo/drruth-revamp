@@ -41,6 +41,42 @@
     },
     "25952c9c-d185-495e-b1b9-b5555a7b4972": {
       "type": "modulearrow",
+      "blocks": {
+        "2a735ae1-1cca-445e-b155-47ece918a161": {
+          "type": "collection",
+          "settings": {
+            "arrowhead": "Module  ",
+            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+          }
+        },
+        "423ebf4d-5709-4802-8685-55c333a54b6b": {
+          "type": "collection",
+          "settings": {
+            "arrowhead": "Module  ",
+            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+          }
+        },
+        "a046938b-2af8-4fc8-a593-601fdabc0d7e": {
+          "type": "collection",
+          "settings": {
+            "arrowhead": "Module  ",
+            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+          }
+        },
+        "2af52bc7-9804-4b86-81c1-ea3f84e93101": {
+          "type": "collection",
+          "settings": {
+            "arrowhead": "Module  ",
+            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+          }
+        }
+      },
+      "block_order": [
+        "2a735ae1-1cca-445e-b155-47ece918a161",
+        "423ebf4d-5709-4802-8685-55c333a54b6b",
+        "a046938b-2af8-4fc8-a593-601fdabc0d7e",
+        "2af52bc7-9804-4b86-81c1-ea3f84e93101"
+      ],
       "settings": {
         "arrowid": "",
         "arrowtextbtn": ""
