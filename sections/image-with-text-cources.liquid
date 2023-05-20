@@ -1,32 +1,18 @@
-{% comment %}
-  {% schema %}
-  {
-    "name": "Image With text Cources",
-    "settings": [
-     {
-          "type": "product",
-          "id": "product",
-          "label": " Product Image"
-        }
+<section>
+  <div>
+    <div class="width50_cou"></div>
+    <div class="width50_cou"></div>
+  </div>
+</section>
 
-    ],
-    "blocks": [
-         {
-    "type": "text",
-    "id": "courtext",
-    "label": "Detail"
-      }
-    ]
-  }
-    ],
-    "presets": [
-    {
-    "name": "Image With text Cources"
-    }
-    ]
-  }
-  {% endschema %}
-{% endcomment %}
+{% assign product = all_products[section.settings.product] %}
+{% for image in product.images %}
+  <img src="{{ image.src | product_img_url: 'grande' }}">
+  {{ product.title }}
+  {{ product.price | money_without_trailing_zeros }}
+  {{ product.description }}
+{% endfor %}
+
 {% schema %}
 {
   "name": "Image With text Cources",
