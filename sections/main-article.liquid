@@ -295,7 +295,7 @@
                       <span class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ section.settings.right_image_text }}</span></span>
                   </div>
                   <div class="custombtn width100_desk">
-                <a href="" class="customarticle">read more 
+                <a href="{{ section.settings.blog_single_url }}" class="customarticle">read more 
                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
                         <path d="M1.11719 4.5L32.7415 4.5M32.7415 4.5L26.2995 1M32.7415 4.5L26.2995 8" stroke="#1E1E1E" stroke-linecap="round"></path>
                     </svg>
@@ -614,6 +614,11 @@ assign blog = blogs[section.settings.blog] -%}
         "id": "imagesingle",
         "label": "Add Single  Image"
         } ,
+            {
+        "type": "url",
+    "id": "blog_single_url",
+    "label": "Button Link For Single Image"
+       },
       {
         "type": "text",
         "id": "morebl_first",
