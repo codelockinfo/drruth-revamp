@@ -14,7 +14,7 @@
               {%- if article.image -%}
                 <div class="article-template__hero-container" {{ block.shopify_attributes }}>
                   <div
-                    class="width_img_sp article-template__hero-{{ block.settings.image_height }} media"
+                    class="article-template__hero-{{ block.settings.image_height }} media"
                     itemprop="image"
                     {% if block.settings.image_height == 'adapt' and article.image %}
                       style="padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;"
@@ -94,7 +94,7 @@
                 </a>
             </div> 
        </div>
-      <div>
+
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
           <a href="{{ blog.url }}" class="article-template__link link animate-arrow">
@@ -285,17 +285,17 @@
         {%- endif -%}
          
     </div>
-    <div class="cusmoreblogs man_mar_top_40">
+    <div class="cusmoreblogs">
           <li>
                 <div class="d-flex_b">
                   <div class="text-dexore mbimg_width">
-                     <img class="" src="{{ section.settings.imagesingle|img_url: '245x' }}">
+                     <img class="{{ section.settings.imagesingle }}" src="{{ section.settings.articleimg|img_url: '245x' }}">
                 </div>
                   <div class="produc_tital text_center_bb">
                       <span class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ section.settings.right_image_text }}</span></span>
                   </div>
                   <div class="custombtn width100_desk">
-                <a href="{{ section.settings.blog_single_url }}" class="customarticle">read more 
+                <a href="" class="customarticle">read more 
                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
                         <path d="M1.11719 4.5L32.7415 4.5M32.7415 4.5L26.2995 1M32.7415 4.5L26.2995 8" stroke="#1E1E1E" stroke-linecap="round"></path>
                     </svg>
@@ -303,7 +303,7 @@
             </div>
                 </div>
               </li>
-      <div class="mar_t_60_">
+      <div>
           <h2 class="moreblog">{{section.settings.morebl_first}}</h2>
         <div>
              {%- if section.settings.cls_main -%}
@@ -311,11 +311,11 @@
                  {% for product in collection.products limit:3 %}
              <li>
                     <div class="cus_d-flex_b">
-                        <div class="cus-text-dexore width45per_">
+                        <div class="cus-text-dexore">
                             <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                         </div>
-                        <div class="cus-produc_tital mar_l_10_px width55per_">
-                            <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog fs_and_weight">{{ product.title }}</span></a>
+                        <div class="cus-produc_tital mar_l_10_px">
+                            <a href="product.url" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
                           <div class="cls_green_c">{{ product.price| money }} USD</div>
                         <div>  
                     </div> 
@@ -324,20 +324,20 @@
         </div>
                       {%- endif -%}
       </div>
-            <h2 class="moreblog mar_t_60_">{{section.settings.morebl}}</h2>
+            <h2 class="moreblog">{{section.settings.morebl}}</h2>
           {% for article in blog.articles limit:4 %}
                 <li>
                     <div class="cus_d-flex_b">
-                        <div class="cus-text-dexore width45per_">
+                        <div class="cus-text-dexore">
                             <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" alt="{{image.alt}}" >
                         </div>
-                        <div class="cus-produc_tital mar_l_10_px width55per_">
+                        <div class="cus-produc_tital mar_l_10_px">
                             <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
                         <div>  
                     </div> 
                 </li>
           {% endfor %} 
-          <div class="cus-contact50 mar_t_60_">
+          <div class="cus-contact50">
               <h2 class="contcthead"> Send Us A Message</h2> 
               {{ 'section-contact-form.css' | asset_url | stylesheet_tag }}
 
@@ -475,47 +475,21 @@ assign blog = blogs[section.settings.blog] -%}
   }
   .mbimg_width > img{
     height: 171px;
-        width: 100%;
-        object-fit: cover;
   }
   .text_center_bb{
         text-align: center;
   }
   .width100_desk{
         width: 100%;
-        text-align: center;
   }
   .cls_green_c{
     color:#184B44;
+
   }
-  .mar_t_60_{
-        margin-top: 60px;
-  }
-  .width55per_{
-    width:55%;
-  }
-    .width45per_{
-    width:45%;
-  }
-  span.custom_prj.product-title.fs_and_weight{
-    font-size: 14px;
-    line-height: 20px;
-  }
-  .width_img_sp {
-  width: 710px;
-  height: 430px;
-  object-fit: cover;
-}
   @media only screen and (max-width: 984px) {
     .width_sp_b {
     width: 37%;
 }
-      .width100_desk{
-      width:unset;
-    }
-      .man_mar_top_40{
-      margin-top: 40px;
-    }
   }
   @media only screen and (max-width: 767px) {
     .width_sp_b {
@@ -530,16 +504,6 @@ assign blog = blogs[section.settings.blog] -%}
     }
     .txt_center_{
       text-align: center;
-    }
-      .width_img_sp {
-  width: 100%;
-  height: 300px;
-}
-    .man_mar_top_40{
-      margin-top: 40px;
-    }
-    .width100_desk{
-      width:unset;
     }
   }
 </style>
@@ -636,20 +600,15 @@ assign blog = blogs[section.settings.blog] -%}
         "id": "imagesingle",
         "label": "Add Single  Image"
         } ,
-            {
-        "type": "url",
-    "id": "blog_single_url",
-    "label": "Button Link For Single Image"
-       },
       {
         "type": "text",
         "id": "morebl_first",
-        "label": "Related Product Title "
+        "label": "Blog Title "
         }, 
      {
   "type": "collection",
   "id": "cls_main",
-  "label": "Select Collection"
+  "label": "select Collection"
 },
        {
         "type": "text",
