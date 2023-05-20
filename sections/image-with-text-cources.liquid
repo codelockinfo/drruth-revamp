@@ -5,6 +5,9 @@
   .width50_cou{
     width:50%
   }
+  .width_img_cource{
+        width: 410px;
+  }
 </style>
 <section>
   {% assign product = all_products[section.settings.product] %}
@@ -16,7 +19,7 @@
         {{ product.vendor }}
       </div>
       <div class="width50_cou">
-        <img src="{{ image.src | product_img_url: 'grande' }}">
+        <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
       </div>
     </div>
   {% endfor %}
