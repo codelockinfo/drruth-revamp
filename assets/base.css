@@ -7496,8 +7496,9 @@ margin: 0 auto;
   background: #f5f8f1;
   padding: 50px 0;
 }
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 767px){
   #shopify-section-template--14922816258113__25952c9c-d185-495e-b1b9-b5555a7b4972.arrorrad {
-    margin: 12px 3px 12px 12px;
+    margin: 12px 3% 12px 12px;
 }
+  
 }
