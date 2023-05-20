@@ -39,6 +39,9 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "a.collered{background:transparent;}"
+      ],
       "settings": {
         "title": "You may also like",
         "heading_size": "h2",
@@ -95,7 +98,7 @@
         "input {border: 2px solid #184b44; border-radius: 25.5px;}",
         "p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: capitalize; color: #1e1e1e;}",
         ".field__input:focus {box-shadow: none;}",
-        ".field:hover{border:none;}"
+        ".field:hover {border: none;}"
       ],
       "settings": {
         "color_scheme": "background-1",
