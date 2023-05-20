@@ -39,6 +39,10 @@
     },
     "featured-collection": {
       "type": "featured-collection",
+      "custom_css": [
+        "a.collered {background: transparent;}",
+        "svg {margin-left: 20px;}"
+      ],
       "settings": {
         "title": "You may also like",
         "heading_size": "h2",
@@ -91,8 +95,14 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+        "input {border: 2px solid #184b44; border-radius: 25.5px;}",
+        "p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: capitalize; color: #1e1e1e;}",
+        ".field__input:focus {box-shadow: none;}",
+        ".field:hover {border: none; box-shadow: none; --color-foreground: none;}"
+      ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
