@@ -315,7 +315,7 @@
                             <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                         </div>
                         <div class="cus-produc_tital mar_l_10_px width55per_">
-                            <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
+                            <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog fs_and_weight">{{ product.title }}</span></a>
                           <div class="cls_green_c">{{ product.price| money }} USD</div>
                         <div>  
                     </div> 
@@ -332,7 +332,7 @@
                             <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" alt="{{image.alt}}" >
                         </div>
                         <div class="cus-produc_tital mar_l_10_px width55per_">
-                            <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
+                            <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog fs_and_weight">{{ article.title }}</span></a>
                         <div>  
                     </div> 
                 </li>
@@ -493,6 +493,10 @@ assign blog = blogs[section.settings.blog] -%}
   }
     .width45per_{
     width:45%;
+  }
+  span.custom_prj.product-title.fs_and_weight{
+    font-size: 14px;
+    line-height: 20px;
   }
   @media only screen and (max-width: 984px) {
     .width_sp_b {
