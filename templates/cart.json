@@ -91,8 +91,11 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+        "button{border:1px solid black;}"
+      ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
