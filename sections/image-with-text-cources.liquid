@@ -64,6 +64,7 @@
   }
   .line_center_{
         text-decoration-line: blink;
+        margin-left: 20px;
   }
 </style>
 <section class="page-width container_cources">
@@ -75,7 +76,7 @@
         <p class="author_cource">{{ product.vendor }}</p>
         <p>
           <span class="price_in_c"> {{ product.price | money_without_trailing_zeros -}}</span>
-          <span class="price_in_c line_center_">{{ product.compare_at_price | money_without_trailing_zeros }}</span>
+          <span class="price_in_c line_center_">{{ product.compare_at_price | money }}</span>
         </p>
 
         <button class="btnbynow_courc" href="{{ product.url }}">Buy Now</button>
