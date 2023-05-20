@@ -98,6 +98,16 @@
         "padding_bottom": 36
       }
     },
+    "a69f1c4c-6800-4139-a66f-96addc27d846": {
+      "type": "modul",
+      "settings": {
+        "m_head": "Course Content",
+        "m_des": "",
+        "modulepare": "Module  ",
+        "moduledesc": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices.",
+        "moduledesc1": ""
+      }
+    },
     "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9": {
       "type": "benefits",
       "blocks": {
@@ -134,59 +144,6 @@
       "settings": {
         "bhead": "Benefits",
         "bsubhead": ""
-      }
-    },
-    "a69f1c4c-6800-4139-a66f-96addc27d846": {
-      "type": "modul",
-      "settings": {
-        "m_head": "Course Content",
-        "m_des": "",
-        "modulepare": "Module  ",
-        "moduledesc": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices.",
-        "moduledesc1": ""
-      }
-    },
-    "7a572359-7330-470b-97a5-4c3a6489944b": {
-      "type": "star_review",
-      "blocks": {
-        "7c8d86ba-fd3e-4442-9994-2f224069133c": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
-            "rating": 5,
-            "confimed": "lorem ipsum dolor",
-            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
-            "signtext": "- Pam Hayes"
-          }
-        },
-        "f16a004e-9c5f-4a69-90e9-5cc736ba7a7f": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
-            "rating": 5,
-            "confimed": "lorem ipsum dolor",
-            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
-            "signtext": "- Pam Hayes"
-          }
-        },
-        "467f4625-df80-4e9d-aae2-5cb72622fea9": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
-            "rating": 5,
-            "confimed": "lorem ipsum dolor",
-            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
-            "signtext": "- Pam Hayes"
-          }
-        }
-      },
-      "block_order": [
-        "7c8d86ba-fd3e-4442-9994-2f224069133c",
-        "f16a004e-9c5f-4a69-90e9-5cc736ba7a7f",
-        "467f4625-df80-4e9d-aae2-5cb72622fea9"
-      ],
-      "settings": {
-        "starreviewhead": "What our graduates say"
       }
     },
     "72aa2fdf-a036-4044-b542-af8a45d6f69f": {
@@ -236,15 +193,58 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "7a572359-7330-470b-97a5-4c3a6489944b": {
+      "type": "star_review",
+      "blocks": {
+        "7c8d86ba-fd3e-4442-9994-2f224069133c": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "lorem ipsum dolor",
+            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
+            "signtext": "- Pam Hayes"
+          }
+        },
+        "f16a004e-9c5f-4a69-90e9-5cc736ba7a7f": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "lorem ipsum dolor",
+            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
+            "signtext": "- Pam Hayes"
+          }
+        },
+        "467f4625-df80-4e9d-aae2-5cb72622fea9": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "lorem ipsum dolor",
+            "confimedp": "“Thank you so much Dr Ruth for all your help and knowledge. Our new local vet is on board with us and is always excited to hear what we doing to help our dogs. Since we started the crock pet diet last October our dogs did not have any ear infections, allergies or hot spots. We use Dr Ruth holistic total body support, the fish oil and her probiotic and our dogs absolutely love their food”",
+            "signtext": "- Pam Hayes"
+          }
+        }
+      },
+      "block_order": [
+        "7c8d86ba-fd3e-4442-9994-2f224069133c",
+        "f16a004e-9c5f-4a69-90e9-5cc736ba7a7f",
+        "467f4625-df80-4e9d-aae2-5cb72622fea9"
+      ],
+      "settings": {
+        "starreviewhead": "What our graduates say"
+      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9",
     "a69f1c4c-6800-4139-a66f-96addc27d846",
-    "7a572359-7330-470b-97a5-4c3a6489944b",
-    "72aa2fdf-a036-4044-b542-af8a45d6f69f"
+    "20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9",
+    "72aa2fdf-a036-4044-b542-af8a45d6f69f",
+    "7a572359-7330-470b-97a5-4c3a6489944b"
   ]
 }
