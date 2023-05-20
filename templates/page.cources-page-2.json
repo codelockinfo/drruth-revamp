@@ -192,13 +192,6 @@
     "72aa2fdf-a036-4044-b542-af8a45d6f69f": {
       "type": "rich-text",
       "blocks": {
-        "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-1": {
           "type": "text",
           "settings": {
@@ -224,7 +217,6 @@
         }
       },
       "block_order": [
-        "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-0",
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-1",
         "1f873972-8f8f-47b0-a875-cb2d69deb759",
         "template--14922816258113__72aa2fdf-a036-4044-b542-af8a45d6f69f-1684565616e7b57384-2"
@@ -234,7 +226,7 @@
         ".rich-text__blocks {max-width: 120rem;}",
         ".rich-text__buttons {border: 2px solid #184b44; border-radius: 24px; margin-top: 50px;}",
         ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase;}",
-        ".rich-text__buttons a svg{display: none;}"
+        ".rich-text__buttons a svg {display: none;}"
       ],
       "settings": {
         "desktop_content_position": "center",
