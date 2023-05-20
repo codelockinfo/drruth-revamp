@@ -97,14 +97,11 @@
       <div>
         {% for metafield in article.metafields.custom.relatedarticle %}
         {{ metafield }}////
-         {% assign bloghandle = metafield %}
-           {% for handle in bloghandle %}
-                {% for article in blogs[handle].articles %}
+                {% for article in articles[metafield] %}
                      {{  article.url }}
                   {{ article.image.src }}
                 {% endfor %}
             {% endfor %}
-        {% endfor %}
       </div>
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
