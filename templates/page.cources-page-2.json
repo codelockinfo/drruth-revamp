@@ -99,7 +99,7 @@
         ".rich-text__blocks {max-width: 120rem;}",
         ".rich-text__buttons {border: 2px solid #184b44; border-radius: 24px; margin-top: 50px;}",
         ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase;}",
-        ".rich-text__buttons a svg {display: none;}"
+        ".rich-text__buttons a svg{display: none;}"
       ],
       "settings": {
         "desktop_content_position": "center",
