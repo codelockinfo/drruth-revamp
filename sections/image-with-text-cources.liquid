@@ -83,6 +83,9 @@
     text-transform: uppercase;
     color: #000000;
       }
+  .mar_t_50px_{
+        margin-bottom: 50px;
+  }
   #shopify-section-template--14922816258113__20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9 .benefitblog{
   width: 48%;
   background: #fff;
@@ -116,6 +119,9 @@
       #shopify-section-template--14922816258113__20ccae23-ebf6-4f3d-b4fb-0b2d1f4341f9 .benefitblog{
   width: 100%;
   }
+          .mar_t_50px_{
+                margin-bottom: 0px;
+          }
         }
        @media screen and (max-width:420px){
      .width50_cou {
@@ -150,7 +156,7 @@
           {% endfor -%}
         </div>
 
-        <a class="none_td" href="{{ product.url }}"> <button class="btnbynow_courc">Buy Now</button></a>
+        <a class="none_td mar_t_50px_" href="{{ product.url }}"> <button class="btnbynow_courc">Buy Now</button></a>
       </div>
       <div class="width50_cou d-flex-jus-end_">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
