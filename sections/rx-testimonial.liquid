@@ -180,7 +180,7 @@
               </div>
               
               {%- if block.settings.testimonial != blank -%}
-              <div class="rx-testimonial-item-testimonial">{{ block.settings.testimonial }}</div>
+              <div class="rx-testimonial-item-testimonial">{{ block.settings.testimonial | truncate: 350 }}<span class="toggle-text-link" data-id="myHomePopup{{  forloop.index }}"> Read More</span></div>
               {%- endif -%}
               
               {%- if block.settings.reviewer_name != blank -%}
@@ -193,7 +193,13 @@
             </div>
           </div>
         {%- endfor -%}
+          
+
+         
       </div>
+       {% for block in section.blocks %}
+        {% render 'home-review-popup',  id: forloop.index, discription:   block.settings.testimonial ,title: block.settings.title ,icon:block.settings.rating , image: block.settings.mainimage ,Sub-title:block.settings.reviewer_name %}
+      {% endfor %}
     </div>
   </rx-slider>
 </div>

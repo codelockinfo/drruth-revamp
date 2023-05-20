@@ -531,6 +531,52 @@
         "section_padding_bottom_mobile": 50
       }
     },
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
+            "font_family": "font_blt"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET THE RECIPES HERE",
+            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/coursepic.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_title_alignment": "left",
+        "desktop_content_alignment": "left",
+        "desktop_button_alignment": "left",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "#f5f8f1",
+        "show_arrow_mobile": "no",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 88
+      }
+    },
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56": {
       "type": "rx-rich-text",
       "blocks": {
@@ -605,52 +651,6 @@
         "price_color": "#184b44"
       }
     },
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
-            "font_family": "font_blt"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "GET THE RECIPES HERE",
-            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/coursepic.png",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "left",
-        "content_layout": "overlap",
-        "grid_type": "type2",
-        "imgText-bg-color": "#f5f8f1",
-        "show_arrow_mobile": "no",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 88
-      }
-    },
     "42a0c8a2-518d-4af7-81cd-2253cf91765e": {
       "type": "rx-image-banner",
       "blocks": {
@@ -688,7 +688,9 @@
         "4b4c6522-a49c-4ab3-a420-aa06f5c88a56"
       ],
       "custom_css": [
-        ".bbutton {margin-top: 4%;}"
+        ".bbutton {margin-top: 4%;}",
+        "@media screen and (max-width: 560px) {.bbutton {margin-top: 7%; }}",
+        "@media screen and (max-width: 380px) {.rx_read_more_btn_green {padding: 15px 8px; font-size: letter-spacing: 0.2rem; } .bbutton {margin-top: 10%; }}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-1.jpg",
@@ -754,6 +756,7 @@
     },
     "41def7a6-c370-4591-a416-a22b442ac6d4": {
       "type": "rx-rich-text",
+      "disabled": true,
       "blocks": {
         "template--14898486050881__41def7a6-c370-4591-a416-a22b442ac6d4-1680361175b29958ce-0": {
           "type": "heading",
@@ -778,6 +781,7 @@
     },
     "c07243a3-5fee-499e-a09b-241b56f0595c": {
       "type": "rx-testimonial",
+      "disabled": true,
       "blocks": {
         "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
           "type": "title",
@@ -827,13 +831,56 @@
         "empty_star_color": ""
       }
     },
+    "d4b87d47-4683-4708-8f34-83893a2233cf": {
+      "type": "star_review",
+      "blocks": {
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Dr. Ruth is an open book",
+            "confimedp": "“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looki...",
+            "signtext": "Bea Swasey, HPH, NTP"
+          }
+        },
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/D_800x_a42a6c3a-6891-4743-ab7a-b920e3234e8c.png",
+            "rating": 5,
+            "confimed": "This is a Great Program!",
+            "confimedp": "“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”",
+            "signtext": "Leah Bookhamer HPHC, NTP, MRWP"
+          }
+        },
+        "44d0f174-18d9-4217-80da-940fbbe11430": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/B_800x_6cddebbb-2cb0-4614-8d7f-161f063fa558.webp",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine i...",
+            "signtext": "Dlorah Devore, HPHC, FNTP"
+          }
+        }
+      },
+      "block_order": [
+        "39163d6d-b350-4bd0-8e47-035c0a838c3c",
+        "0ec3c3cf-b140-49cd-ac42-f20311bcb0a8",
+        "44d0f174-18d9-4217-80da-940fbbe11430"
+      ],
+      "settings": {
+        "starreviewhead": "Our happy clients say"
+      }
+    },
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c": {
       "type": "rx-rich-text",
       "blocks": {
         "template--14898486050881__35a9f240-35c6-4509-b3d7-77ac0c08d41c-1679662670bc156e16-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Our Blogs<\/p>"
+            "heading": "<p>Pet Advice<\/p>"
           }
         },
         "4b0582b7-196c-42c7-8c5b-98627f6ca006": {
@@ -1014,13 +1061,14 @@
     "0816fc52-33ac-4b35-81ac-4c842628750a",
     "df6ff21b-835d-453a-ab12-a99160479690",
     "2b1d20ae-49de-4e39-ab92-d62ff31188a4",
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56",
     "40e124d8-821b-4b01-8eb8-2482449db53a",
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "42a0c8a2-518d-4af7-81cd-2253cf91765e",
     "2758b93a-1c5e-4890-87a5-086ee9572e15",
     "41def7a6-c370-4591-a416-a22b442ac6d4",
     "c07243a3-5fee-499e-a09b-241b56f0595c",
+    "d4b87d47-4683-4708-8f34-83893a2233cf",
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c",
     "1d7acd25-827c-4f3c-8845-e495b1105759",
     "8960ec65-5cef-4d84-b887-aa69c09a76a9",

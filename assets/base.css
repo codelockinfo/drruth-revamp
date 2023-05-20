@@ -6460,7 +6460,7 @@ text-align: center;
   cursor: pointer;
   z-index: 99;
   font-size: 30px;
-  color: #fff;
+  color: #000;
   margin-top: 3%;
 }
 
@@ -6501,6 +6501,7 @@ text-align: center;
 .toggle-text-content span {
   display: none;
 }
+
 /* blog page start */
 .blogmax_container{
   max-width: 1100px;
@@ -7451,4 +7452,38 @@ margin: 0 auto;
 }
 .mar_l_10_px{
       margin-left: 10px;
+}
+.rx_read_more_btn_green.cust-emil{
+  font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+    background: transparent;
+    border-radius: 24px;
+    border: 2px solid #fff!important;
+    padding: 8px 40px;
+    opacity: 1;
+    cursor: pointer;
+}
+.popflex{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.popflex .stardiv{
+  margin-top: 0;
+}
+.custom-model-inner.popup{
+  width:800px;
+}
+.rx-email-field input{
+  text-transform: lowercase !important;
+}
+.rx_read_more_btn_green{
+  letter-spacing: .2em !important;
+}
+.toggle-text-link{
+  cursor: pointer;
 }

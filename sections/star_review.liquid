@@ -11,7 +11,7 @@
           <div class="customerdetail">
                
         <div class="starflex">
-  <h1 class="confirmedetail">{{ block.settings.confimed }}</h1>
+            <h1 class="confirmedetail">{{ block.settings.confimed }}</h1>
             <div class="stardiv">
                {% if block.settings.rating == 5 %}
                <span class="fa fa-star checked"></span>
@@ -51,7 +51,7 @@
             </div>
            
         </div>
-            <p class="truncate">{{ block.settings.confimedp }}</p>
+            <p class="truncate">{{ block.settings.confimedp | truncate: 380 }}<span class="toggle-text-link" data-id="myPopup{{  forloop.index }}"> Read More</span></p>
           <div class="starflex1">
             <div class="starbg"><img src="{{ block.settings.mainimage |img_url: '800x' }}"></div>
             <h2 class="starthead"> {{ block.settings.signtext }}</h2>
@@ -60,6 +60,10 @@
         </div>
       {% endfor %}
     </div>
+       {% for block in section.blocks %}
+        {% render 'star_review-popup',  id: forloop.index, discription:  block.settings.confimedp ,title: block.settings.confimed ,icon:block.settings.rating , image: block.settings.mainimage ,Sub-title: block.settings.signtext %}
+      {% endfor %}
+    
   </div>
 </div>
 
@@ -488,7 +492,36 @@ margin-bottom:0;
       h1.confirmedetail{
         font-size: 30px;
       }
+ .customerdetail{ 
+        padding:3% 6%;
+      }
+      .starflex1{
+        bottom:2%;
+      }
 }
+ @media(max-width:1049px){
+  .customerdetail {
+        padding: 2% 4%;
+    }
+ }
+   @media(max-width: 991px){
+    .customerdetail p{
+      margin-top:0;
+      }
+      h1.confirmedetail{
+         margin-bottom:0;
+      }
+   }
+   @media(max-width: 905px){
+    .starflex1{
+        bottom:0%;
+      }
+      .customerdetail p{
+        font-size: 18px;
+        line-height: 26px;
+      }
+
+   }
     @media(max-width: 767px){
 .component-review-carousel .carousel-container .carousel-item .quote {
     font-size: calc((100vw - 360px) * (28 - 24) / (767 - 360) + 24px);
@@ -513,10 +546,23 @@ margin-bottom:0;
     max-width: 90%;
       }
     }
+      
        @media(max-width: 520px){
         h1.confirmedetail {
     font-size: 20px;
 }
+       }
+        @media(max-width: 500px){
+          .customerdetail p{
+            font-size:16px;line-height:26px;
+          }
+          h2.starthead{
+            font-size:16px;line-height:26px;
+          }
+          .customerdetail p{
+            margin-top:0;
+          }
+
        }
           @media(max-width: 420px){
            #shopify-section-template--14912893648961__d6fe8d30-271b-4552-b3ee-3cd7d95fc521 h1.confirmedetail{
@@ -529,6 +575,27 @@ margin-bottom:0;
               flex-wrap:wrap;
             }
             }
+              @media(max-width: 400px){
+                .customerdetail{
+                  min-height: 450px;
+                }
+                .stardiv {
+                    margin-top: -13px;
+                }
+                .customerdetail p,h2.starthead{   
+                  line-height: 24px;font-size:14px;
+                }
+                .starbg{
+                    width: 47px;
+                    height: 49px
+                }
+              }
+               @media(max-width: 400px){
+                h1.confirmedetail {
+                    font-size: 13px;
+                    line-height: 20px;
+                }
+               }
 </style>
 
 <link rel="canonical" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
