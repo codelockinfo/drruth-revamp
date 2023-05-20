@@ -311,10 +311,10 @@
                  {% for product in collection.products limit:3 %}
              <li>
                     <div class="cus_d-flex_b">
-                        <div class="cus-text-dexore">
+                        <div class="cus-text-dexore width45per_">
                             <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
                         </div>
-                        <div class="cus-produc_tital mar_l_10_px">
+                        <div class="cus-produc_tital mar_l_10_px width55per_">
                             <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ product.title }}</span></a>
                           <div class="cls_green_c">{{ product.price| money }} USD</div>
                         <div>  
@@ -328,10 +328,10 @@
           {% for article in blog.articles limit:4 %}
                 <li>
                     <div class="cus_d-flex_b">
-                        <div class="cus-text-dexore">
+                        <div class="cus-text-dexore width45per_">
                             <img src="{{ article.image.src | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" alt="{{image.alt}}" >
                         </div>
-                        <div class="cus-produc_tital mar_l_10_px">
+                        <div class="cus-produc_tital mar_l_10_px width55per_">
                             <a href="{{ article.url }}" class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog">{{ article.title }}</span></a>
                         <div>  
                     </div> 
@@ -487,6 +487,12 @@ assign blog = blogs[section.settings.blog] -%}
   }
   .mar_t_60_{
         margin-top: 60px;
+  }
+  .width55per_{
+    width:55%;
+  }
+    .width45per_{
+    width:45%;
   }
   @media only screen and (max-width: 984px) {
     .width_sp_b {
