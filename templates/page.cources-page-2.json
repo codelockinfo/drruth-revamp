@@ -205,7 +205,8 @@
         ".benefitblog {width: 48%; background: #fff; align-items: flex-start; flex-direction: row;}",
         ".benefitblog {padding: 1%; background: #f5f8f1;}",
         "p.benefitdes {text-align: left;}",
-        ".benefitblog {padding: 10px;}"
+        ".benefitblog {padding: 10px;}",
+        ".benefittext {margin-top: 2%; margin-bottom: 18px;}"
       ],
       "settings": {
         "bhead": "Benefits",
