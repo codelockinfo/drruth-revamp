@@ -1,3 +1,11 @@
+<style>
+  .d_flex_main{
+    display:flex;
+  }
+  .width50_cou{
+    width:50%
+  }
+</style>
 <section>
   {% assign product = all_products[section.settings.product] %}
   {% for image in product.images %}
@@ -5,7 +13,7 @@
     {{ product.price | money_without_trailing_zeros }}
     {{ product.vendor }}
   {% endfor %}
-  <div>
+  <div class="d_flex_main">
     <div class="width50_cou"></div>
     <div class="width50_cou">
       <img src="{{ image.src | product_img_url: 'grande' }}">
