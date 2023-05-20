@@ -1,15 +1,20 @@
 <style>
-  .d_flex_main{
-    display:flex;
+    .d_flex_main{
+      display:flex;
+    }
+    .width50_cou{
+      width:50%
+    }
+    .width_img_cource{
+          width: 410px;
+    }
+    .container_cources{
+      max-width: 120rem;
+      margin: auto;
   }
-  .width50_cou{
-    width:50%
-  }
-  .width_img_cource{
-        width: 410px;
-  }
+    }
 </style>
-<section>
+<section class="page-width container_cources">
   {% assign product = all_products[section.settings.product] %}
   {% for image in product.images limit: 1 %}
     <div class="d_flex_main">
