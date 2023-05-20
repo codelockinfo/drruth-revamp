@@ -1,45 +1,61 @@
 <style>
-      .d_flex_main{
-        display:flex;
-      }
-      .width50_cou{
-        width:50%
-      }
-      .width_img_cource{
-            width: 410px;
-      }
-      .container_cources{
-        max-width: 120rem;
-        margin: auto;
-      }
-    .clsh2_cource{
-      font-family: 'BLT-Heirloom';
-  font-style: normal;
-  font-weight: 300;
-  font-size: 30px;
-  line-height: 40px;
-      color: #184B44;
-    }
-    .price_in_c{
-      font-family: 'Josefin Sans';
-  font-style: normal;
-  font-weight: 500;
-  font-size: 24px;
-  line-height: 30px;
-  text-align: center;
-  text-decoration-line: line-through;
+        .d_flex_main{
+          display:flex;
+        }
+        .width50_cou{
+          width:50%
+        }
+        .width_img_cource{
+              width: 410px;
+        }
+        .container_cources{
+          max-width: 120rem;
+          margin: auto;
+        }
+      .clsh2_cource{
+        font-family: 'BLT-Heirloom';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
         color: #184B44;
-    }
-    .author_cource{
+      }
+      .price_in_c{
+        font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-line: line-through;
+          color: #184B44;
+      }
+      .author_cource{
+        font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    font-feature-settings: 'liga' off, 'kern' off;
+    color: #5F5E66;
+      }
+    .btnbynow_courc{
+      width: 468px;
+      border: 2px solid #184B44;
+  border-radius: 24px;
+
       font-family: 'Josefin Sans';
   font-style: normal;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
-  line-height: 20px;
-  letter-spacing: 0.04em;
+  line-height: 150%;
+  leading-trim: both;
+  text-edge: cap;
+  letter-spacing: 0.3em;
   text-transform: uppercase;
-  font-feature-settings: 'liga' off, 'kern' off;
-  color: #5F5E66;
+  color: #1E1E1E;
     }
 </style>
 <section class="page-width container_cources">
@@ -50,6 +66,7 @@
         <h2 class="clsh2_cource">{{ product.title }}</h2>
         <p class="author_cource">{{ product.vendor }}</p>
         <p class="price_in_c">{{ product.price | money_without_trailing_zeros }}</p>
+        <a class="btnbynow_courc" href="{{ product.url }}">Buy Now</a>
       </div>
       <div class="width50_cou">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
