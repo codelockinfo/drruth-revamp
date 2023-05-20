@@ -77,7 +77,8 @@
     "main": {
       "type": "main-blog",
       "custom_css": [
-        ".title--primary {display: none;}"
+        ".title--primary {display: none;}",
+        "@media screen and (max-width:768px){h3.card__heading.h2 a{font-size: 15px;}}"
       ],
       "settings": {
         "layout": "grid",
