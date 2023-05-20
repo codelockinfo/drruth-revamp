@@ -326,6 +326,50 @@
         "padding_top": 68,
         "padding_bottom": 52
       }
+    },
+    "2db1b70b-a212-469f-9c06-348c0ff32f8b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Course Content<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-0",
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-1",
+        "template--14922816258113__2db1b70b-a212-469f-9c06-348c0ff32f8b-16845729530bebd7c1-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -337,6 +381,7 @@
     "72aa2fdf-a036-4044-b542-af8a45d6f69f",
     "7a572359-7330-470b-97a5-4c3a6489944b",
     "1655751929e34d4e57",
-    "newsletter"
+    "newsletter",
+    "2db1b70b-a212-469f-9c06-348c0ff32f8b"
   ]
 }
