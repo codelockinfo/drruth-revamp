@@ -158,6 +158,14 @@
             "benefit_desc": "Convenient and accessible: The e-book is available in digital format for  pet owners to use on their devices anytime"
           }
         },
+        "15e7acd9-d626-403f-be0b-a77eb6e25e58": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "benefit_head": "",
+            "benefit_desc": ""
+          }
+        },
         "125f39a1-fe3c-4d05-9c71-cf64f9b95303": {
           "type": "block",
           "settings": {
@@ -186,6 +194,7 @@
       "block_order": [
         "082171f5-b295-45bd-a122-1ce80e76c1ec",
         "0da9f2d4-0ac3-4fe3-ad3d-ef244bb2100e",
+        "15e7acd9-d626-403f-be0b-a77eb6e25e58",
         "125f39a1-fe3c-4d05-9c71-cf64f9b95303",
         "a86a7f6f-a83f-49b2-a11c-8ac9349a1d7d",
         "b7f0de8a-9cb8-440a-99a8-94a2a9309040"
