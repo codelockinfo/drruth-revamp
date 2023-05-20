@@ -8,7 +8,8 @@
               {%- for block in section.blocks -%}
           
                   <div class="blogflex">
-                    <div class="blogbg">
+                    <a href="{{ block.settings.headurl }}">
+                      <div class="blogbg">
                         <div class="blogsvg">
                           <svg xmlns="http://www.w3.org/2000/svg" width="20" height="17" viewBox="0 0 20 17" fill="none">
                           <path d="M10.5011 17C10.5011 17 -1.9989 8 1.40783 2C4.81456 -4 10.5011 5.5 10.5011 5.5C10.5011 5.5 17.6876 -3 19.5944 2C21.5011 7 10.5011 17 10.5011 17Z" fill="#184B44"/>
@@ -16,6 +17,7 @@
                         </div>
                         <h4 class="blogghead">{{block.settings.blog_head}}</h4>
                         </div>
+                      </a>
                     </div>
           
               {%- endfor -%}
@@ -50,6 +52,11 @@
     "type": "text",
     "id": "blog_head",
     "label": "Heading"
+      },
+      {
+    "type": "url",
+    "id": "headurl",
+    "label": "Link"
       }
      
     ]
