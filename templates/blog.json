@@ -174,7 +174,7 @@
         ".blogmax-container {padding: 0 25px;}",
         "button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -2%;}",
         "button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -2%;}",
-        "@media screen and (max-width:400px){button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -4%;}button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -4%;}}"
+        "@media screen and (max-width: 400px) {button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -4%; } button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -4%; } .slidertexthead{width:62%;}}"
       ],
       "settings": {
         "slidertext": "Our podcast"
