@@ -7502,6 +7502,10 @@ margin: 0 auto;
 .premiumproductflex {
   display:block;
 }
+.desktopimg{
+      text-align: center;
+
+}
 .desktopimg img{
       width: 50%;
 }
