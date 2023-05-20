@@ -79,7 +79,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"Oakley Script\"; font-style: normal; font-weight: 400; font-size: 64px; line-height: 57px; \/* identical to box height, or 89% *\/ letter-spacing: 0.02em; color: #184b44;}",
-        ".content-container{padding-bottom: 10px;}"
+        ".content-container {padding-bottom: 0px; padding-top: 85px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
