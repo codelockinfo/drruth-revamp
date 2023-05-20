@@ -1,12 +1,87 @@
-{% schema %}
+{% comment %}
+  {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Image With text Cources",
+    "settings": [
+     {
+          "type": "product",
+          "id": "product",
+          "label": " Product Image"
+        }
+
+    ],
+    "blocks": [
+         {
+    "type": "text",
+    "id": "courtext",
+    "label": "Detail"
+      }
+    ]
   }
+    ],
+    "presets": [
+    {
+    "name": "Image With text Cources"
+    }
+    ]
+  }
+  {% endschema %}
+{% endcomment %}
+{% schema %}
+{
+  "name": "course_slider",
+  "settings": [
+        {
+  "type": "text",
+  "id": "coursehead",
+  "label": "Heading"
+    },
+        {
+  "type": "text",
+  "id": "coursedes",
+  "label": "Description"
+    }
+
+  ],
+  "blocks": [
+{
+  "type": "collection",
+  "name": "Collection",
+  "settings": [
+
+
+     {
+  "type": "image_picker",
+  "id": "cousimg",
+  "label": "Image"
+    },
+       {
+  "type": "text",
+  "id": "courtext",
+  "label": "Detail"
+    },
+     {
+  "type": "text",
+  "id": "linktext",
+  "label": "Slider Heading"
+    },
+     {
+  "type": "url",
+  "id": "linkiid",
+  "label": "Link Text"
+    },
+     {
+  "type": "text",
+  "id": "linktextbtn",
+  "label": "Button"
+    }
+  ]
+}
+  ],
+  "presets": [
+  {
+  "name": "course_slider"
+  }
+  ]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
