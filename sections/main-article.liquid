@@ -14,7 +14,7 @@
               {%- if article.image -%}
                 <div class="article-template__hero-container" {{ block.shopify_attributes }}>
                   <div
-                    class="article-template__hero-{{ block.settings.image_height }} media"
+                    class="width_img_sp article-template__hero-{{ block.settings.image_height }} media"
                     itemprop="image"
                     {% if block.settings.image_height == 'adapt' and article.image %}
                       style="padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;"
@@ -500,6 +500,11 @@ assign blog = blogs[section.settings.blog] -%}
     font-size: 14px;
     line-height: 20px;
   }
+  .width_img_sp {
+  width: 710px;
+  height: 430px;
+  object-fit: cover;
+}
   @media only screen and (max-width: 984px) {
     .width_sp_b {
     width: 37%;
