@@ -57,6 +57,10 @@
   text-transform: uppercase;
   color: #1E1E1E;
     }
+  .d-flex-jus-end_{
+    display: flex;
+    justify-content: end;
+  }
 </style>
 <section class="page-width container_cources">
   {% assign product = all_products[section.settings.product] %}
@@ -68,7 +72,7 @@
         <p class="price_in_c">{{ product.price | money_without_trailing_zeros }}</p>
         <button class="btnbynow_courc" href="{{ product.url }}">Buy Now</button>
       </div>
-      <div class="width50_cou">
+      <div class="width50_cou d-flex-jus-end_">
         <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
       </div>
     </div>
