@@ -97,6 +97,7 @@
       <div>
         {% for metafield in article.metafields.custom.relatedarticle %}
            {% for handle in metafield %}
+             {{ handle }}>>>>
                 {% for article in blogs[handle].articles %}
                   {{  article.url }}
                   {{ article.image.src }}
