@@ -78,8 +78,8 @@
       "type": "main-blog",
       "custom_css": [
         ".title--primary {display: none;}",
-        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 11px; left: 14px;}",
-        "@media screen and (max-width: 768px) {h3.card__heading.h2 a {font-size: 15px; }}"
+        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 29px; left: 14px;}",
+        "h3.card__heading.h2 {padding-top: 30%;}"
       ],
       "settings": {
         "layout": "grid",
