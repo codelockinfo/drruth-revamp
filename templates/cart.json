@@ -40,7 +40,8 @@
     "featured-collection": {
       "type": "featured-collection",
       "custom_css": [
-        "a.collered{background:transparent;}"
+        "a.collered {background: transparent;}",
+        "svg {margin-left: 20px;}"
       ],
       "settings": {
         "title": "You may also like",
