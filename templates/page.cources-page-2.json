@@ -35,6 +35,9 @@
         "f1651cf1-1267-4d9b-a715-150c5479615a",
         "b4c24aa9-f4a7-49fc-9de0-74f389337882"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "product": "tocpdandholistictotalbodysupportcombo"
       }
@@ -78,7 +81,7 @@
         "2af52bc7-9804-4b86-81c1-ea3f84e93101"
       ],
       "custom_css": [
-        ".arroww_btn{display: none;}"
+        ".arroww_btn {display: none;}"
       ],
       "settings": {
         "arrowid": "",
@@ -128,6 +131,11 @@
         "082171f5-b295-45bd-a122-1ce80e76c1ec",
         "0da9f2d4-0ac3-4fe3-ad3d-ef244bb2100e",
         "125f39a1-fe3c-4d05-9c71-cf64f9b95303"
+      ],
+      "custom_css": [
+        "section {background: #f5f8f1;}",
+        "h2.bhead {color: #184b44;}",
+        ".benefitblog {width: 48%; background: #fff; align-items: flex-start;flex-direction: row;}"
       ],
       "settings": {
         "bhead": "Benefits",
