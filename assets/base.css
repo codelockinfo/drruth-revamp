@@ -7496,3 +7496,9 @@ margin: 0 auto;
 .width_img_sp{
       margin: 0 auto;
 }
+.imagewrapper {
+    width: 100%;
+}
+.desktopimg img{
+      width: 50%;
+}
