@@ -386,7 +386,9 @@
         "d8d9e195-a5bd-4b4b-b033-7cf0e68bd9ae"
       ],
       "custom_css": [
-        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}"
+        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}",
+        ".blogbodrafter a.btnspace{padding:0;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "programhead": "After the program",
