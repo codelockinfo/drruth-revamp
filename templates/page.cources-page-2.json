@@ -96,29 +96,29 @@
         "2a735ae1-1cca-445e-b155-47ece918a161": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  ",
-            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+            "arrowhead": "Module 1",
+            "arrowdes": "The Original Crockpet Diet Cooking Essential"
           }
         },
         "423ebf4d-5709-4802-8685-55c333a54b6b": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  ",
-            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+            "arrowhead": "Module  2",
+            "arrowdes": "The Original Crockpet Diet  for Dogs"
           }
         },
         "a046938b-2af8-4fc8-a593-601fdabc0d7e": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  ",
-            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+            "arrowhead": "Module  3",
+            "arrowdes": "The Original Crockpet Diet  for Cats"
           }
         },
         "2af52bc7-9804-4b86-81c1-ea3f84e93101": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  ",
-            "arrowdes": "Lorem ipsum dolor sit amet consectetur. Quis id sed tortor turpis ultrices."
+            "arrowhead": "Module  4",
+            "arrowdes": "The Original Crockpet Diet  Kidney Disease Version"
           }
         }
       },
@@ -297,7 +297,7 @@
         ".rich-text__text p {text-align: left; font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e;}",
         ".rich-text__blocks {max-width: 120rem;}",
         ".rich-text__buttons {border: 2px solid #184b44; border-radius: 24px; margin-top: 50px;}",
-        ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase; letter-spacing: 0.3em; background: unset; color: #1E1E1E;}",
+        ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase; letter-spacing: 0.3em; background: unset; color: #1e1e1e;}",
         ".rich-text__buttons a svg {display: none;}"
       ],
       "settings": {
