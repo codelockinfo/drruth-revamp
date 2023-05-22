@@ -136,8 +136,10 @@
 {% assign article_handle = article.metafields.custom.relatedarticle %}
 
     {% for article in blog.articles %}
+      {{  article.handle }}<<<<
+      {{ article_handle }}???
       {% if article.handle contains article_handle %}
-        ??
+        ???
         <h1>{{ article.title }}</h1>
         <p>{{ article.content }}</p>
       {% endif %}
