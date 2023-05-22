@@ -456,6 +456,7 @@
     },
     "961ef4f2-4f2b-4901-81f7-336545b188ca": {
       "type": "affiliate",
+      "disabled": true,
       "blocks": {
         "685b5f99-55e8-4458-9441-e666240d0171": {
           "type": "collection",
@@ -478,6 +479,7 @@
     },
     "c255ee60-d5db-40bf-876e-0e659dd4283e": {
       "type": "reward_faq",
+      "disabled": true,
       "blocks": {
         "cd37d0ad-f00f-4126-b850-dd1e472eadee": {
           "type": "collection",
