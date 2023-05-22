@@ -314,6 +314,14 @@
     "ce0edac7-24b9-4237-811e-e0bf9b32ee17": {
       "type": "crockpet-diet",
       "blocks": {
+        "f124a283-f045-4f8e-a4a3-d962cca9debc": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-10cm-auto-cycle",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        },
         "596e1740-d641-4e33-b5d3-5f4f46cbd8e0": {
           "type": "collection",
           "settings": {
@@ -332,11 +340,12 @@
         }
       },
       "block_order": [
+        "f124a283-f045-4f8e-a4a3-d962cca9debc",
         "596e1740-d641-4e33-b5d3-5f4f46cbd8e0",
         "a2eefc49-1d01-4281-84bd-9d6aeec19129"
       ],
       "settings": {
-        "tabiingid": ""
+        "tabiingid": "EBOOKS"
       }
     }
   },
