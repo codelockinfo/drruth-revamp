@@ -338,6 +338,28 @@
     },
     "a8f7eda4-98ef-4806-aed7-7aedc7c76d95": {
       "type": "health",
+      "blocks": {
+        "00ee5649-e933-4437-8e04-b50c669fb761": {
+          "type": "collection",
+          "settings": {
+            "product": "tocpdandholistictotalbodysupportcombo",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        },
+        "3f0d25f8-ec9f-453c-917d-4236c721d144": {
+          "type": "collection",
+          "settings": {
+            "product": "tocpdandholistictotalbodysupportcombo",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "00ee5649-e933-4437-8e04-b50c669fb761",
+        "3f0d25f8-ec9f-453c-917d-4236c721d144"
+      ],
       "settings": {
         "tabiingid": "Gut Health"
       }
