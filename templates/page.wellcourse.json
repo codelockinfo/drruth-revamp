@@ -378,7 +378,7 @@
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
         ".outlink {margin-right: 12%;}",
-        ".input.btn.add_cart{background: transparent;}"
+        ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
         "tabiingid": "Gut Health"
@@ -387,7 +387,8 @@
     "7d80b91c-0905-4611-affb-51fe2d1dc13f": {
       "type": "petwellness_image_with_text",
       "custom_css": [
-        ".headingpetwellness {width: 35%; margin: 0 auto;}"
+        ".headingpetwellness {width: 35%; margin: 0 auto;}",
+        "@media screen and (max-width: 620px) {.headingpetwellness{width: 80%; margin: 0 auto;}}"
       ],
       "settings": {
         "reviewimg": "shopify:\/\/shop_images\/Image_37643cb3-dfa4-4e71-b741-ec74a061f7e4.png",
