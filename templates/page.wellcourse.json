@@ -263,6 +263,17 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "4fe4e98c-2343-433c-8fa9-a06cea1be4a2": {
+      "type": "rx-banner-text",
+      "settings": {
+        "heading": "",
+        "caption": "",
+        "content": "",
+        "content2": "",
+        "image_max_height": "450px",
+        "layout": "image_first"
+      }
     }
   },
   "order": [
@@ -275,6 +286,7 @@
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
     "7d80b91c-0905-4611-affb-51fe2d1dc13f",
     "d5ea3a62-cc30-47e4-b2e8-768ece4b7086",
-    "db627cde-ffb6-4cf0-ab91-142db615fa9e"
+    "db627cde-ffb6-4cf0-ab91-142db615fa9e",
+    "4fe4e98c-2343-433c-8fa9-a06cea1be4a2"
   ]
 }
