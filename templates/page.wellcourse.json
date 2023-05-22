@@ -280,6 +280,10 @@
       "block_order": [
         "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1"
       ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__text {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e; text-align: left;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
