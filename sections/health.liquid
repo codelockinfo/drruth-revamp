@@ -14,11 +14,10 @@
                         <div class="width50_couhealth crockdummyhealth health">
                             <div class="cropet_content">
                                 <h2 class="crockpettitle">{{ product.title }}</h2>
-                                <p class="author_cource">{{ product.vendor }}</p>
                                 <p>
                                     <span class="price_in_c line_center_ crockprice"> {{ product.price | money }} USD</span>
                                 </p>
-                                <p class="crockpettitle-des">{{ product.description }}</p>
+                                <p class="crockpettitle-des">{{ product.description | truncate: 500 }}</p>
                                 <div class="addd-flex">
                                     <div class="addcart">
                                         <form method="post" action="/cart/add">

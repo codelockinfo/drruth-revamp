@@ -11,11 +11,10 @@
                         <div class="width50_cou crockdummy">
                             <div class="cropet_content">
                                 <h2 class="crockpettitle">{{ product.title }}</h2>
-                                <p class="author_cource">{{ product.vendor }}</p>
                                 <p>
                                     <span class="price_in_c line_center_ crockprice"> {{ product.price | money }} USD</span>
                                 </p>
-                                <p class="crockpettitle-des">{{ product.description }}</p>
+                                <p class="crockpettitle-des">{{ product.description  | truncate: 500 }}</p>
                                 <div class="addd-flex">
                                     <div class="addcart">
                                         <form method="post" action="/cart/add">
@@ -110,8 +109,11 @@
                 align-items: center;
                 justify-content: center;
               }
-              .width50_cou{
-                width:50%
+              .width50_cou.crocpet_img{
+                width:40%;
+              }
+              .width50_cou.crockdummy{
+                width:60%;
               }
               .width_img_cource{
                     width: 100%;
@@ -163,7 +165,7 @@
             .width50_cou.crockdummy {
                 background: #F5F8F1;
                 border-radius: 24px;
-                margin-right: -5%;
+                {% comment %} margin-right: -5%; {% endcomment %}
                 position: relative;
             }
           .btnbynow_courc{
