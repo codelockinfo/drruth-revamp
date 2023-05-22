@@ -126,6 +126,15 @@
         "include_margins": true
       }
     },
+    "d8433540-0e67-4e79-9d87-f0b413179952": {
+      "type": "image-with-text-60-40",
+      "settings": {
+        "txtfirst": "Dr. Ruth Roberts Pet Wellness Courses",
+        "txtsecond": "Take Charge of Your Pet's Wellness and Happiness with Dr. Ruth Roberts' Online Courses",
+        "txtthired": "I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  I combine scientific facts, decades of clinical work, and a holistic, integrated health and wellness approach to help you find solutions that’ll nurture your furry friend back to optimum health.",
+        "imagesingle": "shopify:\/\/shop_images\/Rectangle_0b7b6e8a-7709-4b67-82da-0ec496fe85c6.png"
+      }
+    },
     "416ff0cd-e5c1-44da-853e-04c83e543faa": {
       "type": "petwellness_tabing",
       "blocks": {
@@ -227,15 +236,6 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
-    },
-    "d8433540-0e67-4e79-9d87-f0b413179952": {
-      "type": "image-with-text-60-40",
-      "settings": {
-        "txtfirst": "Dr. Ruth Roberts Pet Wellness Courses",
-        "txtsecond": "Take Charge of Your Pet's Wellness and Happiness with Dr. Ruth Roberts' Online Courses",
-        "txtthired": "I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  I combine scientific facts, decades of clinical work, and a holistic, integrated health and wellness approach to help you find solutions that’ll nurture your furry friend back to optimum health.",
-        "imagesingle": "shopify:\/\/shop_images\/Rectangle_0b7b6e8a-7709-4b67-82da-0ec496fe85c6.png"
-      }
     }
   },
   "order": [
@@ -243,10 +243,10 @@
     "newsletter",
     "1655751929e34d4e57",
     "1684272298d585cb7f",
+    "d8433540-0e67-4e79-9d87-f0b413179952",
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
-    "d8433540-0e67-4e79-9d87-f0b413179952"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
   ]
 }
