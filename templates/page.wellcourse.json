@@ -128,7 +128,6 @@
     },
     "416ff0cd-e5c1-44da-853e-04c83e543faa": {
       "type": "petwellness_tabing",
-      "disabled": true,
       "blocks": {
         "c994cc58-f2bc-43a1-8b44-6fcab3f7267b": {
           "type": "Block",
