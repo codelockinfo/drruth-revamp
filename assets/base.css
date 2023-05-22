@@ -7511,3 +7511,8 @@ margin: 0 auto;
 .queandbtn{
      margin: 0 auto; 
 }
+/* //related artcle */
+.relatedarticle .desktopimg .article-template__hero-container .relatedarticleimage{
+  position:relative;
+}
+/* //related artcle */
