@@ -17,7 +17,16 @@
     }
   }
 {%- endstyle -%}
-
+{% if page.title == "pet wellness course" %}
+<style>
+.section-{{ section.id }}-padding  {
+    padding-top: 0;
+}
+#shopify-section-{{ section.id }} {
+      margin-top: 0;
+}
+</style>
+{% endif %}
 <div class="isolate{% unless section.settings.full_width %} page-width{% endunless %}">
   <div class="rich-text content-container color-{{ section.settings.color_scheme }} gradient{% if section.settings.full_width %} rich-text--full-width content-container--full-width{% endif %} section-{{ section.id }}-padding">
     <div class="rich-text__wrapper rich-text__wrapper--{{ section.settings.desktop_content_position }}{% if section.settings.full_width %} page-width{% endif %}">
