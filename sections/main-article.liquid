@@ -133,7 +133,7 @@
 <div class="relatedarticle">
   {% assign blog_handle = 'pet-advice' %}
   {% assign article_handle = article.metafields.custom.relatedarticle %}
-
+{%  if article_handle != blank %}
     {% for article in blog.articles %}
       {% if article.handle contains article_handle %}
         <h2>{{ article.title }}</h2>
@@ -176,7 +176,7 @@
             </div> 
       {% endif %}
     {% endfor %}
-
+{% endif %}
 </div>
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
