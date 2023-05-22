@@ -119,7 +119,34 @@
              <p>{{section.settings.discdiffcont2}}</p>
              <h2>{{section.settings.articlehead}}</h2>
              <div class="artimg">
-                     <img src="{{ section.settings.articleimg|img_url: '800x' }}">
+                     <div class="article-template__hero-container" {{ block.shopify_attributes }}>
+                  <div
+                    class="article-template__hero-{{ block.settings.image_height }} media"
+                    itemprop="image"
+                    {% if block.settings.image_height == 'adapt' and article.image %}
+                      style="padding-bottom: {{ 1 | divided_by: article.image.aspect_ratio | times: 100 }}%;"
+                    {% endif %}
+                  >
+                    <img
+                      srcset="
+                        {% if article.image.width >= 350 %}{{ article.image | image_url: width: 350 }} 350w,{% endif %}
+                        {% if article.image.width >= 750 %}{{ article.image | image_url: width: 750 }} 750w,{% endif %}
+                        {% if article.image.width >= 1100 %}{{ article.image | image_url: width: 1100 }} 1100w,{% endif %}
+                        {% if article.image.width >= 1500 %}{{ article.image | image_url: width: 1500 }} 1500w,{% endif %}
+                        {% if article.image.width >= 2200 %}{{ article.image | image_url: width: 2200 }} 2200w,{% endif %}
+                        {% if article.image.width >= 3000 %}{{ article.image | image_url: width: 3000 }} 3000w,{% endif %}
+                        {{ article.image | image_url }} {{ article.image.width }}w
+                      "
+                      sizes="(min-width: {{ settings.page_width }}px) {{ settings.page_width | minus: 100 }}px, (min-width: 750px) calc(100vw - 10rem), 100vw"
+                      src="{{ article.image | image_url: width: 1100 }}"
+                      loading="eager"
+                      fetchpriority="high"
+                      width="{{ article.image.width }}"
+                      height="{{ article.image.height }}"
+                      alt="{{ article.image.alt | escape }}"
+                    >
+                  </div>
+                </div>
             </div>
             <div class="custombtn">
                 <a href="{{ section.settings.custbtnurl }}" class="customarticle">{{ section.settings.custbtnn }} 
@@ -139,7 +166,7 @@
       {% if article.handle contains article_handle %}
         ???
             <div class="desktopimg">
-                <img src="{{ product.featured_image | img_url: 'medium' }}">
+                <img src="{{ article.featured_image | img_url: 'medium' }}">
             </div>
         <h1>{{ article.title }}</h1>
       {% endif %}
