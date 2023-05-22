@@ -270,7 +270,8 @@
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
-        ".outlink {margin-right: 12%;}"
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
         "tabiingid": "The Original Crockpet Diet TM"
@@ -311,7 +312,8 @@
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
-        ".outlink {margin-right: 12%;}"
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
         "tabiingid": "Ebooks"
@@ -342,7 +344,8 @@
         "dec76305-a159-4e2c-8519-ac92ab46450f"
       ],
       "custom_css": [
-        "input.btn.add_cart {cursor: pointer;}"
+        "input.btn.add_cart {cursor: pointer;}",
+        ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
         "tabiingid": "Kidney Health"
@@ -374,7 +377,8 @@
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
-        ".outlink {margin-right: 12%;}"
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart{background: transparent;}"
       ],
       "settings": {
         "tabiingid": "Gut Health"
