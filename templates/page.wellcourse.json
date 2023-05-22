@@ -129,7 +129,7 @@
     "d8433540-0e67-4e79-9d87-f0b413179952": {
       "type": "image-with-text-60-40",
       "custom_css": [
-        ".width_change_1 {width: 50%;}"
+
       ],
       "settings": {
         "txtfirst": "Dr. Ruth Roberts Pet Wellness Courses",
@@ -220,7 +220,7 @@
         "ec0e0274-9f06-46b3-aea9-97abda177f32": {
           "type": "Block",
           "settings": {
-            "idtittle": "eboook"
+            "idtittle": "EBOOKS"
           }
         },
         "f0948772-2617-449c-9630-5ccde675187f": {
@@ -252,6 +252,62 @@
       "settings": {
       }
     },
+    "0c7c6903-a265-4582-be57-0b58a60d5fd1": {
+      "type": "crockpet-diet",
+      "blocks": {
+        "51b806fc-692d-48fd-a415-71655d1e5799": {
+          "type": "collection",
+          "settings": {
+            "product": "tocpdandholistictotalbodysupportcombo",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "51b806fc-692d-48fd-a415-71655d1e5799"
+      ],
+      "settings": {
+        "tabiingid": "The Original Crockpet Diet TM"
+      }
+    },
+    "ce0edac7-24b9-4237-811e-e0bf9b32ee17": {
+      "type": "crockpet-diet",
+      "blocks": {
+        "f124a283-f045-4f8e-a4a3-d962cca9debc": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-10cm-auto-cycle",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        },
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0": {
+          "type": "collection",
+          "settings": {
+            "product": "plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        },
+        "a2eefc49-1d01-4281-84bd-9d6aeec19129": {
+          "type": "collection",
+          "settings": {
+            "product": "the-original-crockpet-diet-1",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "f124a283-f045-4f8e-a4a3-d962cca9debc",
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0",
+        "a2eefc49-1d01-4281-84bd-9d6aeec19129"
+      ],
+      "settings": {
+        "tabiingid": "EBOOKS"
+      }
+    },
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780": {
       "type": "health",
       "blocks": {
@@ -277,13 +333,21 @@
         "dec76305-a159-4e2c-8519-ac92ab46450f"
       ],
       "settings": {
-        "tabiingid": ""
+        "tabiingid": "Kidney Health"
       }
     },
-    "0c7c6903-a265-4582-be57-0b58a60d5fd1": {
-      "type": "crockpet-diet",
+    "a8f7eda4-98ef-4806-aed7-7aedc7c76d95": {
+      "type": "health",
       "blocks": {
-        "51b806fc-692d-48fd-a415-71655d1e5799": {
+        "00ee5649-e933-4437-8e04-b50c669fb761": {
+          "type": "collection",
+          "settings": {
+            "product": "tocpdandholistictotalbodysupportcombo",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        },
+        "3f0d25f8-ec9f-453c-917d-4236c721d144": {
           "type": "collection",
           "settings": {
             "product": "tocpdandholistictotalbodysupportcombo",
@@ -293,10 +357,11 @@
         }
       },
       "block_order": [
-        "51b806fc-692d-48fd-a415-71655d1e5799"
+        "00ee5649-e933-4437-8e04-b50c669fb761",
+        "3f0d25f8-ec9f-453c-917d-4236c721d144"
       ],
       "settings": {
-        "tabiingid": ""
+        "tabiingid": "Gut Health"
       }
     },
     "7d80b91c-0905-4611-affb-51fe2d1dc13f": {
@@ -322,8 +387,10 @@
     "43e0a268-a273-49f8-aebf-556332935db2",
     "3818f637-8ac3-46c3-ba5a-7340140cdaeb",
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
-    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
+    "ce0edac7-24b9-4237-811e-e0bf9b32ee17",
+    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
+    "a8f7eda4-98ef-4806-aed7-7aedc7c76d95",
     "7d80b91c-0905-4611-affb-51fe2d1dc13f"
   ]
 }

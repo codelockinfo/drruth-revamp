@@ -1,0 +1,142 @@
+<section class="page-width container_cources" id="{{section.settings.tabiingid | downcase }}">
+  <div>
+    <h2 class="crocktitle">{{ section.settings.prevhead }}</h2>
+  </div>
+  <div class="mar_t_50px_">
+    <div class="d_flex_maincrock monthyear">
+      <div class="width50_cou crockdummy">
+        <div class="cropet_content">
+          <p class="crockpettitle-des">{{ section.settings.pdiscription }}</p>
+          <p class="crockpettitle-des">{{ section.settings.pdiscription1 }}</p>
+          <p>
+            <span class="anualp">{{ section.settings.pack1 }}</span>
+
+            <span class="anualp">{{ section.settings.pack2 }}</span>
+          </p>
+          <div class="addd-flex">
+            <p>
+              <span class="price_in_cprice ">{{ section.settings.pack1price }}</span>
+              <span class="price_in_creal line_center_">
+                {{ section.settings.pack2price }}</span>
+            </p>
+            <div class="petjoin">
+              <a class="join" href="{{section.settings.joinbtn}}">{{ section.settings.joinlinkbnt }}</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="width50_cou crocpet_img">
+        <img src="{{ section.settings.petwellimg|img_url: '800x' }}">
+      </div>
+    </div>
+  </div>
+
+
+</section>
+
+{% schema %}
+  {
+    "name": "petwellness package",
+    "tag": "section",
+    "class": "section",
+    "settings": [
+
+      {
+        "type": "text",
+        "id": "prevhead",
+        "label": "Heading"
+      },
+      {
+        "type": "image_picker",
+        "id": "petwellimg",
+        "label": "Image"
+      },
+      {
+        "type": "text",
+        "id": "pdiscription",
+        "label": "Discription"
+      },
+      {
+        "type": "text",
+        "id": "pdiscription1",
+        "label": "Discription"
+      }, {
+        "type": "text",
+        "id": "pack1",
+        "label": "Package 1"
+      }, {
+        "type": "text",
+        "id": "pack1price",
+        "label": "Package 1 Price"
+      }, {
+        "type": "text",
+        "id": "pack2",
+        "label": "Package 2"
+      }, {
+        "type": "text",
+        "id": "pack2price",
+        "label": "Package 2 Price"
+      }, {
+        "type": "text",
+        "id": "joinlinkbnt",
+        "label": "Button"
+      }, {
+        "type": "url",
+        "id": "joinbtn",
+        "label": "Button Link"
+      }
+    ],
+
+    "presets": [
+      {
+        "name": "petwellness package"
+      }
+    ]
+  }
+{% endschema %}
+<style>
+  .price_in_creal {
+    font-family: 'BLT-Heirloom';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 40px;
+    color: #184B44;
+  }
+  .petjoin {
+    border: 2px solid #184B44;
+    border-radius: 25.5px;
+
+    padding: 10px 50px;
+  }
+  .petjoin a {
+    text-decoration: none;
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0.3em;
+    text-transform: uppercase;
+    color: #1E1E1E;
+  }
+  span.anualp {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E1E1E;
+  }
+  .price_in_cprice {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: line-through;
+    color: #1E1E1E;
+  }
+</style>
