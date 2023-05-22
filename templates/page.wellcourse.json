@@ -167,13 +167,19 @@
     },
     "43e0a268-a273-49f8-aebf-556332935db2": {
       "type": "rx-banner-text",
+      "custom_css": [
+        ".container .rx-text .rx-text-desc {max-width: 765px;}",
+        ".rx-template--14923095375937__d8e2cd8a-0203-4b4e-b695-c3f11dc36fa4 {max-width: 100%; margin-bottom: 0px;}",
+        ".container {align-items: center;}"
+      ],
       "settings": {
+        "rx_image_banner": "shopify:\/\/shop_images\/Image_2_f9f90f01-197e-418a-8d09-d68697b73003.png",
         "heading": "",
-        "caption": "",
-        "content": "",
+        "caption": "Dr. Ruth Roberts Pet Wellness Courses",
+        "content": "<p>is the ultimate online learning platform for individuals looking to enhance their skills and knowledge in the Pet Wellness field. <br\/>I believe that learning about Pets' Health and Wellness should be accessible to everyone, no matter where you are in the world or what your background is. That's why I offer a range of courses that can help thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  Get access to Pet Health Education, E-Books, Videos, Supplement guide, and worksheets. <\/p>",
         "content2": "",
         "image_max_height": "450px",
-        "layout": "image_first"
+        "layout": "text_first"
       }
     },
     "3818f637-8ac3-46c3-ba5a-7340140cdaeb": {
