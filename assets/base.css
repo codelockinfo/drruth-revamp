@@ -7538,4 +7538,7 @@ margin: 0 auto;
 .articlemartop{
       margin: 10px auto;
 }
+.js{
+  scroll-behavior: smooth;
+}
 /* //related artcle */
