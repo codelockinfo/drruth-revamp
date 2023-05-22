@@ -266,6 +266,28 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "3818f637-8ac3-46c3-ba5a-7340140cdaeb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The courses are created based on my 35+  years of experience as a Veterinarian and a Holistic Pets Health Coach. You'll receive top-quality instruction that's engaging, interactive, and tailored to your learning style. I understand that time is precious, which is why our courses are designed to fit your busy schedule. You can learn at your own pace, from anywhere in the world, and on any device. Plus, you'll have access to our support team and community of learners, so you'll never feel alone on your learning journey.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -278,6 +300,7 @@
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
     "7d80b91c-0905-4611-affb-51fe2d1dc13f",
-    "323d0ef8-4212-42e9-9e2c-63a170d19707"
+    "323d0ef8-4212-42e9-9e2c-63a170d19707",
+    "3818f637-8ac3-46c3-ba5a-7340140cdaeb"
   ]
 }
