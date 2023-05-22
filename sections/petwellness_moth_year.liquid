@@ -10,7 +10,12 @@
           <p class="crockpettitle-des">{{ section.settings.pdiscription1 }}</p>
           <p>
             <span class="anualp">{{ section.settings.pack1 }}</span>
-
+            <span class="switch">
+              <label>
+                <input class="onoffradion" type="checkbox" checked="" >
+                <span class="lever"></span>
+                </label>
+            </span>
             <span class="anualp">{{ section.settings.pack2 }}</span>
           </p>
           <div class="addd-flex">
@@ -38,7 +43,7 @@
   {
     "name": "petwellness package",
     "tag": "section",
-    "class": "section",
+    "class": "section petpackage",
     "settings": [
 
       {
@@ -130,7 +135,7 @@
     text-transform: uppercase;
     color: #1E1E1E;
   }
-  .price_in_cprice {
+.price_in_cprice {
     font-family: 'Josefin Sans';
     font-style: normal;
     font-weight: 500;
@@ -139,4 +144,44 @@
     text-decoration-line: line-through;
     color: #1E1E1E;
   }
+  
+.petpackage .switch label input[type=checkbox]:checked+.lever {
+    background-color: #184B44;
+}
+.petpackage .switch label .lever {
+    margin: 0 14px;
+}
+.petpackage .switch label .lever {
+    content: "";
+    display: inline-block;
+    position: relative;
+    width: 40px;
+    height: 15px;
+    background-color: #818181;
+    border-radius: 15px;
+    margin-right: 10px;
+    transition: background 0.3s ease;
+    vertical-align: middle;
+    margin: 0 16px;
+}
+.petpackage .switch label input[type=checkbox]:checked+.lever:after {
+    background-color: #fff;
+    left: 24px;
+}
+.petpackage .switch label .lever:after {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    background-color: #F1F1F1;
+    border-radius: 21px;
+    box-shadow: 0 1px 3px 1px rgba(0,0,0,0.4);
+    left: -5px;
+    top: -3px;
+    transition: left 0.3s ease, background .3s ease, box-shadow 0.1s ease;
+}
+.petpackage .onoffradion{
+display:none;
+}
 </style>
