@@ -119,7 +119,27 @@
              <p>{{section.settings.discdiffcont2}}</p>
              <h2>{{section.settings.articlehead}}</h2>
              <div class="artimg">
-                     <div class="article-template__hero-container" {{ block.shopify_attributes }}>
+                     <img src="{{ section.settings.articleimg|img_url: '800x' }}">
+            </div>
+            <div class="custombtn">
+                <a href="{{ section.settings.custbtnurl }}" class="customarticle">{{ section.settings.custbtnn }} 
+                    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
+                        <path d="M1.11719 4.5L32.7415 4.5M32.7415 4.5L26.2995 1M32.7415 4.5L26.2995 8" stroke="#1E1E1E" stroke-linecap="round"/>
+                    </svg>
+                </a>
+            </div> 
+       </div>
+                          
+<div>
+  {{ article.metafields.custom.relatedarticle }}???
+  {% assign blog_handle = 'pet-advice' %}
+  {% assign article_handle = article.metafields.custom.relatedarticle %}
+
+    {% for article in blog.articles %}
+      {% if article.handle contains article_handle %}
+        ???
+            <div class="desktopimg">
+               <div class="article-template__hero-container" {{ block.shopify_attributes }}>
                   <div
                     class="article-template__hero-{{ block.settings.image_height }} media"
                     itemprop="image"
@@ -147,26 +167,6 @@
                     >
                   </div>
                 </div>
-            </div>
-            <div class="custombtn">
-                <a href="{{ section.settings.custbtnurl }}" class="customarticle">{{ section.settings.custbtnn }} 
-                    <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
-                        <path d="M1.11719 4.5L32.7415 4.5M32.7415 4.5L26.2995 1M32.7415 4.5L26.2995 8" stroke="#1E1E1E" stroke-linecap="round"/>
-                    </svg>
-                </a>
-            </div> 
-       </div>
-                          
-<div>
-  {{ article.metafields.custom.relatedarticle }}???
-  {% assign blog_handle = 'pet-advice' %}
-{% assign article_handle = article.metafields.custom.relatedarticle %}
-
-    {% for article in blog.articles %}
-      {% if article.handle contains article_handle %}
-        ???
-            <div class="desktopimg">
-                <img src="{{ article.featured_image | img_url: 'medium' }}">
             </div>
         <h1>{{ article.title }}</h1>
       {% endif %}
