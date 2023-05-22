@@ -118,9 +118,11 @@
             <span>{{section.settings.spancente}}</span>
              <p>{{section.settings.discdiffcont2}}</p>
              <h2>{{section.settings.articlehead}}</h2>
+      {% if  section.settings.articleimg != blank %}
              <div class="artimg">
                      <img src="{{ section.settings.articleimg|img_url: '800x' }}">
             </div>
+        {% endif %}
             <div class="custombtn">
                 <a href="{{ section.settings.custbtnurl }}" class="customarticle">{{ section.settings.custbtnn }} 
                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
