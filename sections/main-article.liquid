@@ -136,6 +136,7 @@
 
     {% for article in blog.articles %}
       {% if article.handle contains article_handle %}
+        <h2>{{ article.title }}</h2>
             <div class="desktopimg">
                <div class="article-template__hero-container" {{ block.shopify_attributes }}>
                   <div
@@ -166,7 +167,7 @@
                   </div>
                 </div>
             </div>
-        <h1>{{ article.title }}</h1>
+        
       {% endif %}
     {% endfor %}
 
