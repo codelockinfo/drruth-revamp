@@ -453,6 +453,47 @@
       "settings": {
         "mfaqhead": "heading"
       }
+    },
+    "961ef4f2-4f2b-4901-81f7-336545b188ca": {
+      "type": "affiliate",
+      "blocks": {
+        "685b5f99-55e8-4458-9441-e666240d0171": {
+          "type": "collection",
+          "settings": {
+            "faqdes": "In this section, you will learn how to prepare the crockpet diet, rotation diet template for dogs and cats and also learn the science behind this diet",
+            "faqid": "",
+            "faqbtn": "The Original Crockpet Diet Cooking Essential"
+          }
+        }
+      },
+      "block_order": [
+        "685b5f99-55e8-4458-9441-e666240d0171"
+      ],
+      "settings": {
+        "addhead": "",
+        "mfaqhead": "",
+        "afffaqbtn": "",
+        "affaqurl": ""
+      }
+    },
+    "c255ee60-d5db-40bf-876e-0e659dd4283e": {
+      "type": "reward_faq",
+      "blocks": {
+        "cd37d0ad-f00f-4126-b850-dd1e472eadee": {
+          "type": "collection",
+          "settings": {
+            "faqdes": "In this section, you will learn how to prepare the crockpet diet, rotation diet template for dogs and cats and also learn the science behind this diet",
+            "faqid": "",
+            "faqbtn": "The Original Crockpet Diet Cooking Essential"
+          }
+        }
+      },
+      "block_order": [
+        "cd37d0ad-f00f-4126-b850-dd1e472eadee"
+      ],
+      "settings": {
+        "mfaqhead": ""
+      }
     }
   },
   "order": [
@@ -466,6 +507,8 @@
     "7a572359-7330-470b-97a5-4c3a6489944b",
     "1655751929e34d4e57",
     "newsletter",
-    "5b15151e-67d8-4d2c-942b-d054aa163a4f"
+    "5b15151e-67d8-4d2c-942b-d054aa163a4f",
+    "961ef4f2-4f2b-4901-81f7-336545b188ca",
+    "c255ee60-d5db-40bf-876e-0e659dd4283e"
   ]
 }
