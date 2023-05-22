@@ -131,7 +131,8 @@
       "custom_css": [
         ".arroww_btn {display: none;}",
         ".arrowheight {height: auto; overflow-y: unset;}",
-        ".publickbg {background: #fff;}"
+        ".publickbg {background: #fff;}",
+        ".arrorrad {background: #F5F8F1;}"
       ],
       "settings": {
         "arrowid": "",
