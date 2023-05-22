@@ -7,7 +7,7 @@
         {% for block in section.blocks %}
             {% assign product = all_products[block.settings.product] %}
                 {% for image in product.images limit: 1 %}
-                    <div class="d_flex_main">
+                    <div class="d_flex_maincrock">
                         <div class="width50_cou crockdummy">
                             <div class="cropet_content">
                                 <h2 class="crockpettitle">{{ product.title }}</h2>
@@ -104,7 +104,7 @@ a.link {
 .cropet_content {
     padding: 4% 8%;
 }   
-              .d_flex_main{
+              .d_flex_maincrock{
                 display:flex;
                 flex-wrap: wrap;
                 align-items: center;

@@ -7,11 +7,11 @@
         {% for block in section.blocks %}
             {% assign product = all_products[block.settings.product] %}
                 {% for image in product.images limit: 1 %}
-                    <div class="d_flex_main50">
-                     <div class="width50_cou crocpet_img">
+                    <div class="d_flex_main50health">
+                     <div class="width50_couhealth crocpet_img">
                             <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
                         </div>
-                        <div class="width50_cou crockdummy">
+                        <div class="width50_couhealth crockdummyhealth health">
                             <div class="cropet_content">
                                 <h2 class="crockpettitle">{{ product.title }}</h2>
                                 <p class="author_cource">{{ product.vendor }}</p>
@@ -105,7 +105,7 @@ a.link {
 .cropet_content {
     padding: 4% 8%;
 }   
-              .d_flex_main50{
+              .d_flex_main50health{
                 display:flex;
                 flex-wrap: wrap;
                 align-items: center;
@@ -161,7 +161,7 @@ a.link {
                 color: #184B44;
             }
 
-            .width50_cou.crockdummy {
+            .width50_couhealth.crockdummyhealth.health {
                 background: #F5F8F1;
                 border-radius: 24px;
                    width: 95%;
@@ -253,7 +253,7 @@ a.link {
         padding: 2% 5%;
         }
     }
-          .width50_cou {
+          .width50_couhealth {
         width: 80%;
         display: flex;
         flex-direction: column;
@@ -262,12 +262,12 @@ a.link {
         margin: 0 auto;
         margin-bottom: -4%;
     }
-    .crockdummy{
+    .crockdummyhealth{
             order:2;
           }
           .crocpet_img{order:1;}
          @media only screen and (max-width: 991px) {
-            .d_flex_main50{
+            .d_flex_main50health{
                 width:94%;
                   margin-bottom:5%;
             }
@@ -292,9 +292,9 @@ a.link {
            
           }
          @media screen and (max-width:420px){
-       .width50_cou {
+       .width50_couhealth {
       width: 98%;}
-.width50_cou.crockdummy{
+.width50_couhealth.crockdummyhealth.health{
     margin-right: 1%;
 }
  .crocktitle{
