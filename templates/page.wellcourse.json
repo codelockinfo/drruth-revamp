@@ -144,7 +144,7 @@
         "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search has no doubt left you feeling overwhelmed.         If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search for guidance to gain your pet’s total wellness, has no doubt left you feeling overwhelmed.  Here we provide you with reliable sources of information and professionals who can help guide you in maintaining your pets' wellness.<\/p>"
+            "text": "<p>If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search for guidance to gain your pet’s total wellness, has no doubt left you feeling overwhelmed.  Here we provide you with reliable sources of information and professionals who can help guide you in maintaining your pets' wellness.<\/p>"
           }
         }
       },
@@ -154,7 +154,8 @@
       "custom_css": [
         ".rich-text__blocks {max-width: 120rem;}",
         ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
-        ".content-container {background: #f5f8f1;}"
+        ".content-container {background: #f5f8f1;}",
+        ".rich-text__text.rte {padding: 3% 0;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -175,8 +176,8 @@
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Image_2_f9f90f01-197e-418a-8d09-d68697b73003.png",
         "heading": "",
-        "caption": "Dr. Ruth Roberts Pet Wellness Courses is the ultimate online learning platform for individuals looking to enhance their skills and knowledge in the Pet Wellness field. Dr. Ruth Roberts Pet Wellness Courses",
-        "content": "<p>elieve that learning about Pets' Health and Wellness should be accessible to everyone, no matter where you are in the world or what your background is. That's why I offer a range of courses that can help thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  Get access to Pet Health Education, E-Books, Videos, Supplement guide, and worksheets.<\/p>",
+        "caption": "Dr. Ruth Roberts Pet Wellness Courses",
+        "content": "<p> is the ultimate online learning platform for individuals looking to enhance their skills and knowledge in the Pet Wellness field. Dr. Ruth Roberts Pet Wellness Courses elieve that learning about Pets' Health and Wellness should be accessible to everyone, no matter where you are in the world or what your background is. That's why I offer a range of courses that can help thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  Get access to Pet Health Education, E-Books, Videos, Supplement guide, and worksheets.<\/p>",
         "content2": "",
         "image_max_height": "450px",
         "layout": "text_first"
@@ -267,6 +268,11 @@
       "block_order": [
         "51b806fc-692d-48fd-a415-71655d1e5799"
       ],
+      "custom_css": [
+        "input.btn.add_cart {cursor: pointer;}",
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart {background: transparent;}"
+      ],
       "settings": {
         "tabiingid": "The Original Crockpet Diet TM"
       }
@@ -304,8 +310,13 @@
         "a2eefc49-1d01-4281-84bd-9d6aeec19129",
         "596e1740-d641-4e33-b5d3-5f4f46cbd8e0"
       ],
+      "custom_css": [
+        "input.btn.add_cart {cursor: pointer;}",
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart {background: transparent;}"
+      ],
       "settings": {
-        "tabiingid": "EBOOKS"
+        "tabiingid": "Ebooks"
       }
     },
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780": {
@@ -331,6 +342,10 @@
       "block_order": [
         "2261eb1e-7610-4d87-aee8-21d473e6504f",
         "dec76305-a159-4e2c-8519-ac92ab46450f"
+      ],
+      "custom_css": [
+        "input.btn.add_cart {cursor: pointer;}",
+        ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
         "tabiingid": "Kidney Health"
@@ -360,6 +375,11 @@
         "00ee5649-e933-4437-8e04-b50c669fb761",
         "3f0d25f8-ec9f-453c-917d-4236c721d144"
       ],
+      "custom_css": [
+        "input.btn.add_cart {cursor: pointer;}",
+        ".outlink {margin-right: 12%;}",
+        ".input.btn.add_cart {background: transparent;}"
+      ],
       "settings": {
         "tabiingid": "Gut Health"
       }
@@ -367,7 +387,8 @@
     "7d80b91c-0905-4611-affb-51fe2d1dc13f": {
       "type": "petwellness_image_with_text",
       "custom_css": [
-        ".headingpetwellness {width: 35%; margin: 0 auto;}"
+        ".headingpetwellness {width: 35%; margin: 0 auto;}",
+        "@media screen and (max-width: 620px) {.headingpetwellness{width: 80%; margin: 0 auto;}}"
       ],
       "settings": {
         "reviewimg": "shopify:\/\/shop_images\/Image_37643cb3-dfa4-4e71-b741-ec74a061f7e4.png",
@@ -385,7 +406,7 @@
         ".width50_cou.crocpet_img img {width: 100%;}"
       ],
       "settings": {
-        "prevhead": "THE ORIGINAL CROCKPET DietTM CLUB",
+        "prevhead": "The original crockpet dietTM club",
         "petwellimg": "shopify:\/\/shop_images\/Image_1_7daff97e-5691-4aad-8419-cd2c74716fee.png",
         "pdiscription": "Introducing the exclusive Original CrockPet DietTM Club, created by the renowned veterinarian and holistic pet health expert, Dr. Ruth Roberts!Are you tired of feeding your beloved pet commercial pet food that may be filled with artificial preservatives, chemicals, and unknown ingredients? Do you want to ensure that your furry friend is getting the very best nutrition to maintain their health and vitality?Look no further than The Original CrockPet DietTM Club, where you'll gain access to a supportive community of pet owners who share your passion for feeding their pets healthy, home-cooked meals. With weekly live Q&A sessions featuring Dr. Roberts herself, you'll receive expert guidance on how to create balanced and nutritious meals for your pet using the patented CrockPet Cooking method.In addition, to live Q&A sessions, you'll also receive Angela Ardolino's plant medicine guide, which covers the many benefits of using natural supplements to support your pet's health. Plus, you'll get access to a bonus course on gut health, and a massive library of content including previous Q&A sessions, audio files, transcripts, and recipes in PDF format.By joining The Original CrockPet DietTM Club, you'll be joining thousands of other pet owners who have already revolutionized the way they feed their pets. Give your furry friend the gift of optimal health and well-being by joining The Original CrockPet DietTM Club today!",
         "pdiscription1": "Dr. Ruth Roberts invites you to our vibrant community of pet owners passionate about feeding their pets healthy, home-cooked meals. Embark on a journey of community learning and growth as we guide you on the path to optimal pet nutrition and the benefits of all-natural pet food. Get expert guidance on balanced nutrition through live Q&A sessions with Dr. Roberts herself. Explore Angela Ardolino's plant medicine guide, a bonus gut health course, and a wealth of content including previous Q&A sessions, audio files, transcripts, and PDF recipes. Revolutionize the way you feed your furry friend alongside thousands of like-minded pet owners. Join the Original CrockPet DietTM Club, your gateway to natural pet food solutions!",
