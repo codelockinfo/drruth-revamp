@@ -145,6 +145,7 @@
     {% for article in blogs.pet-advice.articles %}
       {% assign handle = article.url | split: '/' %}
       {% assign handle = handle.last %}
+      {{ handle }} >>>>
       {% endfor %}
 </div>
 <!-- {% render 'reccomndedblog'%} -->
