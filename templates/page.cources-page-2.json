@@ -450,6 +450,9 @@
       "block_order": [
         "d89bc2d2-f263-436c-b86a-a25911d3ecd5"
       ],
+      "custom_css": [
+        ".set > a > svg{display: none;}"
+      ],
       "settings": {
         "mfaqhead": "heading"
       }
