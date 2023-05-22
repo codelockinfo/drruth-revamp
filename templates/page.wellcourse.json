@@ -129,7 +129,7 @@
     "d8433540-0e67-4e79-9d87-f0b413179952": {
       "type": "image-with-text-60-40",
       "custom_css": [
-        ".width_change_1 {width: 60%;}"
+
       ],
       "settings": {
         "txtfirst": "Dr. Ruth Roberts Pet Wellness Courses",
