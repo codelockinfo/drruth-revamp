@@ -154,7 +154,8 @@
       "custom_css": [
         ".rich-text__blocks {max-width: 120rem;}",
         ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
-        ".content-container {background: #f5f8f1;}"
+        ".content-container {background: #f5f8f1;}",
+        ".rich-text__text.rte {padding: 3% 0;}"
       ],
       "settings": {
         "desktop_content_position": "center",
