@@ -7162,7 +7162,7 @@ background-size: cover;
   margin: 0 auto;
 }
 .blogflex ,.slidertexthead{
-  width: 48%;
+  width: 49%;
 }
 h2.btext{
 font-size: 44px;
@@ -7234,7 +7234,7 @@ color: black;
 }
 input.cus_color {
 border: 2px solid #184B44;
-border-radius: 24px;
+border-radius: 24px!important;
 }
 input:focus-visible {
 outline:none;
@@ -7506,3 +7506,36 @@ margin: 0 auto;
 
   
 }
+
+.width_img_sp{
+      margin: 0 auto;
+}
+.imagewrapper {
+    width: 100%;
+}
+.premiumproductflex {
+  display:block;
+}
+.desktopimg{
+      text-align: center;
+}
+.desktopimg img{
+      width: 50%;
+}
+.queandbtn{
+     margin: 0 auto; 
+}
+/* //related artcle */
+.relatedarticle .desktopimg .article-template__hero-container .media{
+  background-color: #fff;
+}
+.relatedarticle .desktopimg .article-template__hero-container .relatedarticleimage{
+  position:relative;
+}
+.relatedarticle{
+      text-align: center;
+}
+.articlemartop{
+      margin: 10px auto;
+}
+/* //related artcle */
