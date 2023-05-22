@@ -152,6 +152,25 @@
       "settings": {
         "tabiingid": ""
       }
+    },
+    "0c7c6903-a265-4582-be57-0b58a60d5fd1": {
+      "type": "crockpet-diet",
+      "blocks": {
+        "51b806fc-692d-48fd-a415-71655d1e5799": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-20cm-manual",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "51b806fc-692d-48fd-a415-71655d1e5799"
+      ],
+      "settings": {
+        "tabiingid": ""
+      }
     }
   },
   "order": [
@@ -159,6 +178,7 @@
     "newsletter",
     "1655751929e34d4e57",
     "1684272298d585cb7f",
-    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780"
+    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
+    "0c7c6903-a265-4582-be57-0b58a60d5fd1"
   ]
 }
