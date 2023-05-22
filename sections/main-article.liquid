@@ -142,11 +142,17 @@
         <p>{{ article.content }}</p>
       {% endif %}
     {% endfor %}
-    {% for article in blogs.pet-advice.articles %}
+<!--     {% for article in blogs.pet-advice.articles %}
       {% assign handle = article.url | split: '/' %}
       {% assign handle = handle.last %}
       {{ handle }} >>>>
-      {% endfor %}
+      {% endfor %} -->
+   {% assign bloghandle = "pet-advice" %}
+     {% for handle in bloghandle %}
+          {% for article in blogs[handle].articles %}
+            {{ article.handle }}>>>
+          {% endfor %}
+     {% endfor %}
 </div>
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
