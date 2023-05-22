@@ -266,6 +266,11 @@
     },
     "4fe4e98c-2343-433c-8fa9-a06cea1be4a2": {
       "type": "rx-banner-text",
+      "custom_css": [
+        ".container .rx-text .rx-text-desc {max-width: 765px;}",
+        ".rx-template--14923095375937__d8e2cd8a-0203-4b4e-b695-c3f11dc36fa4 {max-width: 100%; margin-bottom: 0px;}",
+        ".container {align-items: center;}"
+      ],
       "settings": {
         "heading": "",
         "caption": "",
