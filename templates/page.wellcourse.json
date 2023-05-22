@@ -260,7 +260,7 @@
           "type": "collection",
           "settings": {
             "product": "the-original-crockpet-diet-1",
-            "btnlink": "https:\/\/shop.drruthroberts.com\/blogs\/pet-advice\/how-to-exercise-a-cat-your-indoor-cats-need-exercise",
+            "btnlink": "shopify:\/\/blogs\/pet-advice\/how-to-exercise-a-cat-your-indoor-cats-need-exercise",
             "outlinkbtn": "Course Outlines"
           }
         }
