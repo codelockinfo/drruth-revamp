@@ -396,19 +396,18 @@ $breadcrumbcontainer = $(".display-inlinetitle").length;
 if ($breadcrumbcontainer > 3) {
   $("#title-listing,.breadcrumbcontainer").addClass("overflow");
 }
-console.log(decodeURIComponent(window.location.href.split("#")[1]));
 $gethref = decodeURIComponent(window.location.href.split("#")[1]);
-$('.titlesustainability').each(function(index, element) {
-  $forhref = $(this).attr("href").replace("#","");
-  console.log($gethref);
-  console.log($forhref);
-  if ($gethref == $forhref) {
-    console.log("match");
-    $(this).closest(".display-inlinetitle").addClass("active");
-  }
-});
+if($gethref != "undefined"){
+  $('.titlesustainability').each(function(index, element) {
+    $forhref = $(this).attr("href").replace("#","");
+    if ($gethref == $forhref) {
+      $(this).closest(".display-inlinetitle").addClass("active");
+    }
+  });
+}else{
+  $(".display-inlinetitle:first-child").addClass("active");
+}
 $(".display-inlinetitle").on("click", function() {
-  console.log("tabig click ");
   $(".display-inlinetitle").removeClass("active");
   $(this).addClass("active");
 });
