@@ -96,29 +96,29 @@
         "2a735ae1-1cca-445e-b155-47ece918a161": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module 1",
-            "arrowdes": "The Original Crockpet Diet Cooking Essential"
+            "arrowhead": "Module 1   The Original Crockpet Diet Cooking Essential",
+            "arrowdes": "In this section, you will learn how to prepare the crockpet diet, rotation diet template for dogs and cats and also learn the science behind this diet"
           }
         },
         "423ebf4d-5709-4802-8685-55c333a54b6b": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  2",
-            "arrowdes": "The Original Crockpet Diet  for Dogs"
+            "arrowhead": "Module 2 – The Original Crockpet Diet  for Dogs",
+            "arrowdes": "This module contains five different recipes for The Original CrockPET Diet (TOCPD) for dogs, using various protein sources including beef, pork, and turkey. Each recipe provides a template for preparing a homemade, nutritionally balanced meal for your dog, with the option to exclude beans for those who prefer a bean-free diet"
           }
         },
         "a046938b-2af8-4fc8-a593-601fdabc0d7e": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  3",
-            "arrowdes": "The Original Crockpet Diet  for Cats"
+            "arrowhead": "Module 3 – The Original Crockpet Diet  for Cats",
+            "arrowdes": "This module contains seven different recipes for The Original CrockPET Diet (TOCPD) for cats, using various protein sources such as chicken breast, beef, turkey, and pork. Each recipe provides a template for preparing a homemade, nutritionally balanced meal with the option to exclude beans for those who prefer a bean-free diet"
           }
         },
         "2af52bc7-9804-4b86-81c1-ea3f84e93101": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module  4",
-            "arrowdes": "The Original Crockpet Diet  Kidney Disease Version"
+            "arrowhead": "Module 4 – The Original Crockpet Diet  Kidney Disease Version",
+            "arrowdes": "This module covers the Original CrockPET Diet Recipe for cats and dogs, specifically tailored for pets with kidney disease. It offers instructions for preparing and serving the meals and highlights the benefits of this diet for pets with kidney disease."
           }
         }
       },
@@ -437,6 +437,7 @@
     },
     "5b15151e-67d8-4d2c-942b-d054aa163a4f": {
       "type": "faq",
+      "disabled": true,
       "blocks": {
         "d89bc2d2-f263-436c-b86a-a25911d3ecd5": {
           "type": "collection",
@@ -451,7 +452,7 @@
         "d89bc2d2-f263-436c-b86a-a25911d3ecd5"
       ],
       "custom_css": [
-        ".set > a > svg{display: none;}"
+        ".set > a > svg {display: none;}"
       ],
       "settings": {
         "mfaqhead": "heading"
