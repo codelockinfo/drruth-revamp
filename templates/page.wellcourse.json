@@ -138,6 +138,70 @@
         "imagesingle": "shopify:\/\/shop_images\/Rectangle_0b7b6e8a-7709-4b67-82da-0ec496fe85c6.png"
       }
     },
+    "323d0ef8-4212-42e9-9e2c-63a170d19707": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search for guidance to gain your pet’s total wellness, has no doubt left you feeling overwhelmed.  Here we provide you with reliable sources of information and professionals who can help guide you in maintaining your pets' wellness.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1"
+      ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
+        ".content-container {background: #f5f8f1;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "43e0a268-a273-49f8-aebf-556332935db2": {
+      "type": "rx-banner-text",
+      "settings": {
+        "heading": "",
+        "caption": "",
+        "content": "",
+        "content2": "",
+        "image_max_height": "450px",
+        "layout": "image_first"
+      }
+    },
+    "3818f637-8ac3-46c3-ba5a-7340140cdaeb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The courses are created based on my 35+  years of experience as a Veterinarian and a Holistic Pets Health Coach. You'll receive top-quality instruction that's engaging, interactive, and tailored to your learning style. I understand that time is precious, which is why our courses are designed to fit your busy schedule. You can learn at your own pace, from anywhere in the world, and on any device. Plus, you'll have access to our support team and community of learners, so you'll never feel alone on your learning journey.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1"
+      ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__text {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e; text-align: left;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "416ff0cd-e5c1-44da-853e-04c83e543faa": {
       "type": "petwellness_tabing",
       "blocks": {
@@ -239,59 +303,6 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
-    },
-    "323d0ef8-4212-42e9-9e2c-63a170d19707": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search for guidance to gain your pet’s total wellness, has no doubt left you feeling overwhelmed.  Here we provide you with reliable sources of information and professionals who can help guide you in maintaining your pets' wellness.<br\/><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1"
-      ],
-      "custom_css": [
-        ".rich-text__blocks {max-width: 120rem;}",
-        ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
-        ".content-container {background: #f5f8f1;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "3818f637-8ac3-46c3-ba5a-7340140cdaeb": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The courses are created based on my 35+  years of experience as a Veterinarian and a Holistic Pets Health Coach. You'll receive top-quality instruction that's engaging, interactive, and tailored to your learning style. I understand that time is precious, which is why our courses are designed to fit your busy schedule. You can learn at your own pace, from anywhere in the world, and on any device. Plus, you'll have access to our support team and community of learners, so you'll never feel alone on your learning journey.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14923163369537__3818f637-8ac3-46c3-ba5a-7340140cdaeb-168474851967db6ec4-1"
-      ],
-      "custom_css": [
-        ".rich-text__blocks {max-width: 120rem;}",
-        ".rich-text__text {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e; text-align: left;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -300,11 +311,12 @@
     "1655751929e34d4e57",
     "1684272298d585cb7f",
     "d8433540-0e67-4e79-9d87-f0b413179952",
+    "323d0ef8-4212-42e9-9e2c-63a170d19707",
+    "43e0a268-a273-49f8-aebf-556332935db2",
+    "3818f637-8ac3-46c3-ba5a-7340140cdaeb",
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
-    "323d0ef8-4212-42e9-9e2c-63a170d19707",
-    "3818f637-8ac3-46c3-ba5a-7340140cdaeb"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
   ]
 }
