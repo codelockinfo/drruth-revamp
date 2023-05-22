@@ -12,6 +12,15 @@
                 </div>
          {%- endfor -%}
 </div>
+{% if page.title == "cources page" %}
+<style>
+
+#shopify-section-{{ section.id }} {
+    background: #F5F8F1;
+    padding: 50px 0;;
+}
+</style>
+{% endif %}
 {% schema %}
 {
   "name": "Benefits",
