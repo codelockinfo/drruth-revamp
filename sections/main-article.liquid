@@ -138,8 +138,10 @@
     {% for article in blog.articles %}
       {% if article.handle contains article_handle %}
         ???
+            <div class="desktopimg">
+                <img src="{{ product.featured_image | img_url: 'medium' }}">
+            </div>
         <h1>{{ article.title }}</h1>
-        <p>{{ article.content }}</p>
       {% endif %}
     {% endfor %}
 
