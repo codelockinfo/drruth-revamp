@@ -293,6 +293,13 @@
         "template--14922816258113__db3104ef-cb1a-4789-8d6a-2d71312daf98-16847272668e3f6836-1",
         "2e860384-3d3e-42ed-99f7-a21c0a01406d"
       ],
+      "custom_css": [
+        ".rich-text__text p {text-align: left; font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e;}",
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__buttons {border: 2px solid #184b44; border-radius: 24px; margin-top: 50px;}",
+        ".rich-text__buttons a {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; text-transform: uppercase; letter-spacing: 0.3em;}",
+        ".rich-text__buttons a svg {display: none;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
