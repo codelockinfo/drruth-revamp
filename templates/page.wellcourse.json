@@ -171,8 +171,7 @@
       "custom_css": [
         ".container .rx-text .rx-text-desc {max-width: 765px;}",
         ".rx-template--14923163369537__43e0a268-a273-49f8-aebf-556332935db2 {max-width: 100%; margin-bottom: 0px;}",
-        ".container {align-items: center;}",
-        "section{margin-top:0;}"
+        ".container {align-items: center;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Image_2_f9f90f01-197e-418a-8d09-d68697b73003.png",
