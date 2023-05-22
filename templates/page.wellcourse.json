@@ -378,6 +378,9 @@
     },
     "62381508-aea7-4f01-b23e-f76d360b4513": {
       "type": "petwellness_moth_year",
+      "custom_css": [
+        ".width50_cou.crocpet_img img {width: 100%;}"
+      ],
       "settings": {
         "prevhead": "THE ORIGINAL CROCKPET DietTM CLUB",
         "petwellimg": "shopify:\/\/shop_images\/Image_1_7daff97e-5691-4aad-8419-cd2c74716fee.png",
