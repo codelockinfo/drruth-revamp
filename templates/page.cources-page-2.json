@@ -96,7 +96,7 @@
         "2a735ae1-1cca-445e-b155-47ece918a161": {
           "type": "collection",
           "settings": {
-            "arrowhead": "Module 1   The Original Crockpet Diet Cooking Essential",
+            "arrowhead": "Module 1  - The Original Crockpet Diet Cooking Essential",
             "arrowdes": "In this section, you will learn how to prepare the crockpet diet, rotation diet template for dogs and cats and also learn the science behind this diet"
           }
         },
@@ -132,7 +132,8 @@
         ".arroww_btn {display: none;}",
         ".arrowheight {height: auto; overflow-y: unset;}",
         ".publickbg {background: #fff;}",
-        ".arrorrad {background: #f5f8f1;}"
+        ".arrorrad {background: #f5f8f1;}",
+        ".arrorrad {margin: 12px 6% 30px 12px;}"
       ],
       "settings": {
         "arrowid": "",
