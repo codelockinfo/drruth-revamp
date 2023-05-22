@@ -7515,8 +7515,10 @@ margin: 0 auto;
 .relatedarticle .desktopimg .article-template__hero-container .relatedarticleimage{
   position:relative;
 }
+.relatedarticle{
+      text-align: center;
+}
 .articlemartop{
       margin: 10px auto;
-
 }
 /* //related artcle */
