@@ -146,7 +146,7 @@
           "settings": {
             "benefitimg": "shopify:\/\/shop_images\/Vector_1.png",
             "benefit_head": "",
-            "benefit_desc": "Provides high-quality natural nutrition to promotes pet overall health and well-being"
+            "benefit_desc": "Lifetime Subscription : This exclusive digital membership gives you lifetime access to The Original CrockPet Diet online. You can access it via your phone, tablet, or computer. You'll get immediate online access to the ebook, TOCPD recipe, and its many variations, including Keto versions,Dr. Ruth's recipe for pets with kidney disease, holiday recipes, and more!"
           }
         },
         "0da9f2d4-0ac3-4fe3-ad3d-ef244bb2100e": {
@@ -154,7 +154,7 @@
           "settings": {
             "benefitimg": "shopify:\/\/shop_images\/Vector_1.png",
             "benefit_head": "",
-            "benefit_desc": "Convenient and accessible: The e-book is available in digital format for  pet owners to use on their devices anytime"
+            "benefit_desc": "Weekly Q&A Session : Michael Daly, a certified premier pet health coach, visits this group each week in a live broadcast to answer your questions about recipes. Ingredients or product substitution, share her latest thoughts, strategies, inspirations, and program information here. The Original CrockPet Diet team is dedicated to supporting you through a lifetime of healthy pets and home cooking for your furry friends."
           }
         },
         "15e7acd9-d626-403f-be0b-a77eb6e25e58": {
@@ -208,7 +208,7 @@
         ".benefitdes {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e;}"
       ],
       "settings": {
-        "bhead": "Benefits",
+        "bhead": "What Will You Get",
         "bsubhead": ""
       }
     },
