@@ -135,22 +135,13 @@
   {% assign blog_handle = 'pet-advice' %}
 {% assign article_handle = article.metafields.custom.relatedarticle %}
 
-
-{% for blog in blogs %}
-  >>
-  {% if blog.handle == blog_handle %}
-    ??
     {% for article in blog.articles %}
       {% if article.handle contains article_handle %}
-        <!-- Access the article data here -->
-  >>>>>>
+        ???
         <h1>{{ article.title }}</h1>
         <p>{{ article.content }}</p>
-        <!-- Add any other desired article fields -->
       {% endif %}
     {% endfor %}
-  {% endif %}
-{% endfor %}
 </div>
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
