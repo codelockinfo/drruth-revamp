@@ -138,8 +138,8 @@
     {% for article in blog.articles %}
       {% if article.handle contains article_handle %}
         ???
-        <h1>{{ article.title }}</h1>
-        <p>{{ article.content }}</p>
+<!--         <h1>{{ article.title }}</h1>
+        <p>{{ article.content }}</p> -->
       {% endif %}
     {% endfor %}
 <!--     {% for article in blogs.pet-advice.articles %}
@@ -147,12 +147,7 @@
       {% assign handle = handle.last %}
       {{ handle }} >>>>
       {% endfor %} -->
-   {% assign bloghandle = "pet-advice" %}
-     {% for handle in bloghandle %}
-          {% for article in blogs[handle].articles %}
-            {{ article.handle }}>>>
-          {% endfor %}
-     {% endfor %}
+
 </div>
 <!-- {% render 'reccomndedblog'%} -->
         <div class="article-template__back element-margin-top center">
