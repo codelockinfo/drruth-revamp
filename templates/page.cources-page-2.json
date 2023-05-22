@@ -133,8 +133,7 @@
         ".arrowheight {height: auto; overflow-y: unset;}",
         ".publickbg {background: #fff;}",
         ".arrorrad {background: #f5f8f1;}",
-        ".arrorrad {margin: 12px 6% 30px 12px;}",
-        ".arrowheight {width: 65%;}"
+        ".arrorrad {margin: 12px 6% 30px 12px;}"
       ],
       "settings": {
         "arrowid": "",
