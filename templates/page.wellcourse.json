@@ -310,6 +310,25 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
+    },
+    "ce0edac7-24b9-4237-811e-e0bf9b32ee17": {
+      "type": "crockpet-diet",
+      "blocks": {
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0": {
+          "type": "collection",
+          "settings": {
+            "product": "plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0"
+      ],
+      "settings": {
+        "tabiingid": ""
+      }
     }
   },
   "order": [
@@ -324,6 +343,7 @@
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
+    "ce0edac7-24b9-4237-811e-e0bf9b32ee17"
   ]
 }
