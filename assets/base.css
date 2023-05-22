@@ -7512,6 +7512,9 @@ margin: 0 auto;
      margin: 0 auto; 
 }
 /* //related artcle */
+.relatedarticle .desktopimg .article-template__hero-container .media{
+  background-color: #fff;
+}
 .relatedarticle .desktopimg .article-template__hero-container .relatedarticleimage{
   position:relative;
 }
