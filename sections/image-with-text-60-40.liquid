@@ -1,98 +1,97 @@
 <style>
-.text_sub_heading{
-font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 30px;
-text-transform: uppercase;
-color: #1E1E1E;
-}
-.text_paragraph_b{
-    font-family: 'Josefin Sans';
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 30px;
-color: #1E1E1E;
-}
-.image_hight_main > img{
-        width: 100%;
-}
-.txt_max_width{
-  
-}
-.width_change_1{
-   width:60%;
-}
-.width_change_2{
-    width:40%;
-}
-.pos_relative_{
-    position:relative;
-}
-.pos_ab_box{
-        position: absolute;
-    top: 50%;
-    left: 67%;
-    transform: translate(-50%, -50%);
-}
-#shopify-section-template--14923095375937__48d12ed6-72cc-412a-9a13-50d6daf38a9b{
-    background: #F5F8F1;
-}
-#shopify-section-template--14923095375937__d8e2cd8a-0203-4b4e-b695-c3f11dc36fa4{
-  margin-top: 0;
-}
-     @media screen and (max-width:1200px){
-.width_change_1{
-    width:50%;
-}
-.width_change_2{
-    width:50%;
-}
- .pos_ab_box{
-    position: unset;
-    top: unset;
-    left: unset;
-    transform: unset;
- }
-     }
-      @media screen and (max-width:890px){
-        .text_sub_heading{
-                font-size: 15px;
-        }
-        .text_paragraph_b{
-                font-size: 15px;
-        }
-
-      }
-  @media screen and (max-width:767px){
- .pos_none_{
-        display: block;
- }
- .pos_ab_box{
-                    position: unset;
-    top: unset;
-    left: unset;
-    transform: unset;
- }
- .width_change_2{
-    width:90%;
- }
- .width_change_1 {
-    width: 100%;
-}
+  .text_sub_heading{
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  text-transform: uppercase;
+  color: #1E1E1E;
   }
+  .text_paragraph_b{
+      font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 30px;
+  color: #1E1E1E;
+  }
+  .image_hight_main > img{
+          width: 100%;
+  }
+  .txt_max_width{
 
+  }
+  .width_change_1{
+     width:60%;
+  }
+  .width_change_2{
+      width:40%;
+  }
+  .pos_relative_{
+      position:relative;
+  }
+  .pos_ab_box{
+          position: absolute;
+      top: 50%;
+      left: 67%;
+      transform: translate(-50%, -50%);
+  }
+  #shopify-section-template--14923095375937__48d12ed6-72cc-412a-9a13-50d6daf38a9b{
+      background: #F5F8F1;
+  }
+  #shopify-section-template--14923163369537__d99a67c8-4d39-4990-a7bc-13b35a367e22{
+    margin-top: 0;
+  }
+       @media screen and (max-width:1200px){
+  .width_change_1{
+      width:50%;
+  }
+  .width_change_2{
+      width:50%;
+  }
+   .pos_ab_box{
+      position: unset;
+      top: unset;
+      left: unset;
+      transform: unset;
+   }
+       }
+        @media screen and (max-width:890px){
+          .text_sub_heading{
+                  font-size: 15px;
+          }
+          .text_paragraph_b{
+                  font-size: 15px;
+          }
+
+        }
+    @media screen and (max-width:767px){
+   .pos_none_{
+          display: block;
+   }
+   .pos_ab_box{
+                      position: unset;
+      top: unset;
+      left: unset;
+      transform: unset;
+   }
+   .width_change_2{
+      width:90%;
+   }
+   .width_change_1 {
+      width: 100%;
+  }
+    }
 </style>
 <section>
-    <div class="d_flex_main pos_relative_ pos_none_">
-        <div class="width50_cou image_hight_main width_change_1">
-   <img class="" src="{{ section.settings.imagesingle|img_url: '245x' }}">
-      </div>
-      <div class="width50_cou cls_dummy_ width_change_2">
-            <div class="txt_max_width pos_ab_box">
-                   <h2 class="clsh2_cource">{{ section.settings.txtfirst }}</h2>
+  <div class="d_flex_main pos_relative_ pos_none_">
+    <div class="width50_cou image_hight_main width_change_1">
+      <img class="" src="{{ section.settings.imagesingle|img_url: '245x' }}">
+    </div>
+    <div class="width50_cou cls_dummy_ width_change_2">
+      <div class="txt_max_width pos_ab_box">
+        <h2 class="clsh2_cource">{{ section.settings.txtfirst }}</h2>
         <p class="text_sub_heading">{{ section.settings.txtsecond }}</p>
         <p class="text_paragraph_b">{{ section.settings.txtthired }}</p>
         <p class="author_cource"></p>
@@ -102,14 +101,11 @@ color: #1E1E1E;
         </p>
 
         <div class="mar_t_50px_">
-            <p class="p_text_i">
-            </p>
-     
+          <p class="p_text_i"></p>
         </div>
-            </div>
       </div>
-  
     </div>
+  </div>
 </section>
 {% schema %}
 {
@@ -134,7 +130,7 @@ color: #1E1E1E;
         "type": "image_picker",
         "id": "imagesingle",
         "label": "Add Single  Image"
-        } 
+        }
   ],
   "blocks": [
 {
