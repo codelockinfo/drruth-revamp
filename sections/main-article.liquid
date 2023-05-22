@@ -123,6 +123,7 @@
                      <img src="{{ section.settings.articleimg|img_url: '800x' }}">
             </div>
         {% endif %}
+        {% if section.settings.custbtnn  != blank %}
             <div class="custombtn">
                 <a href="{{ section.settings.custbtnurl }}" class="customarticle">{{ section.settings.custbtnn }} 
                     <svg xmlns="http://www.w3.org/2000/svg" width="34" height="9" viewBox="0 0 34 9" fill="none">
@@ -130,6 +131,7 @@
                     </svg>
                 </a>
             </div> 
+          {% endif %}
        </div>
                           
 <div class="relatedarticle">
