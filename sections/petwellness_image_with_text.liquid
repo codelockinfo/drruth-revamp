@@ -7,8 +7,9 @@
         <img src="{{ section.settings.reviewimg|img_url: '800x' }}">
       </div>
     </div>
-    <div class="petwellness review60">
+    <div class="petwellness review60text">
       <p>{{ section.settings.discription }}</p>
+      <p>{{ section.settings.discription1 }}</p>
       <div
         class="bannerbtn1">
         <a href="{{section.settings.previwurl}}">{{ section.settings.previwbtn }}
@@ -55,12 +56,57 @@
     width: 100%;
   }
   .petwellness.review40{
-    width: 50%;
+    width: 40%;
   }
-  .petwellness.review60{
-    width: 50%;
+  .petwellness.review60text{
+    width: 46%;
     position: unset;
+    margin-right:auto;
+    margin-left: 3%;
   }
+  .petwellness.review60text p {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #1E1E1E;
+}
+ @media screen and (max-width:1200px){
+
+.petwellness.review60text {
+    width: 54%;
+}
+ }
+ @media screen and (max-width:991px){
+  .petwellness.review40 ,.petwellness.review60text  {
+    width: 100%;
+}
+.petwellness.review60text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ }
+  @media screen and (max-width:620px){
+    .headingpetwellness{
+        font-size: 24px;
+    line-height: 33px;
+    width:90%;
+    margin:0 auto;
+    }
+    .subheadingpetwellness{
+          font-size: 12px;
+    line-height: 20px;
+    width:90%;
+    margin:0 auto;
+    }
+  }
+   @media screen and (max-width:420px){
+    .headingpetwellness{
+      font-size: 19px;
+    line-height: 26px;}
+   }
 </style>
 {% schema %}
   {
@@ -88,7 +134,12 @@
         "type": "text",
         "id": "discription",
         "label": "Discription"
-      }, {
+      }, 
+      {
+        "type": "text",
+        "id": "discription1",
+        "label": "More Discription"
+      },{
         "type": "text",
         "id": "previwbtn",
         "label": "Button"
