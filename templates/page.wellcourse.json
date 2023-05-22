@@ -170,64 +170,6 @@
       "settings": {
       }
     },
-    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780": {
-      "type": "health",
-      "blocks": {
-        "2261eb1e-7610-4d87-aee8-21d473e6504f": {
-          "type": "collection",
-          "settings": {
-            "product": "assisi-loop®-2-0-20cm-manual",
-            "btnlink": "",
-            "outlinkbtn": "Course Outlines"
-          }
-        },
-        "dec76305-a159-4e2c-8519-ac92ab46450f": {
-          "type": "collection",
-          "settings": {
-            "product": "assisi-loop®-2-0-20cm-manual",
-            "btnlink": "",
-            "outlinkbtn": "Course Outlines"
-          }
-        }
-      },
-      "block_order": [
-        "2261eb1e-7610-4d87-aee8-21d473e6504f",
-        "dec76305-a159-4e2c-8519-ac92ab46450f"
-      ],
-      "settings": {
-        "tabiingid": ""
-      }
-    },
-    "0c7c6903-a265-4582-be57-0b58a60d5fd1": {
-      "type": "crockpet-diet",
-      "blocks": {
-        "51b806fc-692d-48fd-a415-71655d1e5799": {
-          "type": "collection",
-          "settings": {
-            "product": "assisi-loop®-2-0-20cm-manual",
-            "btnlink": "",
-            "outlinkbtn": ""
-          }
-        }
-      },
-      "block_order": [
-        "51b806fc-692d-48fd-a415-71655d1e5799"
-      ],
-      "settings": {
-        "tabiingid": ""
-      }
-    },
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f": {
-      "type": "petwellness_image_with_text",
-      "settings": {
-        "reviewimg": "shopify:\/\/shop_images\/Image_37643cb3-dfa4-4e71-b741-ec74a061f7e4.png",
-        "prevhead": "Empower Yourself to Be Your Pet's Best Advocate with Dr. Ruth Roberts Pet Wellness Courses",
-        "prevdes": "Discover the Best Ways to Nurture Your Pet's Wellness with Our Online CoursesTypography",
-        "discription": "Investing in pet wellness education is essential for your furry friend's health. Dr. Ruth Roberts’ comprehensive online courses provide you with the knowledge and confidence to make informed decisions regarding your pet’s wellness. You will  learn about the benefits of all natural pet food and discover the natural pet food solutions.   So why wait? Enroll in our courses today and join our community of learners who are passionate about nurturing their pet's wellness with the best solutions available. Start empowering yourself to be the best pet parent you can be!",
-        "previwbtn": "Enroll Now",
-        "previwurl": "#"
-      }
-    },
     "d5ea3a62-cc30-47e4-b2e8-768ece4b7086": {
       "type": "image-with-text-60-40",
       "settings": {
@@ -306,6 +248,64 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780": {
+      "type": "health",
+      "blocks": {
+        "2261eb1e-7610-4d87-aee8-21d473e6504f": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-20cm-manual",
+            "btnlink": "",
+            "outlinkbtn": "Course Outlines"
+          }
+        },
+        "dec76305-a159-4e2c-8519-ac92ab46450f": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-20cm-manual",
+            "btnlink": "",
+            "outlinkbtn": "Course Outlines"
+          }
+        }
+      },
+      "block_order": [
+        "2261eb1e-7610-4d87-aee8-21d473e6504f",
+        "dec76305-a159-4e2c-8519-ac92ab46450f"
+      ],
+      "settings": {
+        "tabiingid": ""
+      }
+    },
+    "0c7c6903-a265-4582-be57-0b58a60d5fd1": {
+      "type": "crockpet-diet",
+      "blocks": {
+        "51b806fc-692d-48fd-a415-71655d1e5799": {
+          "type": "collection",
+          "settings": {
+            "product": "assisi-loop®-2-0-20cm-manual",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
+        }
+      },
+      "block_order": [
+        "51b806fc-692d-48fd-a415-71655d1e5799"
+      ],
+      "settings": {
+        "tabiingid": ""
+      }
+    },
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f": {
+      "type": "petwellness_image_with_text",
+      "settings": {
+        "reviewimg": "shopify:\/\/shop_images\/Image_37643cb3-dfa4-4e71-b741-ec74a061f7e4.png",
+        "prevhead": "Empower Yourself to Be Your Pet's Best Advocate with Dr. Ruth Roberts Pet Wellness Courses",
+        "prevdes": "Discover the Best Ways to Nurture Your Pet's Wellness with Our Online CoursesTypography",
+        "discription": "Investing in pet wellness education is essential for your furry friend's health. Dr. Ruth Roberts’ comprehensive online courses provide you with the knowledge and confidence to make informed decisions regarding your pet’s wellness. You will  learn about the benefits of all natural pet food and discover the natural pet food solutions.   So why wait? Enroll in our courses today and join our community of learners who are passionate about nurturing their pet's wellness with the best solutions available. Start empowering yourself to be the best pet parent you can be!",
+        "previwbtn": "Enroll Now",
+        "previwurl": "#"
+      }
     }
   },
   "order": [
@@ -314,12 +314,12 @@
     "1655751929e34d4e57",
     "1684272298d585cb7f",
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
-    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
-    "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
     "d5ea3a62-cc30-47e4-b2e8-768ece4b7086",
     "db627cde-ffb6-4cf0-ab91-142db615fa9e",
     "4fe4e98c-2343-433c-8fa9-a06cea1be4a2",
-    "d99a67c8-4d39-4990-a7bc-13b35a367e22"
+    "d99a67c8-4d39-4990-a7bc-13b35a367e22",
+    "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
+    "0c7c6903-a265-4582-be57-0b58a60d5fd1",
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
   ]
 }
