@@ -279,15 +279,7 @@
           "settings": {
             "product": "assisi-loop®-2-0-10cm-auto-cycle",
             "btnlink": "",
-            "outlinkbtn": ""
-          }
-        },
-        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0": {
-          "type": "collection",
-          "settings": {
-            "product": "plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
-            "btnlink": "",
-            "outlinkbtn": ""
+            "outlinkbtn": "Course Outlines"
           }
         },
         "a2eefc49-1d01-4281-84bd-9d6aeec19129": {
@@ -295,14 +287,22 @@
           "settings": {
             "product": "the-original-crockpet-diet-1",
             "btnlink": "",
-            "outlinkbtn": ""
+            "outlinkbtn": "Course Outlines"
+          }
+        },
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0": {
+          "type": "collection",
+          "settings": {
+            "product": "plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
+            "btnlink": "",
+            "outlinkbtn": "Course Outlines"
           }
         }
       },
       "block_order": [
         "f124a283-f045-4f8e-a4a3-d962cca9debc",
-        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0",
-        "a2eefc49-1d01-4281-84bd-9d6aeec19129"
+        "a2eefc49-1d01-4281-84bd-9d6aeec19129",
+        "596e1740-d641-4e33-b5d3-5f4f46cbd8e0"
       ],
       "settings": {
         "tabiingid": "EBOOKS"
@@ -314,7 +314,7 @@
         "2261eb1e-7610-4d87-aee8-21d473e6504f": {
           "type": "collection",
           "settings": {
-            "product": "tocpdandholistictotalbodysupportcombo",
+            "product": "copy-of-the-original-crockpet-diet-for-dogs-and-cats-dr-ruth-roberts",
             "btnlink": "",
             "outlinkbtn": "Course Outlines"
           }
