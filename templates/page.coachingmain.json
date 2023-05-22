@@ -195,6 +195,9 @@
         "0f2ed1d8-a230-44df-89e7-5b2f784e11e1",
         "75212e61-ef38-4323-b6ce-d70e8a0a5b3a"
       ],
+      "custom_css": [
+        "svg {margin-left: 30px;}"
+      ],
       "settings": {
         "c_head": "",
         "pro_btn1": "apply now",
@@ -524,7 +527,8 @@
         "eba4833e-b4c1-4a68-b60c-029de541c5b5"
       ],
       "custom_css": [
-        ".arrowheight {height: 600px;}"
+        ".arrowheight {height: 600px;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "arrowid": "shopify:\/\/pages\/application-form",
