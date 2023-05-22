@@ -375,6 +375,21 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
+    },
+    "62381508-aea7-4f01-b23e-f76d360b4513": {
+      "type": "petwellness_moth_year",
+      "settings": {
+        "prevhead": "THE ORIGINAL CROCKPET DietTM CLUB",
+        "petwellimg": "shopify:\/\/shop_images\/Image_1_7daff97e-5691-4aad-8419-cd2c74716fee.png",
+        "pdiscription": "Introducing the exclusive Original CrockPet DietTM Club, created by the renowned veterinarian and holistic pet health expert, Dr. Ruth Roberts!Are you tired of feeding your beloved pet commercial pet food that may be filled with artificial preservatives, chemicals, and unknown ingredients? Do you want to ensure that your furry friend is getting the very best nutrition to maintain their health and vitality?Look no further than The Original CrockPet DietTM Club, where you'll gain access to a supportive community of pet owners who share your passion for feeding their pets healthy, home-cooked meals. With weekly live Q&A sessions featuring Dr. Roberts herself, you'll receive expert guidance on how to create balanced and nutritious meals for your pet using the patented CrockPet Cooking method.In addition, to live Q&A sessions, you'll also receive Angela Ardolino's plant medicine guide, which covers the many benefits of using natural supplements to support your pet's health. Plus, you'll get access to a bonus course on gut health, and a massive library of content including previous Q&A sessions, audio files, transcripts, and recipes in PDF format.By joining The Original CrockPet DietTM Club, you'll be joining thousands of other pet owners who have already revolutionized the way they feed their pets. Give your furry friend the gift of optimal health and well-being by joining The Original CrockPet DietTM Club today!",
+        "pdiscription1": "Dr. Ruth Roberts invites you to our vibrant community of pet owners passionate about feeding their pets healthy, home-cooked meals. Embark on a journey of community learning and growth as we guide you on the path to optimal pet nutrition and the benefits of all-natural pet food. Get expert guidance on balanced nutrition through live Q&A sessions with Dr. Roberts herself. Explore Angela Ardolino's plant medicine guide, a bonus gut health course, and a wealth of content including previous Q&A sessions, audio files, transcripts, and PDF recipes. Revolutionize the way you feed your furry friend alongside thousands of like-minded pet owners. Join the Original CrockPet DietTM Club, your gateway to natural pet food solutions!",
+        "pack1": "Monthly $9.99",
+        "pack1price": "  $119.88\/year",
+        "pack2": "Annual $4.99",
+        "pack2price": " 59.88\/year",
+        "joinlinkbnt": "join now",
+        "joinbtn": ""
+      }
     }
   },
   "order": [
@@ -391,6 +406,7 @@
     "ce0edac7-24b9-4237-811e-e0bf9b32ee17",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "a8f7eda4-98ef-4806-aed7-7aedc7c76d95",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
+    "62381508-aea7-4f01-b23e-f76d360b4513"
   ]
 }
