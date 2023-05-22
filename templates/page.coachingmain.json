@@ -195,6 +195,9 @@
         "0f2ed1d8-a230-44df-89e7-5b2f784e11e1",
         "75212e61-ef38-4323-b6ce-d70e8a0a5b3a"
       ],
+      "custom_css": [
+        "svg {margin-left: 30px;}"
+      ],
       "settings": {
         "c_head": "",
         "pro_btn1": "apply now",
@@ -383,7 +386,9 @@
         "d8d9e195-a5bd-4b4b-b033-7cf0e68bd9ae"
       ],
       "custom_css": [
-        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}"
+        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}",
+        ".blogbodrafter a.btnspace {padding: 0;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "programhead": "After the program",
@@ -524,7 +529,8 @@
         "eba4833e-b4c1-4a68-b60c-029de541c5b5"
       ],
       "custom_css": [
-        ".arrowheight {height: 600px;}"
+        ".arrowheight {height: 600px;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "arrowid": "shopify:\/\/pages\/application-form",
@@ -681,7 +687,7 @@
         ".starflex {align-items: baseline;}"
       ],
       "settings": {
-        "starreviewhead": "What Our Graduates Say"
+        "starreviewhead": "What our graduates say"
       }
     },
     "ce91651f-d904-47c1-8141-db2c7becf9a1": {
@@ -906,7 +912,8 @@
     "053fe5bc-9a28-4717-93c7-0635073e2e49": {
       "type": "rx-blog",
       "custom_css": [
-        ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}"
+        ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}",
+        ".blog__button{border: 2px solid #184B44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: .2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%; }"
       ],
       "settings": {
         "heading": "Pet Advice By Dr. Ruth ",

@@ -131,7 +131,8 @@
       "custom_css": [
         ".arroww_btn {display: none;}",
         ".arrowheight {height: auto; overflow-y: unset;}",
-        ".publickbg {background: #fff;}"
+        ".publickbg {background: #fff;}",
+        ".arrorrad {background: #f5f8f1;}"
       ],
       "settings": {
         "arrowid": "",
@@ -198,7 +199,8 @@
         "p.benefitdes {text-align: left;}",
         ".benefitblog {padding: 10px;}",
         ".benefittext {margin-top: 2%; margin-bottom: 18px;}",
-        ".benefitdes {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e;}"
+        ".benefitdes {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #1e1e1e;}",
+        ".benefitblog {width: 49%; flex-direction: row; align-items: flex-start;}"
       ],
       "settings": {
         "bhead": "What Will You Get",

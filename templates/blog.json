@@ -78,6 +78,9 @@
         "596c6c8a-d8f4-4fab-8bf3-79a7edc0785c",
         "f5bf5fde-1132-49c5-9b00-76e9f2fd213f"
       ],
+      "custom_css": [
+        "a{text-decoration:none;}"
+      ],
       "settings": {
         "blogtext": "Our blogs",
         "blogdes": "The most useful pet advice news."
