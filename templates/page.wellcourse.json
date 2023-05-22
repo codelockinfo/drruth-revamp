@@ -227,6 +227,42 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
+    },
+    "d5ea3a62-cc30-47e4-b2e8-768ece4b7086": {
+      "type": "image-with-text-60-40",
+      "settings": {
+        "txtfirst": "Dr. Ruth Roberts Pet Wellness Courses",
+        "txtsecond": "Take Charge of Your Pet's Wellness and Happiness with Dr. Ruth Roberts' Online Courses",
+        "txtthired": "I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.  I combine scientific facts, decades of clinical work, and a holistic, integrated health and wellness approach to help you find solutions that’ll nurture your furry friend back to optimum health.",
+        "imagesingle": "shopify:\/\/shop_images\/Rectangle_0b7b6e8a-7709-4b67-82da-0ec496fe85c6.png"
+      }
+    },
+    "db627cde-ffb6-4cf0-ab91-142db615fa9e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14923163369537__db627cde-ffb6-4cf0-ab91-142db615fa9e-1684747317ace9d402-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14923163369537__db627cde-ffb6-4cf0-ab91-142db615fa9e-1684747317ace9d402-1"
+      ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
+        ".content-container {background: #f5f8f1;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -237,6 +273,8 @@
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
+    "d5ea3a62-cc30-47e4-b2e8-768ece4b7086",
+    "db627cde-ffb6-4cf0-ab91-142db615fa9e"
   ]
 }
