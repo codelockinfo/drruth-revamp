@@ -239,6 +239,33 @@
         "previwbtn": "Enroll Now",
         "previwurl": "#"
       }
+    },
+    "323d0ef8-4212-42e9-9e2c-63a170d19707": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you love your pets like I love mine, you want the very best and safest way to treat and prevent disease in your four-legged family members. If your pet has been sick or has a terrible diagnosis, I bet you’ve been scouring the internet for information on your pet’s health issues. Your search for guidance to gain your pet’s total wellness, has no doubt left you feeling overwhelmed.  Here we provide you with reliable sources of information and professionals who can help guide you in maintaining your pets' wellness.<br\/><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14923163369537__323d0ef8-4212-42e9-9e2c-63a170d19707-168474851967db6ec4-1"
+      ],
+      "custom_css": [
+        ".rich-text__blocks {max-width: 120rem;}",
+        ".rich-text__text > p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-transform: uppercase; color: #1e1e1e; text-align: left;}",
+        ".content-container {background: #f5f8f1;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -250,6 +277,7 @@
     "416ff0cd-e5c1-44da-853e-04c83e543faa",
     "c9ae6930-e6be-41f4-a8fd-ca0fc8a52780",
     "0c7c6903-a265-4582-be57-0b58a60d5fd1",
-    "7d80b91c-0905-4611-affb-51fe2d1dc13f"
+    "7d80b91c-0905-4611-affb-51fe2d1dc13f",
+    "323d0ef8-4212-42e9-9e2c-63a170d19707"
   ]
 }
