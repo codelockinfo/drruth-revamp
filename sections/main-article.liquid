@@ -136,8 +136,11 @@
 {% assign article_handle = article.metafields.custom.relatedarticle %}
 
 {% for blog in blogs %}
+  ???
   {% if blog.handle == blog_handle %}
+    >>>>
     {% for article in blog.articles %}
+      <<<<
       {% if article.handle == article_handle %}
         <h1>{{ article.title }}</h1>
         <p>{{ article.content }}</p>
