@@ -6537,9 +6537,14 @@ border-radius: 24px;
 padding: 10px 7%;
 text-align: center;
 justify-content: left;
-border: 2px solid #184B44;
 min-height: 83px;
 
+}
+.blogbg:hover{
+  border: 2px solid #184B44;
+}
+.blogbg.active{
+  border: 2px solid #184B44;
 }
 .blogflex {
   width: 23%;
