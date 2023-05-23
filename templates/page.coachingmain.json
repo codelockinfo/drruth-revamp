@@ -195,6 +195,9 @@
         "0f2ed1d8-a230-44df-89e7-5b2f784e11e1",
         "75212e61-ef38-4323-b6ce-d70e8a0a5b3a"
       ],
+      "custom_css": [
+        "svg {margin-left: 30px;}"
+      ],
       "settings": {
         "c_head": "",
         "pro_btn1": "apply now",
@@ -383,7 +386,9 @@
         "d8d9e195-a5bd-4b4b-b033-7cf0e68bd9ae"
       ],
       "custom_css": [
-        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}"
+        "p.programdestext {padding: 4% 9%; border-top: 2px solid #f5f8f1;}",
+        ".blogbodrafter a.btnspace {padding: 0;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "programhead": "After the program",
@@ -524,7 +529,8 @@
         "eba4833e-b4c1-4a68-b60c-029de541c5b5"
       ],
       "custom_css": [
-        ".arrowheight {height: 600px;}"
+        ".arrowheight {height: 600px;}",
+        "svg {margin-left: 30px;}"
       ],
       "settings": {
         "arrowid": "shopify:\/\/pages\/application-form",
@@ -574,7 +580,7 @@
         ".slick-dots {margin: 2% 0 -1% 0;}",
         "button.drag.coacharrow.slick-prev.pull-left.slick-arrow {top: 50%; position: absolute; left: -1%;}",
         "button.drag.coacharrow2.slick-next.pull-right.slick-arrow {position: absolute; top: 50%; right: -3%;}",
-        "svg {margin-left:-7px;}"
+        "svg {margin-left: -7px;}"
       ],
       "settings": {
         "testhead": "Meet Our Certified Coaches",
@@ -681,11 +687,15 @@
         ".starflex {align-items: baseline;}"
       ],
       "settings": {
-        "starreviewhead": "What Our Graduates Say"
+        "starreviewhead": "What our graduates say"
       }
     },
     "ce91651f-d904-47c1-8141-db2c7becf9a1": {
       "type": "about_coachingmain",
+      "custom_css": [
+        ".bannerbtn1 {padding: 16px 14px;}",
+        "svg {margin-left: 30px;}"
+      ],
       "settings": {
         "reviewimg": "shopify:\/\/shop_images\/Image_3.png",
         "prevhead": "About Dr. Ruth",
@@ -731,7 +741,8 @@
       "custom_css": [
         ".imghead {font-family: \"BLT-Heirloom\"; font-style: normal; font-weight: 300; font-size: 30px; line-height: 40px; text-align: center; color: #ffffff;}",
         "h2.banner__heading.h1 {margin-left: -5%;}",
-        ".banner_img a.button.button--primary {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 21px; padding: 8px 40px; opacity: 1; cursor: pointer; letter-spacing: 0.2em; text-transform: uppercase; color: #ffffff;}"
+        ".banner_img a.button.button--primary {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 21px; padding: 8px 40px; opacity: 1; cursor: pointer; letter-spacing: 0.2em; text-transform: uppercase; color: #ffffff;}",
+        ".banner__box > * + .banner__buttons {margin-left: -5%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rectangle_1.png",
@@ -810,15 +821,15 @@
         "show_description": false,
         "description_style": "body",
         "collection": "pet-education-membership",
-        "products_to_show": 4,
-        "columns_desktop": 4,
+        "products_to_show": 3,
+        "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
@@ -901,12 +912,13 @@
     "053fe5bc-9a28-4717-93c7-0635073e2e49": {
       "type": "rx-blog",
       "custom_css": [
-        ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}"
+        ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}",
+        ".blog__button{border: 2px solid #184B44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: .2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%; }"
       ],
       "settings": {
         "heading": "Pet Advice By Dr. Ruth ",
         "heading_size": "h1",
-        "blog": "news",
+        "blog": "pet-advice",
         "post_limit": 3,
         "columns_desktop": 3,
         "show_image": true,

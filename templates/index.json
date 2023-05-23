@@ -605,7 +605,7 @@
         "show_arrow_mobile": "no",
         "mobile_content_alignment": "left",
         "padding_top": 0,
-        "padding_bottom": 88
+        "padding_bottom": 0
       }
     },
     "40e124d8-821b-4b01-8eb8-2482449db53a": {
@@ -690,7 +690,8 @@
       "custom_css": [
         ".bbutton {margin-top: 4%;}",
         "@media screen and (max-width: 560px) {.bbutton {margin-top: 7%; }}",
-        "@media screen and (max-width: 380px) {.rx_read_more_btn_green {padding: 15px 8px; font-size: letter-spacing: 0.2rem; } .bbutton {margin-top: 10%; }}"
+        "@media screen and (max-width: 380px) {.rx_read_more_btn_green {padding: 15px 8px; font-size: letter-spacing: 0.2rem; } .bbutton {margin-top: 10%; }}",
+        ".custom-box {max-width: 75rem;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner-1.jpg",

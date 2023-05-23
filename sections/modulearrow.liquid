@@ -33,6 +33,23 @@
        
     </div>
 </div>
+{% if page.title == "cources page" %}
+<style>
+.arrowheight {
+  width: 65%;
+}
+@media screen and (max-width:900px){  
+  .arrowheight {
+  width: 90%;
+}
+}
+@media screen and (max-width:620px){  
+  .arrowheight {
+  width: 100%;
+}
+}
+</style>
+{% endif %}
 {% schema %}
   {
     "name": "modulearrow",

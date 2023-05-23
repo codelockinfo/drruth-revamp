@@ -85,8 +85,13 @@
   }
   
 </style>
-
-
+{% if page.title == "pet wellness course" %}
+<style>
+#shopify-section-{{ section.id }} {
+      margin-top: 0;
+}
+</style>
+{% endif %}
 <div class="rx-{{section.id}}">
   <div class="container">
     <img
