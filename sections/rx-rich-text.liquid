@@ -49,6 +49,8 @@
     line-height: 30px;
     color: #1E1E1E;
     text-align: {{section.settings.caption_alignment}} !important;
+    width: 60%;
+    margin: 0 auto;
   }
 
   .rx-{{section.id}} .img-container {
@@ -82,6 +84,12 @@
       background-color: {{ section.settings.section_bg_color }};
     }
   }
+  @media screen and (max-width: 620px) {
+    .rx_rich-text__caption{
+      width: 96%;
+    margin: 0 auto;
+    }
+}
   @media screen and (max-width: 520px) {
     .rx_rich-text__heading{
       font-size: 44px;

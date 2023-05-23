@@ -6073,9 +6073,9 @@ color: #FFFFFF;
   padding-left: 10%;
 }
 .blogsvg{
-  /* border: 2px solid #184B44;
-  width: 73px;
-height: 73px; */
+  border: 2px solid #184B44;
+  width: 60px;
+height: 60px;
 border-radius: 50%;
 display: flex;
 align-items: center;
@@ -6597,7 +6597,7 @@ padding: 0px 15px;
 button.blogread {
 border: 2px solid #184B44;
 border-radius: 25.5px;
-padding: 15px;
+padding: 15px;background-color: transparent;
 }
 h3.card__heading.h2 a {
 font-family: 'Josefin Sans';
@@ -7728,4 +7728,9 @@ width: 250px;
     width: 90%;
 }
 }
+@media screen and (max-width:330px){
+  .rx_read_more_btn_white{
+    font-size: 11px;
+  }
+} 
 

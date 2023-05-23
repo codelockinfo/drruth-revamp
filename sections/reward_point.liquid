@@ -12,7 +12,7 @@
                     <div class="rblogbg">
                         <div class="blogsvg">
                                  <a href="{{block.settings.rewaimgurl}}">
-                                      <img src="{{ block.settings.rewardpoint | img_url: 'small' }}" alt="">
+                                      <img src="{{ block.settings.rewardpoint | img_url: 'small' }}" alt="" class="borderflex">
                                   </a>
                         </div>
                         <h4 class="rehead">{{block.settings.rehead}}</h4>
@@ -79,3 +79,8 @@
   ]
 }
 {% endschema %}
+<style>
+  .borderflex{
+    display: flex;
+  }
+</style>
