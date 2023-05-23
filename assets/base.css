@@ -7698,6 +7698,21 @@ width: 250px;
 }
 }
 /* //end 014 */
+
+@media screen and (max-width: 749px) {
+ 
+  .rx_read_more_btn_green.cust-emil{
+   
+    border: 2px solid #000!important;
+  }
+  .rx-email-field::placeholder{
+    color:#000;
+  }
+  .newsletter-form__button.field__button path {
+    stroke: black;
+}
+} 
+
 @media screen and (max-width:860px){
   .blogflex {
     width: 31%;
@@ -7713,3 +7728,4 @@ width: 250px;
     width: 90%;
 }
 }
+

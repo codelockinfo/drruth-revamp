@@ -13,7 +13,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "BOOK DR. RUTH  ",
-            "button_link_1": "https:\/\/uh57vdm5ibv0uudw-1754431553.shopifypreview.com\/pages\/speaker#shopify-section-template--14921793273921__08f4812f-8c18-4709-b30b-791c74af60a2"
+            "button_link_1": "shopify:\/\/pages\/contact-us"
           }
         }
       },
@@ -152,6 +152,11 @@
     },
     "db04c4f4-51de-4290-a61a-0abfc410e04c": {
       "type": "rx-banner-text",
+      "custom_css": [
+        "@media screen and (max-width: 1230px) {.rx-text {padding-right: 56px; }}",
+        "@media screen and (max-width: 1150px) {.rx-text {padding-right: 24px; padding-left: 30px; }}",
+        "@media screen and (max-width: 1100px) {.rx-text .content {font-size: 16px; }}"
+      ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Mask_group.png",
         "heading": "",
@@ -311,7 +316,7 @@
         "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 12
       }
     },

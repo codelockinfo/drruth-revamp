@@ -318,7 +318,7 @@
         "template--14898486247489__f60fcd36-95e3-42dc-83ea-518aef727035-168139761018b48100-1"
       ],
       "custom_css": [
-        "h2.rx_rich-text__heading {margin-top: 7%;}",
+        "h2.rx_rich-text__heading {margin-top: 0%;}",
         ".rx_rich-text__text {line-height: 40px;}"
       ],
       "settings": {
