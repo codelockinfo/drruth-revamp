@@ -63,6 +63,9 @@
       "block_order": [
         "ffd5c83d-676b-4d97-83cb-5ca7de87434e"
       ],
+      "custom_css": [
+        "#rx_read_more_arrow_black {margin-left: 30px;}"
+      ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Image_4.png",
         "heading": "",

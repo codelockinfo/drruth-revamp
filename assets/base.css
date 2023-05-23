@@ -6073,13 +6073,16 @@ color: #FFFFFF;
   padding-left: 10%;
 }
 .blogsvg{
-  border: 2px solid #184B44;
-  width: 60px;
-height: 60px;
+
 border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
+}
+.blogsvg.svg{
+  border: 2px solid #184B44;
+  width: 60px;
+height: 60px;
 }
 .faqborder{
     border-top: 1px solid #F5F8F1;
