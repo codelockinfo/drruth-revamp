@@ -95,6 +95,7 @@
         "custbtnurl": "",
         "right_image_text": "Become A Holistic Pet Health Coach",
         "imagesingle": "shopify:\/\/shop_images\/Mask_group-3.png",
+        "blog_single_url": "",
         "morebl_first": "Related Products",
         "cls_main": "assisi-loop-calmer-canine®",
         "morebl": "More Blogs",
@@ -139,6 +140,7 @@
     },
     "58c31b65-2904-4c31-82b8-3b156b1d58af": {
       "type": "recommended_slider",
+      "disabled": true,
       "blocks": {
         "486420a4-3758-41e0-a549-8a6f78d5f378": {
           "type": "collection",
