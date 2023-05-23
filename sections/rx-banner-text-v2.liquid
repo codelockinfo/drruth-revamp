@@ -89,8 +89,14 @@
   }
   
 </style>
-
-
+{% if page.handle == "contact-us" %}
+<style>
+.rx-{{section.id}} .container .rx-text{
+    background-color: #fff;
+    border-top: 2px solid #F5F8F1;
+}
+</style>
+{% endif %}
 <div class="rx-{{section.id}}">
   <div class="container">
     <img
