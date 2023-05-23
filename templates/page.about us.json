@@ -203,7 +203,7 @@
           "settings": {
             "feature_title": "",
             "feature_text": "",
-            "feature_image": "shopify:\/\/shop_images\/Image_14.png",
+            "feature_image": "shopify:\/\/shop_images\/Image_2_ac30b6e0-12ec-484e-9fad-fe45afd21d69.png",
             "icon_url": "",
             "feature_image_width": "180px",
             "feature_use_svg": false,
@@ -347,7 +347,7 @@
     "ad2b506a-a006-4757-abea-111ff8635172": {
       "type": "rx-banner-text",
       "custom_css": [
-        ".container{display: flex; align-items: center;}"
+        ".container {display: flex; align-items: center;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/drruth1.jpg",
