@@ -191,7 +191,7 @@
           "type": "block",
           "settings": {
             "rewardpoint": "shopify:\/\/shop_images\/free-icon-shopping-bag-2956820_1.png",
-            "rewaimgurl": "shopify:\/\/collections",
+            "rewaimgurl": "shopify:\/\/collections\/all",
             "rehead": "Make a purchase",
             "resubhead": "$1 USD = 1 PAW"
           }
