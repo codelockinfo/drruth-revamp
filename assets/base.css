@@ -6565,9 +6565,9 @@ h4.blogghead {
 font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 500;
-font-size: 16px;
+font-size: 18px;
 line-height: 30px;
-text-transform: uppercase;
+text-transform: initial;
 color: #1E1E1E;
 margin: 0;
 text-align: left;
