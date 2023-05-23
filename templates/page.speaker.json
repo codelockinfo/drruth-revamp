@@ -154,7 +154,8 @@
       "type": "rx-banner-text",
       "custom_css": [
         "@media screen and (max-width: 1230px) {.rx-text {padding-right: 56px; }}",
-        "@media screen and (max-width: 1150px) {.rx-text {padding-right: 24px; padding-left: 30px; }}"
+        "@media screen and (max-width: 1150px) {.rx-text {padding-right: 24px; padding-left: 30px; }}",
+        "@media screen and (max-width: 1100px) {.rx-text .content {font-size:16px; }}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Mask_group.png",
