@@ -607,8 +607,8 @@
           "settings": {
             "cost_num": "4",
             "cost_head": "Monthly Installments",
-            "cost_price": "$1500 \/ 4 months",
-            "costmont": "",
+            "cost_price": "$1500",
+            "costmont": "\/ 4 months",
             "cost_desc": "The program's total cost $6000. You will pay $1,500 admission fees, then $1,500 per month."
           }
         },
@@ -617,8 +617,8 @@
           "settings": {
             "cost_num": "16",
             "cost_head": "Weekly Installments",
-            "cost_price": "$367 \/ 15 week",
-            "costmont": "",
+            "cost_price": "$367",
+            "costmont": "\/ 15 week",
             "cost_desc": "The program's total cost is $6005. You will pay $500 admission fees, then $367 per week."
           }
         }
@@ -741,8 +741,8 @@
       "custom_css": [
         ".imghead {font-family: \"BLT-Heirloom\"; font-style: normal; font-weight: 300; font-size: 30px; line-height: 40px; text-align: center; color: #ffffff;}",
         "h2.banner__heading.h1 {margin-left: -5%;}",
-        ".banner_img a.button.button--primary {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 21px; padding: 8px 40px; opacity: 1; cursor: pointer; letter-spacing: 0.2em; text-transform: uppercase; color: #ffffff;}",
-        ".banner__box > * + .banner__buttons {margin-left: -5%;}"
+        ".banner_img a.button.button--primary {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 21px; padding: 8px 18px; opacity: 1; cursor: pointer; letter-spacing: 0.2em; text-transform: uppercase; color: #ffffff;}",
+        ".banner__box > * + .banner__buttons {margin-left: -6%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rectangle_1.png",
@@ -811,8 +811,9 @@
       "custom_css": [
         ".rich-text__blocks {max-width: 90rem;}",
         "p {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-align: center; color: #1e1e1e; width: 70%; margin: 0 auto; text-align: center;}",
-        "h2.title.h1 {font-family: \"BLT-Heirloom\"; font-style: normal; font-weight: 300; font-size: 30px; line-height: 40px; color: #1e1e1e; text-align: center;}",
-        ".caption-with-letter-spacing.light {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 11px; line-height: 30px; color: #1e1e1e; margin: 0;}"
+        "h2.title.h1 {font-family: \"BLT-Heirloom\"; font-weight: 300; font-size: 30px; line-height: 40px; color: #1e1e1e; text-align: center;}",
+        ".caption-with-letter-spacing.light {font-family: \"Josefin Sans\"; font-weight: 500; font-size: 11px; line-height: 30px; color: #1e1e1e; margin: 0;}",
+        ".card__badge {grid-row-start: 1;}"
       ],
       "settings": {
         "title": "Dr. Ruth Pet Wellness Courses",
@@ -913,7 +914,7 @@
       "type": "rx-blog",
       "custom_css": [
         ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}",
-        ".blog__button{border: 2px solid #184B44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: .2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%; }"
+        ".blog__button {border: 2px solid #184b44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: 0.2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%;}"
       ],
       "settings": {
         "heading": "Pet Advice By Dr. Ruth ",

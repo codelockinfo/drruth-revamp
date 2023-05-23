@@ -9,7 +9,7 @@
                 {% for image in product.images limit: 1 %}
                     <div class="d_flex_main50health">
                      <div class="width50_couhealth crocpet_img">
-                            <img class="width_img_cource" src="{{ image.src | product_img_url: 'grande' }}">
+                            <img class="width_img_cource" src="{{ image.src | product_img_url: 'master' }}">
                         </div>
                         <div class="width50_couhealth crockdummyhealth health">
                             <div class="cropet_content">
@@ -198,6 +198,7 @@
     text-transform: uppercase;
     color: #1E1E1E;
     padding: 10px 30px;
+    background-color: transparent;
 }
        .crockpettitle-des{
         font-family: 'Josefin Sans';

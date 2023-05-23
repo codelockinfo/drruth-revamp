@@ -66,7 +66,19 @@
     }
   }
 {%- endstyle -%}
-
+{% if page.handle == "coachingmain1" %}
+<style>
+#shopify-section-{{ section.id }}{
+  border-top: 2px solid #F5F8F1;
+}
+#shopify-section-{{ section.id }} .blog__button.button{
+    padding-right: 2%;
+}
+#shopify-section-{{ section.id }} .incpadding{
+      margin-left: 32px;
+}
+</style>
+{% endif %}
 {%- liquid
   assign posts_displayed = section.settings.blog.articles_count
   if section.settings.post_limit <= section.settings.blog.articles_count
@@ -158,7 +170,15 @@
             class="blog__button button"
             aria-labelledby="ViewAll-{{ section.id }} SectionHeading-{{ section.id }}"
           >
+          {% if page.handle == "coachingmain1" %}
+          More Pet Advice
+          {% else %}
             {{ 'sections.featured_blog.view_all' | t }}
+          {% endif %}
+             <img  class="{% if page.handle == "coachingmain1"%} incpadding {% endif %}"
+            id="rx_read_more_arrow_black"
+            src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/blog_arrow.png?v=1680443191"
+          >
           </a>
         </div>
       {%- endif -%}

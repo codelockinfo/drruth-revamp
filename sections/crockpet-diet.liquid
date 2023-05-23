@@ -30,7 +30,7 @@
                             </div>
                         </div>
                         <div class="width50_cou crocpet_img">
-                            <img class="width_img_cource diert" src="{{ image.src | product_img_url: 'grande' }}">
+                            <img class="width_img_cource diert" src="{{ image.src | product_img_url: 'master' }}">
                         </div>
                     </div>
                 {% endfor %}
@@ -197,6 +197,7 @@
     font-style: normal;
     font-weight: 600;
     font-size: 14px;
+    background-color: transparent;
     line-height: 150%;
     letter-spacing: 0.3em;
     text-transform: uppercase;
@@ -210,6 +211,14 @@
         font-size: 18px;
         line-height: 30px;
         color: #1E1E1E;
+       }
+       .cropet_content p span{
+            font-family: 'Josefin Sans';
+            font-style: normal;
+            font-weight: 500;
+            font-size: 18px;
+            line-height: 30px;
+            color: #1E1E1E;
        }
         .line_center_{
               text-decoration-line: blink;

@@ -712,11 +712,11 @@
       ],
       "custom_css": [
         ".banner__box.content-container.content-container--full-width-mobile.color-background-1.gradient {width: 60%;}",
-        "@media screen and (max-width: 748px) {.banner__box.content-container.content-container--full-width-mobile.color-background-1.gradien {width: 98%; }}",
         ".imagedes {display: none;}",
-        "*:focus-visible{outline:none; box-shadow:none;}",
+        "*:focus-visible {outline: none; box-shadow: none;}",
         ".newsletter-form__field-wrapper {margin-left: 0%;}",
-        "::placeholder {font-family: 'Josefin Sans'; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #FFFFFF; opacity: 1;}"
+        "::placeholder {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; color: #ffffff; opacity: 1;}",
+        "@media screen and (max-width: 748px) {.banner__box.content-container.{width: 98%; } ::placeholder{color:#000;}}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Rectangle_10.png",

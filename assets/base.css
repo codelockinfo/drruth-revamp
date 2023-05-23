@@ -6073,13 +6073,16 @@ color: #FFFFFF;
   padding-left: 10%;
 }
 .blogsvg{
-  /* border: 2px solid #184B44;
-  width: 73px;
-height: 73px; */
+
 border-radius: 50%;
 display: flex;
 align-items: center;
 justify-content: center;
+}
+.blogsvg.svg{
+  border: 2px solid #184B44;
+  width: 60px;
+height: 60px;
 }
 .faqborder{
     border-top: 1px solid #F5F8F1;
@@ -6534,13 +6537,20 @@ display: flex;
 align-items: center;
 background: #F5F8F1;
 border-radius: 24px;
-padding: 10px 0;
+padding: 10px 7%;
 text-align: center;
-justify-content: center;
-border: 2px solid #184B44;
+justify-content: left;
+min-height: 83px;
+
+}
+.blogbg:hover{
+  border: 2px solid #184B44;
+}
+.blogbg.active{
+  border: 2px solid #184B44;
 }
 .blogflex {
-width: 18%;
+  width: 23%;
   margin: 1%;
 
 }
@@ -6555,11 +6565,12 @@ h4.blogghead {
 font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 500;
-font-size: 18px;
+font-size: 16px;
 line-height: 30px;
 text-transform: uppercase;
 color: #1E1E1E;
 margin: 0;
+text-align: left;
 }
 .blogsvg {
 margin-right: 10px;
@@ -6589,7 +6600,7 @@ padding: 0px 15px;
 button.blogread {
 border: 2px solid #184B44;
 border-radius: 25.5px;
-padding: 15px;
+padding: 15px;background-color: transparent;
 }
 h3.card__heading.h2 a {
 font-family: 'Josefin Sans';
@@ -7046,7 +7057,7 @@ border-radius: 24px;
 width: 90%;
 }
 .blogflex {
-width: 25%;
+width: 31%;
 }
 .moreblogs ,.conwidth ,.blogabout50 {
 width: 100%;
@@ -7161,7 +7172,7 @@ background-size: cover;
   width: 90%;
   margin: 0 auto;
 }
-.blogflex ,.slidertexthead{
+.blogflex {
   width: 49%;
 }
 h2.btext{
@@ -7673,6 +7684,11 @@ width: 100%;
 width: 100%;
 }
 }
+@media screen and (max-width:690px){
+  .blogbg{
+    padding: 10px 3%;
+  }
+}
 @media screen and (max-width:420px){
 .width50_cou_22 {
 width: 98%;}
@@ -7685,3 +7701,39 @@ width: 250px;
 }
 }
 /* //end 014 */
+
+@media screen and (max-width: 749px) {
+ 
+  .rx_read_more_btn_green.cust-emil{
+   
+    border: 2px solid #000!important;
+  }
+  .rx-email-field::placeholder{
+    color:#000;
+  }
+  .newsletter-form__button.field__button path {
+    stroke: black;
+}
+} 
+
+@media screen and (max-width:860px){
+  .blogflex {
+    width: 31%;
+}
+}
+@media screen and (max-width:641px){
+  .blogflex {
+    width: 48%;
+}
+}
+@media screen and (max-width:420px){
+  .blogflex {
+    width: 90%;
+}
+}
+@media screen and (max-width:330px){
+  .rx_read_more_btn_white{
+    font-size: 11px;
+  }
+} 
+

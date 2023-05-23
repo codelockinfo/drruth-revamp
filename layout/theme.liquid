@@ -334,12 +334,17 @@
 <script>
   $(document).ready(function() {
      $urlhref = window.location.href;
-    console.log($urlhref);
-  if($urlhref.split("/")[4] == "application-form?contact_posted=true#ContactForm" ){
-
-    $(".custom-model-main").addClass('model-open');
-
-  }
+      if($urlhref.split("/")[4] == "application-form?contact_posted=true#ContactForm" ){
+        $(".custom-model-main").addClass('model-open');
+      }
+      if($urlhref.split("/")[6] != "undefined"){
+        $('.blogflex .datatag').each(function(index, element) {
+          $forhref = $(this).attr("data-tag");
+          if ($urlhref.split("/")[6] == $forhref) {
+            $(this).find(".blogbg").addClass("active");
+          }
+        });
+      }
   });
 
   $(".close-btn, .bg-overlay").click(function(){

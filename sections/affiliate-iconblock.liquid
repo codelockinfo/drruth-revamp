@@ -18,6 +18,13 @@
    
     </div>
 </div>
+{% if page.handle == "affiliate" %}
+<style>
+.rewordmax_container  .rewordhead{
+ padding-top:0;
+}
+</style>
+{% endif %}
 {% schema %} 
 {
   "name": "affiliate-iconblock",
@@ -77,11 +84,12 @@ color: #000000;
     margin-bottom: 0;
 }
 .bortop{
-    border-top: 1px solid #F5F8F1;
+    /* border-top: 1px solid #F5F8F1; */
 /*     display:none; */
 }
 .rewardwork {
     margin-top: 4%;
+    margin-bottom: 4%;
 }
 .afficoncontent{
         display: flex;
