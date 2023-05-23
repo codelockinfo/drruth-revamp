@@ -144,6 +144,7 @@
     },
     "7079393e-e698-44dd-8019-845e54ee812c": {
       "type": "podcast_slider",
+      "disabled": true,
       "blocks": {
         "cae84d32-2c4d-46f7-be5e-cccff5ce1438": {
           "type": "collection",
@@ -189,7 +190,7 @@
         ".blogmax-container {padding: 0 25px;}",
         "button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -2%;}",
         "button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -2%;}",
-        "@media screen and (max-width: 400px) {button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -4%; } button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -4%; } }"
+        "@media screen and (max-width: 400px) {button.drag.coacharrow2.slick-next.pull-right.slick-arrow {right: -4%; } button.drag.coacharrow.slick-prev.pull-left.slick-arrow {left: -4%; }}"
       ],
       "settings": {
         "slidertext": "Our podcast"
