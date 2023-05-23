@@ -417,7 +417,7 @@
       "custom_css": [
         "::placeholder {color: #fff;}",
         ".reordebtn {float: left;}",
-        "@media screen and (max-width: 749px) {.rx_read_more_btn_green.cust-emil {border: 2px solid #000 !important;}}"
+        "@media screen and (max-width: 749px) {.rx_read_more_btn_green.cust-emil {border: 2px solid #fff !important; }}"
       ],
       "settings": {
         "reordrhead": "get 10% of your first order",
