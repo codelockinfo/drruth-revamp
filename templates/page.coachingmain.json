@@ -607,8 +607,8 @@
           "settings": {
             "cost_num": "4",
             "cost_head": "Monthly Installments",
-            "cost_price": "$1500 \/ 4 months",
-            "costmont": "",
+            "cost_price": "$1500",
+            "costmont": "\/ 4 months",
             "cost_desc": "The program's total cost $6000. You will pay $1,500 admission fees, then $1,500 per month."
           }
         },
@@ -617,8 +617,8 @@
           "settings": {
             "cost_num": "16",
             "cost_head": "Weekly Installments",
-            "cost_price": "$367 \/ 15 week",
-            "costmont": "",
+            "cost_price": "$367",
+            "costmont": "\/ 15 week",
             "cost_desc": "The program's total cost is $6005. You will pay $500 admission fees, then $367 per week."
           }
         }
@@ -913,7 +913,7 @@
       "type": "rx-blog",
       "custom_css": [
         ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}",
-        ".blog__button{border: 2px solid #184B44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: .2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%; }"
+        ".blog__button {border: 2px solid #184b44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: 0.2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%;}"
       ],
       "settings": {
         "heading": "Pet Advice By Dr. Ruth ",
