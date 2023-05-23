@@ -66,7 +66,13 @@
     }
   }
 {%- endstyle -%}
-
+{% if page.title == "coachingmain1" %}
+<style>
+#shopify-section-{{ section.id }}{
+  border-top: 2px solid #F5F8F1;
+}
+</style>
+{% endif %}
 {%- liquid
   assign posts_displayed = section.settings.blog.articles_count
   if section.settings.post_limit <= section.settings.blog.articles_count
