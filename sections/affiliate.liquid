@@ -156,7 +156,7 @@ h2.affhead {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: #fff; 
 }
  
 /* Handle */
@@ -181,7 +181,7 @@ border-radius: 24px;
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #f1f1f1; 
+  background: #fff; 
 }
  
 /* Handle */
@@ -260,12 +260,19 @@ color: #1E1E1E;
 
     }
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 333px){
     a.howworkorder.afffaqbtn {
     padding: 0px 28px;
 }
 }
 </style>
+{% if page.handle == "affiliate" %}
+<style>
+.accordion-container{
+  width:85%;
+}
+</style>
+{% endif %}
 <script> 
 $(document).ready(function() {
    
