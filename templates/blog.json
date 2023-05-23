@@ -6,8 +6,8 @@
         "064b116a-b144-4838-ae3c-fab2c363cf30": {
           "type": "block",
           "settings": {
-            "blog_head": "Illness & Disease",
-            "headurl": "https:\/\/shop.drruthroberts.com\/blogs\/pet-advice\/when-to-euthanize-cats-and-dogs-with-kidney-failure"
+            "blog_head": "Supplements & Multivitamin",
+            "headurl": "Supplements-Multivitamin"
           }
         },
         "ddda9a29-2968-4344-b1d9-1170c8e6d7ee": {
@@ -79,7 +79,7 @@
         "f5bf5fde-1132-49c5-9b00-76e9f2fd213f"
       ],
       "custom_css": [
-        "a{text-decoration:none;}"
+        "a {text-decoration: none;}"
       ],
       "settings": {
         "blogtext": "Our blogs",
