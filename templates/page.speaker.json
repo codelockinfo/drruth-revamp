@@ -153,7 +153,8 @@
     "db04c4f4-51de-4290-a61a-0abfc410e04c": {
       "type": "rx-banner-text",
       "custom_css": [
-        "@media screen and (max-width:1230px){.rx-text{padding-right: 56px;}}"
+        "@media screen and (max-width: 1230px) {.rx-text {padding-right: 56px; }}",
+        "@media screen and (max-width: 1150px) {.rx-text {padding-right: 24px; }}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/Mask_group.png",
