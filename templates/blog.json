@@ -198,6 +198,9 @@
     },
     "da5d6bea-f7a2-4311-9dfa-c51f9b8cfc8b": {
       "type": "blog_certifies",
+      "custom_css": [
+        ".certifiedcontent{padding-bottom: 5%;}"
+      ],
       "settings": {
         "contents": "Become A Certified Holistic Pet Health Coach In 4 months!",
         "descri": "Helping others learn how to make the lifestyle changes their pets desperately need, using protocols, education, and information that’s proven to bring massive change to our pet’s quality of life — and pet owner’s quality of life.",

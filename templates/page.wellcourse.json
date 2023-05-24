@@ -260,13 +260,22 @@
           "type": "collection",
           "settings": {
             "product": "the-original-crockpet-diet-1",
-            "btnlink": "shopify:\/\/blogs\/pet-advice\/how-to-exercise-a-cat-your-indoor-cats-need-exercise",
+            "btnlink": "shopify:\/\/products\/the-original-crockpet-diet-1",
             "outlinkbtn": "Course Outlines"
+          }
+        },
+        "55512c97-b642-4262-9f01-222661d219c4": {
+          "type": "collection",
+          "settings": {
+            "product": "",
+            "btnlink": "",
+            "outlinkbtn": ""
           }
         }
       },
       "block_order": [
-        "51b806fc-692d-48fd-a415-71655d1e5799"
+        "51b806fc-692d-48fd-a415-71655d1e5799",
+        "55512c97-b642-4262-9f01-222661d219c4"
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
@@ -274,7 +283,7 @@
         ".input.btn.add_cart {background: transparent;}"
       ],
       "settings": {
-        "tabiingid": "The Original Crockpet Diet TM"
+        "tabiingid": "The Original Crockpet Diet"
       }
     },
     "ce0edac7-24b9-4237-811e-e0bf9b32ee17": {
@@ -283,8 +292,8 @@
         "f124a283-f045-4f8e-a4a3-d962cca9debc": {
           "type": "collection",
           "settings": {
-            "product": "assisi-loop®-2-0-10cm-auto-cycle",
-            "btnlink": "shopify:\/\/blogs\/pet-advice\/final-stages-of-kidney-failure-in-cats-and-dogs-1",
+            "product": "copy-of-the-original-crockpet-diet-for-dogs-and-cats-dr-ruth-roberts",
+            "btnlink": "shopify:\/\/products\/copy-of-the-original-crockpet-diet-for-dogs-and-cats-dr-ruth-roberts",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -292,7 +301,7 @@
           "type": "collection",
           "settings": {
             "product": "the-original-crockpet-diet-1",
-            "btnlink": "https:\/\/shop.drruthroberts.com\/blogs\/pet-advice\/when-to-euthanize-cats-and-dogs-with-kidney-failure",
+            "btnlink": "shopify:\/\/products\/the-original-crockpet-diet-1",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -300,7 +309,7 @@
           "type": "collection",
           "settings": {
             "product": "plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
-            "btnlink": "https:\/\/shop.drruthroberts.com\/blogs\/pet-advice\/taurine-supplements-addressing-taurine-deficiency-in-cats",
+            "btnlink": "shopify:\/\/products\/plant-mushroom-benefits-for-pets-guide-by-angela-ardolino",
             "outlinkbtn": "Course Outlines"
           }
         }
@@ -325,8 +334,8 @@
         "2261eb1e-7610-4d87-aee8-21d473e6504f": {
           "type": "collection",
           "settings": {
-            "product": "copy-of-the-original-crockpet-diet-for-dogs-and-cats-dr-ruth-roberts",
-            "btnlink": "shopify:\/\/blogs\/pet-advice\/effective-anti-anxiety-medication-for-dogs-calm-your-canines",
+            "product": "1984272",
+            "btnlink": "shopify:\/\/products\/1984272",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -334,7 +343,7 @@
           "type": "collection",
           "settings": {
             "product": "the-comprehensive-kidney-health-program-for-dogs-and-cats",
-            "btnlink": "shopify:\/\/blogs\/pet-advice\/the-presence-of-pfas-in-dog-food-a-growing-concern",
+            "btnlink": "shopify:\/\/products\/the-comprehensive-kidney-health-program-for-dogs-and-cats",
             "outlinkbtn": "Course Outlines"
           }
         }
@@ -358,7 +367,7 @@
           "type": "collection",
           "settings": {
             "product": "doggybiome™-gut-health-starter-pack-1",
-            "btnlink": "shopify:\/\/blogs\/news\/how-to-feed-your-dog-real-food",
+            "btnlink": "shopify:\/\/products\/doggybiome™-gut-health-starter-pack-1",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -366,7 +375,7 @@
           "type": "collection",
           "settings": {
             "product": "doggybiome™-gut-health-starter-pack-1",
-            "btnlink": "shopify:\/\/blogs\/news\/how-to-feed-your-dog-real-food",
+            "btnlink": "shopify:\/\/products\/doggybiome™-gut-health-starter-pack-1",
             "outlinkbtn": "Course Outlines"
           }
         }
@@ -408,14 +417,14 @@
       "settings": {
         "prevhead": "The original crockpet dietTM club",
         "petwellimg": "shopify:\/\/shop_images\/Image_1_7daff97e-5691-4aad-8419-cd2c74716fee.png",
-        "pdiscription": "Introducing the exclusive Original CrockPet DietTM Club, created by the renowned veterinarian and holistic pet health expert, Dr. Ruth Roberts!Are you tired of feeding your beloved pet commercial pet food that may be filled with artificial preservatives, chemicals, and unknown ingredients? Do you want to ensure that your furry friend is getting the very best nutrition to maintain their health and vitality?Look no further than The Original CrockPet DietTM Club, where you'll gain access to a supportive community of pet owners who share your passion for feeding their pets healthy, home-cooked meals. With weekly live Q&A sessions featuring Dr. Roberts herself, you'll receive expert guidance on how to create balanced and nutritious meals for your pet using the patented CrockPet Cooking method.In addition, to live Q&A sessions, you'll also receive Angela Ardolino's plant medicine guide, which covers the many benefits of using natural supplements to support your pet's health. Plus, you'll get access to a bonus course on gut health, and a massive library of content including previous Q&A sessions, audio files, transcripts, and recipes in PDF format.By joining The Original CrockPet DietTM Club, you'll be joining thousands of other pet owners who have already revolutionized the way they feed their pets. Give your furry friend the gift of optimal health and well-being by joining The Original CrockPet DietTM Club today!",
-        "pdiscription1": "Dr. Ruth Roberts invites you to our vibrant community of pet owners passionate about feeding their pets healthy, home-cooked meals. Embark on a journey of community learning and growth as we guide you on the path to optimal pet nutrition and the benefits of all-natural pet food. Get expert guidance on balanced nutrition through live Q&A sessions with Dr. Roberts herself. Explore Angela Ardolino's plant medicine guide, a bonus gut health course, and a wealth of content including previous Q&A sessions, audio files, transcripts, and PDF recipes. Revolutionize the way you feed your furry friend alongside thousands of like-minded pet owners. Join the Original CrockPet DietTM Club, your gateway to natural pet food solutions!",
-        "pack1": "Monthly $9.99",
+        "pdiscription": "Dr. Ruth Roberts invites you to our vibrant community of pet owners passionate about feeding their pets healthy, home-cooked meals. Embark on a journey of community learning and growth as we guide you on the path to optimal pet nutrition and the benefits of all-natural pet food",
+        "pdiscription1": "Get expert guidance on balanced nutrition through live Q&A sessions with Dr. Roberts herself. Explore Angela Ardolino's plant medicine guide, a bonus gut health course, and a wealth of content including previous Q&A sessions, audio files, transcripts, and PDF recipes. Revolutionize the way you feed your furry friend alongside thousands of like-minded pet owners. Join the Original CrockPet DietTM Club, your gateway to natural pet food solutions!",
+        "pack1": "Annual $4.99",
         "pack1price": "  $119.88\/year",
-        "pack2": "Annual $4.99",
+        "pack2": "Monthly $9.99",
         "pack2price": " 59.88\/year",
         "joinlinkbnt": "join now",
-        "joinbtn": "https:\/\/5jczctafzy1u36z8-1754431553.shopifypreview.com\/products\/the-original-crockpet-diet-membership?_pos=1&_psq=annual+mem&_ss=e&_v=1.0&selling_plan=819527745"
+        "joinbtn": "shopify:\/\/pages\/contact-us"
       }
     }
   },
