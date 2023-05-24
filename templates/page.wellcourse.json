@@ -263,10 +263,19 @@
             "btnlink": "shopify:\/\/blogs\/pet-advice\/how-to-exercise-a-cat-your-indoor-cats-need-exercise",
             "outlinkbtn": "Course Outlines"
           }
+        },
+        "55512c97-b642-4262-9f01-222661d219c4": {
+          "type": "collection",
+          "settings": {
+            "product": "",
+            "btnlink": "",
+            "outlinkbtn": ""
+          }
         }
       },
       "block_order": [
-        "51b806fc-692d-48fd-a415-71655d1e5799"
+        "51b806fc-692d-48fd-a415-71655d1e5799",
+        "55512c97-b642-4262-9f01-222661d219c4"
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
@@ -283,8 +292,8 @@
         "f124a283-f045-4f8e-a4a3-d962cca9debc": {
           "type": "collection",
           "settings": {
-            "product": "assisi-loop®-2-0-10cm-auto-cycle",
-            "btnlink": "shopify:\/\/blogs\/pet-advice\/final-stages-of-kidney-failure-in-cats-and-dogs-1",
+            "product": "copy-of-the-original-crockpet-diet-for-dogs-and-cats-dr-ruth-roberts",
+            "btnlink": "https:\/\/shop.drruthroberts.com\/blogs\/pet-advice\/when-to-euthanize-cats-and-dogs-with-kidney-failure",
             "outlinkbtn": "Course Outlines"
           }
         },
