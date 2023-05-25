@@ -636,7 +636,8 @@
         "template--14898486050881__40e124d8-821b-4b01-8eb8-2482449db53a-1679931990e32dab1a-2"
       ],
       "custom_css": [
-        ".rx-product-description {display: none;}"
+        ".rx-product-description {display: none;}",
+        "img{min-height: 300px; width: 100%;}"
       ],
       "settings": {
         "title_font": "assistant_n4",
