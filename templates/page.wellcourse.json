@@ -394,7 +394,7 @@
         ".outlink {margin-right: 6%;}",
         ".input.btn.add_cart {background: transparent;}",
         ".crockpettitle {text-transform: capitalize;}",
-        ".d_flex_main50health {min-height: 834px;}"
+        ".d_flex_main50health {min-height: 800px;}"
       ],
       "settings": {
         "tabiingid": "Gut Health"
