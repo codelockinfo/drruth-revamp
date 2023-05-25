@@ -371,8 +371,8 @@
         "00ee5649-e933-4437-8e04-b50c669fb761": {
           "type": "collection",
           "settings": {
-            "product": "doggybiome™-gut-health-starter-pack-1",
-            "btnlink": "shopify:\/\/products\/doggybiome™-gut-health-starter-pack-1",
+            "product": "1986957",
+            "btnlink": "shopify:\/\/products\/1986957",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -393,7 +393,7 @@
         "input.btn.add_cart {cursor: pointer;}",
         ".outlink {margin-right: 6%;}",
         ".input.btn.add_cart {background: transparent;}",
-        ".crockpettitle{text-transform: capitalize;}"
+        ".crockpettitle {text-transform: capitalize;}"
       ],
       "settings": {
         "tabiingid": "Gut Health"
