@@ -11,7 +11,13 @@
 {%- endif -%}
 <noscript>{{ 'component-slider.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'template-collection.css' | asset_url | stylesheet_tag }}</noscript>
-
+{% if page.handle == "coachingmain1" %}
+<style>
+.color-background-1.isolate.gradient {
+    background: linear-gradient(to bottom, #f5f8f1 0%, #f5f8f1 24vw, transparent 20vw, transparent 100%) !important;
+}
+</style>
+{% endif %}
 {%- style -%}
   .section-{{ section.id }}-padding {
     padding-top: {{ section.settings.padding_top | times: 0.75 | round: 0 }}px;
