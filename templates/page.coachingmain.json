@@ -529,8 +529,7 @@
         "eba4833e-b4c1-4a68-b60c-029de541c5b5"
       ],
       "custom_css": [
-        ".arrowheight {height: 600px;}",
-        "svg {margin-left: 30px;}"
+        ".arrowheight {height: 600px;}"
       ],
       "settings": {
         "arrowid": "shopify:\/\/pages\/application-form",
