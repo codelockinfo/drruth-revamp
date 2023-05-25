@@ -322,7 +322,9 @@
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
         ".outlink {margin-right: 12%;}",
-        ".input.btn.add_cart {background: transparent;}"
+        ".input.btn.add_cart {background: transparent;}",
+        ".crockpettitle {margin-top: 10px;}",
+        ".cropet_content p:nth-child(2){margin-top:0;}"
       ],
       "settings": {
         "tabiingid": "Ebooks"
