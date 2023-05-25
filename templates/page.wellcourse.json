@@ -280,7 +280,8 @@
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
         ".outlink {margin-right: 12%;}",
-        ".input.btn.add_cart {background: transparent;}"
+        ".input.btn.add_cart {background: transparent;}",
+        ".crockpettitle {text-transform: capitalize;}"
       ],
       "settings": {
         "tabiingid": "The Original Crockpet Diet"
@@ -324,7 +325,8 @@
         ".outlink {margin-right: 12%;}",
         ".input.btn.add_cart {background: transparent;}",
         ".crockpettitle {margin-top: 10px;}",
-        ".cropet_content p:nth-child(2){margin-top:0;}"
+        ".crockpettitle {text-transform: capitalize;}",
+        ".cropet_content p:nth-child(2) {margin-top: 0;}"
       ],
       "settings": {
         "tabiingid": "Ebooks"
@@ -356,7 +358,8 @@
       ],
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
-        ".input.btn.add_cart {background: transparent;}"
+        ".input.btn.add_cart {background: transparent;}",
+        ".crockpettitle {text-transform: capitalize;}"
       ],
       "settings": {
         "tabiingid": "Kidney Health"
@@ -389,7 +392,8 @@
       "custom_css": [
         "input.btn.add_cart {cursor: pointer;}",
         ".outlink {margin-right: 6%;}",
-        ".input.btn.add_cart {background: transparent;}"
+        ".input.btn.add_cart {background: transparent;}",
+        ".crockpettitle{text-transform: capitalize;}"
       ],
       "settings": {
         "tabiingid": "Gut Health"
