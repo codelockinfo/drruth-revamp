@@ -114,7 +114,9 @@
       "type": "application",
       "custom_css": [
         "svg {margin-left: 60px;}",
-        ".py {padding-top: 2%;}"
+        ".py {padding-top: 2%;}",
+        ".appflex {display: none;}",
+        ".appbtn {margin-top: -2%;}"
       ],
       "settings": {
         "apphead": " Certified Holistic Pet Health Coach Program by Dr. Ruth Roberts",
@@ -529,8 +531,7 @@
         "eba4833e-b4c1-4a68-b60c-029de541c5b5"
       ],
       "custom_css": [
-        ".arrowheight {height: 600px;}",
-        "svg {margin-left: 30px;}"
+        ".arrowheight {height: 600px;}"
       ],
       "settings": {
         "arrowid": "shopify:\/\/pages\/application-form",
@@ -1072,7 +1073,8 @@
         "befddf47-7829-4037-89e2-b0ee3ac326a6"
       ],
       "custom_css": [
-        "@media screen and (max-width: 520px) {.set > a {font-size: 16px; }}"
+        "@media screen and (max-width: 520px) {.set > a {font-size: 16px; }}",
+        ".set {width: 94%;}"
       ],
       "settings": {
         "mfaqhead": "FAQS"
