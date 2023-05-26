@@ -118,6 +118,7 @@
         "content_alignment": "center",
         "caption_alignment": "center",
         "section_bg_color": "#ffffff",
+        "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
@@ -141,7 +142,8 @@
       ],
       "custom_css": [
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
-        ".rebuy-widget {padding: 0 !important;}"
+        ".rebuy-widget {padding: 0 !important;}",
+        ".rebuy-product-review {float: left;}"
       ],
       "settings": {
         "include_margins": true
@@ -183,6 +185,7 @@
         "content_alignment": "center",
         "caption_alignment": "center",
         "section_bg_color": "#ffffff",
+        "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
