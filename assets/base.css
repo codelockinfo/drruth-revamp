@@ -7742,3 +7742,9 @@ width: 250px;
 .card__badge.bottom.left {
   display: none;
 }
+#mobile_code{
+  padding: 15px 120px 12px 56px;
+}
+.iti--separate-dial-code .iti__selected-flag{
+  background-color: transparent;
+}
