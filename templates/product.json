@@ -144,7 +144,8 @@
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
         ".rebuy-widget {padding: 0 !important;}",
         ".rebuy-product-review {float: left;}",
-        "span.rebuy-money span{font-family: \"Josefin Sans\"; font-style: normal; display: flex; justify-content: end; font-weight: 600; line-height: 22px; color: #184b44;}"
+        "span.rebuy-money span {font-family: \"Josefin Sans\"; font-style: normal; display: flex; justify-content: end; font-weight: 600; line-height: 22px; color: #184b44;}",
+        "span.rebuy-review-count-label {display: none;}"
       ],
       "settings": {
         "include_margins": true
