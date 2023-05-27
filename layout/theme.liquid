@@ -28,6 +28,11 @@
       type="text/css"
     >
 
+  {% comment %} country code start {% endcomment %}
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/css/intlTelInput.css">
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.13/js/intlTelInput-jquery.min.js"></script>
+      {% comment %} country code end {% endcomment %}
     {%- if settings.favicon != blank -%}
       <link rel="icon" type="image/png" href="{{ settings.favicon | image_url: width: 32, height: 32 }}">
     {%- endif -%}
@@ -422,5 +427,12 @@ if($gethref != "undefined"){
 $(".display-inlinetitle").on("click", function() {
   $(".display-inlinetitle").removeClass("active");
   $(this).addClass("active");
+});
+{% comment %} country code {% endcomment %}
+
+$("#mobile_code").intlTelInput({
+	initialCountry: "in",
+	separateDialCode: true,
+	// utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"
 });
 </script>

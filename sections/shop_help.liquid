@@ -134,16 +134,27 @@ $(document).ready(function() {
     //const checkbox = $('input[type="checkbox"][value="'+sliderindex +'"]');
     //checkbox.prop('checked', true);
     console.log(window.location.href);
+    
     var urlParams = new URLSearchParams(window.location.href);
 console.log(urlParams.size);
 if(urlParams.size > 1){
   console.log(encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex));
     window.location.href = encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex);
 }else{
-    window.location.href = encodeURI(window.location.href + "?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.m.custom.pet_device_system_supported=" + sliderindex);
+   
+    var myString = sliderindex;
+    myString = myString.replace('&', '%26');
+    myString = myString.replace(/\s/g, '+');
+   
+    console.log(myString+' 000000');
+    var myURL = window.location.href;
+    var urlObject = new URL(myURL);
+    var domain = urlObject.origin;
+    window.location.href = domain+"/collections/all?filter.p.m.custom.pet_device_system_supported="+myString;
+    
 }
 
-    });
+    }); 
   $(".slidebg").click(function() {
        var text1=$(this).attr('data-type');
       $(".facets__disclosure-vertical").each(function(){

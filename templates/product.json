@@ -15,6 +15,12 @@
           "settings": {
           }
         },
+        "0fc63559-d172-47a1-b72e-b3a012e130d4": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
+          "settings": {
+          }
+        },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
           "type": "price",
           "settings": {
@@ -71,6 +77,7 @@
       "block_order": [
         "vendor",
         "title",
+        "0fc63559-d172-47a1-b72e-b3a012e130d4",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
@@ -118,6 +125,7 @@
         "content_alignment": "center",
         "caption_alignment": "center",
         "section_bg_color": "#ffffff",
+        "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
@@ -141,7 +149,10 @@
       ],
       "custom_css": [
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
-        ".rebuy-widget {padding: 0 !important;}"
+        ".rebuy-widget {padding: 0 !important;}",
+        ".rebuy-product-review {float: left;}",
+        "span.rebuy-money span {font-family: \"Josefin Sans\"; font-style: normal; display: flex; justify-content: end; font-weight: 600; line-height: 22px; color: #184b44;}",
+        "span.rebuy-review-count-label {display: none;}"
       ],
       "settings": {
         "include_margins": true
@@ -183,6 +194,7 @@
         "content_alignment": "center",
         "caption_alignment": "center",
         "section_bg_color": "#ffffff",
+        "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0

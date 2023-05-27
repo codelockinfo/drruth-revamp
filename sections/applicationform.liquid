@@ -9,7 +9,8 @@
                 <div class="app40">
                     <label for="name"><input type="text" id="name" placeholder="Name" name="contact[{{ 'templates.contact.form.name' | t }}]" required></label>
                     <label for="email"><input type="email" id="email" placeholder="Email"  name="contact[email]"required></label>
-                    <label for="phone"><input type="number" id="phone" placeholder="Number" name="contact[{{ 'templates.contact.form.phone' | t }}]"required></label>
+                    <label for="phone"><input type="tel" id="mobile_code" class="form-control" placeholder="Phone Number" name="contact[{{ 'templates.contact.form.phone' | t }}]" maxlength="10" required></label>
+                    
                 </div>
                 <div class="app60">
                     <p class="appcontctdes">{{section.settings.appcontctdes}}</p>

@@ -10,7 +10,7 @@
                 <div class="app40">
                     <label for="name"><input type="text" id="name" placeholder="Name" value="" class="addname"></label>
                     <label for="email"><input type="email" id="email" placeholder="Email"class="addname"></label>
-                    <label for="phone"><input type="number" id="phone" placeholder="Number"class="addname"></label>
+                    <label for="phone"><input type="tel" id="mobile_code" class="form-control" placeholder="Phone Number" name="contact[{{ 'templates.contact.form.phone' | t }}]"required></label>
                 </div>
                 <div class="app60">
                     <p class="appcontctdes">{{section.settings.appcontctdes}}</p>
@@ -213,7 +213,6 @@ p.appcontctdes {
 }
 }
 </style>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script>
 $(".addname").change(function(){
     var name = document.getElementById("name").value;
