@@ -67,7 +67,10 @@
               {%- else -%}
                 {{ 'products.product.add_to_cart' | t }}
               {%- endif -%}
-            </span>
+            </span> 
+              <svg xmlns="http://www.w3.org/2000/svg" width="43" height="9" viewBox="0 0 43 9" fill="none" class="prosvg">
+                <path d="M1.42383 4.5L41.1347 4.5M41.1347 4.5L33.0455 1M41.1347 4.5L33.0455 8" stroke="#184B44" stroke-linecap="round"/>
+              </svg>
             <div class="loading-overlay__spinner hidden">
               <svg
                 aria-hidden="true"
@@ -77,7 +80,7 @@
                 xmlns="http://www.w3.org/2000/svg"
               >
                 <circle class="path" fill="none" stroke-width="6" cx="33" cy="33" r="30"></circle>
-              </svg>
+             </svg>
             </div>
           </button>
           {%- if block.settings.show_dynamic_checkout -%}

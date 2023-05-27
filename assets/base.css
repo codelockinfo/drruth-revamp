@@ -5200,7 +5200,7 @@ section#shopify-section-template--14909520412737__143fd103-6dd8-40ee-a3e0-7880c5
 
 }
 .color-background-1.isolate.gradient {
-  margin-top: -3%;
+  margin-top: 1%;
   padding-top: 0;
 }
 
@@ -7741,4 +7741,9 @@ width: 250px;
 }
 .card__badge.bottom.left {
   display: none;
+}
+.prosvg{
+  display: none;
+  float: right;
+  margin-top: 4px;
 }

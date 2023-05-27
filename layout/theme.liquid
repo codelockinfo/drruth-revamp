@@ -347,7 +347,12 @@
           }
         });
       }
-  });
+     
+      if($urlhref.split("/")[3] != ""){
+        $('.prosvg').css("display","block");
+        $('.product-form__submit ').css("width","100%");
+        }
+      });
 
   $(".close-btn, .bg-overlay").click(function(){
     $(".custom-model-main").removeClass('model-open');
