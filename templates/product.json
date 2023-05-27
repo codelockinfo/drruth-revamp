@@ -15,6 +15,11 @@
           "settings": {
           }
         },
+        "0fc63559-d172-47a1-b72e-b3a012e130d4": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
           "type": "price",
           "settings": {
@@ -66,16 +71,12 @@
           "settings": {
             "custom_liquid": "<div class=\"product__tax caption rte\"><a href=\"\/policies\/shipping-policy\">Shipping<\/a> calculated at checkout.\n<\/div>"
           }
-        },
-        "0fc63559-d172-47a1-b72e-b3a012e130d4": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
         }
       },
       "block_order": [
         "vendor",
         "title",
+        "0fc63559-d172-47a1-b72e-b3a012e130d4",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
@@ -83,8 +84,7 @@
         "caption",
         "c50958db-6d62-42c8-8a47-729c390a856f",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
-        "880a5ead-be28-4912-b9d7-5a90d320fa21",
-        "0fc63559-d172-47a1-b72e-b3a012e130d4"
+        "880a5ead-be28-4912-b9d7-5a90d320fa21"
       ],
       "settings": {
         "enable_sticky_info": false,
