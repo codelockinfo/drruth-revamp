@@ -732,7 +732,7 @@
           "type": "button",
           "settings": {
             "button_label": "MY STORY",
-            "button_link": "shopify:\/\/pages\/about-us-1"
+            "button_link": "shopify:\/\/pages\/ruth-story"
           }
         }
       },
