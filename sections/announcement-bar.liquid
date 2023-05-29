@@ -1,3 +1,5 @@
+
+{% if collection.title == "All" %}
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'announcement' -%}
@@ -21,7 +23,7 @@
       </div>
   {%- endcase -%}
 {%- endfor -%}
-
+{% endif %}
 {% schema %}
 {
   "name": "t:sections.announcement-bar.name",
