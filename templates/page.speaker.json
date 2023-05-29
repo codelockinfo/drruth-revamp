@@ -22,7 +22,11 @@
         "template--14918065750081__0d6aef21-f073-427a-831f-9cda41c3f103-16835393372863b854-2"
       ],
       "custom_css": [
-        "a:not([href]) {cursor: pointer;}"
+        "a:not([href]) {cursor: pointer;}",
+        ".banner--medium:not(.banner--adapt) {min-height: 60rem;}",
+        "@media screen and (max-width: 1200px) {.custom-box {margin-bottom: 5%; }}",
+        "@media screen and (max-width: 1100px) {.custom-box {margin-bottom: 12%; }}",
+        "@media screen and (max-width: 1100px) {.banner--medium:not(.banner--adapt) {min-height: 55rem;}}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/banner-speaker.png",
