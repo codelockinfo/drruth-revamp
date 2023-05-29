@@ -22,7 +22,11 @@
         "template--14918065750081__0d6aef21-f073-427a-831f-9cda41c3f103-16835393372863b854-2"
       ],
       "custom_css": [
-        "a:not([href]) {cursor: pointer;}"
+        "a:not([href]) {cursor: pointer;}",
+        ".rx_banner__text span {font-family: \"Oakley Script\"; font-style: normal; font-weight: 400; font-size: 64px; line-height: 57px; text-align: center; letter-spacing: 0.02em; color: #ffffff;}",
+        ".rx_banner__text:nth-child(2) span {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-align: center; color: #ffffff;}",
+        ".rx_banner__text {width: 52%; text-align: right; margin-left: auto;}",
+        ".custom-box.rx_banner__box {max-width: 87rem;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/banner-speaker.png",
