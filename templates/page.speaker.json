@@ -26,7 +26,7 @@
         ".banner--medium:not(.banner--adapt) {min-height: 60rem;}",
         "@media screen and (max-width: 1200px) {.custom-box {margin-bottom: 5%; }}",
         "@media screen and (max-width: 1100px) {.custom-box {margin-bottom: 12%; }}",
-        "@media screen and (max-width: 1100px) {.banner--medium:not(.banner--adapt) {min-height: 55rem;}}"
+        "@media screen and (max-width: 1100px) {.banner--medium:not(.banner--adapt) {min-height: 55rem; }}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/banner-speaker.png",
@@ -197,6 +197,9 @@
         "template--14918065750081__f9fb3a53-9eb1-4eea-a835-ffd7ec21df39-1683552682edfa242a-1",
         "d227801f-d1e8-4d6c-a5a0-d4d9ffe4482d",
         "3186e5dc-e8e9-468a-a4ee-c410382c808a"
+      ],
+      "custom_css": [
+        "p.rx_rich-text__caption {margin-top: 2%;}"
       ],
       "settings": {
         "desktop_content_position": "center",
