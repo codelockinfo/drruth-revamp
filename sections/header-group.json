@@ -7,7 +7,6 @@
       "blocks": {
         "announcement-bar-0": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
             "text": "New! Shop MycoDog Mushrooms For Your Dog",
             "text_alignment": "center",
