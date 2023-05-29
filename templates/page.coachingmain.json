@@ -919,7 +919,7 @@
       "settings": {
         "heading": "Pet Advice By Dr. Ruth ",
         "heading_size": "h1",
-        "blog": "pet-advice",
+        "blog": "pets-blog",
         "post_limit": 3,
         "columns_desktop": 3,
         "show_image": true,
