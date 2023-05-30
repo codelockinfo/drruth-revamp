@@ -150,7 +150,8 @@ if(urlParams.size > 1){
     var myURL = window.location.href;
     var urlObject = new URL(myURL);
     var domain = urlObject.origin;
-    window.location.href = domain+"/collections/all?filter.p.m.custom.pet_device_system_supported="+myString;
+    console.log(domain);
+    window.location.href = domain+"/collections/pet-products?filter.p.m.custom.pet_device_system_supported="+myString;
     
 }
 
