@@ -110,17 +110,9 @@
         "appcontctdes": "The Certified Holistic Pet Health Coach Program offers a comprehensive and integrative approach to pet health and wellness. Through a series of coaching sessions, mentorship opportunities, and an in-depth curriculum, participants will gain the skills and knowledge needed to become qualified professionals in the field. With a focus on holistic approaches to pet health, including nutrition, behavior, and emotional well-being, graduates of this program will be equipped to support the whole pet and their owners in achieving optimal health and wellness."
       }
     },
-    "11c18cf2-112a-4f49-b86f-ea427a745507": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-X9GhvY\"><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "06254890-8859-4072-878e-fd3ab04f8c0e": {
       "type": "describe",
+      "disabled": true,
       "blocks": {
         "5a0574aa-6034-4e22-be28-6c0ca86dd095": {
           "type": "Radio",
@@ -174,6 +166,7 @@
     },
     "ec94e658-1ab6-44e6-a402-a75a0cf3a6fb": {
       "type": "question",
+      "disabled": true,
       "blocks": {
         "9363ff5c-68b2-4b06-90d0-f4ffa217420e": {
           "type": "Question",
@@ -223,6 +216,7 @@
     },
     "4f1db962-97e6-4066-925a-9cb0f9e19033": {
       "type": "questionradio",
+      "disabled": true,
       "blocks": {
         "7c44fa4f-6e23-4d44-9443-620e4291a44d": {
           "type": "Radio",
@@ -254,6 +248,7 @@
     },
     "8053426d-378c-4dc3-af26-5331b415c7cb": {
       "type": "questionradio",
+      "disabled": true,
       "blocks": {
         "561acda7-f0e2-4ec0-8543-a7c4f76a5809": {
           "type": "Radio",
@@ -285,6 +280,7 @@
     },
     "3d5a2ef1-1ae7-4948-b4fa-0075a4ba96fd": {
       "type": "answertearms",
+      "disabled": true,
       "blocks": {
         "64a5bedd-8d0b-4f8d-b587-ab15e98597d4": {
           "type": "condition",
@@ -338,7 +334,6 @@
     "newsletter",
     "1655751929e34d4e57",
     "9cddaf55-c319-4648-a846-296e9c62ca16",
-    "11c18cf2-112a-4f49-b86f-ea427a745507",
     "06254890-8859-4072-878e-fd3ab04f8c0e",
     "ec94e658-1ab6-44e6-a402-a75a0cf3a6fb",
     "4f1db962-97e6-4066-925a-9cb0f9e19033",
