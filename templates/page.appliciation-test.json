@@ -1,5 +1,14 @@
 {
   "sections": {
+    "088a9f14-5422-4a3e-9494-19b09f4bfcf4": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -330,6 +339,7 @@
     }
   },
   "order": [
+    "088a9f14-5422-4a3e-9494-19b09f4bfcf4",
     "main",
     "newsletter",
     "1655751929e34d4e57",
