@@ -356,7 +356,7 @@
         "1f8faab7-16f5-4eb9-bf48-a61f071a1827"
       ],
       "custom_css": [
-        ".rx_rich-text__caption {width: 88%;}",
+        ".rx_rich-text__caption {width: 88%; text-align: left !important;}",
         "@media screen and (max-width: 620px) {.rx_rich-text__caption {width: 100%; }}"
       ],
       "settings": {
@@ -556,7 +556,7 @@
         "be385a9f-59a1-4ca7-a60f-623c1ef343fb"
       ],
       "custom_css": [
-        "p.rx_rich-text__caption {text-align: left!important;}"
+        "p.rx_rich-text__caption {text-align: left !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
