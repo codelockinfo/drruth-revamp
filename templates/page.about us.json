@@ -35,7 +35,7 @@
         "8df0526e-6023-4918-a9f4-d3bd5f7283f3"
       ],
       "custom_css": [
-        "p.rx_rich-text__caption {text-align: left!important;}"
+        "p.rx_rich-text__caption {text-align: left !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -107,6 +107,9 @@
     },
     "09b0af44-a9f1-4a92-a2d0-9addd848789b": {
       "type": "rx-banner-text",
+      "custom_css": [
+        "img.rx-image {border-radius: 24px;}"
+      ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/aboutRuth.jpg",
         "heading": "Meet Dr. Ruth",
