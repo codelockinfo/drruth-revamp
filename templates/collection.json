@@ -87,6 +87,9 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+        "input {box-shadow: 0 0 0 calc(0.1rem + var(--inputs-border-width)) rgba(var(--color-foreground));}"
+      ],
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
