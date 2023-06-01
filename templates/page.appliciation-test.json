@@ -12,9 +12,8 @@
     },
     "a6f42cb7-4248-45af-b602-1b18e7619d76": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<script async type=\"text\/javascript\" src=\"https:\/\/static.klaviyo.com\/onsite\/js\/klaviyo.js?company_id=UEfUXF\"><\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
