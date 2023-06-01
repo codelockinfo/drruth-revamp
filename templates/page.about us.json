@@ -34,6 +34,9 @@
         "c3ae5a9f-8687-4e07-b256-7f5792eaa16c",
         "8df0526e-6023-4918-a9f4-d3bd5f7283f3"
       ],
+      "custom_css": [
+        "p.rx_rich-text__caption {text-align: left!important;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
