@@ -110,7 +110,8 @@
       "custom_css": [
         "img.rx-image {border-radius: 24px;}",
         ".rx-text-desc {max-width: 580px;}",
-        ".rx-text {padding-right: 50px;}"
+        ".rx-text {padding-right: 50px;}",
+        ".container{align-items: center;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/aboutRuth.jpg",
