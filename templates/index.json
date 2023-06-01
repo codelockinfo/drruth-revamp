@@ -555,6 +555,9 @@
         "template--14898486050881__cf1b90a0-cc7f-46bb-b24e-469e6e57df56-168034728056e4ecea-0",
         "be385a9f-59a1-4ca7-a60f-623c1ef343fb"
       ],
+      "custom_css": [
+        "p.rx_rich-text__caption {text-align: left!important;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
