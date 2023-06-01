@@ -11,10 +11,22 @@
 {%- endif -%}
 <noscript>{{ 'component-slider.css' | asset_url | stylesheet_tag }}</noscript>
 <noscript>{{ 'template-collection.css' | asset_url | stylesheet_tag }}</noscript>
-{% if page.handle == "coachingmain1" %}
+
+{% if page.handle == "holistic-pet-health-coaching-program" %}
 <style>
 .color-background-1.isolate.gradient {
-    background: linear-gradient(to bottom, #f5f8f1 0%, #f5f8f1 24vw, transparent 20vw, transparent 100%) !important;
+    background: linear-gradient(to bottom, #f5f8f1 0%, #f5f8f1 50%, transparent 20vw, transparent 100%) !important;
+    margin-top: -3%;
+}
+@media screen and (max-width:1100px){
+  .color-background-1.isolate.gradient {
+        margin-top: -4%;
+  }
+}
+@media screen and (max-width:768px){
+  .color-background-1.isolate.gradient {
+        margin-top: -6%;
+  }
 }
 </style>
 {% endif %}
