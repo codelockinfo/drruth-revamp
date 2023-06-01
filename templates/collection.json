@@ -23,7 +23,8 @@
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 0,
+        "rating": 5
       }
     },
     "collage": {
@@ -53,6 +54,7 @@
         "heading_size": "h2",
         "desktop_layout": "right",
         "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
         "color_scheme": "background-1",
         "padding_top": 16,
         "padding_bottom": 64
@@ -86,7 +88,7 @@
         "email-form"
       ],
       "settings": {
-        "color_scheme": "background-2",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
