@@ -418,7 +418,8 @@
         "::placeholder {color: #fff;}",
         ".reordebtn {float: left;}",
         "@media screen and (max-width: 749px) {.rx_read_more_btn_green.cust-emil {border: 2px solid #fff !important; } .newsletter-form__button.field__button path {stroke: #fff; } .ordercont {padding: 12% 0; }}",
-        "@media screen and (max-width: 520px) {.ordercont {padding-bottom: 17%; }}"
+        "@media screen and (max-width: 520px) {.ordercont {padding-bottom: 17%; }}",
+        ".rx-email-field input {text-transform: capitalize!important;}"
       ],
       "settings": {
         "reordrhead": "get 10% of your first order",
