@@ -356,7 +356,8 @@
         "1f8faab7-16f5-4eb9-bf48-a61f071a1827"
       ],
       "custom_css": [
-        ".rx_rich-text__caption{width: 88%;}"
+        ".rx_rich-text__caption {width: 88%;}",
+        "@media screen and (max-width: 620px){.rx_rich-text__caption {width: 96%;}}"
       ],
       "settings": {
         "desktop_content_position": "center",
