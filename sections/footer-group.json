@@ -43,7 +43,11 @@
         "a91f38b1-9990-48cb-b0d6-cb69bbb033ee",
         "db265a83-60dd-4bcf-9a0d-7f55256cd1e0"
       ],
+      "custom_css": [
+        ".rx-email-field input {text-transform: capitalize!important;}"
+      ],
       "settings": {
+        "footer-bg-color": "#F5F8F1",
         "newsletter_enable": true,
         "newsletter_heading": "Sign up for more holistic pet care tips",
         "enable_follow_on_shop": false,
@@ -53,7 +57,7 @@
         "payment_enable": true,
         "show_policy": false,
         "fb_url": "https:\/\/facebook.com",
-        "ig_url": " https:\/\/instagram.com\/dr.ruthroberts?igshid=MzRlODBiNWFlZA==",
+        "ig_url": "https:\/\/instagram.com\/dr.ruthroberts?igshid=MzRlODBiNWFlZA==",
         "linkedin_url": "https:\/\/www.linkedin.com\/in\/dr-ruth-roberts-72473970",
         "margin_top": 0,
         "padding_top": 100,
