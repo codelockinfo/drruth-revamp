@@ -3,7 +3,7 @@
     "main": {
       "type": "main-page",
       "custom_css": [
-        ".h0{display:none;}"
+        ".h0 {display: none;}"
       ],
       "settings": {
         "padding_top": 36,
@@ -14,7 +14,7 @@
       "type": "custom-liquid",
       "disabled": true,
       "settings": {
-        "custom_liquid": "<div class=\"klaviyo-form-X9GhvY\"><\/div>",
+        "custom_liquid": "",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
