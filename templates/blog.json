@@ -199,7 +199,7 @@
     "da5d6bea-f7a2-4311-9dfa-c51f9b8cfc8b": {
       "type": "blog_certifies",
       "custom_css": [
-        ".certifiedcontent{padding-bottom: 5%;}"
+        ".certifiedcontent {padding-bottom: 5%;}"
       ],
       "settings": {
         "contents": "Become A Certified Holistic Pet Health Coach In 4 months!",

@@ -316,6 +316,9 @@
         "template--14918065750081__08f4812f-8c18-4709-b30b-791c74af60a2-16835599759930cded-1",
         "4da11df7-aac4-4585-9950-3cae30c6194e"
       ],
+      "custom_css": [
+        "p.rx_rich-text__caption {text-align: left!important;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",

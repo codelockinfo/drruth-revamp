@@ -3,6 +3,8 @@
     "main": {
       "type": "main-blog-custom",
       "settings": {
+        "blogtext": "",
+        "blogdes": ""
       }
     },
     "newsletter": {
