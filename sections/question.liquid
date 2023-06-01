@@ -7,7 +7,7 @@
                     <label for="text">{{block.settings.labelname}} </label>
                 </div>
                 <div class="queinput">
-                    <input type="text"  name="contact[answer{{index}}]" id="" placeholder="{{block.settings.answer}}" required>
+                    <input type="text"  name="contact[answer{{forloop.index}}]" placeholder="{{block.settings.answer}}" required>
                 </div>
             </div>
 
