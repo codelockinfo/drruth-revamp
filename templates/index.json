@@ -313,7 +313,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_link": "https:\/\/drruthroberts.com\/collections\/pet-products",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -639,6 +639,7 @@
         ".rx-product-description {display: none;}"
       ],
       "settings": {
+        "rx-product_head": "",
         "title_font": "assistant_n4",
         "title_font_size": 40,
         "font": "assistant_n4",
