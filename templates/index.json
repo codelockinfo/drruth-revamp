@@ -355,6 +355,9 @@
         "c4c36141-1f4e-4acb-bb64-f70c7da21b48",
         "1f8faab7-16f5-4eb9-bf48-a61f071a1827"
       ],
+      "custom_css": [
+        ".rx_rich-text__caption{width: 88%;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
