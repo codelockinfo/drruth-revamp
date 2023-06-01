@@ -111,7 +111,7 @@
         "img.rx-image {border-radius: 24px;}",
         ".rx-text-desc {max-width: 580px;}",
         ".rx-text {padding-right: 50px;}",
-        ".container{align-items: center;}"
+        ".container {align-items: center;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/aboutRuth.jpg",
@@ -393,6 +393,9 @@
       },
       "block_order": [
         "61aab889-2c05-483a-9481-38422110e130"
+      ],
+      "custom_css": [
+        "a.rx_read_more_btn_green {border-radius: 0;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/drruth3.jpg",
