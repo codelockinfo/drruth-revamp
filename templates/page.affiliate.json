@@ -180,7 +180,7 @@
         "reworkhead": "Join the Happy Paws Affiliate Community",
         "rewworkdes": "All you need to do is sign up for our program online and start promoting our products to your audience.",
         "howbtn": "Apply Now",
-        "howbtnurl": "https:\/\/drruthroberts-com.goaffpro.com\/create-account"
+        "howbtnurl": "shopify:\/\/pages\/application-form"
       }
     },
     "0fa81b89-378e-4db6-b61b-7c08bcde9479": {
@@ -419,7 +419,7 @@
         ".reordebtn {float: left;}",
         "@media screen and (max-width: 749px) {.rx_read_more_btn_green.cust-emil {border: 2px solid #fff !important; } .newsletter-form__button.field__button path {stroke: #fff; } .ordercont {padding: 12% 0; }}",
         "@media screen and (max-width: 520px) {.ordercont {padding-bottom: 17%; }}",
-        ".rx-email-field input {text-transform: capitalize!important;}"
+        ".rx-email-field input {text-transform: capitalize !important;}"
       ],
       "settings": {
         "reordrhead": "get 10% of your first order",
