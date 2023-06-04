@@ -140,7 +140,7 @@
       ],
       "custom_css": [
         ".rich-text__text.rte {margin-top: 2rem; width: 860px; height: 90px; font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 18px; line-height: 30px; text-align: center; text-transform: uppercase; color: #000000;}",
-        ".rich-text__heading.rte {font-family: 'Oakley Script'; font-style: normal; font-weight: 400; font-size: 64px; line-height: 57px; letter-spacing: 0.02em; color: #000000;}"
+        ".rich-text__heading.rte {font-family: \"Oakley Script\"; font-style: normal; font-weight: 400; font-size: 64px; line-height: 57px; letter-spacing: 0.02em; color: #000000;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -150,12 +150,23 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "d27e8302-481a-4761-b358-607827838867": {
+      "type": "thank-you",
+      "settings": {
+        "thankyop": "Thank you",
+        "thankyousub": "for applying to our Holistic Pet Health Program by Dr. Ruth Roberts! We appreciate your interest in our program and the opportunity to help you achieve your goals.",
+        "thankdes": "We have received your application and our team is currently reviewing it. If you meet the requirements for the program, one of our team members will reach out to you to schedule an interview.",
+        "button_home": "BACK TO HOME PAGE",
+        "homeurl": ""
+      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "9e54add2-d186-4186-a214-48cd55fb1ea3"
+    "9e54add2-d186-4186-a214-48cd55fb1ea3",
+    "d27e8302-481a-4761-b358-607827838867"
   ]
 }
