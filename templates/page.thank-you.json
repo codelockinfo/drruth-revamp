@@ -154,6 +154,9 @@
     },
     "d27e8302-481a-4761-b358-607827838867": {
       "type": "thank-you",
+      "custom_css": [
+        "@media screen and (max-width:991px){.thankwrap .pop-up-content-wrap {padding-top: 12%;} }"
+      ],
       "settings": {
         "thankyop": "Thank you",
         "thankyousub": "for applying to our Holistic Pet Health Program by Dr. Ruth Roberts! We appreciate your interest in our program and the opportunity to help you achieve your goals.",
