@@ -8,9 +8,9 @@
             <div class="custom-model-wrap">
                 <div class="pop-up-content-wrap">
                         <div>
-                              <h2 class="model-title">{{ section.settings.modaltop }}</h2>
-                              <p class="model-text">{{ section.settings.modalsub }}</p>
-                              <p class="model-des">{{ section.settings.modaldes }}</p>
+                              <h2 class="model-title">{{ section.settings.thankyop }}</h2>
+                              <p class="model-text">{{ section.settings.thankyousub }}</p>
+                              <p class="model-des">{{ section.settings.thankdes }}</p>
                         </div>
                         
                           
@@ -30,7 +30,34 @@
 {% schema %}
   {
     "name": "thank-you",
-    "settings": [],
+    "settings": [
+       {
+         "type" : "text", 
+          "id" : "thankyop",
+         "label" : "Thankyou Heading"
+        },
+      {
+          "id" : "thankyousub",
+          "type" : "text",
+          "label" : "Thankyou Sub-Heading"
+        },
+       {
+             "type" : "text",
+          "id" : "thankdes",
+       
+          "label" : "Thankyou Description"
+        },
+      {
+        "type" : "text",
+       "id" : "button_home",
+         "label" : "Thankyou-Button"
+      },
+       {
+         "type" : "url",
+        "id" : "homeurl",
+       "label" : "Thankyou-Button-link"
+      }
+    ],
       "presets" : [
   {
     "name" : "thank-you",
