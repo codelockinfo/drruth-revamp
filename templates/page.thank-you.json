@@ -156,14 +156,14 @@
       "type": "thank-you",
       "custom_css": [
         "@media screen and (max-width: 991px) {.thankwrap .pop-up-content-wrap {padding-top: 12%; padding-left: 0; padding-right: 0; }}",
-        " @media screen and (max-width:330px){.thankyoumain {margin-top: 8%;} }"
+        "@media screen and (max-width: 330px) {.thankyoumain {margin-top: 8%; }}"
       ],
       "settings": {
         "thankyop": "Thank you",
         "thankyousub": "for applying to our Holistic Pet Health Program by Dr. Ruth Roberts! We appreciate your interest in our program and the opportunity to help you achieve your goals.",
         "thankdes": "We have received your application and our team is currently reviewing it. If you meet the requirements for the program, one of our team members will reach out to you to schedule an interview.",
         "button_home": "BACK TO HOME PAGE",
-        "homeurl": ""
+        "homeurl": "\/"
       }
     }
   },
