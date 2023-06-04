@@ -155,7 +155,7 @@
     "d27e8302-481a-4761-b358-607827838867": {
       "type": "thank-you",
       "custom_css": [
-        "@media screen and (max-width:991px){.thankwrap .pop-up-content-wrap {padding-top: 12%;} }"
+        "@media screen and (max-width: 991px) {.thankwrap .pop-up-content-wrap {padding-top: 12%; padding-left:0; padding-right:0; }}"
       ],
       "settings": {
         "thankyop": "Thank you",
