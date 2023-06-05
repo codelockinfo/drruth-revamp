@@ -157,7 +157,7 @@
       "custom_css": [
         "@media screen and (max-width: 991px) {.thankwrap .pop-up-content-wrap {padding-top: 12%; padding-left: 0; padding-right: 0; }}",
         "@media screen and (max-width: 330px) {.thankyoumain {margin-top: 8%; }}",
-        ".thankwrap {display: flex; align-items: center; justify-content: center; height: 100vh;}"
+        ".thankwrap {display: flex; align-items: center; justify-content: center;}"
       ],
       "settings": {
         "thankyop": "Thank you",
