@@ -6484,6 +6484,8 @@ text-align: center;
   .custom-model-inner{
     width: 600px;
   }
+  .thankwrap{
+  width: 600px;}
 }
 @media screen and (max-width:768px){
   .custom-model-inner{
