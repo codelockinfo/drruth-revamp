@@ -724,13 +724,14 @@
                                   >
                                 </label>
                               </li>
-                            {%- endfor -%}
-                          </ul>
-  {%- if section.settings.show_special_offer -%}
+                                      <li> {%- if section.settings.show_special_offer -%}
               <div class="special_offer">
                   <a href="/collections/special-offers">Special Offer</a>
               </div>
-          {%- endif -%}
+          {%- endif -%}</li>
+                            {%- endfor -%}
+                          </ul>
+ 
                           <div class="no-js-hidden mobile-facets__footer gradient">
                             <facet-remove class="mobile-facets__clear-wrapper">
                               <a href="{{ filter.url_to_remove }}" class="mobile-facets__clear underlined-link">
