@@ -863,11 +863,7 @@
                   {% endcase %}
                 {%- endfor -%}
               {%- endif -%}
- {%- if section.settings.show_special_offer -%}
-              <div class="special_offer">
-                  <a href="/collections/special-offers">Special Offer</a>
-              </div>
-          {%- endif -%}
+
               {%- if enable_sorting -%}
                 <div
                   class="mobile-facets__details js-filter{% if filter_type == 'drawer' %} medium-hide large-up-hide{% endif %}"
@@ -900,7 +896,11 @@
                   </div>
                 </div>
               {%- endif -%}
-
+ {%- if section.settings.show_special_offer -%}
+              <div class="special_offer">
+                  <a href="/collections/special-offers">Special Offer</a>
+              </div>
+          {%- endif -%}
               <div class="mobile-facets__footer">
                 <facet-remove class="mobile-facets__clear-wrapper">
                   <a href="{{ results_url }}" class="mobile-facets__clear underlined-link">
