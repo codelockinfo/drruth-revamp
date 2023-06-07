@@ -776,6 +776,9 @@
           "label": "Enable quick add button",
           "info": "Optimal with popup or drawer cart type."
         },
+        "Special_offer": {
+          "label": "Enable special offer button"
+        },
         "header_mobile": {
           "content": "Mobile Layout"
         },
