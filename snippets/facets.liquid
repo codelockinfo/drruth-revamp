@@ -667,6 +667,11 @@
                             {% render 'icon-arrow' %}
                             {{ filter.label | escape }}
                           </button>
+                           <li> {%- if section.settings.show_special_offer -%}
+              <div class="special_offer">
+                  <a href="/collections/special-offers">Special Offer</a>
+              </div>
+          {%- endif -%}</li>
                           <ul class="mobile-facets__list list-unstyled" role="list">
                             {%- for value in filter.values -%}
                               <li class="mobile-facets__item list-menu__item">
@@ -725,11 +730,7 @@
                                 </label>
                               </li>
                                      
-                            {%- endfor -%} <li> {%- if section.settings.show_special_offer -%}
-              <div class="special_offer">
-                  <a href="/collections/special-offers">Special Offer</a>
-              </div>
-          {%- endif -%}</li>
+                            {%- endfor -%}
                           </ul>
  
                           <div class="no-js-hidden mobile-facets__footer gradient">
