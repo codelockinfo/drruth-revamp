@@ -7754,3 +7754,8 @@ width: 250px;
 .iti--separate-dial-code .iti__selected-flag{
   background-color: transparent;
 }
+.special_offer{
+padding: 10px 30px;
+    background: #F5F8F1;
+    border-radius: 24px;
+    margin-right: 10px;}
