@@ -109,12 +109,6 @@
           <div class="card__media aaa">
             
             <div class="media media--transparent media--hover-effect">
-              <a
-                href="{{ card_product.url }}"
-                id="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }}"
-                class="full-unstyled-link"
-                aria-labelledby="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }} NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
-              >
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img style="object-fit:contain"
                 srcset="
@@ -156,12 +150,17 @@
                   loading="lazy"
                   width="{{ card_product.media[1].width }}"
                   height="{{ card_product.media[1].height }}"
-                > 
-              {%- endif -%}</a>
+                >
+              {%- endif -%}
             </div>
           </div>
         {%- endif -%}
-       {%- endif -%} 
+       {%- endif -%}    <a
+                href="{{ card_product.url }}"
+                id="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }}"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }} NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
+              >
         <div class="card__content aaa">
           <div class="card__information">
             <h3
@@ -197,7 +196,7 @@
               </span>
             {%- endif -%}
           </div>
-        </div>
+        </div></a>
       </div>
       <div class="card__content">
         <div class="card__information">
