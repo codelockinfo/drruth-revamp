@@ -109,7 +109,14 @@
   position: relative;
   padding: calc(var(--image-padding) + 1rem);
 }
-
+{% if template == "collection.holistic_product" %}
+.card__content {
+  display: grid;
+  padding: 1rem;
+  width: 100%;
+  flex-grow: 1;
+}
+  {% endif %}
 .card__content {
   display: grid;
   grid-template-rows: minmax(0,1fr) max-content minmax(0,1fr);
