@@ -12,7 +12,8 @@
       "type": "main-collection-product-grid",
       "custom_css": [
         "h2.title.title--primary {display: flex; justify-content: center;}",
-        "a.underlined-link.link{display: flex; align-items: end;}"
+        "a.underlined-link.link {display: flex; align-items: end;}",
+        ".facets-vertical{display:block;}"
       ],
       "settings": {
         "products_per_page": 24,
