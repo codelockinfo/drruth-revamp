@@ -300,7 +300,7 @@
         ".full-unstyled-link {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 14px; line-height: 20px; letter-spacing: 0.04em; color: #1e1e1e;}",
         ".card__heading {margin-top: 30px;}",
         ".card__content {grid-template-rows: none;}",
-        ".quick-add {margin-top: -17%; margin-bottom: 8%; background: #007a5c; color: white;}"
+        ".quick-add__submit {margin-top: -17%; margin-bottom: 8%; background: #007a5c; color: white;}"
       ],
       "settings": {
         "products_per_page": 9,
