@@ -105,13 +105,14 @@
         {%- endif -%}
       {% else %}
         {%- if card_product.featured_media -%}
-          <a
+       
+          <div class="card__media aaa">
+               <a
                 href="{{ card_product.url }}"
                 id="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }}"
                 class="full-unstyled-link"
                 aria-labelledby="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }} NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
               >
-          <div class="card__media aaa">
             <div class="media media--transparent media--hover-effect">
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img style="object-fit:contain"
@@ -156,10 +157,10 @@
                   height="{{ card_product.media[1].height }}"
                 >
               {%- endif -%}
-            </div>
+            </div> </a>
           </div>
         {%- endif -%}
-       {%- endif -%}  </a>
+       {%- endif -%} 
         <div class="card__content aaa">
           <div class="card__information">
             <h3
