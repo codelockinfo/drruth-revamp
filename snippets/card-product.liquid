@@ -54,7 +54,12 @@
           <div class="card__media">
             <div class="media media--transparent media--hover-effect">
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
-              <img style="object-fit:contain"
+            <a
+                href="{{ card_product.url }}"
+                id="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }}"
+                class="full-unstyled-link"
+                aria-labelledby="StandardCardNoMediaLink-{{ section_id }}-{{ card_product.id }} NoMediaStandardBadge-{{ section_id }}-{{ card_product.id }}"
+              >  <img style="object-fit:contain"
                 srcset="
                   {%- if card_product.featured_media.width >= 165 -%}{{ card_product.featured_media | image_url: width: 165 }} 165w,{%- endif -%}
                   {%- if card_product.featured_media.width >= 360 -%}{{ card_product.featured_media | image_url: width: 360 }} 360w,{%- endif -%}
@@ -73,7 +78,7 @@
                 {% endunless %}
                 width="{{ card_product.featured_media.width }}"
                 height="{{ card_product.featured_media.height }}"
-              >
+              >  </a>
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
 
               {%- if card_product.media[1] != null and show_secondary_image -%}
