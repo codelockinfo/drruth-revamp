@@ -133,7 +133,7 @@
                 {% endunless %}
                 width="{{ card_product.featured_media.width }}"
                 height="{{ card_product.featured_media.height }}"
-              >  </a>
+              > 
               {% comment %}theme-check-enable ImgLazyLoading{% endcomment %}
 
               {%- if card_product.media[1] != null and show_secondary_image -%}
@@ -155,7 +155,7 @@
                   width="{{ card_product.media[1].width }}"
                   height="{{ card_product.media[1].height }}"
                 >
-              {%- endif -%}
+              {%- endif -%} </a>
             </div>
           </div>
         {%- endif -%}
