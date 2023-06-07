@@ -7761,5 +7761,8 @@ padding: 10px 30px;
     margin-right: 10px;}
 .special_offer a{
   text-decoration: none;
-    color: #4d4a57;
+   font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 500;
+    color: #1e1e1e;
 }
