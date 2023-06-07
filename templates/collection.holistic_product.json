@@ -296,8 +296,8 @@
       "type": "main-collection-product-grid",
       "custom_css": [
         "h3 a {text-align: left;}",
-        ".price-item {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 15px; line-height: 22px; letter-spacing: 0.04em; text-transform: uppercase; color: #184b44;}",
-        ".full-unstyled-link {font-family: \"Josefin Sans\"; font-style: normal; font-weight: 500; font-size: 14px; line-height: 20px; letter-spacing: 0.04em; color: #1e1e1e;}",
+        ".price-item {font-family: \"Josefin Sans\"; font-weight: 500; font-size: 15px; line-height: 22px; letter-spacing: 0.04em; text-transform: uppercase; color: #184b44;}",
+        ".full-unstyled-link {font-family: \"Josefin Sans\"; font-weight: 500; font-size: 14px; line-height: 20px; letter-spacing: 0.04em; color: #1e1e1e; min-height: 20px; max-height: 50px;}",
         ".card__heading {margin-top: 30px;}",
         ".card__content {grid-template-rows: none;}",
         ".quick-add__submit {margin-top: -17%; margin-bottom: 8%; background: #007a5c; color: white;}"
