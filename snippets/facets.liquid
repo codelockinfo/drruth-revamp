@@ -637,11 +637,7 @@
                 </p>
               </div>
             </div>
-             {%- if section.settings.show_special_offer -%}
-              <div class="special_offer">
-                  <a href="/collections/special-offers">Special Offer</a>
-              </div>
-          {%- endif -%}
+           
             <div class="mobile-facets__main has-submenu gradient">
               {%- if enable_filtering -%}
                 {%- for filter in results.filters -%}
@@ -730,7 +726,11 @@
                               </li>
                             {%- endfor -%}
                           </ul>
-
+  {%- if section.settings.show_special_offer -%}
+              <div class="special_offer">
+                  <a href="/collections/special-offers">Special Offer</a>
+              </div>
+          {%- endif -%}
                           <div class="no-js-hidden mobile-facets__footer gradient">
                             <facet-remove class="mobile-facets__clear-wrapper">
                               <a href="{{ filter.url_to_remove }}" class="mobile-facets__clear underlined-link">
