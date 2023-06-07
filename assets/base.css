@@ -7766,3 +7766,6 @@ padding: 10px 30px;
     font-weight: 500;
     color: #1e1e1e;
 }
+.special_offer.mobile_view {
+    background: transparent;
+}
