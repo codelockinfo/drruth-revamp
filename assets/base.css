@@ -7759,3 +7759,7 @@ padding: 10px 30px;
     background: #F5F8F1;
     border-radius: 24px;
     margin-right: 10px;}
+.special_offer a{
+  text-decoration: none;
+    color: #4d4a57;
+}
