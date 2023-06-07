@@ -637,6 +637,11 @@
                 </p>
               </div>
             </div>
+             {%- if section.settings.show_special_offer -%}
+              <div class="special_offer">
+                  <a href="/collections/special-offers">Special Offer</a>
+              </div>
+          {%- endif -%}
             <div class="mobile-facets__main has-submenu gradient">
               {%- if enable_filtering -%}
                 {%- for filter in results.filters -%}
