@@ -5438,7 +5438,7 @@ h1.collection-hero__title.p_name {
 .product-count-vertical.light {
   display: none;
 }
-.facets__disclosure-vertical.js-filter .spantext ,.pricetext{
+.facets__disclosure-vertical.js-filter .spantext{
   font-family: 'Josefin Sans';
 font-style: normal;
 font-weight: 500;
