@@ -304,7 +304,7 @@
         ".card__information {min-height: 150px;}"
       ],
       "settings": {
-        "products_per_page": 24,
+        "products_per_page": 9,
         "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": true,
