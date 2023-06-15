@@ -133,19 +133,27 @@
     },
     "168197142519de76d5": {
       "type": "apps",
+      "disabled": true,
       "blocks": {
         "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d": {
           "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "disabled": true,
           "settings": {
             "enabled": true,
             "id": "84689",
             "product_id_enabled": true,
             "collection_id_enabled": false
           }
+        },
+        "3feaca47-77e2-45db-afd2-0d2e6509c134": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d"
+        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d",
+        "3feaca47-77e2-45db-afd2-0d2e6509c134"
       ],
       "custom_css": [
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
@@ -153,6 +161,22 @@
         ".rebuy-product-review {float: left;}",
         "span.rebuy-money span {font-family: \"Josefin Sans\"; font-style: normal; display: flex; justify-content: end; font-weight: 600; line-height: 22px; color: #184b44;}",
         "span.rebuy-review-count-label {display: none;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1686832210629ae9d8": {
+      "type": "apps",
+      "blocks": {
+        "fcf34d64-5c47-4985-8ac1-da18d32b35a3": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "fcf34d64-5c47-4985-8ac1-da18d32b35a3"
       ],
       "settings": {
         "include_margins": true
@@ -235,6 +259,7 @@
         "785b1a70-42f4-4ec9-ad76-4a0d37da8b36"
       ],
       "settings": {
+        "rx-product_head": "",
         "title_font": "assistant_n4",
         "title_font_size": 40,
         "font": "assistant_n4",
@@ -256,6 +281,7 @@
     "39913493-0614-47e8-91ba-767b9479a307",
     "0160467d-6f81-456d-840c-d702483cbcf3",
     "168197142519de76d5",
+    "1686832210629ae9d8",
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
     "37d355bc-1320-4afc-b381-56eecc54e273"
