@@ -7777,3 +7777,87 @@ padding: 10px 30px;
 .facet-filters__label label,.select .facet-filters__sort{
   font-size: 16px;
 }
+/* add cdd for judgeme reviews  */
+.jdgm-rev-widg__header .jdgm-rev-widg__title{
+  text-align: center;
+    margin: 0;
+    font-family: 'Oakley Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: 0.02em;
+    line-height: 50px;
+    color: #1E1E1E;
+}
+#judgeme_product_reviews .jdgm-rev-widg__header .jdgm-row-stars .jdgm-widget-actions-wrapper{
+  
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+}
+#judgeme_product_reviews  .jdgm-rev-widg__header .jdgm-row-stars .jdgm-widget-actions-wrapper .jdgm-write-rev-link,
+#judgeme_product_reviews  .jdgm-rev-widg__header .jdgm-row-stars .jdgm-ask-question-btn{
+  width: 40%;
+  margin-top:0;
+  color: #1E1E1E !important;
+  background: #F5F8F1 !important;
+  border-radius: 24px !important;
+  border: none;
+  padding: 18px 20px;
+
+}
+.jdgm-rev-widg .jdgm-histogram .jdgm-star {
+  color: #777;
+}
+.jdgm-row-stars .jdgm-histogram__row .jdgm-histogram__bar .jdgm-histogram__bar-content{
+  background: #05718d !important;
+  opacity: 1;
+}
+
+#judgeme_product_reviews .jdgm-rev__author-wrapper .jdgm-rev__author{
+  font-family: 'Josefin Sans';
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #1E1E1E;
+}
+.jdgm-rev__buyer-badge.jdgm-rev__buyer-badge {
+  background: #fff !important;
+}
+.jdgm-rev-widg__summary-stars .jdgm-star {
+  font-size: 20px!important; ;
+}
+.jdgm-rev__buyer-badge.jdgm-rev__buyer-badge::before {
+  color: #1cc286;  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  line-height: 18px;
+  font-weight: 500;
+  font-size: 18px;
+}
+.jdgm-rev__rating .jdgm-star,.jdgm-rev-widg__summary-stars .jdgm-star {
+    color: #184B44 !important;
+}
+.jdgm-rev__content .jdgm-rev__body,.jdgm-rev__content .jdgm-rev__title{
+  
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 30px !important;
+}
+.jdgm-rev-widg__reviews .jdgm-rev__reply{
+  
+  border-left: 2px solid #e0e0e0;
+  background: #fff;
+}
+.jdgm-rev__reply-content .jdgm-rev-widg__reviews,.jdgm-rev__reply-content  .jdgm-rev__reply{
+  
+  font-size: 14px;
+  width: 100%;
+  line-height: 18px;
+  font-family: 'Josefin Sans';
+  font-style: normal;
+  font-weight: 500 !important;
+}
+/* add cdd for judgeme reviews  */
