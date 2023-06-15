@@ -136,16 +136,23 @@
       "blocks": {
         "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d": {
           "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
+          "disabled": true,
           "settings": {
             "enabled": true,
             "id": "84689",
             "product_id_enabled": true,
             "collection_id_enabled": false
           }
+        },
+        "3feaca47-77e2-45db-afd2-0d2e6509c134": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
         }
       },
       "block_order": [
-        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d"
+        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d",
+        "3feaca47-77e2-45db-afd2-0d2e6509c134"
       ],
       "custom_css": [
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
@@ -235,6 +242,7 @@
         "785b1a70-42f4-4ec9-ad76-4a0d37da8b36"
       ],
       "settings": {
+        "rx-product_head": "",
         "title_font": "assistant_n4",
         "title_font_size": 40,
         "font": "assistant_n4",
