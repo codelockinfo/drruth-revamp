@@ -93,7 +93,7 @@
       "type": "main-blog",
       "custom_css": [
         ".title--primary {display: none;}",
-        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 29px; left: 14px;}",
+        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 34px; left: 14px;}",
         "h3.card__heading.h2 {padding-top: 30%;}",
         "@media screen and (max-width: 463px) {.blog-articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}"
       ],
