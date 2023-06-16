@@ -7804,3 +7804,8 @@ padding: 10px 30px;
     width:100%;
   }
 }
+@media only screen and (max-width: 650px){
+  .autname{
+    top: -14px;
+  }
+}
