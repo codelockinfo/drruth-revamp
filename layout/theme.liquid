@@ -459,6 +459,9 @@ $(".blogcomment").click(function(e){
   e.preventDefault();
   $(".blogcontact").toggle();
 });
+if($('#comments').children().length < 0 ){
+  $(".article-template__comment-wrapper.background-secondary").css("border","none");
+}
 </script>
 <style>
 .oNS9ciVl9HkYl_RNpI17.qW_zL2XDBBdtqDDZUDDc {
