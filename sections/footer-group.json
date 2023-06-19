@@ -33,7 +33,7 @@
           "type": "text",
           "settings": {
             "heading": "DISCLAIMER",
-            "subtext": "<p>These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent disease. “Dr. Ruth Roberts is authorized to sell Standard Process Products, but is not a partner, franchisor, joint venturer, agent, or employee of Standard Process Inc.”<\/p>"
+            "subtext": "<p>Medical information or statements made on this site are not intended for use in or as a substitute for the diagnosis or treatment of any health or physical condition or as a substitute for a veterinarian-client relationship which has been established by an in-person evaluation of a patient. This information and advice published or made available through this website is not intended to replace the services of a veterinarian, nor does it constitute a veterinarian-client relationship. Each individual’s treatment and\/or results may vary based upon the circumstances, the patients’ specific situation, as well as the health care provider’s medical judgment and only after further discussion of the patient’s specific situation, goals, risks, and benefits and other relevant medical discussions.<br\/><\/p>"
           }
         }
       },
@@ -44,10 +44,10 @@
         "db265a83-60dd-4bcf-9a0d-7f55256cd1e0"
       ],
       "custom_css": [
-        ".rx-email-field input {text-transform: capitalize!important;}"
+        ".rx-email-field input {text-transform: capitalize !important;}"
       ],
       "settings": {
-        "footer-bg-color": "#F5F8F1",
+        "footer-bg-color": "#f5f8f1",
         "newsletter_enable": true,
         "newsletter_heading": "Sign up for more holistic pet care tips",
         "enable_follow_on_shop": false,
