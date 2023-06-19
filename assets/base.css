@@ -7897,9 +7897,11 @@ color: #1E1E1E;
   display: flex;
   justify-content: center;
 }
-.blogcontact {
+.blogcontact ,.blogReply{
   display: none;
 }
+.blogReply{width: 80%;
+margin: 0 auto;}
 .blogcontact{
   border: 2px solid #D9D9D9;
 border-radius: 24px;
@@ -7927,6 +7929,9 @@ font-weight: 500;
 font-size: 18px;
 line-height: 30px;
 color: #184B44;
+}
+.blogReply input {
+  margin-top: 2%;
 }
 @media only screen and (max-width: 420px){
   .blogfooterspace{

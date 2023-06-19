@@ -462,6 +462,10 @@ $(".blogcomment").click(function(e){
 if($('#comments').children().length < 0 ){
   $(".article-template__comment-wrapper.background-secondary").css("border","none");
 }
+$(".replyComent").click(function(e){
+  e.preventDefault();
+  $(this).next(".blogReply").toggle();
+});
 </script>
 <style>
 .oNS9ciVl9HkYl_RNpI17.qW_zL2XDBBdtqDDZUDDc {
