@@ -7968,3 +7968,45 @@ a.replyComent {
     padding: 0!important;
   }
 }
+.product-form__input .form__label{
+  display: none;
+}
+.product-form__input .select{
+  /* border: 2.7px solid #184B44;
+  border-radius: 24px; */
+}
+.product-form__input .select{
+  border: 2.7px solid #184B44!important;
+  border-radius: 24px!important;
+}
+.product-form__input .select:focus-visible,.product-form__input  .select__select:focus{
+
+  outline: 0;
+  border: none;
+  box-shadow: none;
+}
+.product-form__input  .select__select:focus-visible{
+  border:none;
+  box-shadow:none;
+
+}
+.product-form__input .select:after{
+border:none;
+    border-radius:unset; 
+     box-shadow:unset;
+}
+.select__select ,.select__select:focus {
+  border-radius: 24px;
+}
+.product-form__input .select:hover.select:after{
+box-shadow: unset!important;
+  border-radius:24px; 
+   box-shadow:unset;
+}
+.product-form__input  .select__select option{
+  font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.3em;
+}
