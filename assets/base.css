@@ -7800,10 +7800,20 @@ padding: 10px 30px;
 .imgtitle{
   font-weight: 700;
   text-transform: uppercase;
+  width: 100%!important;
+}
+.icontext {
+  margin: 0 2%;
 }
 .imgtextflex{
   display: flex;
   align-items: center;
+}
+.imagetext.cartimhtext {
+  margin-right: 12px;
+}
+.blogfont{
+  margin: 0 1%;
 }
 @media only screen and (max-width: 768px) {
 .teethflex{
