@@ -7777,3 +7777,6 @@ padding: 10px 30px;
 .facet-filters__label label,.select .facet-filters__sort{
   font-size: 16px;
 }
+.needsclick {
+  bottom: 8%!important;
+}
