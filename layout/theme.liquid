@@ -436,6 +436,25 @@ $("#mobile_code").intlTelInput({
 	separateDialCode: true,
 	// utilsScript: "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/11.0.4/js/utils.js"
 });
+$(".baddcart").click(function () {
+  $.ajax({
+    type: "POST",
+    url: "/cart/add.js",
+    data: {
+      quantity: "1", // Replace with the desired quantity
+      id: "39833249316929" // Replace with the variant ID of the product
+    },
+    dataType: 'json',
+    success: function (response) {
+      console.log("successss");
+      console.log(response);
+    },
+    error: function (XMLHttpRequest, textStatus, errorThrown) {
+      console.log("fail");
+    },
+  });
+
+});
 </script>
 <style>
 .oNS9ciVl9HkYl_RNpI17.qW_zL2XDBBdtqDDZUDDc {
