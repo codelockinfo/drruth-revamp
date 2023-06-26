@@ -687,6 +687,7 @@
       "blocks": {
         "template--14900946337857__bf439973-440a-472f-9457-8fcc42a11409-16796542453a418556-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Subscribe & save",
             "heading_size": "h1"
@@ -694,6 +695,7 @@
         },
         "template--14900946337857__bf439973-440a-472f-9457-8fcc42a11409-16796542453a418556-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "You'll get free shipping on orders $100 above plus 5% off every time you shop, and the comfort of knowing that your pet's favorite product will arrive month after month.",
             "text_style": "body"
@@ -701,6 +703,7 @@
         },
         "template--14900946337857__bf439973-440a-472f-9457-8fcc42a11409-16796542453a418556-2": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Email",
             "button_link_1": "",
@@ -736,6 +739,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "3121c95f-4eec-43f7-b3cd-3add1d3fa814": {
+      "type": "klaviyo_subscriptionform",
+      "settings": {
+      }
     }
   },
   "order": [
@@ -751,6 +759,7 @@
     "16451372445fbe7db4",
     "16443635858774eb64",
     "1ee7ec2f-9d8d-48b7-88ba-da1ac3cd0a2c",
-    "bf439973-440a-472f-9457-8fcc42a11409"
+    "bf439973-440a-472f-9457-8fcc42a11409",
+    "3121c95f-4eec-43f7-b3cd-3add1d3fa814"
   ]
 }
