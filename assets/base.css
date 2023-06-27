@@ -8015,6 +8015,10 @@ a.replyComent {
   border-radius: 5px !important;
  
 }
+
+.cartimhtext {
+  order: 2;
+}
 .relatedtitle{
   margin-left: 5px;
 
