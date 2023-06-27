@@ -8008,6 +8008,12 @@ a.replyComent {
 /* comment end */
 .relatedproflex{
   display:flex; 
+  margin: 5% 0;
+
+}
+.relatedproflex img{
+  border-radius: 5px !important;
+ 
 }
 .relatedtitle{
   margin-left: 5px;
