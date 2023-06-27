@@ -455,6 +455,36 @@ $(".baddcart").click(function () {
   });
 
 });
+$(".blogproductsubmit").click(function () {
+  $.ajax({
+    type: "POST",
+    url: "/cart/add.js",
+    data: {
+      quantity: "1", // Replace with the desired quantity
+      id: "40401663754305" // Replace with the variant ID of the product
+    },
+    dataType: 'json',
+    success: function (response) {
+      console.log("successss");
+      console.log(response);
+    },
+    error: function (XMLHttpRequest, textStatus, errorThrown) {
+      console.log("fail");
+    },
+  });
+
+});
+$(".blogcomment").click(function(e){
+e.preventDefault();
+$(".blogcontact").toggle();
+});
+if($('#comments').children().length <= 0 ){
+$(".article-template__comment-wrapper.background-secondary").css("border","none");
+}
+$(".replyComent").click(function(e){
+e.preventDefault();
+$(this).next(".blogReply").toggle();
+});
 </script>
 <style>
 .oNS9ciVl9HkYl_RNpI17.qW_zL2XDBBdtqDDZUDDc {
