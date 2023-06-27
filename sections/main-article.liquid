@@ -539,29 +539,55 @@
             </div>
                 </div>
               </li>
-      <div class="mar_t_60_">
-          <h2 class="moreblog">{{section.settings.morebl_first}}</h2>
-        <div>
-             {%- if section.settings.cls_main -%}
+          <div class="mar_t_60_">
+            <h2 class="moreblog aaa">{{section.settings.morebl_first}}</h2>
+          <div>
+            {% if article.metafields.custom.related_product != blank %}
+              {% for productimage in collections[article.metafields.custom.related_product].products limit:3 %} 
+              {% if productimage.available %}
+                <div class="productsimage">
+                 
+                    <div class="product_image_size product-gallery__media appendpro{{ forloop.index }}" data-media-type="media" data-summery-index="{{ forloop.index }}">
+                      <div class="relatedproflex">
+                        <div>
+                          {%- for media in productimage.images  limit:1 -%}
+                            <img src="{{ media | img_url: '80x' }}">
+                          {%-  endfor -%}
+                        </div>
+                        <div class="relatedtitle">
+                          <a href ="{{ productimage.url }}"> <span class="imageproduct-title">{{ productimage.title }}</span></a>
+                            <input readonly type="hidden" class="product-title"  type="text"  value="{{ productimage.title }}"> 
+                        </div>
+                      </div>
+                          </div>
+       
+                </div>
+             {% endif %}
+          {% endfor %}
+          {% else %}
+           {%- if section.settings.cls_main -%}
                 {% assign collection = collections[section.settings.cls_main] %}
                  {% for product in collection.products limit:3 %}
-             <li>
-                    <div class="cus_d-flex_b">
-                        <div class="cus-text-dexore width45per_">
-                            <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
-                        </div>
-                        <div class="cus-produc_tital mar_l_10_px width55per_">
-                            <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog fs_and_weight">{{ product.title }}</span></a>
-                          <div class="cls_green_c">{{ product.price| money }} USD</div>
-                        <div>  
-                    </div> 
-                </li>
-                   {% endfor %}
-        </div>
-                      {%- endif -%}
+                    <li>
+                        <div class="cus_d-flex_b">
+                            <div class="cus-text-dexore width45per_">
+                                <img src="{{ product.featured_media | img_url: '256x256' }}" class="attachment-shop_single size-shop_single sp-post-image" >
+                            </div>
+                            <div class="cus-produc_tital mar_l_10_px width55per_">
+                                <a href={{ product.url }} class="product_slt txt_d_none"><span class="custom_prj product-title title_of_blog fs_and_weight">{{ product.title }}</span></a>
+                              <div class="cls_green_c">{{ product.price| money }} USD</div>
+                            <div>  
+                        </div> 
+                      </li>
+                    {% endfor %}
+                  </div>
+          {%- endif -%} 
+          {% endif %}
+           
+          
       </div>
             <h2 class="moreblog mar_t_60_">{{section.settings.morebl}}</h2>
-          {% for article in blog.articles limit:4 %}
+          {% for article in blog.articles limit:5 %}
                 <li>
                     <div class="cus_d-flex_b">
                         <div class="cus-text-dexore width45per_">

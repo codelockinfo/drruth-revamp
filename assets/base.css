@@ -7798,12 +7798,7 @@ padding: 10px 30px;
   color: rgba(30, 30, 30, 1);
   font-family: 'Josefin Sans';
 }
-.imgtitle{
-  font-weight: 700!important;
-  text-transform: uppercase;
-  width: 100%!important;
-  color: rgba(30, 30, 30, 1)!important;
-}
+
 .icontext {
   margin: 0 2%;
 }
@@ -8011,3 +8006,43 @@ a.replyComent {
   display: none;
 }
 /* comment end */
+.relatedproflex{
+  display:flex; 
+}
+.relatedtitle{
+  margin-left: 5px;
+
+}
+.relatedtitle a{
+  text-decoration: none;
+}
+.relatedtitle .imageproduct-title{
+  font-family: 'Josefin Sans';
+    font-weight: 500;
+    color: #1E1E1E;
+    font-size: 14px;
+    line-height: 20px;
+}
+.pawicon{
+padding-top: 16px;
+float: left;
+margin-right: 10px;
+}
+.imgtitle{
+  padding-top: 16px;
+  font-size: 18px;
+  line-height: 30px;
+  font-family: 'Josefin Sans';
+  font-weight: 700!important;
+  text-transform: uppercase;
+  width: 100%!important;
+  color: rgba(30, 30, 30, 1)!important;
+}   
+.pawtextflex{
+  display: flex;
+}
+h3.imgtitle {
+  color: #000!important;
+  text-transform: initial;
+  text-align: justify;
+}

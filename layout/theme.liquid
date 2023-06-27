@@ -474,6 +474,25 @@ $(".blogproductsubmit").click(function () {
   });
 
 });
+$(".bLog_btn1").click(function () {
+  $.ajax({
+    type: "POST",
+    url: "/cart/add.js",
+    data: {
+      quantity: "1", // Replace with the desired quantity
+      id: "39943730659393" // Replace with the variant ID of the product
+    },
+    dataType: 'json',
+    success: function (response) {
+      console.log("successss");
+      console.log(response);
+    },
+    error: function (XMLHttpRequest, textStatus, errorThrown) {
+      console.log("fail");
+    },
+  }); 
+
+});
 $(".blogcomment").click(function(e){
 e.preventDefault();
 $(".blogcontact").toggle();
