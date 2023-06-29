@@ -703,7 +703,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "\/*HEADER*\/\/*COACHING PAGE*\/.become-a-certified-holistic-pet-health-coach-dr-ruth-roberts{display: none;}",
+      "\/*HEADER*\/\/*COACHING PAGE*\/#become-a-certified-holistic-pet-health-coach-dr-ruth-roberts {}",
       "\/*KLAVIIYO*\/.klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}"
     ]
   }
