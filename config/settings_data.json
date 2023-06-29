@@ -700,5 +700,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".go3176171171 p {margin-top: 85px;}"
+    ]
   }
 }
