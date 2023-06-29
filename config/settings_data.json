@@ -703,7 +703,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".go3176171171 p {margin-top: 85px;}"
+      ".go3176171171 p {margin-top: 85px;}",
+      ".klaviyo-close-form {top: 5px; right: 5px;}"
     ]
   }
 }
