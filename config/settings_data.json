@@ -704,8 +704,8 @@
   "platform_customizations": {
     "custom_css": [
       ".needsclick p:nth-of-type(1) {background: red;}",
-      ".needsclick p:nth-of-type(1) {background: green;}",
-      ".needsclick p:nth-of-type(1) {background: blue;}",
+      ".needsclick p:nth-of-type(2) {background: green;}",
+      ".needsclick p:nth-of-type(3) {background: blue;}",
       ".klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}"
     ]
   }
