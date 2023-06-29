@@ -704,7 +704,7 @@
   "platform_customizations": {
     "custom_css": [
       ".go3176171171 p {margin-top: 85px;}",
-      ".klaviyo-close-form {margn-top: 15px; margin-right: 15px;}"
+      ".klaviyo-close-form{margn-top: 15px !important; margin-right: 15px !important;}"
     ]
   }
 }
