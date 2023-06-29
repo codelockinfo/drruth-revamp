@@ -703,8 +703,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".needsclick:nth-child(1) {background: green;}",
-      ".needsclick:nth-child(2) {}",
+      ".needsclick:nth-of-type(1){background: green;}",
+      ".needsclick:nth-of-type(2){background: red;}",
       ".klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}"
     ]
   }
