@@ -264,8 +264,8 @@
                       <input
                         id="NewsletterForm--{{ section.id }}"
                         type="email"
-                        {% comment %} name="contact[email]" {% endcomment %}
-                        {% comment %} class="field__input" {% endcomment %}
+                         name="contact[email]" 
+                         class="field__input" 
                         class="rx_read_more_btn_green"
                         value="{{ form.email }}"
                         aria-required="true"
@@ -282,9 +282,9 @@
                         placeholder="{{ 'newsletter.label' | t }}"
                         required
                       >
-                      {% comment %} <label class="field__label" for="NewsletterForm--{{ section.id }}">
+                       <label class="field__label" for="NewsletterForm--{{ section.id }}">
                         {{ 'newsletter.label' | t }}
-                      </label> {% endcomment %}
+                      </label> 
                       <button type="submit" class="newsletter-form__button field__button" name="commit" id="Subscribe" aria-label="{{ 'newsletter.button_label' | t }}">
                         <img 
                           id="rx_read_more_arrow_black"
