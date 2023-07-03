@@ -142,18 +142,6 @@
     },
     "d490cb76-46ac-4bb2-832c-c029560ed07c": {
       "type": "image-banner",
-      "blocks": {
-        "a4d206e6-1e02-4379-850b-7ec79376e4ab": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "a4d206e6-1e02-4379-850b-7ec79376e4ab"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_832.png",
         "image_overlay_opacity": 0,
