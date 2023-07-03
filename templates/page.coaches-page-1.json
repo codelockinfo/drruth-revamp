@@ -158,22 +158,23 @@
         "show_text_below": true
       }
     },
-    "a8d28331-aa91-4bc9-8d3d-a455e2e29699": {
-      "type": "rx-rich-text",
+    "534eb2ad-c509-4d10-9467-b66bcd445587": {
+      "type": "rich-text",
       "blocks": {
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-0": {
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>"
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
           }
         },
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-1": {
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-1": {
           "type": "text",
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         },
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-2": {
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-2": {
           "type": "button",
           "settings": {
             "button_label": "Button label",
@@ -186,16 +187,14 @@
         }
       },
       "block_order": [
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-0",
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-1",
-        "template--14937311805505__a8d28331-aa91-4bc9-8d3d-a455e2e29699-16883944979fbd369e-2"
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-0",
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-1",
+        "template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-1688398836d45677e6-2"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#fff",
-        "image_width": "100%",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -252,7 +251,7 @@
     "1655751929e34d4e57",
     "9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5",
     "d490cb76-46ac-4bb2-832c-c029560ed07c",
-    "a8d28331-aa91-4bc9-8d3d-a455e2e29699",
+    "534eb2ad-c509-4d10-9467-b66bcd445587",
     "4bfccfaa-3f9e-46b0-8181-28ca8346e59c"
   ]
 }
