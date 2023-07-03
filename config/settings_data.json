@@ -704,7 +704,7 @@
   "platform_customizations": {
     "custom_css": [
       "\/*HEADER*\/ \/*COACHING PAGE*\/ \/*KLAVIYO*\/.klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}",
-      "#caoches-page-1 .banner__media img{display: none;}"
+      "#caoches-page-1 .banner__media img {background: #2D4B49;}"
     ]
   }
 }
