@@ -300,6 +300,67 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2b49aea1-829e-4b25-96ed-603a2638fc82": {
+      "type": "rx-collapsible",
+      "blocks": {
+        "cc80184a-66d6-4fe6-a302-cca276826629": {
+          "type": "slide",
+          "settings": {
+            "collabsible_menu": "Comprehensive Training",
+            "content": "",
+            "content2": "",
+            "image_max_height": "986px",
+            "layout": "image_first",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "52448532-73f8-4d81-8a5a-f3243142cd5d": {
+          "type": "slide",
+          "settings": {
+            "collabsible_menu": "Personalized Learning",
+            "content": "",
+            "content2": "",
+            "image_max_height": "986px",
+            "layout": "image_first",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "d0ffacd3-e074-4238-b41a-34223eacadbd": {
+          "type": "slide",
+          "settings": {
+            "collabsible_menu": "One-One Mentorship",
+            "content": "",
+            "content2": "",
+            "image_max_height": "986px",
+            "layout": "image_first",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "2347b322-e803-431c-99b6-00f51b1e8b10": {
+          "type": "slide",
+          "settings": {
+            "collabsible_menu": "Networking Oppurtunities",
+            "content": "",
+            "content2": "",
+            "image_max_height": "986px",
+            "layout": "image_first",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "cc80184a-66d6-4fe6-a302-cca276826629",
+        "52448532-73f8-4d81-8a5a-f3243142cd5d",
+        "d0ffacd3-e074-4238-b41a-34223eacadbd",
+        "2347b322-e803-431c-99b6-00f51b1e8b10"
+      ],
+      "settings": {
+      }
     }
   },
   "order": [
@@ -310,6 +371,7 @@
     "d490cb76-46ac-4bb2-832c-c029560ed07c",
     "534eb2ad-c509-4d10-9467-b66bcd445587",
     "4bfccfaa-3f9e-46b0-8181-28ca8346e59c",
-    "2251b12b-b09f-4e15-b856-771c4fec62c1"
+    "2251b12b-b09f-4e15-b856-771c4fec62c1",
+    "2b49aea1-829e-4b25-96ed-603a2638fc82"
   ]
 }
