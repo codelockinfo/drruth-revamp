@@ -10,9 +10,15 @@
   margin-top: -110px;
 }
 
-#coaches-page-1 .rich-text__heading {
-    font-family: BLT-Heirloom !important;
-    color: white;
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__heading {
+    color: #FFF;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
 }
 
 #coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding {
