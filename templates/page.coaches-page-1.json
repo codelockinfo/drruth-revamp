@@ -412,13 +412,26 @@
             "button_label": "Button label",
             "button_link": ""
           }
+        },
+        "0e82280f-094e-4af5-bd0c-e2154254e0a3": {
+          "type": "slide",
+          "settings": {
+            "collabsible_menu": "",
+            "content": "",
+            "content2": "",
+            "image_max_height": "986px",
+            "layout": "image_first",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "cc80184a-66d6-4fe6-a302-cca276826629",
         "52448532-73f8-4d81-8a5a-f3243142cd5d",
         "d0ffacd3-e074-4238-b41a-34223eacadbd",
-        "2347b322-e803-431c-99b6-00f51b1e8b10"
+        "2347b322-e803-431c-99b6-00f51b1e8b10",
+        "0e82280f-094e-4af5-bd0c-e2154254e0a3"
       ],
       "settings": {
       }
