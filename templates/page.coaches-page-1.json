@@ -117,8 +117,8 @@
         "template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-1688390420c5779b6b-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Apply Now",
+            "button_link": "shopify:\/\/pages\/caochingpage1",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
