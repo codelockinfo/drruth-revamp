@@ -9,7 +9,7 @@
 #Banner-template--14937311805505__d490cb76-46ac-4bb2-832c-c029560ed07c{
   margin-top: -110px;
 }
-
+/* First text*/
 #coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__heading {
     color: #FFF;
     text-align: center;
@@ -64,6 +64,28 @@
     background: none;
     border: solid 2px #2d4b49;
     border-radius: 50px;
+}
+/* Second text*/
+#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__heading{
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+}
+
+#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__heading{
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
 }
 #coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary svg{
     display:none;
