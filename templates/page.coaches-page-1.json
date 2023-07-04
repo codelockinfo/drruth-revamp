@@ -218,23 +218,11 @@
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
-        },
-        "template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-1688481874202d73e1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-1688481874202d73e1-0",
-        "template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-1688481874202d73e1-1",
-        "template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-1688481874202d73e1-2"
+        "template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-1688481874202d73e1-1"
       ],
       "settings": {
         "desktop_content_position": "center",
