@@ -711,7 +711,7 @@
       "#caoches-page-1 .image-with-text__grid {background: #fdc530;}",
       "#ImageWithText--template--14937311805505__4bfccfaa-3f9e-46b0-8181-28ca8346e59c {background: #fdc530;}",
       "#caoches-page-1 .rich-text__text {color: white;}",
-      "#caoches-page-1 .rich-text__heading {color: white;}"
+      "#caoches-page-1 .rich-text__heading {font-family: BLT-Heirloom !important; color: white;}"
     ]
   }
 }
