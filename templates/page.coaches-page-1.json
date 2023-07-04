@@ -246,6 +246,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2251b12b-b09f-4e15-b856-771c4fec62c1": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Group_833.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-0",
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-1",
+        "template--14937311805505__2251b12b-b09f-4e15-b856-771c4fec62c1-1688460448f90e3e5c-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -255,6 +309,7 @@
     "9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5",
     "d490cb76-46ac-4bb2-832c-c029560ed07c",
     "534eb2ad-c509-4d10-9467-b66bcd445587",
-    "4bfccfaa-3f9e-46b0-8181-28ca8346e59c"
+    "4bfccfaa-3f9e-46b0-8181-28ca8346e59c",
+    "2251b12b-b09f-4e15-b856-771c4fec62c1"
   ]
 }
