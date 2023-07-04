@@ -51,7 +51,18 @@
     font-weight: 400;
     line-height: 18.034px;
 }
- 
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary{
+    color: var(--style, #1E1E1E);
+/* bottom */
+    font-size: 14px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 4.2px;
+    text-transform: uppercase; 
+  
+}
 
 #coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding {
     background: white;
