@@ -61,6 +61,12 @@
     line-height: 150%;
     letter-spacing: 4.2px;
     text-transform: uppercase; 
+    background: none;
+    border: solid 2px #2d4b49;
+    border-radius: 50px;
+}
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary svg{
+    display:none;
   
 }
 
