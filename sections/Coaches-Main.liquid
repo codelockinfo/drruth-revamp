@@ -1,9 +1,56 @@
 {{ section.settings.custom_liquid }}
 {% schema %}
+ {
+  "name": "Coaches Main",
+  "tag": "section",
+  "class": "section video_slider",
+  "settings": [
+    {
+      "type": "text",
+      "id": "testhead",
+      "label": "Heading"
+    }
+    ,  {
+      "type": "text",
+      "id": "testdes",
+      "label": "Sub Heading"
+    } ,
+    {
+        "type": "text",
+    "id": "coachbtn",
+    "label": "Button"
+       },
+        {
+        "type": "url",
+    "id": "coachurl",
+    "label": "Button Link"
+       }
+  ],
+   "blocks": [
   {
-    "name": "Coaches Banner",
-    "settings": []
+    "type": "block",
+    "name": "block",
+    "settings": [
+     {
+      "type": "url",
+      "id": "test_url1",
+      "label": "Video URL"
+    },
+       {
+    "type": "text",
+    "id": "textid",
+    "label": "Heading"
+      }
+      
+    ]
   }
+    ],
+ "presets": [
+    {
+      "name": "Coaches Main"
+    }
+  ]
+}
 {% endschema %}
 
 {% stylesheet %}
