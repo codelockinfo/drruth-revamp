@@ -363,9 +363,13 @@
     line-height: 150%;
     letter-spacing: 4.2px;
     text-transform: uppercase; 
-  width: 373px;
-height: 51px;
-flex-shrink: 0; 
+      width: 373px;
+    height: 51px;
+    flex-shrink: 0; 
+      display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 66px
 }
 
 
