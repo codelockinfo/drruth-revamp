@@ -144,12 +144,55 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "6b2946dd-f39e-4224-b59c-2a0d194d9616": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Why Us?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>"
+          }
+        },
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-0",
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-1",
+        "template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-168855076682565186-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "3ac46ddb-f068-497f-93b7-9cd2136791f5"
+    "3ac46ddb-f068-497f-93b7-9cd2136791f5",
+    "6b2946dd-f39e-4224-b59c-2a0d194d9616"
   ]
 }
