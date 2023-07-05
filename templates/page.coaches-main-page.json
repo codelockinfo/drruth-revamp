@@ -345,8 +345,8 @@
           "type": "column",
           "settings": {
             "title": "3-Assess Your Pet's Situation",
-            "text": "",
-            "link_label": "During the consultation, your chosen pet consultant will conduct a thorough assessment of your dog’s or cat’s situation. They will actively listen to your concerns, ask relevant questions, and gather information about your pet's health, behavior, and lifestyle. This comprehensive evaluation forms the basis for creating a personalized care plan.",
+            "text": "<p>During the consultation, your chosen pet consultant will conduct a thorough assessment of your dog’s or cat’s situation. They will actively listen to your concerns, ask relevant questions, and gather information about your pet's health, behavior, and lifestyle. This comprehensive evaluation forms the basis for creating a personalized care plan.<\/p>",
+            "link_label": "",
             "link": ""
           }
         },
