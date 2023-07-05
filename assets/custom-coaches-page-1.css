@@ -319,8 +319,18 @@
 }
 
 #coaches-home-page .section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845-padding .image-with-text__media-item{
-width: 10px;
+    width: 10px;
 }
+
+/* Home page blog section */
+#coaches-home-page .section-template--14937751814209__8ae142a3-fab7-4889-9433-d9dbb0db392a-padding .title-wrapper-with-link title-wrapper--self-padded-tablet-down{
+    text-align: center !important;
+    display: block;
+}
+
+
+
+
 
 
 /* Home page last section */
@@ -358,7 +368,6 @@ width: 10px;
     font-weight: 400;
     line-height: 19.591px; 
 }
-
 
 #coaches-home-page #shopify-section-template--14937751814209__8df4d345-ee7e-4d44-aea5-db81d7daa6ee .container img{
     width: 22%;
