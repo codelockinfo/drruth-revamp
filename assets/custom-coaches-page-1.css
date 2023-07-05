@@ -127,11 +127,14 @@
 }
 
 /*Home page banner*/
+#shopify-section-template--14937751814209__f0e23169-5134-4565-9873-7cd58bc042a9{
+  display: block ruby;
+}
+
  .bmg img{
-     display: flex;
-    max-width: 20%;
     
-      height: 150px;
+    max-width: 100%;
+height: 400px;
  }
 
 
