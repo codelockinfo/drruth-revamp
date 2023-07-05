@@ -252,7 +252,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "CHECK OUR CONSULTANTS",
-        "button_link": "",
+        "button_link": "shopify:\/\/pages\/coaches-home-page",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
