@@ -177,10 +177,10 @@
 
 #coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-4{
   margin-left: 18%;
-    padding: 12px;
+  padding: 12px;
   width: 352px;
-height: 352px;
-flex-shrink: 0; 
+  height: 352px;
+  flex-shrink: 0; 
 }
 #coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-2{
   padding: 12px;
@@ -224,7 +224,17 @@ flex-shrink: 0;
   font-weight: 500;
   line-height: 24.444px; 
 }
-
+#coaches-home-page #Slider-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1 .button--primary{
+  color: var(--style, #1E1E1E);
+/* bottom */
+font-size: 14px;
+font-family: Josefin Sans;
+font-style: normal;
+font-weight: 600;
+line-height: 150%;
+letter-spacing: 4.2px;
+text-transform: uppercase; 
+}
 
 
 
