@@ -128,6 +128,7 @@
 
 /*Home page banner*/
  .bmg img{
+     display: flex;
     max-width: 100%;
       width: 50%;
       height: auto;
