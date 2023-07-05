@@ -234,8 +234,8 @@
   line-height: 150%;
   letter-spacing: 4.2px;
   text-transform: uppercase; 
-  background: none;
-  border-radius: 50px;
+  background: none !important;
+  border-radius: 50px !important;
 
   display: flex;
   width: 285px;
