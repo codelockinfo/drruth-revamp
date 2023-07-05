@@ -485,6 +485,29 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "8df4d345-ee7e-4d44-aea5-db81d7daa6ee": {
+      "type": "rx-banner-text-v2",
+      "blocks": {
+        "59b854e0-0bde-4d9b-8621-765723eab760": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "59b854e0-0bde-4d9b-8621-765723eab760"
+      ],
+      "settings": {
+        "rx_image_banner": "shopify:\/\/shop_images\/image_4_6114c6cf-5417-426c-8e2f-55c22b1c8868.png",
+        "heading": "Join Our Team! Become a Certified Holistic Pet Health Coach",
+        "caption": "",
+        "content": "<p>Are you passionate about the well-being of animals? Do you believe in the power of holistic approaches to pet health? If so, we invite you to join our team as a Certified Holistic Pet Health Coach. By becoming a part of our dedicated group of professionals, you can make a significant impact in the lives of pets and their owners, helping them achieve optimal health and happiness.<\/p>",
+        "content2": "",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -498,6 +521,7 @@
     "e1e9826a-371c-43e4-a3d2-a88b2fd16e3e",
     "611aca1b-1c32-433c-b02e-b51ba1a09f1e",
     "4e5df450-9b78-4ab5-933d-b80483febc23",
-    "97d53c83-a653-4616-bcc8-985a4da85845"
+    "97d53c83-a653-4616-bcc8-985a4da85845",
+    "8df4d345-ee7e-4d44-aea5-db81d7daa6ee"
   ]
 }
