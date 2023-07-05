@@ -275,7 +275,7 @@
 }
 #coaches-home-page #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e p{
     color: var(--style, #1E1E1E);
-    text-align: justify;
+    text-align: justify !important;
     font-size: 15px;
     font-family: Josefin Sans;
     font-style: normal;
