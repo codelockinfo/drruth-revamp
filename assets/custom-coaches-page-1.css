@@ -236,6 +236,12 @@
   text-transform: uppercase; 
   background: none;
   border-radius: 50px;
+
+  display: flex;
+  width: 285px;
+  height: 18px;
+  flex-direction: column;
+  flex-shrink: 0; 
 }
 
 
