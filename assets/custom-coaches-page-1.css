@@ -240,6 +240,27 @@
  
 }
 
+/*Home page section 3*/
+
+#coaches-home-page .section-template--14937751814209__da26dabf-6762-4369-9f3c-0976a5eded34-padding .rich-text__heading {
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+}
+#coaches-home-page .section-template--14937751814209__da26dabf-6762-4369-9f3c-0976a5eded34-padding .rich-text__text {
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 18px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.034px; 
+}
 
 
  .bmg img{
