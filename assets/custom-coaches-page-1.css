@@ -366,10 +366,9 @@
       width: 373px;
     height: 51px;
     flex-shrink: 0; 
-     
-   
     align-items: center;
     gap: 66px
+    background: none;
 }
 
 
