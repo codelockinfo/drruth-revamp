@@ -349,9 +349,21 @@
 }
 
 #coaches-home-page #Slider-template--14937751814209__8ae142a3-fab7-4889-9433-d9dbb0db392a .card__inner{
-height: 377px;
+    height: 377px;
 }
-
+#coaches-home-page .section-template--14937751814209__717906c2-8187-4068-835b-4ee8ee6b7a48-padding .button--primary{
+    border-radius: 25.5px;
+    border: 2px solid var(--1, #184B44); 
+    color: var(--style, #1E1E1E);
+/* bottom */
+    font-size: 14px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 4.2px;
+    text-transform: uppercase; 
+}
 
 
 /* Home page last section */
