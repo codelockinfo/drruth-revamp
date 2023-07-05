@@ -237,11 +237,7 @@
   background: none !important;
   border-radius: 50px !important;
 
-  display: flex;
-  width: 285px;
-  height: 18px;
-  flex-direction: column;
-  flex-shrink: 0; 
+ 
 }
 
 
