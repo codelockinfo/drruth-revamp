@@ -133,6 +133,8 @@
         "template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5-1688483327c6ca28c1-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_21.png",
+        "image_2": "shopify:\/\/shop_images\/Rectangle_22.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "top-left",
@@ -143,34 +145,12 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "f0e23169-5134-4565-9873-7cd58bc042a9": {
-      "type": "Coaches-Main",
-      "blocks": {
-        "71724107-bfdf-421f-a2db-64e8e280fefe": {
-          "type": "block",
-          "settings": {
-            "test_url1": "",
-            "textid": ""
-          }
-        }
-      },
-      "block_order": [
-        "71724107-bfdf-421f-a2db-64e8e280fefe"
-      ],
-      "settings": {
-        "testhead": "",
-        "testdes": "",
-        "coachbtn": "",
-        "coachurl": ""
-      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "3ac46ddb-f068-497f-93b7-9cd2136791f5",
-    "f0e23169-5134-4565-9873-7cd58bc042a9"
+    "3ac46ddb-f068-497f-93b7-9cd2136791f5"
   ]
 }
