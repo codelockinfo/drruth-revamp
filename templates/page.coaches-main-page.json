@@ -424,7 +424,7 @@
           "type": "button",
           "settings": {
             "button_label": "MORE PET ADVICE",
-            "button_link": "",
+            "button_link": "shopify:\/\/pages\/coaches-home-page",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
