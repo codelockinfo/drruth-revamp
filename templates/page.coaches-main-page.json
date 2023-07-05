@@ -279,7 +279,7 @@
         "template--14937751814209__da26dabf-6762-4369-9f3c-0976a5eded34-168855076682565186-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
