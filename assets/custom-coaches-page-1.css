@@ -363,6 +363,9 @@
     line-height: 150%;
     letter-spacing: 4.2px;
     text-transform: uppercase; 
+  width: 373px;
+height: 51px;
+flex-shrink: 0; 
 }
 
 
