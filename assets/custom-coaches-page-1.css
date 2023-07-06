@@ -21,7 +21,7 @@
     flex-shrink: 0; 
     border-radius: 25.624px;
     background: #A6B7FF; 
-    border: none !important;
+    
     color: #2D4B49;
     font-family: BLT-Heirloom;
     font-size: 20px;
@@ -30,6 +30,12 @@
     line-height: 51.085px;
     text-transform: capitalize; 
 
+}
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .button--primary{
+    border: none !important;
+}
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .button--primary svg{
+      display: none;
 }
 
 
