@@ -144,6 +144,7 @@ display: none;
   font-weight: 300;
   line-height: 65.917px;
   text-transform: capitalize; 
+  text-align: left;
 }
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .imagedes{
   color: #FFF;
@@ -152,8 +153,16 @@ display: none;
   font-style: normal;
   font-weight: 400;
   line-height: 27.034px; 
+  text-align: left;
 }
 
+
+
+
+
+
+
+/*Home page banner section 2*/
 #coaches-home-page .section-template--14937751814209__6b2946dd-f39e-4224-b59c-2a0d194d9616-padding .rich-text__heading{
   color: #2D4B49;
   text-align: center;
@@ -173,7 +182,7 @@ display: none;
   font-weight: 400;
   line-height: 26.034px; 
 }
-/*Home page banner section 2*/
+
 #coaches-home-page #Slider-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1 .multicolumn-card{
  background: #97ae9a;
 }
