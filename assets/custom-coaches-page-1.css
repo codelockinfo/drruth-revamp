@@ -127,6 +127,17 @@
 }
 
 /*Home page banner*/
+
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5{
+    background: var(--gradient-background);
+    background-attachment: cover;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
+    background-color: transparent !important;
+    background-position: top left !important;
+    background-size: auto !important;
+    background-repeat: no-repeat;
+}
+
 #shopify-section-template--14937751814209__f0e23169-5134-4565-9873-7cd58bc042a9{
   display: block ruby;
 }
