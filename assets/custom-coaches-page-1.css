@@ -252,7 +252,7 @@
     background-position: top left !important;
     background-size: auto !important;
     background-repeat: no-repeat;
-    background-position-x: center;
+    background-position-x: center !important;
 }
 
 #coaches-home-page #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e .multicolumn-card{
