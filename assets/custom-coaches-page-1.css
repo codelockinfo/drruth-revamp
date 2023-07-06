@@ -136,7 +136,7 @@ display: none;
 #shopify-section-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5{
   background: #2d4b49;
 }
-#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__heading .imghead{ 
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__heading{ 
   color: #FFF;
   font-size: 61.908px;
   font-family: BLT-Heirloom;
@@ -146,7 +146,7 @@ display: none;
   text-transform: capitalize; 
   text-align: left !important;
 }
-#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .imagedes{
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__text{
   color: #FFF;
   font-size: 18px;
   font-family: Josefin Sans;
