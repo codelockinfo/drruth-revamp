@@ -144,7 +144,7 @@ display: none;
   font-weight: 300;
   line-height: 65.917px;
   text-transform: capitalize; 
-  text-align: left;
+  text-align: left !important;
 }
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .imagedes{
   color: #FFF;
@@ -153,7 +153,7 @@ display: none;
   font-style: normal;
   font-weight: 400;
   line-height: 27.034px; 
-  text-align: left;
+  text-align: left !important;
 }
 
 
