@@ -155,6 +155,19 @@
     background-position-x:right 220px !important;
     background-position-y: center !important;
 }
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5{
+      
+    background: var(--gradient-background);
+    display: block !important;
+    background-attachment: cover;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_21_150x.png?v=1688478639) !important;
+    
+    background-color: transparent !important;
+    background-size: auto !important;
+    background-repeat: no-repeat;
+    background-position-x:right 320px !important;
+    background-position-y: center !important;
+}
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__media img{
    width: 100px;
 }
