@@ -48,7 +48,7 @@
       ],
       "settings": {
         "footer-bg-color": "#f5f8f1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Sign up for more holistic pet care tips",
         "enable_follow_on_shop": false,
         "show_social": false,
