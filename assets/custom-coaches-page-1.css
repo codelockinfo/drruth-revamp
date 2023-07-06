@@ -1,131 +1,3 @@
-/*Banner Pet Advice Page*/
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding {
-    background: #2d4b49;
-}
-#coaches-page-1 .banner__media {
-    background: #2d4b49;
-}
-
-#Banner-template--14937311805505__d490cb76-46ac-4bb2-832c-c029560ed07c{
-  margin-top: -110px;
-}
-/* First text*/
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__heading {
-    color: #FFF;
-    text-align: center;
-    font-size: 61.908px;
-    font-family: BLT-Heirloom;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 65.917px;
-    text-transform: capitalize; 
-    margin-bottom: 16px;
-}
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__text {
-    color: rgba(255, 255, 255, 0.87);
-    text-align: center;
-    font-size: 15.029px;
-    font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 18.034px; 
-    margin-top: -6px;
-}
-#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .rich-text__heading{
-    color: #2D4B49;
-    text-align: center;
-    font-size: 61.908px;
-    font-family: BLT-Heirloom;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 65.917px;
-    text-transform: capitalize; 
-}
-
-#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .rich-text__text{
-    color: #1E1E1E;
-    text-align: center;
-    font-size: 15.029px;
-    font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 18.034px;
-}
-#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary{
-    color: var(--style, #1E1E1E);
-/* bottom */
-    font-size: 14px;
-    font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 150%;
-    letter-spacing: 4.2px;
-    text-transform: uppercase; 
-    background: none;
-    border: solid 2px #2d4b49;
-    border-radius: 50px;
-}
-/* Second text*/
-#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__heading{
-    color: #2D4B49;
-    text-align: center;
-    font-size: 61.908px;
-    font-family: BLT-Heirloom;
-    font-style: normal;
-    font-weight: 300;
-    line-height: 65.917px;
-    text-transform: capitalize;
-}
-
-#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__text{
-    color: #1E1E1E;
-    text-align: center;
-    font-size: 15.029px;
-    font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 18.034px;
-}
-#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary svg{
-    display:none;
-  
-}
-
-#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding {
-    background: white;
-}
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .button--primary {
-    border-radius: 50px;
-    background: #a6b7ff;
-    color: #2d4b49;
-}
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .button--primary svg {
-    display: none;
-}
-
-
-
-#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__blocks{
-    max-width: 150rem !important;
-}
-/*Banner page 1 image adjust*/
-#shopify-section-template--14937311805505__d490cb76-46ac-4bb2-832c-c029560ed07c{
-    padding: 40px;
-    background: #2d4b49;
-}
-
-#become-a-certified-holistic-pet-health-coach-dr-ruth-roberts .section-template--14921794486337__38bceb66-17fa-4539-8d15-e78489d9a302-padding .rich-text__heading{
-  padding: 20px;
-}
-
-/*Nav Menu Center*/
-.header--middle-left{
-  grid-template-columns: 1fr auto 1fr !important;
-}
-.header--middle-left .header__inline-menu {
-  margin-top: 10px;
-}
-
 /*Home page banner*/
 
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__media{
@@ -141,7 +13,28 @@
     background-position-y: center !important;
     padding-left: 20px;
 }
+#coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__buttons{
+display: flex;
+width: 198px;
+height: 50.082px;
+padding: 20.965px 29.7px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 5.824px;
+flex-shrink: 0; 
+border-radius: 25.624px;
+background: #A6B7FF; 
 
+color: #2D4B49;
+font-family: BLT-Heirloom;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 51.085px;
+text-transform: capitalize; 
+
+}
 
 
 #shopify-section-template--14937751814209__f0e23169-5134-4565-9873-7cd58bc042a9{
@@ -531,7 +424,133 @@ height: 400px;
 
 
 
+/*Banner Pet Advice Page*/
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding {
+    background: #2d4b49;
+}
+#coaches-page-1 .banner__media {
+    background: #2d4b49;
+}
 
+#Banner-template--14937311805505__d490cb76-46ac-4bb2-832c-c029560ed07c{
+  margin-top: -110px;
+}
+/* First text*/
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__heading {
+    color: #FFF;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+    margin-bottom: 16px;
+}
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__text {
+    color: rgba(255, 255, 255, 0.87);
+    text-align: center;
+    font-size: 15.029px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.034px; 
+    margin-top: -6px;
+}
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .rich-text__heading{
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+}
+
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .rich-text__text{
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 15.029px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.034px;
+}
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary{
+    color: var(--style, #1E1E1E);
+/* bottom */
+    font-size: 14px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%;
+    letter-spacing: 4.2px;
+    text-transform: uppercase; 
+    background: none;
+    border: solid 2px #2d4b49;
+    border-radius: 50px;
+}
+/* Second text*/
+#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__heading{
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+}
+
+#coaches-page-1 .section-template--14937311805505__9dada5cc-fc40-492e-86a1-8bd668ef1cbf-padding .rich-text__text{
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 15.029px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.034px;
+}
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding .button--primary svg{
+    display:none;
+  
+}
+
+#coaches-page-1 .section-template--14937311805505__534eb2ad-c509-4d10-9467-b66bcd445587-padding {
+    background: white;
+}
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .button--primary {
+    border-radius: 50px;
+    background: #a6b7ff;
+    color: #2d4b49;
+}
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .button--primary svg {
+    display: none;
+}
+
+
+
+#coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding .rich-text__blocks{
+    max-width: 150rem !important;
+}
+/*Banner page 1 image adjust*/
+#shopify-section-template--14937311805505__d490cb76-46ac-4bb2-832c-c029560ed07c{
+    padding: 40px;
+    background: #2d4b49;
+}
+
+#become-a-certified-holistic-pet-health-coach-dr-ruth-roberts .section-template--14921794486337__38bceb66-17fa-4539-8d15-e78489d9a302-padding .rich-text__heading{
+  padding: 20px;
+}
+
+/*Nav Menu Center*/
+.header--middle-left{
+  grid-template-columns: 1fr auto 1fr !important;
+}
+.header--middle-left .header__inline-menu {
+  margin-top: 10px;
+}
 
 
 
