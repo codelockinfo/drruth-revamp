@@ -242,6 +242,20 @@
 
 /*Home page section 3*/
 
+
+#coaches-home-page #shopify-section-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e{
+
+
+    background: var(--gradient-background);
+    background-attachment: fixed;
+    background-image: url(//cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
+    background-color: transparent !important;
+    background-position: top left !important;
+    background-size: auto !important;
+
+
+}
+
 #coaches-home-page #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e .multicolumn-card{
     background: white;
 }
