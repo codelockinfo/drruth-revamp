@@ -135,7 +135,7 @@
     background-color: transparent !important;
     background-size: auto !important;
     background-repeat: no-repeat;
-    background-position-x: right !important;
+    background-position-x: right 100px !important;
     background-position-y: center !important;
 }
 
