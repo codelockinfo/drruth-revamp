@@ -131,6 +131,7 @@
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__media{
     background: var(--gradient-background);
     background-attachment: cover;
+    width: 1000px !important;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_1bcba6ba-16a9-4fc9-bc76-acf062406664_150x.png?v=1688549752) !important;
     background-color: transparent !important;
     background-size: auto !important;
