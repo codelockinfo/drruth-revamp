@@ -459,7 +459,7 @@
 height: 400px;
  }
 /* Mobile Responsive */
-
+/*----------------------------------------------------------------------------------------------------------------------------------------*/
 @media screen and (max-width: 1000px) {
   
 #coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-4{
@@ -483,10 +483,93 @@ height: 400px;
 
 }
 
+
+#coaches-home-page #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e .multicolumn-card{
+    background: none;
+}
+
+
+
+
+
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-1{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+    
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-2{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+  
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-3{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+ 
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-4{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+ 
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-5{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+ 
+ 
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-6{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+  
+  
+}
+
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-1 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-3 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-5 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-2 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-4 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+#coaches-home-page #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-6 .multicolumn-card{
+    margin-left: 0px;
+    margin-right: 0px;
+
+}
+
+#coaches-home-page #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e{
+    margin-top: -56px;
+
+}
   
       }
 
-
+/*----------------------------------------------------------------------------------------------------------------------------------------*/
 
 
 
