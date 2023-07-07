@@ -766,6 +766,27 @@ font-style: normal;
 font-weight: 400;
 line-height: 26.034px; 
 }
+#home-page-coaches .section-template--14938865434689__b5296532-5fb5-4f6d-b195-bb7e7a845180-padding .rich-text__heading{
+color: #2D4B49;
+text-align: center;
+font-family: BLT-Heirloom;
+font-size: 61.908px;
+font-style: normal;
+font-weight: 300;
+line-height: 65.917px;
+text-transform: capitalize;
+
+}
+
+#home-page-coaches .section-template--14938865434689__b5296532-5fb5-4f6d-b195-bb7e7a845180-padding .rich-text__text{
+color: #1E1E1E;
+text-align: center;
+font-family: Josefin Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 26.034px; 
+}
 
 #home-page-coaches .rebuy-product-actions{
  display: none;
