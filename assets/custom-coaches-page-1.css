@@ -745,7 +745,7 @@ height: 400px;
 /*======================================================================================================================*/
 /*Home Page Coaches*/
 
-#home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .section-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-padding{
+#home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-padding isolate{
 
     background: var(--gradient-background);
     background-attachment: cover;
