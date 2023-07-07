@@ -527,6 +527,49 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "ac13195c-53bc-424b-9b40-fe74d88a6403": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-0",
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-1",
+        "template--14938865434689__ac13195c-53bc-424b-9b40-fe74d88a6403-1688740791be07a21a-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -541,6 +584,7 @@
     "b78fc9e9-1c09-44c8-8f85-74dce5438e4d",
     "165bcab7-2e50-4758-9fc7-2d205a00e3dc",
     "a3836bec-fa69-49c3-8eb5-ea7d7a5a3234",
-    "0b8f6540-0805-4dd3-98aa-a1a0d6937cbb"
+    "0b8f6540-0805-4dd3-98aa-a1a0d6937cbb",
+    "ac13195c-53bc-424b-9b40-fe74d88a6403"
   ]
 }
