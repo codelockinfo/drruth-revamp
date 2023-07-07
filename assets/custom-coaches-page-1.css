@@ -721,7 +721,7 @@ height: 400px;
   margin-top: 10px;
 }
 
-#coaches-page-1 #section-template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-padding .rich-text__heading{
+#coaches-page-1 .section-template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-padding .rich-text__heading{
     color: #2D4B49;
     text-align: center;
     font-family: BLT-Heirloom;
@@ -732,7 +732,7 @@ height: 400px;
     text-transform: capitalize; 
 
 }
-#coaches-page-1 #section-template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-padding .rich-text__text{
+#coaches-page-1 .section-template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-padding .rich-text__text{
     color: #1E1E1E;
     text-align: center;
     font-family: Josefin Sans;
