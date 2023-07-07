@@ -742,10 +742,150 @@ height: 400px;
     line-height: 26.034px; 
 
 }
+/*======================================================================================================================*/
+/*Home Page Coaches*/
+
+#home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .section-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-padding{
+
+    background: var(--gradient-background);
+    background-attachment: cover;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
+    background-color: transparent !important;
+    background-position: top left !important;
+    background-size: auto !important;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+}
+
+#home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .multicolumn-card{
+    background: none;
+}
+
+#home-page-coaches .section-template--14937751814209__da26dabf-6762-4369-9f3c-0976a5eded34-padding .rich-text__heading {
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+}
+#home-page-coaches .section-template--14937751814209__da26dabf-6762-4369-9f3c-0976a5eded34-padding .rich-text__text {
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 18px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.034px; 
+}
+#home-page-coaches #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e h3{
+    color: var(--style, #1E1E1E);
+    font-size: 24.765px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 33.019px; 
+}
+#home-page-coaches #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e p{
+    color: var(--style, #1E1E1E);
+    text-align: justify !important;
+    font-size: 15px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.573px; 
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-1{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+    
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-2{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+  
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-3{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+   
+ 
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-4{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+   
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-5{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+ 
+ 
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-6{
+    padding-left: 65px;
+    padding-right: 65px;
+    background: none;
+  
+  
+}
+
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-1 .multicolumn-card{
+    margin-left: -128px;
+    margin-right: 125px;
+
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-3 .multicolumn-card{
+    margin-left: -128px;
+    margin-right: 125px;
+
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-5 .multicolumn-card{
+    margin-left: -128px;
+    margin-right: 125px;
+
+}
+
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-2 .multicolumn-card{
+    margin-left: 128px;
+    margin-right: -103px;
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-4 .multicolumn-card{
+    margin-left: 128px;
+    margin-right: -103px;
+
+}
+#home-page-coaches #Slide-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e-6 .multicolumn-card{
+    margin-left: 128px;
+    margin-right: -103px;
+
+}
+
+#home-page-coaches #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e{
+    margin-top: -56px;
+
+}
+
+#home-page-coaches #Banner-template--14937751814209__611aca1b-1c32-433c-b02e-b51ba1a09f1e .banner__media{
+    background: none;
+   /* margin-top: -1202px; */
+}
 
 
+#home-page-coaches #shopify-section-template--14937751814209__611aca1b-1c32-433c-b02e-b51ba1a09f1e{
+    /* padding: 430px; */
+}
 
-
+#home-page-coaches .section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845-padding .image-with-text__media-item{
+    width: 10px;
+}
 
 
 
