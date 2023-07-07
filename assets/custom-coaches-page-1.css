@@ -1017,14 +1017,91 @@ line-height: 26.034px;
     padding-bottom: 60px;
 }
 
-#coaches-home-page #shopify-section-template--14937751814209__8df4d345-ee7e-4d44-aea5-db81d7daa6ee .container img{
+
+
+/*Banner Home page ===========================================================================================*/
+
+
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__media{
+      
+    background: var(--gradient-background);
+    display: block !important;
+    background-attachment: cover;
+    background-image: url("") !important;
+    background-color: transparent !important;
+    background-size: 733px !important;
+    background-repeat: no-repeat;
+    background-position-x: right 50px !important;
+    background-position-y: center !important;
+    padding-left: 20px;
+
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__buttons{
+    
+    justify-content: center;
+    gap: 5.824px;
+    flex-shrink: 0; 
+    border-radius: 25.624px;
+    background: #A6B7FF; 
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 51.085px;
+    
+
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .button--primary{
+    border: none !important;
+  color: #2d4b49;
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .button--primary svg{
+      display: none;
+}
+
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__box{
+   margin-left: 0px !important;
 
 }
 
 
+#shopify-section-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965{
+  display: block ruby;
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__media svg{
+  display: none;
+}
+#shopify-section-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965{
+  background: #abc5ae;
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__heading .imghead{ 
+  color: #FFF;
+  font-size: 61.908px;
+  font-family: BLT-Heirloom;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 65.917px;
+  text-transform: capitalize; 
 
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .imagedes{
+  color: #FFF;
+  font-size: 18px;
+  font-family: Josefin Sans;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 27.034px; 
+}
 
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__heading{ 
 
+  text-align: left !important;
+}
+#home-page-coaches #Banner-template--14938865434689__fc64388b-f9d8-4d17-acb7-0b14046cd965 .banner__text{
+  
+  text-align: left !important;
+}
 
 
 
