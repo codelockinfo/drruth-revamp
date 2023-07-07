@@ -565,7 +565,17 @@ height: 400px;
   
       }
 
+
+  
+}
+
 @media screen and (max-width: 1000px) {
+#coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-4{
+        margin-left: 0px;
+        }
+  
+}
+@media screen and (max-width: 980px) {
 #coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media{
     
     background: var(--gradient-background);
@@ -581,15 +591,6 @@ height: 400px;
     border: none;
    
 
-}
-  
-}
-
-@media screen and (max-width: 1000px) {
-#coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-4{
-        margin-left: 0px;
-        }
-  
 }
 
   
