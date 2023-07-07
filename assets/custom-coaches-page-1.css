@@ -406,7 +406,7 @@
     line-height: 19.591px; 
 }
 
-#coaches-home-page #shopify-section-template--14937751814209__8df4d345-ee7e-4d44-aea5-db81d7daa6ee .container{
+#coaches-home-page #shopify-section-template--14937751814209__8df4d345-ee7e-4d44-aea5-db81d7daa6ee .container img{
     background: var(--gradient-background);
     display: block !important;
     background-attachment: cover;
@@ -419,7 +419,7 @@
     padding-left: 20px;
 }
 #coaches-home-page #shopify-section-template--14937751814209__8df4d345-ee7e-4d44-aea5-db81d7daa6ee .container img{
- display: none;
+
 }
 /* Added custom section */
  .bmg img{
