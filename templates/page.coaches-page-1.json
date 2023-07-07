@@ -232,6 +232,91 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "4e4ded4d-ded3-468a-ade7-88b2d92f34e0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>After the program, Join our network of certified Holistic Pet Health Coaches<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From application to graduation, our program offers a comprehensive journey towards becoming a certified holistic pet health coach. In this guide, we will walk you through each step of the process and provide an overview of what you can expect as you embark on this exciting career path<br\/><\/p>"
+          }
+        },
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-0",
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-1",
+        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d5a2c720-aba5-48e1-a191-0f234a43e439": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14937311805505__d5a2c720-aba5-48e1-a191-0f234a43e439-16887328595f0e4f9e-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14937311805505__d5a2c720-aba5-48e1-a191-0f234a43e439-16887328595f0e4f9e-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14937311805505__d5a2c720-aba5-48e1-a191-0f234a43e439-16887328595f0e4f9e-0",
+        "template--14937311805505__d5a2c720-aba5-48e1-a191-0f234a43e439-16887328595f0e4f9e-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -241,6 +326,8 @@
     "9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5",
     "d490cb76-46ac-4bb2-832c-c029560ed07c",
     "534eb2ad-c509-4d10-9467-b66bcd445587",
-    "9dada5cc-fc40-492e-86a1-8bd668ef1cbf"
+    "9dada5cc-fc40-492e-86a1-8bd668ef1cbf",
+    "4e4ded4d-ded3-468a-ade7-88b2d92f34e0",
+    "d5a2c720-aba5-48e1-a191-0f234a43e439"
   ]
 }
