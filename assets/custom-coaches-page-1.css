@@ -460,10 +460,14 @@ height: 400px;
  }
 
 
-
-
-
-
+@media screen and (max-width: 1000px) {
+  
+        #coaches-home-page #Slide-template--14937751814209__5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1-4{
+        margin-left: 0px;
+        }
+    
+       
+      }
 
 
 
