@@ -1,19 +1,10 @@
 /*Home page banner*/
 #coaches-home-page #Banner-template--14937751814209__3ac46ddb-f068-497f-93b7-9cd2136791f5 .banner__media{
       
-    background: var(--gradient-background);
-    display: block !important;
-    background-attachment: cover;
-    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_1bcba6ba-16a9-4fc9-bc76-acf062406664_430x.png?v=1688549752#) !important;
-    background-color: transparent !important;
-    background-size: 733px !important;
-    background-repeat: no-repeat;
-    background-position-x: right 50px !important;
-    background-position-y: center !important;
-    padding-left: 20px;
+   
   /* Rectangle 21 */
 
-position: absolute;
+
 width: 432.17px;
 height: 503px;
 left: 692.47px;
@@ -25,7 +16,7 @@ border-radius: 33.1747px;
 
 /* Rectangle 24 */
 
-position: absolute;
+
 width: 433px;
 height: 288px;
 left: 692px;
@@ -37,7 +28,7 @@ border-radius: 33.1747px;
 
 /* Kelly Coge Cert. CN, B.S.c Naturopathic Animal Scince, HPHC */
 
-position: absolute;
+
 width: 346px;
 height: 82px;
 left: 735px;
@@ -58,7 +49,7 @@ color: #FFFFFF;
 
 /* Rectangle 22 */
 
-position: absolute;
+
 width: 139.87px;
 height: 503px;
 left: 1147.94px;
@@ -70,7 +61,7 @@ border-radius: 33.1747px;
 
 /* Rectangle 23 */
 
-position: absolute;
+
 width: 139.87px;
 height: 503px;
 left: 1311.13px;
@@ -82,7 +73,7 @@ border-radius: 33.1747px;
 
 /* Rectangle 26 */
 
-position: absolute;
+
 width: 140px;
 height: 288px;
 left: 1148px;
@@ -94,7 +85,7 @@ border-radius: 33.1747px;
 
 /* Rectangle 27 */
 
-position: absolute;
+
 width: 140px;
 height: 288px;
 left: 1311px;
