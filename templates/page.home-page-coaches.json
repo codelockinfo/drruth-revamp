@@ -196,10 +196,52 @@
             "button_label": "Subscribe",
             "button_link": ""
           }
+        },
+        "dafba17b-a206-43c7-939a-749545f86072": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_26.png",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "text_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Image with text",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button",
+            "button_link": ""
+          }
+        },
+        "7d45289b-e105-4733-b9b1-b84f1f3d16e0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Image_26.png",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "text_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Image with text",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
-        "template--14938865434689__292d2bca-865b-4f08-bf73-732508a4bc06-1688736478d3afb5c3-0"
+        "template--14938865434689__292d2bca-865b-4f08-bf73-732508a4bc06-1688736478d3afb5c3-0",
+        "dafba17b-a206-43c7-939a-749545f86072",
+        "7d45289b-e105-4733-b9b1-b84f1f3d16e0"
       ],
       "settings": {
         "desktopMaxWidth": "100%",
