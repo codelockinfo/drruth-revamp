@@ -144,29 +144,6 @@
         "show_text_below": true
       }
     },
-    "5ffd169d-c608-4953-ae2c-6324df7cfb9c": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14937751814209__5ffd169d-c608-4953-ae2c-6324df7cfb9c-1688720952a7133036-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Kelly Coge<br\/>Cert. CN, B.S.c Naturopathic Animal Scince, HPHC<br\/><\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14937751814209__5ffd169d-c608-4953-ae2c-6324df7cfb9c-1688720952a7133036-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "6b2946dd-f39e-4224-b59c-2a0d194d9616": {
       "type": "rich-text",
       "blocks": {
@@ -500,7 +477,6 @@
     "newsletter",
     "1655751929e34d4e57",
     "3ac46ddb-f068-497f-93b7-9cd2136791f5",
-    "5ffd169d-c608-4953-ae2c-6324df7cfb9c",
     "6b2946dd-f39e-4224-b59c-2a0d194d9616",
     "5c33b42b-d3e2-421f-9b72-f4dd25a4d2e1",
     "da26dabf-6762-4369-9f3c-0976a5eded34",
