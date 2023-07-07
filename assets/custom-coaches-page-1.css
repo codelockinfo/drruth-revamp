@@ -408,17 +408,6 @@
 
 #coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media{
     
-    
-   
-   
-
-}
-#coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media-item{
-    background: #abc5ae;
-  
-}
-#coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media--adapt .placeholder-svg path{
-    
     background: var(--gradient-background);
     display: block !important;
     background-attachment: cover;
@@ -430,6 +419,17 @@
     background-position-y: center !important;
     padding-left: 20px;
     border: none;
+   
+   
+
+}
+#coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media-item{
+    background: #abc5ae;
+  
+}
+#coaches-home-page #shopify-section-template--14937751814209__97d53c83-a653-4616-bcc8-985a4da85845 .image-with-text__media--adapt .placeholder-svg path{
+    
+    display: none;
 
 }
     
