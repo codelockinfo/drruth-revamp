@@ -191,9 +191,9 @@
             "grid_type": "type1",
             "show_arrow_mobile": "yes",
             "mobile_content_alignment": "center",
-            "heading": "Image with text",
+            "heading": "Dr. Ruth Roberts",
             "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button",
+            "button_label": "Subscribe",
             "button_link": ""
           }
         }
