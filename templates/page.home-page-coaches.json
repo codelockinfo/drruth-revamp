@@ -298,8 +298,8 @@
         "template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-1688736945b83853cb-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "1-Select a Pet Consultant",
+            "text": "<p>Browse through our team of dedicated petconsultants and select the one who best fits your needs. Each consultant brings a unique skill set, experience, and specialization in holistic pet care. Take into account their expertise and areas of focus to find the perfect match for your pet's specific requirements.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -307,8 +307,8 @@
         "template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-1688736945b83853cb-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "4-Receive a Personalized Care Plan",
+            "text": "<p>Based on the assessment, your consultant will develop a personalized care plan tailored to your pet's specific needs. The care plan will encompass recommendations and interventions designed to address your dog’s or cat’s health concerns and enhance their overall well-being. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -316,8 +316,8 @@
         "template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-1688736945b83853cb-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "2-Book Our Pet Consultant",
+            "text": "<p>Once you've chosen your preferred consultant, it's time to book a consultation. Utilize our convenient booking system or contact our team directly to schedule an appointment with your selected consultant. This step ensures that you have dedicated time to discuss your pet's situation and work collaboratively towards their well-being.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -325,8 +325,8 @@
         "9634f39c-8f2c-49d6-bbdc-c9a5aee5f717": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "5-Implement the Care Plan",
+            "text": "<p>With the personalized care plan in hand, it's time to put it into action. Your consultant will guide you through the implementation process, providing clear instructions and practical guidance. They will help you make necessary adjustments to your pet's diet, exercise routine, and other aspects of their care. This collaborative effort ensures a seamless integration of the care plan into your pet's daily life.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -334,8 +334,8 @@
         "705158ee-4678-445e-b212-248106b67675": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "3-Assess Your Pet's Situation",
+            "text": "<p>During the consultation, your chosen pet consultant will conduct a thorough assessment of your dog’s or cat’s situation. They will actively listen to your concerns, ask relevant questions, and gather information about your pet's health, behavior, and lifestyle. This comprehensive evaluation forms the basis for creating a personalized care plan.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -343,8 +343,8 @@
         "010df2e6-9d00-4e78-9f18-3f7c97aa06eb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "6-Get Ongoing Support",
+            "text": "<p>We understand that ongoing support is crucial for the success of your pet's well-being. Your consultant will be available to provide continuous support and guidance. They will address any questions, concerns, or challenges you may have along the way. Regular check-ins and follow-up consultations will allow for monitoring progress, making adjustments to the pet care plan, and providing ongoing support.<\/p>",
             "link_label": "",
             "link": ""
           }
