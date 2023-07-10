@@ -1422,6 +1422,16 @@ background: white;
 
 }
 }
+
+@media screen and (max-width: 1519px) {
+
+#dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
+	margin: auto;
+	padding-left: 152px;
+
+}
+}
+
 @media screen and (max-width: 1516px) {
 
 #dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
@@ -1431,6 +1441,7 @@ background: white;
 }
 }
 
+
 @media screen and (max-width: 1337px) {
 
 #dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
@@ -1439,14 +1450,7 @@ background: white;
 
 }
 }
-@media screen and (max-width: 1519px) {
 
-#dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
-	margin: auto;
-	padding-left: 152px;
-
-}
-}
 
 
 
