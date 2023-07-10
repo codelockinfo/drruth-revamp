@@ -743,6 +743,69 @@ height: 400px;
 
 }
 
+/* 3rd section of coaching page*/
+#coaches-page-1 #shopify-section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd .section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd-padding{
+
+    background: var(--gradient-background);
+    background-attachment: cover !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
+    background-color: transparent !important;
+    background-position: top left !important;
+    background-size: auto !important;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+}
+
+#coaches-page-1 #shopify-section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd .multicolumn-card{
+    background: none;
+}
+#coaches-page-1 .section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd-padding .multicolumn-card{
+ 
+margin-top: -20px
+
+}
+#coaches-page-1 .section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd-padding .rich-text__heading {
+    color: #2D4B49;
+    text-align: center;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+}
+#coaches-page-1 .section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd-padding .rich-text__text {
+    color: #1E1E1E;
+    text-align: center;
+    font-size: 18px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.034px; 
+}
+#coaches-page-1 #Slider-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd h3{
+    color: var(--style, #1E1E1E);
+    font-size: 24.765px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 33.019px; 
+}
+#coaches-page-1 #Slider-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd p{
+    color: var(--style, #1E1E1E);
+    text-align: justify !important;
+    font-size: 15px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.573px; 
+}
+
+
+
+
+
+
 /*Coaches page 1 last section*/
 
 #coaches-page-1 .section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-padding .image-with-text__media-item{
