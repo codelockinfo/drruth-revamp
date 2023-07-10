@@ -765,7 +765,7 @@ height: 400px;
     font-size: 61.908px;
     font-family: BLT-Heirloom;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 600;
     line-height: 65.917px;
     text-transform: capitalize; 
 }
@@ -788,7 +788,7 @@ height: 400px;
     background-color: transparent !important;
     background-size: 333px !important;
     background-repeat: no-repeat;
-    background-position-x: right 50px !important;
+    background-position-x: center !important;
     background-position-y: center !important;
     padding-left: 20px;
     border: none;
