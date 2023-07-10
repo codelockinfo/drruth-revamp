@@ -750,9 +750,10 @@ height: 400px;
     background-attachment: cover !important;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Dr_Ruth_Roberts_-_Coaching_Pages_150x.png?v=1688483372) !important;
     background-color: transparent !important;
-    background-size: auto !important;
+    background-size: 533px !important;
     background-repeat: no-repeat;
     background-position-x: center !important;
+    height: auto !important;
 }
 
 #coaches-page-1 #shopify-section-template--14937311805505__89de9d09-bc4b-41ea-97c3-4bc536fb44fd .multicolumn-card{
