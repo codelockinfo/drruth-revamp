@@ -800,7 +800,7 @@ line-height: 26.034px;
 #home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-padding{
 
     background: var(--gradient-background);
-    background-attachment: cover;
+    background-attachment: cover !important;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
     background-color: transparent !important;
     background-position: top left !important;
