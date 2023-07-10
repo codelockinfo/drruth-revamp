@@ -458,12 +458,12 @@
           "type": "slide",
           "settings": {
             "height": "adapt",
-            "desktop_image_width": "medium",
+            "desktop_image_width": "small",
             "layout": "image_first",
             "desktop_title_alignment": "center",
             "desktop_content_alignment": "left",
             "desktop_button_alignment": "center",
-            "content_layout": "no-overlap",
+            "content_layout": "overlap",
             "grid_type": "type1",
             "show_arrow_mobile": "yes",
             "mobile_content_alignment": "left",
@@ -477,7 +477,7 @@
           "type": "slide",
           "settings": {
             "height": "adapt",
-            "desktop_image_width": "medium",
+            "desktop_image_width": "small",
             "layout": "image_first",
             "desktop_title_alignment": "left",
             "desktop_content_alignment": "left",
@@ -496,7 +496,7 @@
           "type": "slide",
           "settings": {
             "height": "adapt",
-            "desktop_image_width": "medium",
+            "desktop_image_width": "small",
             "layout": "image_first",
             "desktop_title_alignment": "left",
             "desktop_content_alignment": "left",
