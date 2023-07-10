@@ -812,7 +812,11 @@ line-height: 26.034px;
 #home-page-coaches #shopify-section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb .multicolumn-card{
     background: none;
 }
+#home-page-coaches .section-template--14938865434689__0b8f6540-0805-4dd3-98aa-a1a0d6937cbb-padding .multicolumn-card{
+ 
+margin-top: -20px
 
+}
 #home-page-coaches .section-template--14938865434689__a3836bec-fa69-49c3-8eb5-ea7d7a5a3234-padding .rich-text__heading {
     color: #2D4B49;
     text-align: center;
