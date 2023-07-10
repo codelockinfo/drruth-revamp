@@ -317,6 +317,49 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2d45edfa-bf59-4040-a1e6-eb755c54bf68": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-0",
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-1",
+        "template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-168897698343cabd60-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -328,6 +371,7 @@
     "534eb2ad-c509-4d10-9467-b66bcd445587",
     "9dada5cc-fc40-492e-86a1-8bd668ef1cbf",
     "4e4ded4d-ded3-468a-ade7-88b2d92f34e0",
-    "d5a2c720-aba5-48e1-a191-0f234a43e439"
+    "d5a2c720-aba5-48e1-a191-0f234a43e439",
+    "2d45edfa-bf59-4040-a1e6-eb755c54bf68"
   ]
 }
