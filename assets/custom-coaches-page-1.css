@@ -1547,40 +1547,47 @@ padding-left: 0px !important;
 @media screen and (max-width: 1255px) {
 
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__09b0af44-a9f1-4a92-a2d0-9addd848789b{
-  
+  max-width: 100% !important;
+ 
 }
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__09b0af44-a9f1-4a92-a2d0-9addd848789b .container .rx-text {
 
-
+padding-right: 50px !important;
 }
 
 #my-holistic-veterinary-healing-story-dr-ruth-roberts #shopify-section-template--14921794945089__09b0af44-a9f1-4a92-a2d0-9addd848789b .rx-text {
- 
+ padding-right: 110px !important;
 }
 
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__bd7ea1b0-5c57-4106-a7e6-a09658dca609{
 
-
+max-width: 65% !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__bd7ea1b0-5c57-4106-a7e6-a09658dca609 .container .rx-text {
-
+padding-left: 0px !important;
 
 }
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__ad2b506a-a006-4757-abea-111ff8635172 .container .rx-text {
 
  
- 
+  padding-right: 0px !important;
 }
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__ad2b506a-a006-4757-abea-111ff8635172 {
-
+ max-width: 65% !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__c9a2c67f-3a6d-403f-878a-60e098bc9d55{
-
+max-width: 65% !important;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__c9a2c67f-3a6d-403f-878a-60e098bc9d55 .container .rx-text {
-
+padding-left: 0px !important;
 
 }
 }
