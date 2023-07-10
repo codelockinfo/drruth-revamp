@@ -1499,7 +1499,8 @@ background: white;
 
 /*My Story Page*/
 #my-holistic-veterinary-healing-story-dr-ruth-roberts .rx-template--14921794945089__09b0af44-a9f1-4a92-a2d0-9addd848789b{
-max-width: 81% !important;
+  max-width: 82% !important;
+  margin-left: auto;
 }
 
 
