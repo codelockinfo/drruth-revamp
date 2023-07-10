@@ -352,22 +352,24 @@
             "text": "<p>From application to graduation, our program offers a comprehensive journey towards becoming a certified holistic pet health coach. In this guide, we will walk you through each step of the process and provide an overview of what you can expect as you embark on this exciting career path<br\/><\/p>"
           }
         },
-        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-2": {
-          "type": "button",
+        "e77e2068-6662-428f-b9a4-d045d3560835": {
+          "type": "text",
           "settings": {
-            "button_label": "",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "41c43cdb-f3e8-4ba0-b54b-86d4bbc2fe4d": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
           }
         }
       },
       "block_order": [
         "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-0",
         "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-1",
-        "template--14937311805505__4e4ded4d-ded3-468a-ade7-88b2d92f34e0-16887331748a3eb3e4-2"
+        "e77e2068-6662-428f-b9a4-d045d3560835",
+        "41c43cdb-f3e8-4ba0-b54b-86d4bbc2fe4d"
       ],
       "settings": {
         "desktop_content_position": "center",
