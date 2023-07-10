@@ -593,7 +593,7 @@ height: 400px;
 /*----------------------------------------------------------------------------------------------------------------------------------------*/
 
 
-/*Banner Pet Advice Page coaches page 1*/
+/*Banner coaches page 1*/
 #coaches-page-1 .section-template--14937311805505__9f3948d0-de6f-4f06-ae1d-6c4e6beed0e5-padding {
     background: #2d4b49;
 }
@@ -742,6 +742,91 @@ height: 400px;
     line-height: 26.034px; 
 
 }
+
+/*Coaches page 1 last section*/
+
+#coaches-page-1 .section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-padding .image-with-text__media-item{
+    width: 188px;
+}
+#coaches-page-1 #ImageWithText--template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68{
+   background: #abc5ae;
+
+}
+#coaches-page-1 .section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-padding .image-with-text__media img{
+   background: #abc5ae;
+
+}
+#coaches-page-1 .section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68-padding{
+   background: #abc5ae;
+   border-radius: 50px;
+}
+#coaches-page-1 #ImageWithText--template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__heading{
+    color: #2D4B49;
+    font-size: 61.908px;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize; 
+}
+
+#coaches-page-1 #ImageWithText--template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__text{
+    color: #1E1E1E;
+    font-size: 13.545px;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.591px; 
+}
+
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__media{
+    
+    background: var(--gradient-background);
+    display: block !important;
+    background-attachment: cover;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/image_4_6114c6cf-5417-426c-8e2f-55c22b1c8868_150x.png?v=1688564665) !important;
+    background-color: transparent !important;
+    background-size: 333px !important;
+    background-repeat: no-repeat;
+    background-position-x: right 50px !important;
+    background-position-y: center !important;
+    padding-left: 20px;
+    border: none;
+   
+
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .button--primary svg{
+    display:none;
+
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__text-item{
+    padding-left: 0px !important;
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__grid{
+    margin: 0px !important;
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__text{
+    padding-right: 0px !important;
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__media-item{
+    background: #abc5ae;
+  
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68 .image-with-text__media--adapt .placeholder-svg path{
+    
+    display: none;
+
+}
+#coaches-page-1 #shopify-section-template--14937311805505__2d45edfa-bf59-4040-a1e6-eb755c54bf68{
+    padding-bottom: 60px;
+}
+
+
+
+
+
+
+
 /*======================================================================================================================*/
 /*Home Page Coaches*/
 
