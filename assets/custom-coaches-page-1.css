@@ -1564,8 +1564,8 @@ text-align: justify;
 
 
 .rx-template--14921793273921__076f80ac-eb59-4ff5-8321-5e4abc4978de .container .rx-text {
-    padding-left: 72px;
-    padding-right: 30px;
+    padding-left: 72px !important;
+    padding-right: 30px !important;
    
 }
 }
