@@ -1391,7 +1391,7 @@ background: white;
 
 
 
-/*Editing CSS of live site*/
+/*====================================================================Editing CSS of live site==========================================================================*/
 
 /*Home page last image banner*/
 @media screen and (max-width: 380px) {
@@ -1405,13 +1405,13 @@ background: white;
 /*Shop page*/
 @media screen and (max-width: 1000px) {
 #multivitamin-for-dogs-and-cats-mushroom-supplements-for-dogs-and-cats-pet-supplements .pagination__list .show-btn{
-margin-left: -235px;
+    margin-left: -235px;
 }
 }
 
 @media screen and (max-width: 750px) {
 #multivitamin-for-dogs-and-cats-mushroom-supplements-for-dogs-and-cats-pet-supplements .pagination__list .show-btn{
-margin-left: 0px;
+    margin-left: 0px;
 }
 }
 
