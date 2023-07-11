@@ -1402,6 +1402,12 @@ background: white;
 }
 
 
+/*Shop page*/
+@media screen and (max-width: 1000px) {
+#multivitamin-for-dogs-and-cats-mushroom-supplements-for-dogs-and-cats-pet-supplements .pagination__list .show-btn{
+margin-left: -235px;
+}
+}
 
 /*Courses page*/
 #dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
