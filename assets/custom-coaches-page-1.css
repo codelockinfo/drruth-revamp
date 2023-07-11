@@ -1532,6 +1532,16 @@ background: white;
     margin-right: auto;
 }
 }
+@media screen and (max-width: 760px) {
+ #dr-ruth-roberts-integrative-veterinary-medicine-keynote-speaker .rx-template--14921793273921__ca0c59bb-2d80-4170-9d37-833a328f0ca3 .collapsible {
+text-align: center !important;
+
+}
+
+#dr-ruth-roberts-integrative-veterinary-medicine-keynote-speaker rx-template--14921793273921__ca0c59bb-2d80-4170-9d37-833a328f0ca3 src{
+ display: none;
+}
+}
 
 
 
