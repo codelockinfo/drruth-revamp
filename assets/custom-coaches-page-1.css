@@ -1732,6 +1732,17 @@ width: 44% !important;
 padding-right: 0px;
 
 }
+  
+#dr-ruth-roberts-blog-expert-pet-wellness-insights-top-pet-blogs .blogcerflex{
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+#dr-ruth-roberts-blog-expert-pet-wellness-insights-top-pet-blogs #shopify-section-template--14921793241153__da5d6bea-f7a2-4311-9dfa-c51f9b8cfc8b .blog50 {
+    width: 100% !important;
+}
+
+  
 }
 @media screen and (max-width: 950px) {
 
