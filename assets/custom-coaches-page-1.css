@@ -1393,13 +1393,23 @@ background: white;
 
 /*Editing CSS of live site*/
 
+/*Home page last image banner*/
+ #natural-supplements-for-dogs-and-cats-amp-holistic-veterinary-care-dr .section-template--14921793798209__a22eed67-71d2-4d24-9266-adb3dc0550e6 .rx_read_more_btn_white {
+ font-size: 9px;
+
+}
+
+
+
+
 /*Courses page*/
+@media screen and (max-width: 380px) {
 #dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text{
 	margin: auto;
 	padding-left: 288px;
 
 }
-
+}
 
 #dr-ruth-pet-wellness-courses-nurturing-pet-wellness-and-holistic-care #shopify-section-template--14923208032321__43e0a268-a273-49f8-aebf-556332935db2 .rx-text-desc{
 	max-width: 760px;
