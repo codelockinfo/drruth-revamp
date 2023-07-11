@@ -1743,9 +1743,9 @@ padding-right: 0px;
   @media screen and (max-width: 1050px) {
 #contact-dr-ruth-roberts-holistic-vet-online .rx-template--14921793077313__78640aa1-5398-49e4-acaf-4132e75b97af .rx-text {
 
-padding-right: 29px;
-padding-left: 20px;
-padding-top: 0px;
+padding-right: 29px !important;
+padding-left: 20px !important;
+padding-top: 0px !important;
 }
 
   }
