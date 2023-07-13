@@ -129,12 +129,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "51764b53-ca54-4966-91ba-70d43f0afa9f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "<p>Hello<\/p>",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "dogs-coaches",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "8c3af7db-56aa-4fca-9b94-458fb9509265"
+    "8c3af7db-56aa-4fca-9b94-458fb9509265",
+    "51764b53-ca54-4966-91ba-70d43f0afa9f"
   ]
 }
