@@ -70,6 +70,7 @@
     },
     "d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0": {
           "type": "featured_collection",
