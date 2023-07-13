@@ -156,6 +156,15 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "82bdb8a4-e72b-43a8-a257-d25c57dc04bd": {
+      "type": "Coaches-Main",
+      "settings": {
+        "testhead": "",
+        "testdes": "",
+        "coachbtn": "",
+        "coachurl": ""
+      }
     }
   },
   "order": [
@@ -163,6 +172,7 @@
     "newsletter",
     "1655751929e34d4e57",
     "8c3af7db-56aa-4fca-9b94-458fb9509265",
-    "51764b53-ca54-4966-91ba-70d43f0afa9f"
+    "51764b53-ca54-4966-91ba-70d43f0afa9f",
+    "82bdb8a4-e72b-43a8-a257-d25c57dc04bd"
   ]
 }
