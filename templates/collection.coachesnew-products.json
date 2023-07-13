@@ -82,24 +82,17 @@
           "settings": {
             "collection": "coaches"
           }
-        },
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
         }
       },
       "block_order": [
         "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0",
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1",
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-2"
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1"
       ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "color_scheme": "background-1",
         "show_view_all": true,
         "columns_mobile": "1",
