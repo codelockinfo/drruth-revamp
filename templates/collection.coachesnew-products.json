@@ -2,6 +2,7 @@
   "sections": {
     "main-collection-banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
@@ -10,6 +11,7 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
       "custom_css": [
         "h2.title.title--primary {display: flex; justify-content: center;}",
         "a.underlined-link.link {display: flex; align-items: end;}",
@@ -66,6 +68,46 @@
         "padding_bottom": 64
       }
     },
+    "d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0",
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1",
+        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-2"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -108,6 +150,7 @@
     "main-collection-banner",
     "main-collection-product-grid",
     "collage",
+    "d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480",
     "newsletter"
   ]
 }
