@@ -11,7 +11,6 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "custom_css": [
         "h2.title.title--primary {display: flex; justify-content: center;}",
         "a.underlined-link.link {display: flex; align-items: end;}",
@@ -35,116 +34,50 @@
         "rating": 5
       }
     },
-    "collage": {
-      "type": "collage",
-      "disabled": true,
-      "blocks": {
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection": {
-          "type": "collection",
-          "settings": {
-            "collection": "pet-products"
-          }
-        }
-      },
-      "block_order": [
-        "product",
-        "collection"
-      ],
-      "settings": {
-        "heading": "Discover more of our favorites",
-        "heading_size": "h2",
-        "desktop_layout": "right",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
-        "padding_top": 16,
-        "padding_bottom": 64
-      }
-    },
-    "d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480": {
+    "67f263ed-f52e-4b70-b2fd-5be75f489f86": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dogs-coaches"
-          }
-        },
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1": {
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-0": {
           "type": "featured_collection",
           "settings": {
             "collection": "coaches"
           }
+        },
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-0",
-        "template--14940389605441__d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480-1689238195a97f4474-1"
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-0",
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-1",
+        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-2"
       ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "color_scheme": "background-1",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "custom_css": [
-        "input {box-shadow: 0 0 0 calc(0.1rem + var(--inputs-border-width)) rgba(var(--color-foreground));}"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main-collection-banner",
     "main-collection-product-grid",
-    "collage",
-    "d0d5329f-c8b5-4e2f-a2a9-fca0fc4be480",
-    "newsletter"
+    "67f263ed-f52e-4b70-b2fd-5be75f489f86"
   ]
 }
