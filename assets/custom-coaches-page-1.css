@@ -1,5 +1,5 @@
 
-/*Hiding coaches category in shopify live page*/
+/*Hiding coaches category in shopify shop live page*/
 #main-collection-filters #Details-10-template--14921794027585__product-grid{
      display: none;
 }
