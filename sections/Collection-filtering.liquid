@@ -11,11 +11,11 @@
   <button class="btn" onclick="filterSelection('fruits')"> Fruits</button>
   <button class="btn" onclick="filterSelection('colors')"> Colors</button><br>
   
-  <input type="checkbox" class="btn active" onclick="filterSelection('all')" />Show all<br />
-  <input type="checkbox" class="btn" onclick="filterSelection('cars')" />Cars<br />
-  <input type="checkbox" class="btn" onclick="filterSelection('animals')" />Animal<br />
-  <input type="checkbox" class="btn" onclick="filterSelection('fruits')" />Fruits<br />
-  <input type="checkbox" class="btn" onclick="filterSelection('colors')" />Colors<br />
+  <input type="checkbox" name="check" class="btn active" onclick="filterSelection('all')" />Show all<br />
+  <input type="checkbox" name="check" class="btn" onclick="filterSelection('cars')" />Cars<br />
+  <input type="checkbox" name="check" class="btn" onclick="filterSelection('animals')" />Animal<br />
+  <input type="checkbox" name="check" class="btn" onclick="filterSelection('fruits')" />Fruits<br />
+  <input type="checkbox" name="check" class="btn" onclick="filterSelection('colors')" />Colors<br />
 </div>
 
 <div class="container">
@@ -81,7 +81,14 @@
 }
 </style>
 
-<script>                                            
+<script>   
+function onlyOne(checkbox) {
+    var checkboxes = document.getElementsByName('check')
+    checkboxes.forEach((item) => {
+        if (item !== checkbox) item.checked = false
+    })
+}
+  
 filterSelection("all")
 function filterSelection(c) {
   var x, i;
