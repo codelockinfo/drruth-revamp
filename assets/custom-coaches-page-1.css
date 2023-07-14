@@ -1,5 +1,7 @@
+
+/*Hiding coaches category in shopify live page*/
 #main-collection-filters #Details-10-template--14921794027585__product-grid{
-display: none;
+     display: none;
 }
 
 /*Home page banner Pet Advice*/
