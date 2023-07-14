@@ -1,7 +1,7 @@
 
 /*Custom Css in Coaches page with filtering*/
 #storefront-iframe-18 .grid{
-display: block;
+display: block !important;
 
 }
 
