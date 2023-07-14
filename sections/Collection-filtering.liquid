@@ -129,20 +129,14 @@ for (var i = 0; i < btns.length; i++) {
 </script>
 
 <script>
-var group_=(el,callback)=>{
-el.forEach((checkbox)=>{
-callback(checkbox)
-     })
+var last;
+document.addEventListener('input',(e)=>{
+if(e.target.getAttribute('name')=="check"){
+if(last)
+last.checked=false;
 }
-
-group_(document.getElementsByName('check'),(item)=>{
-item.onclick=(e)=>{
-group_(document.getElementsByName('check'),(item)=>{
-item.checked=false;
-})
 e.target.checked=true;
-
-}
+last=e.target;
 })
 </script>
 
