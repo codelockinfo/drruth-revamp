@@ -97,13 +97,9 @@
         "padding_bottom": 36
       }
     },
-    "82bdb8a4-e72b-43a8-a257-d25c57dc04bd": {
-      "type": "Coaches-Main",
+    "f826ad76-4a76-4d38-b1c6-78484c75f065": {
+      "type": "Collection-filtering",
       "settings": {
-        "testhead": "",
-        "testdes": "",
-        "coachbtn": "",
-        "coachurl": ""
       }
     },
     "8c3af7db-56aa-4fca-9b94-458fb9509265": {
@@ -165,20 +161,14 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "f826ad76-4a76-4d38-b1c6-78484c75f065": {
-      "type": "Collection-filtering",
-      "settings": {
-      }
     }
   },
   "order": [
     "main",
     "newsletter",
     "1655751929e34d4e57",
-    "82bdb8a4-e72b-43a8-a257-d25c57dc04bd",
+    "f826ad76-4a76-4d38-b1c6-78484c75f065",
     "8c3af7db-56aa-4fca-9b94-458fb9509265",
-    "51764b53-ca54-4966-91ba-70d43f0afa9f",
-    "f826ad76-4a76-4d38-b1c6-78484c75f065"
+    "51764b53-ca54-4966-91ba-70d43f0afa9f"
   ]
 }
