@@ -82,21 +82,7 @@
 </style>
 
 <script>   
-var group_=(el,callback)=>{
-el.forEach((checkbox)=>{
-callback(checkbox)
-     })
-}
 
-group_(document.getElementsByName('check'),(item)=>{
-item.onclick=(e)=>{
-group_(document.getElementsByName('check'),(item)=>{
-item.checked=false;
-});
-e.target.checked=true;
-
-}
-});
   
 filterSelection("all")
 function filterSelection(c) {
@@ -142,6 +128,23 @@ for (var i = 0; i < btns.length; i++) {
 }
 </script>
 
+<script>
+var group_=(el,callback)=>{
+el.forEach((checkbox)=>{
+callback(checkbox)
+     })
+}
+
+group_(document.getElementsByName('check'),(item)=>{
+item.onclick=(e)=>{
+group_(document.getElementsByName('check'),(item)=>{
+item.checked=false;
+})
+e.target.checked=true;
+
+}
+})
+</script>
 
 
 {% schema %}
