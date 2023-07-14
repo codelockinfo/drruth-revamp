@@ -33,51 +33,10 @@
         "padding_bottom": 0,
         "rating": 5
       }
-    },
-    "67f263ed-f52e-4b70-b2fd-5be75f489f86": {
-      "type": "collection-list",
-      "blocks": {
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "coaches"
-          }
-        },
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-0",
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-1",
-        "template--14940389605441__67f263ed-f52e-4b70-b2fd-5be75f489f86-16893258180c78fd53-2"
-      ],
-      "settings": {
-        "title": "Collections",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "main-collection-banner",
-    "main-collection-product-grid",
-    "67f263ed-f52e-4b70-b2fd-5be75f489f86"
+    "main-collection-product-grid"
   ]
 }
