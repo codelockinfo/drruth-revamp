@@ -39,7 +39,10 @@ padding-right: 48px;
 padding-top: 54px;
   margin-bottom: 38px;
 }
+#test-product-1 .rx-review-price{
 
+margin-bottom: 0px !important; 
+}
 
 /*Custom Css in Coaches page with filtering*/
 #coaches .product-grid{
