@@ -12,6 +12,19 @@ display: block !important;
   left: 850px;
   padding-top: 33px;
   width: 725px;
+
+    background: var(--gradient-background);
+    display: block !important;
+    background-attachment: cover;
+    background-image: url("efadfkja;dofja;dfj;adsjf;asdjf;asdjfsadfjasdfasdfasf") !important;
+    background-color: transparent !important;
+    background-size: 733px !important;
+    background-repeat: no-repeat;
+    background-position-x: right 50px !important;
+    background-position-y: center !important;
+    padding-left: 20px;
+
+  
 }
 
 
