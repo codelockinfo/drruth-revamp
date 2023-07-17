@@ -1,8 +1,4 @@
 
-$('.card--standard').each(function() {
-  var link = $(this).html();
-  $(this).contents().wrap('<a href="https://www.w3schools.com/jquery/sel_header.asp"></a>');
-});
 
 var $j = jQuery.noConflict();
 
