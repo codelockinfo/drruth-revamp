@@ -11,9 +11,21 @@
     },
     "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0": {
       "type": "image-banner",
+      "blocks": {
+        "75f8b834-2989-4cd9-8f87-b52303a677dc": {
+          "type": "heading",
+          "settings": {
+            "heading": "COACHES PAGES",
+            "heading_size": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "75f8b834-2989-4cd9-8f87-b52303a677dc"
+      ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
