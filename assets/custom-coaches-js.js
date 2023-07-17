@@ -3,7 +3,7 @@
 var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
-  $j("#coaches #StandardCardNoMediaLink-template--14940389605441__main-collection-product-grid-6969375948865").click(function() {
+  $j("#coaches .card--standard::before").click(function() {
     window.open('https://drruthroberts.com/products/test-product-4?_pos=1&_fid=e0bd9f4ca&_ss=c');
   });
 });
