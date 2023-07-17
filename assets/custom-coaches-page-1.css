@@ -4,7 +4,9 @@
 display: block !important;
 
 }
-
+#coaches .main-collection-filters{
+opacity: 0;
+}
 
 
 
