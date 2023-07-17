@@ -27,7 +27,7 @@
         "image": "shopify:\/\/shop_images\/Image_27.webp",
         "image_overlay_opacity": 20,
         "image_height": "small",
-        "desktop_content_position": "middle-center",
+        "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
