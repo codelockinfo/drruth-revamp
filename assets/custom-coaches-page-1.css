@@ -6,6 +6,7 @@ display: block !important;
 }
 #coaches .section-template--14940389605441__main-collection-product-grid-padding .card__content {
 border: solid grey 2px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 
 }
 
