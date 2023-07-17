@@ -11,12 +11,13 @@ width: 500px;
 
 }
 #coaches .section-template--14940389605441__main-collection-product-grid-padding .card__content{
-background: white;
+
 
 }
 
 #coaches .section-template--14940389605441__main-collection-product-grid-padding .card__media .media img{
 
+object-position: left !important;
 }
 
 
