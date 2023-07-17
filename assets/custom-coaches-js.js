@@ -8,6 +8,14 @@ $j(document).ready(function() {
   });
 });
 
+var $j2 = jQuery.noConflict();
+
+$j2(document).ready(function() {
+  $j2("#coaches .grid__item:nth-child(2)").click(function() {
+    window.open('https://drruthroberts.com/products/test-product-3?_pos=2&_fid=9b8cab1de&_ss=c');
+  });
+});
+
 
 document.getElementById('Details-3-template--14940389605441__main-collection-product-grid').addEventListener("click", function() {
 
