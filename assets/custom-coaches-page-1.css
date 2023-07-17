@@ -5,7 +5,7 @@ display: block !important;
 
 }
 #coaches .section-template--14940389605441__main-collection-product-grid-padding #template--14940389605441__main-collection-product-grid .main-collection-filters{
-  opacity: 0 !important;
+    display: none;
 }
 
 
