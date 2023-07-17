@@ -8,7 +8,7 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
   $j(".card--standard").click(function() {
-    window.open('https://www.w3schools.com/jquery/sel_header.asp');
+    window.open('https://drruthroberts.com/products/test-product-4?_pos=1&_fid=e0bd9f4ca&_ss=c');
   });
 });
 
