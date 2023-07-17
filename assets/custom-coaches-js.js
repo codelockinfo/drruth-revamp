@@ -1,5 +1,5 @@
 
-$('.card--standard::before').each(function() {
+$('.card--standard').each(function() {
   var link = $(this).html();
   $(this).contents().wrap('<a href="https://www.w3schools.com/jquery/sel_header.asp"></a>');
 });
@@ -7,7 +7,7 @@ $('.card--standard::before').each(function() {
 var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
-  $j(".card--standard::before").click(function() {
+  $j(".card--standard").click(function() {
     window.open('https://www.w3schools.com/jquery/sel_header.asp');
   });
 });
