@@ -59,6 +59,8 @@ margin-bottom: 0px !important;
 #coaches .card__content:before{
 content: "View Product";
   border: solid 1px green;
+  position: absolute;
+  top: 0px;
 }
 
 /*Custom Css in Coaches page with filtering*/
