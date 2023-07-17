@@ -60,10 +60,11 @@ margin-bottom: 0px !important;
 content: "View Product";
   border: solid 1px green;
   position: absolute;
-  top: 0px;
+  top: 200px;
     z-index: 99999;
     padding: 10px;
    border-radius: 25px;
+  left: 248px;
 }
 
 /*Custom Css in Coaches page with filtering*/
