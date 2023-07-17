@@ -56,6 +56,10 @@ margin-bottom: 0px !important;
 margin-bottom: 0px !important; 
 }
 
+#test-product-1 .card__content:before{
+content: "View Product";
+}
+
 /*Custom Css in Coaches page with filtering*/
 #coaches .product-grid{
 display: block !important;
