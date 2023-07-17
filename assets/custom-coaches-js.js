@@ -1,4 +1,4 @@
-
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js">
 
 document.getElementById('Details-3-template--14940389605441__main-collection-product-grid').addEventListener("click", function() {
 
@@ -13,14 +13,12 @@ window.addEventListener("load", (event) => {
   $(document).ready(function(){
     $(".facets__disclosure-vertical").trigger('click');
     });
-
-
-var myVar = setInterval(function (){
   
-  document.getElementById("Details-3-template--14940389605441__main-collection-product-grid").click();
+$(document).ready(function(){
+  $("#Details-3-template--14940389605441__main-collection-product-grid").click();
+});
 
-}, 500); 
-setInterval(function () {clearInterval(myVar)}, 1000);
+
   
 });
  
