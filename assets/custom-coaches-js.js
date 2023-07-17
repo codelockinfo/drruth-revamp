@@ -15,7 +15,11 @@ window.addEventListener("load", (event) => {
     });
 
 
-var myVar = setInterval(function ({document.getElementById("Details-3-template--14940389605441__main-collection-product-grid").click();}, 500); 
+var myVar = setInterval(function (){
+  
+  document.getElementById("Details-3-template--14940389605441__main-collection-product-grid").click();
+
+}, 500); 
 setInterval(function () {clearInterval(myVar)}, 1000);
   
 });
