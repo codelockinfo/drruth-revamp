@@ -61,6 +61,8 @@ content: "View Product";
   border: solid 1px green;
   position: absolute;
   top: 0px;
+    z-index: 99999;
+    padding: 20px;
 }
 
 /*Custom Css in Coaches page with filtering*/
