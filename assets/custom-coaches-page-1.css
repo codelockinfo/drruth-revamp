@@ -15,6 +15,11 @@ display: block !important;
 
 display: block !important;
 }
+#test-product-1 .product__info-wrapper{
+background: #F5F8F1;
+padding-right: 48px;
+padding-top: 54px;
+}
 
 
 /*Custom Css in Coaches page with filtering*/
