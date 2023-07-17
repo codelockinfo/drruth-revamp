@@ -1,8 +1,5 @@
-$(document).ready(function(){
+document.querySelector('.spantext').addEventListener("click", function() {
 
- $("facets__disclosure-vertical").click(function(){
+alert("Hi");
 
-    alert("AAA");
-});
-
-});
+}); //event listener
