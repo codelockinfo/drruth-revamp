@@ -37,13 +37,6 @@
     "a3fa6707-6250-4bb6-8042-ef40bf39c91c": {
       "type": "rich-text",
       "blocks": {
-        "template--14940389605441__a3fa6707-6250-4bb6-8042-ef40bf39c91c-1689586475677eab29-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
         "template--14940389605441__a3fa6707-6250-4bb6-8042-ef40bf39c91c-1689586475677eab29-1": {
           "type": "text",
           "settings": {
@@ -63,7 +56,6 @@
         }
       },
       "block_order": [
-        "template--14940389605441__a3fa6707-6250-4bb6-8042-ef40bf39c91c-1689586475677eab29-0",
         "template--14940389605441__a3fa6707-6250-4bb6-8042-ef40bf39c91c-1689586475677eab29-1",
         "template--14940389605441__a3fa6707-6250-4bb6-8042-ef40bf39c91c-1689586475677eab29-2"
       ],
