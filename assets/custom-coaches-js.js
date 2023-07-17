@@ -1,4 +1,4 @@
-<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js">
+
 
 document.getElementById('Details-3-template--14940389605441__main-collection-product-grid').addEventListener("click", function() {
 
