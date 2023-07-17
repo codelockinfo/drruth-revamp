@@ -1,5 +1,5 @@
 
-$('#coaches .card--standard:before').each(function() {
+$('.card--standard:before').each(function() {
   var link = $(this).html();
   $(this).contents().wrap('<a href="https://www.w3schools.com/jquery/sel_header.asp"></a>');
 });
