@@ -7,5 +7,5 @@ document.getElementById('Details-3-template--14940389605441__main-collection-pro
 });
 
 window.addEventListener("load", (event) => {
-  console.log("page is fully loaded");
+  alert("Hello");
 });
