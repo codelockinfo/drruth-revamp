@@ -19,6 +19,13 @@ text-align: left;
  display: none;
 }
 
+#MainProduct-template--14942166286401__main .product-form__buttons{
+    max-width: 36% !important;
+}
+#MainProduct-template--14942166286401__main .product-form__buttons svg{
+   display: none;
+}
+
 #MainProduct-template--14942166286401__main .slick-track{
 
  background: #E0ECBE;
