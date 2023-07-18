@@ -28,7 +28,7 @@ display: none;
 display: none;
 }
 
-[data-slick-index="0"]{
+#test-product-1 [data-slick-index="0"]{
 width: 24% !important;
 }
 
