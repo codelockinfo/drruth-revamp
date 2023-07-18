@@ -25,6 +25,9 @@ width: 100%;
   height: 348px;
   
 }
+#MainProduct-template--14942166286401__main .product-media-container{
+border-radius: 20px;
+}
 
 #MainProduct-template--14942166286401__main .product-form__buttons{
     max-width: 36% !important;
