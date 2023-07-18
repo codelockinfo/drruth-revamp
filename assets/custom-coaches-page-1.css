@@ -6,6 +6,8 @@
 #coaches .collection-product-description{
 
   display: block;
+  position: absolute;
+top: 76px;
 }
 
 #test-product-1 .rx-qty-selector{
