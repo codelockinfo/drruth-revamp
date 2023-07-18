@@ -42,7 +42,7 @@
         "0221fc44-3f8f-4cb7-beff-b57775d19043": {
           "type": "text",
           "settings": {
-            "text": "Text here..",
+            "text": "{{ product.metafields.my_fields._1_badge_text_2.value }}",
             "text_style": "body"
           }
         },
