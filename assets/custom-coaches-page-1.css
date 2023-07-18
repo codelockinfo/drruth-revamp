@@ -1,9 +1,6 @@
 /*Products CSS*/
 
-#coaches .card__content{
-cursor: pointer;
-  
-}
+
 #test-product-1 .rx-qty-selector{
 
 display: block !important;
@@ -70,6 +67,7 @@ content: "View Product";
     padding: 10px;
    border-radius: 25px;
   left: 248px;
+  cursor: pointer;
 }
 #coaches #StandardCardNoMediaLink-template--14940389605441__main-collection-product-grid-6969375948865{
 
