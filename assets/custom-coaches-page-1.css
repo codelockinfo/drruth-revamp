@@ -3,6 +3,10 @@
 
   display: none;
 }
+#coaches .collection-product-description{
+
+  display: block;
+}
 
 #test-product-1 .rx-qty-selector{
 
