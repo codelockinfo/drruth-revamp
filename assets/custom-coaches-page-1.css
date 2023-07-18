@@ -1,6 +1,6 @@
 /*Products CSS*/
 
-#coaches .grid__item:nth-child{
+#coaches .grid__item{
 cursor: pointer;
   
 }
