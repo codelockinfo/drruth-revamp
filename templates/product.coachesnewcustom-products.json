@@ -39,16 +39,16 @@
             "product": "{{product}}"
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "c50958db-6d62-42c8-8a47-729c390a856f": {
@@ -94,8 +94,8 @@
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
-        "description",
         "caption",
+        "description",
         "c50958db-6d62-42c8-8a47-729c390a856f",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
@@ -175,8 +175,21 @@
         },
         "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-6": {
           "type": "share",
+          "disabled": true,
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "8b817be8-031e-4529-8a82-d473f1e5b4b6": {
+          "type": "icon-with-text",
+          "settings": {
+            "layout": "horizontal",
+            "icon_1": "heart",
+            "heading_1": "Heading",
+            "icon_2": "return",
+            "heading_2": "Heading",
+            "icon_3": "truck",
+            "heading_3": "Heading"
           }
         }
       },
@@ -187,7 +200,8 @@
         "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-3",
         "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-4",
         "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-5",
-        "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-6"
+        "template--14942166286401__08272d4d-303d-440d-b37b-7a83170b6abe-168967400833674fc2-6",
+        "8b817be8-031e-4529-8a82-d473f1e5b4b6"
       ],
       "settings": {
         "product": "coaches-1",
