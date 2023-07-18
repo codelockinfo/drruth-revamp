@@ -31,6 +31,15 @@ display: none;
 #test-product-1 [data-slick-index="0"]{
 width: 24% !important;
 }
+#test-product-2 [data-slick-index="1"]{
+width: 24% !important;
+}
+#test-product-3 [data-slick-index="2"]{
+width: 24% !important;
+}
+#test-product-4 [data-slick-index="3"]{
+width: 24% !important;
+}
 
 #test-product-1 .rx-qty-selector{
 
