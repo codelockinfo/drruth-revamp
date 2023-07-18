@@ -19,6 +19,11 @@ text-align: left;
  display: none;
 }
 
+#MainProduct-template--14942166286401__main .slick-track{
+
+ background-image: linear-gradient(#E0ECBE,#f5f8f1 100%);
+}
+
 #MainProduct-template--14942166286401__main .slider-galeria-thumbs{
 display: none;
 }
