@@ -62,6 +62,7 @@
         },
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
+          "disabled": true,
           "settings": {
             "ingredients_content": "{{ product.metafields.custom.revamp_ingredients | metafield_tag }}",
             "instructions_content": "{{ product.metafields.custom.revamp_instruction | metafield_tag }}",
