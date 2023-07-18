@@ -13,12 +13,17 @@ text-align: left;
 }
 
 
-/*Products CSS*/
+/*Coache Products CSS*/
 
 #test-product-1 .slider-galeria-thumbs{
 display: none;
 }
 
+#MainProduct-template--14942166286401__main .slick-current {
+
+width: 24%;
+
+}
 
 #test-product-1 .rx-qty-selector{
 
