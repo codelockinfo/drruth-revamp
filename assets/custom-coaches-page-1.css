@@ -19,7 +19,7 @@ text-align: left;
  display: none;
 }
 
-#MainProduct-template--14942166286401__main .rx_product__text{
+#MainProduct-template--14942166286401__main .rx_product__text p:nth-child(2){
 
 margin-top: -58px;
 }
