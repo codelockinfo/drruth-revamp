@@ -18,8 +18,17 @@ text-align: left;
 #test-product-1 .slider-galeria-thumbs{
 display: none;
 }
+#test-product-2 .slider-galeria-thumbs{
+display: none;
+}
+#test-product-3 .slider-galeria-thumbs{
+display: none;
+}
+#test-product-4 .slider-galeria-thumbs{
+display: none;
+}
 
-#MainProduct-template--14942166286401__main .slick-current {
+#MainProduct-template--14942166286401__main .slick-current{
 
 width: 24%;
 
