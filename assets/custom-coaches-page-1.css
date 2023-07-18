@@ -70,6 +70,10 @@ content: "View Product";
   cursor: pointer;
   line-height: 15px;
 }
+#coaches .card--standard:before:hover{
+background-color: #184B44;
+  color: white;
+}
 #coaches #StandardCardNoMediaLink-template--14940389605441__main-collection-product-grid-6969375948865{
 
  
