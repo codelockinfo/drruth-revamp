@@ -18,6 +18,12 @@ text-align: left;
 
  display: none;
 }
+#MainProduct-template--14942166286401__main .rx_product__text{
+
+position: absolute;
+top: 110px;
+text-transform: none;
+}
 #MainProduct-template--14942166286401__main .price--show-badge{
 position: absolute;
 top: 273px;
