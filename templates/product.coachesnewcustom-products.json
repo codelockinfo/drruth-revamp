@@ -64,8 +64,8 @@
           "type": "rx_product_tab",
           "disabled": true,
           "settings": {
-            "ingredients_content": "{{ product.metafields.custom.revamp_ingredients | metafield_tag }}",
-            "instructions_content": "{{ product.metafields.custom.revamp_instruction | metafield_tag }}",
+            "ingredients_content": "<p>{{ product.metafields.custom.revamp_ingredients | metafield_tag }}<\/p>",
+            "instructions_content": "<p>{{ product.metafields.custom.revamp_instruction | metafield_tag }}<\/p>",
             "instructions_content_image": "{{ product.metafields.custom.revamp_instruction_image.value }}",
             "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
           }
@@ -220,11 +220,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f4cefc09-a0c4-43ab-8b87-55ebc36d89c3": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>{{ product.metafields.my_fields._1_badge_text_2.value }}<\/p>"
+          }
+        },
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-0",
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-1",
+        "template--14942166286401__f4cefc09-a0c4-43ab-8b87-55ebc36d89c3-1689686353bf189aaf-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "related-products",
-    "08272d4d-303d-440d-b37b-7a83170b6abe"
+    "08272d4d-303d-440d-b37b-7a83170b6abe",
+    "f4cefc09-a0c4-43ab-8b87-55ebc36d89c3"
   ]
 }
