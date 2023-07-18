@@ -34,6 +34,7 @@
         },
         "0dd44047-53bd-4401-b151-a60aa1b52a8d": {
           "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
+          "disabled": true,
           "settings": {
             "product": "{{product}}"
           }
@@ -47,6 +48,7 @@
         },
         "caption": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
