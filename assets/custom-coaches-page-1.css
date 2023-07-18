@@ -22,8 +22,8 @@ text-align: left;
 #MainProduct-template--14942166286401__main .product-form__buttons{
     max-width: 36% !important;
 }
-#MainProduct-template--14942166286401__main .product-form__buttons span svg{
-   display: none;
+#MainProduct-template--14942166286401__main .product-form__buttons .prosvg{
+   display: none !important;
 }
 
 #MainProduct-template--14942166286401__main .slick-track{
