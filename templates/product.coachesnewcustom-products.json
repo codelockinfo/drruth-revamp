@@ -109,35 +109,6 @@
         "padding_bottom": 60
       }
     },
-    "39913493-0614-47e8-91ba-767b9479a307": {
-      "type": "rx-review",
-      "settings": {
-      }
-    },
-    "0160467d-6f81-456d-840c-d702483cbcf3": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "template--14911504744513__0160467d-6f81-456d-840c-d702483cbcf3-1681971976dda4d2d8-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>You may also like<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14911504744513__0160467d-6f81-456d-840c-d702483cbcf3-1681971976dda4d2d8-0"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#ffffff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -155,37 +126,10 @@
         "padding_top": 36,
         "padding_bottom": 24
       }
-    },
-    "1d09831f-d45e-4ae3-8c1d-489ed483a3a4": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "2710cfd8-d296-47f6-99ee-3c193be58794": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Our courses<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "2710cfd8-d296-47f6-99ee-3c193be58794"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#ffffff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
     }
   },
   "order": [
     "main",
-    "39913493-0614-47e8-91ba-767b9479a307",
-    "0160467d-6f81-456d-840c-d702483cbcf3",
-    "related-products",
-    "1d09831f-d45e-4ae3-8c1d-489ed483a3a4"
+    "related-products"
   ]
 }
