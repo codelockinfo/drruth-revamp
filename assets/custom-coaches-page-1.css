@@ -60,7 +60,7 @@ margin-bottom: 0px !important;
 
 #coaches .card--standard:before{
 content: "View Product";
-  border: solid 1px green;
+  border: solid 1px #F5F8F1;
   position: absolute;
   top: 200px;
     z-index: 99999;
