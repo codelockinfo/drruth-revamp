@@ -18,6 +18,12 @@ text-align: left;
 
  display: none;
 }
+#MainProduct-template--14942166286401__main{
+max-width: 100%;
+with: 100%;
+   background: #E0ECBE;
+  
+}
 
 #MainProduct-template--14942166286401__main .product-form__buttons{
     max-width: 36% !important;
@@ -26,13 +32,7 @@ text-align: left;
    display: none !important;
 }
 
-#MainProduct-template--14942166286401__main .slick-track{
 
- background: #E0ECBE;
-}
-#MainProduct-template--14942166286401__main .product__info-wrapper{
-background: #E0ECBE;
-}
 
 #MainProduct-template--14942166286401__main .slider-galeria-thumbs{
 display: none;
