@@ -59,7 +59,10 @@ width: 100%;
 #MainProduct-template--14942166286401__main .product__info-wrapper{
 
 position: absolute;
-left: 237px;
+left: 540px;
+  padding-right: 48px;
+
+margin-bottom: 38px;
 }
 
 #MainProduct-template--14942166286401__main .product-media-container{
@@ -98,13 +101,6 @@ height: 320.133px;
 display: block !important;
 }
 
-#MainProduct-template--14942166286401__main .product__info-wrapper{
-
-padding-right: 48px;
-
-margin-bottom: 38px;
-  padding-left: 364px;
-}
 
 #MainProduct-template--14942166286401__main .rx-review-price{
 
