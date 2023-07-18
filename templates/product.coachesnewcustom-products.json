@@ -70,7 +70,7 @@
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
+            "show_dynamic_checkout": true
           }
         },
         "880a5ead-be28-4912-b9d7-5a90d320fa21": {
@@ -138,33 +138,6 @@
         "padding_bottom": 0
       }
     },
-    "168197142519de76d5": {
-      "type": "apps",
-      "blocks": {
-        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d": {
-          "type": "shopify:\/\/apps\/rebuy-personalization-engine\/blocks\/rebuy-widget\/a26ae9b9-933b-40bf-bbc6-bf1220bbc4dc",
-          "settings": {
-            "enabled": true,
-            "id": "84689",
-            "product_id_enabled": true,
-            "collection_id_enabled": false
-          }
-        }
-      },
-      "block_order": [
-        "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d"
-      ],
-      "custom_css": [
-        ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
-        ".rebuy-widget {padding: 0 !important;}",
-        ".rebuy-product-review {float: left;}",
-        "span.rebuy-money span {font-family: \"Josefin Sans\"; font-style: normal; display: flex; justify-content: end; font-weight: 600; line-height: 22px; color: #184b44;}",
-        "span.rebuy-review-count-label {display: none;}"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "related-products": {
       "type": "related-products",
       "disabled": true,
@@ -206,66 +179,13 @@
         "padding_top": 40,
         "padding_bottom": 0
       }
-    },
-    "37d355bc-1320-4afc-b381-56eecc54e273": {
-      "type": "rx-product-list",
-      "blocks": {
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-2": {
-          "type": "Product",
-          "settings": {
-            "product_block": "the-original-crockpet-diet-membership"
-          }
-        },
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-0": {
-          "type": "Product",
-          "settings": {
-            "product_block": "1986957"
-          }
-        },
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-1": {
-          "type": "Product",
-          "settings": {
-            "product_block": "plant-and-mushroom-for-pets-by-angela-ardolino-medical-plants-book"
-          }
-        },
-        "785b1a70-42f4-4ec9-ad76-4a0d37da8b36": {
-          "type": "Product",
-          "settings": {
-            "product_block": "gut-instincts-natural-digestion-gi-health"
-          }
-        }
-      },
-      "block_order": [
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-2",
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-0",
-        "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-1",
-        "785b1a70-42f4-4ec9-ad76-4a0d37da8b36"
-      ],
-      "settings": {
-        "rx-product_head": "",
-        "title_font": "assistant_n4",
-        "title_font_size": 40,
-        "font": "assistant_n4",
-        "desktopColumns": "3",
-        "tabletColumns": "2",
-        "desktopMaxWidth": "1200px",
-        "tabletMaxWidth": "100%",
-        "mobileMaxWidth": "100%",
-        "autoPlay": true,
-        "auto_hide_arrow": false,
-        "container_bgcolor": "#ffffff",
-        "title_color": "#000000",
-        "price_color": "#000000"
-      }
     }
   },
   "order": [
     "main",
     "39913493-0614-47e8-91ba-767b9479a307",
     "0160467d-6f81-456d-840c-d702483cbcf3",
-    "168197142519de76d5",
     "related-products",
-    "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
-    "37d355bc-1320-4afc-b381-56eecc54e273"
+    "1d09831f-d45e-4ae3-8c1d-489ed483a3a4"
   ]
 }
