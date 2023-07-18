@@ -284,6 +284,13 @@
   {% render 'judgeme_widgets', widget_type: 'removed', concierge_install: true, product: card_product %}
 {% comment %}End automatically added Judge.me widget{% endcomment %}
 {% render 'price', product: card_product, price_class: '' %}
+  
+{% if template contains 'collection' %}
+           <p class="collection-product-description">
+             {{ card_product.description | strip_html | truncate: 60 }}
+           </p>
+ {% endif %}
+  
           </div>
         </div>
         {%- if show_quick_add -%}
