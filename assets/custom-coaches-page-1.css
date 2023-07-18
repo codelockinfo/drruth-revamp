@@ -70,7 +70,7 @@ content: "View Product";
   cursor: pointer;
   line-height: 15px;
 }
-#coaches .card--standard:before:hover{
+#coaches .card--standard:hover::before{
 background-color: #184B44;
   color: white;
 }
