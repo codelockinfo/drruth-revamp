@@ -28,10 +28,8 @@ display: none;
 display: none;
 }
 
-#test-product-1 .slick-current{
-
-width: 24%;
-
+[data-slick-index="0"]{
+width: 24% !important;
 }
 
 #test-product-1 .rx-qty-selector{
