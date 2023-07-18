@@ -1,4 +1,9 @@
 /*Products CSS*/
+
+#coaches .grid__item:nth-child{
+cursor: pointer;
+  
+}
 #test-product-1 .rx-qty-selector{
 
 display: block !important;
