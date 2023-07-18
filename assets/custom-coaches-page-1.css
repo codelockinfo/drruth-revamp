@@ -1,6 +1,5 @@
-/*Products CSS*/
+/*Excerp for products collection pages*/
 .collection-product-description{
-
   display: none;
 }
 #coaches .collection-product-description{
@@ -11,6 +10,13 @@ top: 75px;
 left: 0px;
 width: 700px;
 text-align: left;
+}
+
+
+/*Products CSS*/
+
+#test-product-1 .slider-galeria-thumbs{
+display: none;
 }
 
 #test-product-1 .rx-qty-selector{
