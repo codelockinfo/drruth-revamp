@@ -1,5 +1,8 @@
 /*Products CSS*/
+.collection-product-description{
 
+  display: none;
+}
 
 #test-product-1 .rx-qty-selector{
 
