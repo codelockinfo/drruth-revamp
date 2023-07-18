@@ -4,7 +4,7 @@ var $j = jQuery.noConflict();
 
 $j(document).ready(function() {
   $j("#coaches .grid__item:nth-child(1)").click(function() {
-    window.load('https://drruthroberts.com/products/test-product-4?_pos=1&_fid=e0bd9f4ca&_ss=c');
+    window.open('https://drruthroberts.com/products/test-product-4?_pos=1&_fid=e0bd9f4ca&_ss=c');
   });
 });
 
