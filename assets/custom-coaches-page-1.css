@@ -32,19 +32,11 @@ display: none;
 display: none;
 }
 
-#test-product-1 [data-slick-index="0"]{
+#MainProduct-template--14942166286401__main [data-slick-index="0"]{
 width: 36% !important;
 }
-#test-product-2 [data-slick-index="0"]{
-width: 36% !important;
-}
-#test-product-3 [data-slick-index="0"]{
-width: 36% !important;
-}
-#test-product-4 [data-slick-index="0"]{
-width: 36% !important;
-}
-#test-product-1 .slick-list.draggable{
+
+#MainProduct-template--14942166286401__main .slick-list.draggable{
 height: 285.133px;
 
 }
