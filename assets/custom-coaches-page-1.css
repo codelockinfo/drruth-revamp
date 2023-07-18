@@ -40,19 +40,19 @@ width: 36% !important;
 #test-product-4 [data-slick-index="3"]{
 width: 36% !important;
 }
-#test-product-1 .slick-list draggable{
+#test-product-1 .slick-list.draggable{
 height: 285.133px;
 
 }
-#test-product-2 .slick-list draggable{
+#test-product-2 .slick-list.draggable{
 height: 285.133px;
 
 }
-#test-product-3 .slick-list draggable{
+#test-product-3 .slick-list.draggable{
 height: 285.133px;
 
 }
-#test-product-4 .slick-list draggable{
+#test-product-4 .slick-list.draggable{
 height: 285.133px;
 
 }
