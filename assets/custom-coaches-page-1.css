@@ -19,7 +19,7 @@ text-align: left;
  display: none;
 }
 
-#test-product-1 .slider-galeria-thumbs{
+#MainProduct-template--14942166286401__main .slider-galeria-thumbs{
 display: none;
 }
 #test-product-2 .slider-galeria-thumbs{
@@ -40,18 +40,7 @@ width: 36% !important;
 height: 285.133px;
 
 }
-#test-product-2 .slick-list.draggable{
-height: 285.133px;
 
-}
-#test-product-3 .slick-list.draggable{
-height: 285.133px;
-
-}
-#test-product-4 .slick-list.draggable{
-height: 285.133px;
-
-}
 
 #test-product-1 .rx-qty-selector{
 
