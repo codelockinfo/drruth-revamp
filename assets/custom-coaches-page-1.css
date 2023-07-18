@@ -19,9 +19,9 @@ text-align: left;
  display: none;
 }
 
-  #MainProduct-template--14942166286401__main .ProductInfo-template--14942166286401__main div:nth-child(1){
+  #MainProduct-template--14942166286401__main .ProductInfo-template--14942166286401__main:nth-child(3){
 
-margin-top: -58px;
+display: none;
 }
 
 
