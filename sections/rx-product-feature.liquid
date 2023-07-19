@@ -155,7 +155,11 @@
     {%- endfor -%}
   </div>
 </div>
-
+ {% if template contains 'collection' %}
+           <p class="collection-product-description">
+             {{ card_product.description | strip_html | truncate: 60 }}
+           </p>
+            {% endif %}
 {% schema %}
   {
     "name": "RX-Product Feature",
