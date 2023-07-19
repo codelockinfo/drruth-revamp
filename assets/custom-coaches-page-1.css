@@ -17,6 +17,11 @@ text-align: left;
   display: block !important;
 
 }
+#test-product-4 .collection-product-description{
+
+  display: block !important;
+
+}
 
 /*Section column coaches css adjusments*/
 #shopify-section-template--14942166286401__917f0b14-b480-4b5a-a463-55d41ed905c9 .multicolumn-card__info h3{
