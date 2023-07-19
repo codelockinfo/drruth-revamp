@@ -462,12 +462,6 @@
                   {%- endif -%} {% endcomment %}
                 </div>
               {%- endif -%}
-
-            {% if template contains 'collection' %}
-           <p class="collection-product-description">
-             {{ card_product.description | strip_html | truncate: 60 }}
-           </p>
-            {% endif %}
             
               <div {{ block.shopify_attributes }}>
                 {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
