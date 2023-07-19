@@ -216,17 +216,17 @@ background-color: #184B44;
 @media screen and (max-width: 1120px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 65%!important;
+    width: 33%!important;
 }
 
     #MainProduct-template--14942166286401__main .slick-list {
     height: 312.016px;
-    margin-left: -155px;
+    margin-left: 3px;
 }
 
 #MainProduct-template--14942166286401__main .product__info-wrapper {
     position: absolute;
-    left: 188px;
+    left: 244px;
 }
 
 
