@@ -425,11 +425,7 @@
                 </a> {% endcomment %}
               </div>
 
-            {% if template contains 'collection' %}
-           <p class="collection-product-description">
-             {{ card_product.description | strip_html | truncate: 60 }}
-           </p>
-            {% endif %}
+            
             
             {%- when 'price' -%}
               <div class="rx-review-price">
