@@ -137,9 +137,7 @@ background-color: #184B44;
 display: block !important;
 
 }
- #StandardCardNoMediaLink-template--14940389605441__main-collection-product-grid-6969376112705{
-z-index: 10;
-}
+
 #coaches .section-template--14940389605441__main-collection-product-grid-padding .color-background-1{
 
 border: 1px solid #184B44;
@@ -193,7 +191,7 @@ position: absolute;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 20px;
   border-bottom: none !important;
-  z-index: 5;
+
 
 }
 
