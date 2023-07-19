@@ -237,7 +237,7 @@
           "type": "column",
           "settings": {
             "title": "Connect with me",
-            "text": "<p><a href=\"#\">✉ Email <\/a> <\/p><p><a href=\"#\">✆ Phone<\/a> <\/p><p><a href=\"#\">🌐 Location<\/a> <\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
