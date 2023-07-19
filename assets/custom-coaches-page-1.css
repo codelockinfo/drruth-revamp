@@ -151,6 +151,14 @@ background-color: #184B44;
 
 /*Responsiveness of coaches prducts page.*/
 
+@media screen and (max-width: 1900px) {
+
+#MainProduct-template--14942166286401__main [data-slick-index="0"] {
+    width: 37%!important;
+}
+
+}
+
 @media screen and (max-width: 1500px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
