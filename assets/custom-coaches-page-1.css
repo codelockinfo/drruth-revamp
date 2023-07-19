@@ -64,6 +64,11 @@ padding-left: 10px
 
  display: none;
 }
+#MainProduct-template--14942166286401__main #ProductSubmitButton-template--14942166286401__main:before{
+content: "Book a consultant";
+
+}
+
 #MainProduct-template--14942166286401__main .price--show-badge {
     display: none;
 }
