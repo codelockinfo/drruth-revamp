@@ -33,6 +33,16 @@ $j4(document).ready(function() {
 });
 
 
+$(document).ready(function(){
+    $("#coaches .card__heading a").each(function(){
+        if($(this).hasClass("disabled")){
+            $(this).removeAttr("href");
+        }
+    });
+});
+
+
+
 document.getElementById('Details-3-template--14940389605441__main-collection-product-grid').addEventListener("click", function() {
 
 
@@ -47,9 +57,7 @@ window.addEventListener("load", (event) => {
     $(".facets__disclosure-vertical").trigger('click');
     });
   
-$(document).ready(function(){
-  $("#Details-3-template--14940389605441__main-collection-product-grid").click();
-});
+
 
 
   
