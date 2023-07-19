@@ -34,14 +34,14 @@ $j4(document).ready(function() {
 
 
 $(document).ready(function(){
-    $("#coaches .card__heading a").each(function(){
+    $("#coaches .card__heading").each(function(){
         if($(this).hasClass("disabled")){
             $(this).removeAttr("href");
         }
     });
 });
 
-
+$("#coaches .card__heading").removeAttr('href');
 
 document.getElementById('Details-3-template--14940389605441__main-collection-product-grid').addEventListener("click", function() {
 
