@@ -293,12 +293,26 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "baafffea-cacf-42cb-b90c-24dc70fa18ad": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "related-products",
     "08272d4d-303d-440d-b37b-7a83170b6abe",
-    "917f0b14-b480-4b5a-a463-55d41ed905c9"
+    "917f0b14-b480-4b5a-a463-55d41ed905c9",
+    "baafffea-cacf-42cb-b90c-24dc70fa18ad"
   ]
 }
