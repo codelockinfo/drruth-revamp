@@ -147,6 +147,47 @@ background-color: #184B44;
  
 }
 
+
+/*Responsiveness of coaches prducts page.*/
+
+@media screen and (max-width: 1500px) {
+
+#MainProduct-template--14942166286401__main [data-slick-index="0"] {
+    width: 54%!important;
+}
+
+    #MainProduct-template--14942166286401__main .slick-list {
+    height: 322.016px;
+}
+
+#MainProduct-template--14942166286401__main .product__info-wrapper {
+    position: absolute;
+    left: 470px;
+    padding-right: 0px;
+    margin-bottom: 0px;
+}
+
+#MainProduct-template--14942166286401__main .price--show-badge {
+    position: absolute;
+    top: 221px;
+}
+
+#MainProduct-template--14942166286401__main .select {
+    position: absolute;
+    top: 256px;
+}
+
+#MainProduct-template--14942166286401__main .product-form__buttons {
+    max-width: 36%!important;
+    position: absolute;
+    top: 256px;
+    left: 330px;
+}
+
+
+}
+
+
 /*Custom Css in Coaches page with filtering*/
 #coaches .product-grid{
 display: block !important;
