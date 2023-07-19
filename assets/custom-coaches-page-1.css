@@ -164,8 +164,12 @@ display: block !important;
 
 margin-bottom: 0px !important; 
 }
-#coaches .card__heading{
+#coaches .card__heading a{
 cursor: pointer;
+}
+#coaches .card__content a{
+cursor: pointer;
+  
 }
 
 #coaches .card--standard:before{
