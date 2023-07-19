@@ -154,14 +154,14 @@ background-color: #184B44;
 @media screen and (max-width: 2000px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 37%!important;
+    width: 37%;
 }
 
 }
 @media screen and (max-width: 1700px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 40%!important;
+    width: 40%;
 }
 
 }
@@ -169,7 +169,7 @@ background-color: #184B44;
 @media screen and (max-width: 1500px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 54%!important;
+    width: 54%;
 }
 
     #MainProduct-template--14942166286401__main .slick-list {
@@ -196,7 +196,7 @@ background-color: #184B44;
 }
 
 #MainProduct-template--14942166286401__main .product-form__buttons {
-    max-width: 36%!important;
+    max-width: 36%;
     position: absolute;
     top: 256px;
     left: 330px;
@@ -208,7 +208,7 @@ background-color: #184B44;
 @media screen and (max-width: 1270px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 51%!important;
+    width: 51%;
 }
 
     #MainProduct-template--14942166286401__main .slick-list {
@@ -231,7 +231,7 @@ background-color: #184B44;
 @media screen and (max-width: 1170px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 45%!important;
+    width: 45% ;
 }
 
 #MainProduct-template--14942166286401__main .slick-list {
@@ -245,7 +245,7 @@ background-color: #184B44;
 @media screen and (max-width: 1120px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 33%!important;
+    width: 33%;
 }
 
     #MainProduct-template--14942166286401__main .slick-list {
