@@ -12,6 +12,21 @@ width: 700px;
 text-align: left;
 }
 
+/*Section column coaches css adjusments*/
+#shopify-section-template--14942166286401__917f0b14-b480-4b5a-a463-55d41ed905c9 .multicolumn-card__info h3{
+
+  background: wheat;
+  padding-left: 10px;
+  border-radius: 8px;
+}
+
+
+#shopify-section-template--14942166286401__917f0b14-b480-4b5a-a463-55d41ed905c9 .rte p{
+padding-left: 10px
+}
+
+
+
 
 /*Coache Products CSS*/
 #MainProduct-template--14942166286401__main .quantity{
