@@ -318,6 +318,7 @@ text-transform: capitalize;
  #coaches .section-template--14940389605441__main-collection-product-grid-padding .price {
 top: 220px;
 position: absolute;
+   display: none;
 }
 
 
