@@ -39,6 +39,15 @@
             "product": "{{product}}"
           }
         },
+        "c50958db-6d62-42c8-8a47-729c390a856f": {
+          "type": "rx_product_tab",
+          "settings": {
+            "ingredients_content": "{{ product.metafields.custom.revamp_ingredients | metafield_tag }}",
+            "instructions_content": "{{ product.metafields.custom.revamp_instruction | metafield_tag }}",
+            "instructions_content_image": "{{ product.metafields.custom.revamp_instruction_image.value }}",
+            "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
+          }
+        },
         "0221fc44-3f8f-4cb7-beff-b57775d19043": {
           "type": "text",
           "settings": {
@@ -57,15 +66,6 @@
         "description": {
           "type": "description",
           "settings": {
-          }
-        },
-        "c50958db-6d62-42c8-8a47-729c390a856f": {
-          "type": "rx_product_tab",
-          "settings": {
-            "ingredients_content": "{{ product.metafields.custom.revamp_ingredients | metafield_tag }}",
-            "instructions_content": "{{ product.metafields.custom.revamp_instruction | metafield_tag }}",
-            "instructions_content_image": "{{ product.metafields.custom.revamp_instruction_image.value }}",
-            "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
           }
         },
         "c3949539-dd47-4db5-86e8-4b2143f24749": {
@@ -94,10 +94,10 @@
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
+        "c50958db-6d62-42c8-8a47-729c390a856f",
         "0221fc44-3f8f-4cb7-beff-b57775d19043",
         "caption",
         "description",
-        "c50958db-6d62-42c8-8a47-729c390a856f",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
         "880a5ead-be28-4912-b9d7-5a90d320fa21"
