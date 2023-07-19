@@ -67,13 +67,14 @@ display: none;
 #MainProduct-template--14942166286401__main .select{
 position: absolute;
 top: 241px;
+  display: none;
 }
 
 
 #MainProduct-template--14942166286401__main .price--show-badge{
 position: absolute;
 top: 200px;
-  display: none;
+  
 }
 #MainProduct-template--14942166286401__main{
 max-width: 100%;
