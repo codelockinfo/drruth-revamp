@@ -64,7 +64,7 @@ padding-left: 10px
 
  display: none;
 }
-#MainProduct-template--14942166286401__main #ProductSubmitButton-template--14942166286401__main:before{
+#MainProduct-template--14942166286401__main .product-form__buttons:before{
 content: "Book a consultant";
 
 }
