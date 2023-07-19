@@ -237,7 +237,7 @@
           "type": "column",
           "settings": {
             "title": "Connect with me",
-            "text": "",
+            "text": "{{ product.metafields.custom.products_links1 | metafield_tag }}",
             "link_label": "",
             "link": ""
           }
