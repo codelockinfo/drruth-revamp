@@ -154,11 +154,11 @@ background-color: #184B44;
 @media screen and (max-width: 2000px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
-    width: 37%;
+    width: 37% !important;
 }
 
 }
-@media screen and (max-width: 1600px) {
+@media screen and (max-width: 1700px) {
 
 #MainProduct-template--14942166286401__main [data-slick-index="0"] {
     width: 40%;
