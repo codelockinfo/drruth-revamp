@@ -193,6 +193,7 @@ position: absolute;
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   border-radius: 20px;
   border-bottom: none !important;
+  z-index: 5;
 
 }
 
