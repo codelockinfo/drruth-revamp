@@ -69,6 +69,11 @@ content: "Book a consultant";
 
 }
 
+#MainProduct-template--14942166286401__main .product-form__buttons span{
+display: none;
+
+}
+
 #MainProduct-template--14942166286401__main .price--show-badge {
     display: none;
 }
