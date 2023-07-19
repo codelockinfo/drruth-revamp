@@ -76,8 +76,9 @@ width: 100%;
 position: absolute;
 left: 491px;
   padding-right: 48px;
-
 margin-bottom: 38px;
+  max-width: 100%;
+    width: 888px;
 }
 
 #MainProduct-template--14942166286401__main .product-media-container{
