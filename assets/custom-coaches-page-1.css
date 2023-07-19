@@ -22,6 +22,15 @@ text-align: left;
   display: block !important;
 
 }
+/*Description positioning*/
+
+#MainProduct-template--14942166286401__main .product_tab_content{
+
+position: absolute;
+    top: 192px;
+    left: 541px;
+
+}
 
 /*Section column coaches css adjusments*/
 #shopify-section-template--14942166286401__917f0b14-b480-4b5a-a463-55d41ed905c9 .multicolumn-card__info h3{
