@@ -213,6 +213,26 @@ background-color: #184B44;
 
 }
 
+@media screen and (max-width: 1000px) {
+
+#MainProduct-template--14942166286401__main [data-slick-index="0"] {
+    width: 65%!important;
+}
+
+    #MainProduct-template--14942166286401__main .slick-list {
+    height: 312.016px;
+    margin-left: -155px;
+}
+
+#MainProduct-template--14942166286401__main .product__info-wrapper {
+    position: absolute;
+    left: 188px;
+}
+
+
+
+}
+
 
 /*Custom Css in Coaches page with filtering*/
 #coaches .product-grid{
