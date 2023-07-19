@@ -158,6 +158,13 @@ background-color: #184B44;
 }
 
 }
+@media screen and (max-width: 1900px) {
+
+#MainProduct-template--14942166286401__main [data-slick-index="0"] {
+    width: 40%!important;
+}
+
+}
 
 @media screen and (max-width: 1500px) {
 
