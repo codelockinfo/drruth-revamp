@@ -457,6 +457,12 @@
 
   {% render 'product-media-modal' variant_images: variant_images %}
 
+      {% if template contains 'collection' %}
+           <p class="collection-product-description">
+             {{ card_product.description | strip_html | truncate: 60 }}
+           </p>
+            {% endif %}
+                          
   {% assign popups = section.blocks | where: 'type', 'popup' %}
   {%- for block in popups -%}
     <modal-dialog id="PopupModal-{{ block.id }}" class="product-popup-modal" {{ block.shopify_attributes }}>
