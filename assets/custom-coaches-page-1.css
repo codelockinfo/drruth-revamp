@@ -164,7 +164,9 @@ display: block !important;
 
 margin-bottom: 0px !important; 
 }
-
+#coaches .card__heading{
+cursor: pointer;
+}
 
 #coaches .card--standard:before{
 content: "View Profile";
