@@ -339,7 +339,7 @@
     "01b656ad-4c3f-458a-8166-7e6ac363dbd0": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<div class=\"customvideo\">{{ product.metafields.custom.video.value }}<\/div>",
+        "custom_liquid": "<div class=\"customvideo\">{{ product.metafields.custom.coach_video1.value }}<\/div>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
