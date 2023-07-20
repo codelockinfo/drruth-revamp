@@ -64,6 +64,20 @@ padding-left: 10px
 
  display: none;
 }
+#MainProduct-template--14942166286401__main #ProductInfo-template--14942166286401__main{
+
+display: flex;
+flex-direction: column-reverse;
+height: 98px;
+}
+
+
+
+
+#MainProduct-template--14942166286401__main .rx_product__title producttitle{
+
+margin-bottom: -44px !important;
+}
 
 #shopify-section-template--14942166286401__37ea8ed4-d5e6-4949-9d37-c1e0ef98dcfd .rich-text__buttons{
 position: relative;
@@ -101,7 +115,7 @@ margin-left: -24px;
 }
 #MainProduct-template--14942166286401__main .product__info-wrapper p:nth-child(1){
   
-  
+  margin-bottom: 44px;
 }
 
 #MainProduct-template--14942166286401__main .product__info-wrapper p:nth-child(8){
