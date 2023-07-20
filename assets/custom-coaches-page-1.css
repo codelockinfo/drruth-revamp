@@ -70,12 +70,17 @@ padding-left: 10px
     display: none;
 }
 #MainProduct-template--14942166286401__main .rx_product__title{
-margin-top: -33px;
+margin-top: -47px;
 
 }
 
 #MainProduct-template--14942166286401__main .slick-list {
 margin-left: 237px;
+}
+#MainProduct-template--14942166286401__main .product__info-wrapper p:nth-child(1){
+  
+  position: absolute;
+top: 44px;
 }
 
 #MainProduct-template--14942166286401__main .product__info-wrapper p:nth-child(8){
