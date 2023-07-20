@@ -69,6 +69,7 @@
         },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": true
           }
