@@ -26,9 +26,9 @@ text-align: left;
 
 #MainProduct-template--14942166286401__main .product_tab_content{
 
-position: relative;
-top: -403px;
-left: 154px;
+  display: block;
+  margin-top: -41%;
+  margin-left: 16%;
 
 }
 #MainProduct-template--14942166286401__main .rx-product-title-tab{
