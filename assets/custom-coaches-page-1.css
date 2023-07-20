@@ -56,6 +56,13 @@ padding-top: 229px !important;
 padding-left: 10px
 }
 
+/*Video full width products page*/
+#shopify-section-template--14942166286401__01b656ad-4c3f-458a-8166-7e6ac363dbd0 .page-width iframe{
+
+max-width: 100%;
+width: 100%;
+height: 530px;
+}
 
 
 
