@@ -48,13 +48,6 @@
             "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
           }
         },
-        "0221fc44-3f8f-4cb7-beff-b57775d19043": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.my_fields._1_badge_text_2.value }}",
-            "text_style": "body"
-          }
-        },
         "caption": {
           "type": "text",
           "disabled": true,
@@ -96,7 +89,6 @@
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
         "c50958db-6d62-42c8-8a47-729c390a856f",
-        "0221fc44-3f8f-4cb7-beff-b57775d19043",
         "caption",
         "description",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
@@ -120,7 +112,6 @@
     },
     "37ea8ed4-d5e6-4949-9d37-c1e0ef98dcfd": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14942166286401__37ea8ed4-d5e6-4949-9d37-c1e0ef98dcfd-1689780419f0bb8076-2": {
           "type": "button",
