@@ -71,7 +71,15 @@ top: -79px;
 left: 542px;
   
 }
+#shopify-section-template--14942166286401__37ea8ed4-d5e6-4949-9d37-c1e0ef98dcfd .rich-text__buttons a{
+
+    border: solid 1px #2D4B49;
+  border-radius: 50px;
+  background: none;
+  color: #2D4B49;
+}
 #shopify-section-template--14942166286401__37ea8ed4-d5e6-4949-9d37-c1e0ef98dcfd .rich-text__buttons a:hover{
+
   background: #2D4B49;
   color: white;
 }
