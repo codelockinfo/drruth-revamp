@@ -233,8 +233,18 @@ background-color: #184B44;
  
 }
 
+/*Mobile and tab responsive*/
+
+@media screen and (max-width: 1130px) {
+
+#MainProduct-template--14942166286401__main .product_tab_content {
+    position: relative;
+    top: -362px;
+    left: 125px;
+}
 
 
+}
 
 /*Custom Css in Coaches page with filtering*/
 #coaches .product-grid{
