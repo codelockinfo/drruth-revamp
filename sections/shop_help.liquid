@@ -20,8 +20,9 @@
                            <img class="shophelpicon" src="{{  block.settings.allshopicon  | img_url: 'small' }}" />
                             {%- endif -%}
                        </div>
-                      
+                      {%- if block.setting.link != blank -%}
                         <a href="{{block.settings.link}}"></a>
+                        {%- endif -%}
                        <h4 class="slidecontent">{{block.settings.slide_text}}</h4>
                     <h2 class="slidetype">{{block.settings.slide_type}}</h2>
                   <h2 class="slidevalue">{{block.settings.slide_val}}</h2>
