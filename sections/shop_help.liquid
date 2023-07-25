@@ -148,23 +148,6 @@ $(document).ready(function() {
     
     var urlParams = new URLSearchParams(window.location.href);
 console.log(urlParams.size);
-if(urlParams.size > 1){
-  console.log(encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex));
-    window.location.href = encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex);
-}else{
-   
-    var myString = sliderindex;
-    myString = myString.replace('&', '%26');
-    myString = myString.replace(/\s/g, '+');
-   
-    console.log(myString+' 000000');
-    var myURL = window.location.href;
-    var urlObject = new URL(myURL);
-    var domain = urlObject.origin;
-    console.log(domain);
-    window.location.href = domain+"/collections/pet-products?filter.p.m.custom.pet_device_system_supported="+myString;
-    
-}
 
     }); 
   $(".slidebg").click(function() {
