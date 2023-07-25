@@ -138,13 +138,41 @@ $(document).ready(function() {
   ]
   });
     
+    $('.slidebg').on('click',function(event){
+    event.preventDefault();
+    var text1=$(this).attr('data-type');
+    var sliderindex=$(this).attr('data-val');
+    //const checkbox = $('input[type="checkbox"][value="'+sliderindex +'"]');
+    //checkbox.prop('checked', true);
+    console.log(window.location.href);
+    
+    var urlParams = new URLSearchParams(window.location.href);
+console.log(urlParams.size);
+if(urlParams.size > 1){
+  console.log(encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex));
+    window.location.href = encodeURI(window.location.href + "&filter.p.m.custom.pet_device_system_supported=" + sliderindex);
+}else{
+   
+    var myString = sliderindex;
+    myString = myString.replace('&', '%26');
+    myString = myString.replace(/\s/g, '+');
+   
+    console.log(myString+' 000000');
+    var myURL = window.location.href;
+    var urlObject = new URL(myURL);
+    var domain = urlObject.origin;
+    console.log(domain);
+    window.location.href = domain+"/collections/pet-products?filter.p.m.custom.pet_device_system_supported="+myString;
+    
+}
 
+    }); 
   $(".slidebg").click(function() {
        var text1=$(this).attr('data-type');
       $(".facets__disclosure-vertical").each(function(){
         var thisObbj = this;
         if($(this).attr('pro-id') == text1){
-              $('html,body').animate({scrollTop: $(".custom-url"+$(this).attr("id")).offset().top},'slow'); 
+              $('html,body').animate({scrollTop: $("#"+$(this).attr("id")).offset().top},'slow'); 
         }
     
 });
