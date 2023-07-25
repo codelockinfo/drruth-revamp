@@ -529,12 +529,6 @@
         "settings": {
         }
       },
-      "7385302900728337613": {
-        "type": "shopify:\/\/apps\/deposits-split-payments-depo\/blocks\/app-embed\/fa2b6a7a-29ea-4193-bcc4-3ecc583efe2e",
-        "disabled": false,
-        "settings": {
-        }
-      },
       "5149645339031002760": {
         "type": "shopify:\/\/apps\/order-limits-minmaxify\/blocks\/app-embed-block\/3acfba32-89f3-4377-ae20-cbb9abc48475",
         "disabled": false,
