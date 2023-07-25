@@ -32,6 +32,21 @@ $j4(document).ready(function() {
   });
 });
 
+ $("#coaches .grid__item:nth-child(4)").on('click',function(event){
+    event.preventDefault();
+    var text1=$(this).attr('data-type');
+    var sliderindex=$(this).attr('data-val');
+    //const checkbox = $('input[type="checkbox"][value="'+sliderindex +'"]');
+    //checkbox.prop('checked', true);
+    console.log(window.location.href);
+    
+    var urlParams = new URLSearchParams(window.location.href);
+console.log(urlParams.size);
+if(urlParams.size > 1){
+  console.log(encodeURI(window.location.href + "https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c" + sliderindex));
+    window.location.href = encodeURI(window.location.href + "https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c" + sliderindex);
+
+
 
 $("#coaches .card__heading a").removeAttr('href');
 $("#coaches .card__content a").removeAttr('href');
