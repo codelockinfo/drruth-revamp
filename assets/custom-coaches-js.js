@@ -46,8 +46,8 @@ if(urlParams.size > 1){
   console.log(encodeURI(window.location.href + "https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c" + sliderindex));
     window.location.href = encodeURI(window.location.href + "https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c" + sliderindex);
 
-
-
+}
+ });
 $("#coaches .card__heading a").removeAttr('href');
 $("#coaches .card__content a").removeAttr('href');
 
