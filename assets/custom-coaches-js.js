@@ -34,8 +34,8 @@ $j4(document).ready(function() {
 
  $("#coaches .grid__item:nth-child(4)").on('click',function(event){
     event.preventDefault();
-    var text1=$(this).attr('data-type');
-    var sliderindex=$(this).attr('data-val');
+    var text1=$(this).attr('');
+    var sliderindex=$(this).attr('');
     //const checkbox = $('input[type="checkbox"][value="'+sliderindex +'"]');
     //checkbox.prop('checked', true);
     console.log(window.location.href);
