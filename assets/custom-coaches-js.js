@@ -28,7 +28,7 @@ var $j4 = jQuery.noConflict();
 
 $j4(document).ready(function() {
   $j4("#coaches .grid__item:nth-child(4)").click(function() {
-    window.open('https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c');
+    window.loaction.href('https://drruthroberts.com/products/coaches-1?_pos=4&_fid=5f802496d&_ss=c');
   });
 });
 
