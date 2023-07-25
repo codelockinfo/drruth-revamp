@@ -22,6 +22,24 @@ text-align: left;
   display: block !important;
 
 }
+
+
+
+/*Shop slider design css*/
+.shopify-section-template--14921794027585__db372327-cb3a-4987-a1fc-b47b6a11e8ed .slick-slide img{
+
+margin-left: auto;
+margin-right: auto;
+
+}
+.shopify-section-template--14921794027585__db372327-cb3a-4987-a1fc-b47b6a11e8ed .slidecontent {
+
+padding-bottom: 8%;
+
+}
+
+
+
 /*Description positioning*/
 
 #MainProduct-template--14942166286401__main .product_tab_content{
