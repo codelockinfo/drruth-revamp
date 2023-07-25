@@ -8,6 +8,7 @@
     <div class="shopheap">
         <h2 class="shophead">{{section.settings.shop_head}}</h2>
     </div>
+ 
     <div>
         <div class="slideflex">
         {% for block in section.blocks %}
@@ -19,11 +20,11 @@
                            <img class="shophelpicon" src="{{  block.settings.allshopicon  | img_url: 'small' }}" />
                             {%- endif -%}
                        </div>
-                        
+                        <a href="{{ section.settings.link }}">
                        <h4 class="slidecontent">{{block.settings.slide_text}}</h4>
                     <h2 class="slidetype">{{block.settings.slide_type}}</h2>
                   <h2 class="slidevalue">{{block.settings.slide_val}}</h2>
-                  
+                  </a>
                 </div>
         {% endfor %}
         </div>
