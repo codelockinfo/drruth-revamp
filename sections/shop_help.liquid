@@ -3,11 +3,12 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 
-<a href="{{ section.settings.link }}">
+
 <div class="shpo_space">
     <div class="shopheap">
         <h2 class="shophead">{{section.settings.shop_head}}</h2>
     </div>
+  <a href="{{ section.settings.link }}">
     <div>
         <div class="slideflex">
         {% for block in section.blocks %}
@@ -28,8 +29,9 @@
         {% endfor %}
         </div>
     </div>
+    </a>
 </div>
-</a>
+
 {% schema %}
 {
   "name": "shop_help",
