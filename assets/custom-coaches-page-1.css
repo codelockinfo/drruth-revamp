@@ -33,7 +33,7 @@ animation: animateMenuOpen var(--duration-default) ease;
 
 
 #general-detox-protocol-dr-ruth-roberts .facets__display{
-display: contents;
+display: contents !important;
 animation: animateMenuOpen var(--duration-default) ease;
 }
 
