@@ -30,9 +30,9 @@ border: 2px solid #184B44;
 color: #184B44 !important;
 }
 
-.image_content .button path{
-
-color: #184B44 !important;
+.image_content .button svg{
+  display: none;
+  
 }
 .image_content .button--primary{
 
