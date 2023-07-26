@@ -24,7 +24,7 @@ text-align: left;
 }
 
 /*Collectins page applying theme*/
-.image_content .button{
+.button--primary{
 
 border: 2px solid #184B44 !important;
 color: #184B44 !important;
