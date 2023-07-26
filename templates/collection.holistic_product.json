@@ -760,6 +760,7 @@
     },
     "3121c95f-4eec-43f7-b3cd-3add1d3fa814": {
       "type": "klaviyo_subscriptionform",
+      "disabled": true,
       "settings": {
       }
     }
