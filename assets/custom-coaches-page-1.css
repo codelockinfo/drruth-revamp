@@ -29,7 +29,7 @@ display: block;
 }
 #general-detox-protocol-dr-ruth-roberts .parent-display{
 display: contents;
-
+animation: animateMenuOpen var(--duration-default) ease;
 }
 
 
