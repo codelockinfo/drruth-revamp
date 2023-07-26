@@ -40,9 +40,9 @@ border: 2px solid #184B44 !important;
 
 }
 
-.image-with-text__media img{
+.image-with-text__media{
 
-height: 500px;
+height: 500px !important;
 
 }
 
