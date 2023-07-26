@@ -38,7 +38,7 @@ animation: animateMenuOpen var(--duration-default) ease;
 display: contents !important;
 
 }
-#general-detox-protocol-dr-ruth-roberts .facets span{
+#general-detox-protocol-dr-ruth-roberts .facets .spantext{
 
 font-family: Josefin Sans;
 font-style: normal;
