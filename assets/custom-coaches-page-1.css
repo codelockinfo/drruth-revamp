@@ -44,7 +44,6 @@ top: calc(100% + 0.5rem);
 left: -1.2rem;
 width: 38%;
 
-overflow-y: auto;
 z-index: 111111;
 }
 
