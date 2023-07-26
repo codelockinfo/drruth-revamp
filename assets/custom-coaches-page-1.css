@@ -24,7 +24,7 @@ text-align: left;
 }
 
 /*Collectins page applying theme*/
-.image_content .button{
+.image_content .button a{
 
 border: 2px solid #184B44;
 color: #184B44 !important;
@@ -33,6 +33,11 @@ color: #184B44 !important;
 .image_content .button svg{
 
 color: #184B44 !important;
+}
+.imgpage_width .button--primary{
+
+border: 2px solid #184B44 !important;
+
 }
 
 
