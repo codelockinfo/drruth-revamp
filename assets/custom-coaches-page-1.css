@@ -22,6 +22,7 @@ text-align: left;
   display: block !important;
 
 }
+
 /*Collectins page applying theme*/
 #general-detox-protocol-dr-ruth-roberts .facets__wrapper{
 display: block;
@@ -31,10 +32,11 @@ display: block;
 display: contents;
 animation: animateMenuOpen var(--duration-default) ease;
 
+}
 
 #general-detox-protocol-dr-ruth-roberts .facets__display{
 display: contents !important;
-animation: animateMenuOpen var(--duration-default) ease;
+
 }
 
 #general-detox-protocol-dr-ruth-roberts .facets__header{
