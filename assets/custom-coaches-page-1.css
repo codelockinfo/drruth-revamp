@@ -32,6 +32,15 @@ display: contents;
 animation: animateMenuOpen var(--duration-default) ease;
 }
 
+#general-detox-protocol-dr-ruth-roberts .facets__header{
+animation: animateMenuOpen var(--duration-default) ease;
+
+}
+#general-detox-protocol-dr-ruth-roberts .facets-wrap{
+animation: animateMenuOpen var(--duration-default) ease;
+
+}
+
 
 
 
