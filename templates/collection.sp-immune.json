@@ -4,7 +4,8 @@
       "type": "main-collection-banner",
       "settings": {
         "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "1645138074eb7eac59": {
@@ -13,13 +14,15 @@
         "164513807442a683d3-0": {
           "type": "heading",
           "settings": {
-            "heading": "You would do anything for the health of your pet."
+            "heading": "You would do anything for the health of your pet.",
+            "heading_size": "h1"
           }
         },
         "164513807442a683d3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Maintaining a healthy immune system is essential for our pets to live their life to the fullest. The immune system is responsible for our pet's body's ability to defend itself. Many long-term health problems can be traced back to a problem with the immune system.<\/p><p>Our veterinary Immune collection of supplements empower pet owners to care for their animals in the same way they care for themselves. We believe that, given the proper nutrition, we have the amazing capability to impact our pets' health.<\/p><p><\/p>"
+            "text": "<p>Maintaining a healthy immune system is essential for our pets to live their life to the fullest. The immune system is responsible for our pet's body's ability to defend itself. Many long-term health problems can be traced back to a problem with the immune system.<\/p><p>Our veterinary Immune collection of supplements empower pet owners to care for their animals in the same way they care for themselves. We believe that, given the proper nutrition, we have the amazing capability to impact our pets' health.<\/p><p><\/p>",
+            "text_style": "body"
           }
         },
         "164513807442a683d3-2": {
@@ -39,20 +42,35 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/242217249_10160285733418690_8318218123004700986_n.jpg",
         "height": "adapt",
+        "desktop_image_width": "medium",
         "layout": "image_first",
-        "color_scheme": "background-1"
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
+        "columns_desktop": 3,
         "image_ratio": "portrait",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
+        "show_special_offer": false,
         "enable_filtering": true,
-        "enable_sorting": true
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "rating": 5
       }
     },
     "1631859338560c9b4a": {
@@ -105,10 +123,15 @@
       ],
       "settings": {
         "title": "Are you looking for supplements for a specific need? Check it out on our other collections.",
+        "heading_size": "h1",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
         "color_scheme": "accent-1",
         "show_view_all": false,
-        "swipe_on_mobile": true
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16451381264ffdaa6a": {
@@ -133,7 +156,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -143,8 +169,12 @@
         "16451381268ca1da6a-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
