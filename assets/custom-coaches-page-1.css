@@ -39,6 +39,12 @@ display: contents !important;
 
 }
 
+#general-detox-protocol-dr-ruth-roberts .facets__price{
+
+animation: animateMenuOpen var(--duration-default) ease;
+  
+}
+
 #general-detox-protocol-dr-ruth-roberts .facets__header{
 animation: animateMenuOpen var(--duration-default) ease;
 
