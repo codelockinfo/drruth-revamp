@@ -24,61 +24,6 @@ text-align: left;
 }
 
 /*Collectins page applying theme*/
-#general-detox-protocol-dr-ruth-roberts .facets__wrapper{
-display: block;
-
-}
-#general-detox-protocol-dr-ruth-roberts .parent-display{
-display: contents;
-animation: animateMenuOpen var(--duration-default) ease;
-
-}
-
-#general-detox-protocol-dr-ruth-roberts .facets__display{
-display: contents !important;
-
-}
-#general-detox-protocol-dr-ruth-roberts .facets__wrapper{
-position: relative;
-top: calc(100% + 0.5rem);
-left: -1.2rem;
-width: 38%;
-
-z-index: 111111;
-}
-
-#general-detox-protocol-dr-ruth-roberts .collection{
-
-margin-left: 24%;
-
-}
-
-#general-detox-protocol-dr-ruth-roberts .facets .spantext{
-
-font-family: Josefin Sans;
-font-style: normal;
-font-weight: 500;
-font-size: 18px;
-line-height: 30px;
-text-transform: uppercase;
-color: #1e1e1e;
-
-}
-
-#general-detox-protocol-dr-ruth-roberts .facets__price{
-
-animation: animateMenuOpen var(--duration-default) ease;
-  
-}
-
-#general-detox-protocol-dr-ruth-roberts .facets__header{
-animation: animateMenuOpen var(--duration-default) ease;
-
-}
-#general-detox-protocol-dr-ruth-roberts .facets-wrap{
-animation: animateMenuOpen var(--duration-default) ease;
-
-}
 
 
 
