@@ -5,7 +5,8 @@
       "disabled": true,
       "settings": {
         "show_collection_description": false,
-        "show_collection_image": false
+        "show_collection_image": false,
+        "color_scheme": "background-1"
       }
     },
     "1645138074eb7eac59": {
@@ -14,13 +15,15 @@
         "164513807442a683d3-0": {
           "type": "heading",
           "settings": {
-            "heading": "Good Health Comes from Good Nutrition."
+            "heading": "Good Health Comes from Good Nutrition.",
+            "heading_size": "h1"
           }
         },
         "164513807442a683d3-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Together, Standard Process and Dr. Ruth Roberts share insights and take a holistic approach to advance health by supporting the body’s interrelated systems, rather than simply treating the symptoms.<\/p><p>Shop Holistic Supplements from Standard Process Collections from Dr. Ruth's holistic wellness store today to help you and your loved ones be happy and healthy for many years to come.<\/p><p><\/p>"
+            "text": "<p>Together, Standard Process and Dr. Ruth Roberts share insights and take a holistic approach to advance health by supporting the body’s interrelated systems, rather than simply treating the symptoms.<\/p><p>Shop Holistic Supplements from Standard Process Collections from Dr. Ruth's holistic wellness store today to help you and your loved ones be happy and healthy for many years to come.<\/p><p><\/p>",
+            "text_style": "body"
           }
         },
         "164513807442a683d3-2": {
@@ -40,20 +43,35 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Supports_a_healthy_endocrine_system_and_overall_well-being_1.jpg",
         "height": "large",
+        "desktop_image_width": "medium",
         "layout": "image_first",
-        "color_scheme": "background-1"
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
+        "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": true,
         "show_rating": false,
+        "enable_quick_add": false,
+        "show_special_offer": false,
         "enable_filtering": true,
-        "enable_sorting": true
+        "filter_type": "vertical",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "rating": 5
       }
     },
     "1631859338560c9b4a": {
@@ -106,10 +124,15 @@
       ],
       "settings": {
         "title": "Are you looking for supplements for a specific need? Check it out on our other collections.",
+        "heading_size": "h1",
         "image_ratio": "adapt",
+        "columns_desktop": 3,
         "color_scheme": "accent-1",
         "show_view_all": false,
-        "swipe_on_mobile": true
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "16451381264ffdaa6a": {
@@ -134,7 +157,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -144,8 +170,12 @@
         "16451381268ca1da6a-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
-        "full_width": true
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "165201878157f8e3c2": {
@@ -162,6 +192,7 @@
         "1652018781cc8ebc8e-1": {
           "type": "title",
           "settings": {
+            "heading_size": "h1"
           }
         },
         "1652018781cc8ebc8e-2": {
@@ -212,9 +243,17 @@
       ],
       "settings": {
         "product": "standardprocess-general-female-endocrine-pack-13030",
+        "color_scheme": "background-1",
         "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "hide_variants": false,
-        "enable_video_looping": false
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
