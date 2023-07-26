@@ -39,9 +39,13 @@ display: contents !important;
 
 }
 #general-detox-protocol-dr-ruth-roberts .facets__wrapper{
-
+position: relative;
+top: calc(100% + 0.5rem);
+left: -1.2rem;
 width: 38%;
-
+max-height: 55rem;
+overflow-y: auto;
+z-index: 111111;
 }
 
 #general-detox-protocol-dr-ruth-roberts .facets .spantext{
