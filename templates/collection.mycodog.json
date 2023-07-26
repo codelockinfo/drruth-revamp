@@ -82,7 +82,10 @@
           "settings": {
             "button_label": "Book now!",
             "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package\/",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -92,6 +95,8 @@
         "1644345560ae71793c-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
@@ -108,12 +113,14 @@
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": true,
+        "show_special_offer": false,
         "enable_filtering": true,
-        "filter_type": "horizontal",
-        "enable_sorting": true,
+        "filter_type": "vertical",
+        "enable_sorting": false,
         "columns_mobile": "1",
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 0,
+        "rating": 5
       }
     },
     "16443635858774eb64": {
@@ -138,6 +145,8 @@
         "1644363585f56cc491-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
@@ -203,6 +212,8 @@
         "template--14862046068801__b35ef76d-79f4-44e4-b210-d627139ac9f5-1673288324eab372f3-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 16,
@@ -302,6 +313,8 @@
         "template--14862046068801__56650363-7304-4c41-808b-a7771fba6bea-1673288324eab372f3-0"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 8,
@@ -447,6 +460,8 @@
         "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
@@ -676,6 +691,8 @@
         "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 44,
@@ -848,7 +865,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -858,6 +878,8 @@
         "164514111261d9da74-2"
       ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
