@@ -157,6 +157,7 @@
         },
         "f9ea5ce3-9528-4111-bb47-5a6f10983b7e": {
           "type": "slider",
+          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_4.webp",
             "slide_text": "Thyroid Support",
