@@ -293,6 +293,26 @@ background-color: #184B44;
 }
 
 /*Custom Css in Coaches page with filtering*/
+
+
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__media{
+      
+    background: var(--gradient-background);
+    display: block !important;
+    background-attachment: cover;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_56139d94-3d93-4fe3-93cb-623da02909de.png?v=1688630759) !important;
+    background-color: transparent !important;
+    background-size: 733px !important;
+    background-repeat: no-repeat;
+    background-position-x: right 50px !important;
+    background-position-y: center !important;
+    padding-left: 20px;
+
+}
+
+
+
+
 #coaches .product-grid{
 display: block !important;
 
