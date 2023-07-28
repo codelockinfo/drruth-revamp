@@ -168,13 +168,12 @@
         },
         "b051e3b0-d04a-46d9-b072-c397ffa0f578": {
           "type": "slider",
-          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_3.webp",
             "slide_text": "Urinary Tract Support",
             "slide_type": "Pet device System Supported",
             "slide_val": "Urinary Tract Support",
-            "link": ""
+            "link": "shopify:\/\/collections\/kidney-support"
           }
         },
         "12db348e-5b71-4b4d-bcf1-fee74bd24759": {
