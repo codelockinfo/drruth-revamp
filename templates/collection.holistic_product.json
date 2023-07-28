@@ -55,6 +55,7 @@
         },
         "2ea3c12d-8333-42da-a858-d8ce008e0640": {
           "type": "slider",
+          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_1_6bc3463d-0180-42c2-8edf-d9cd6ea741ac_1.webp",
             "slide_text": "Ear Support",
@@ -125,6 +126,7 @@
         },
         "4047f92a-42e0-4aca-a63e-87db7fc2fea4": {
           "type": "slider",
+          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
             "slide_text": "Oral Health Support",
@@ -165,6 +167,7 @@
         },
         "b051e3b0-d04a-46d9-b072-c397ffa0f578": {
           "type": "slider",
+          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_3.webp",
             "slide_text": "Urinary Tract Support",
