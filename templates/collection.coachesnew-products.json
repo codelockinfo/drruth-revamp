@@ -9,6 +9,40 @@
         "color_scheme": "background-1"
       }
     },
+    "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0": {
+      "type": "image-banner",
+      "blocks": {
+        "75f8b834-2989-4cd9-8f87-b52303a677dc": {
+          "type": "heading",
+          "settings": {
+            "heading": "We are experts in enhancing your pet's well-being from nose to tail.",
+            "heading_size": "h2"
+          }
+        },
+        "b1a1bd7d-4684-4962-9a30-44fb4cadcdcd": {
+          "type": "text",
+          "settings": {
+            "text": "Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "75f8b834-2989-4cd9-8f87-b52303a677dc",
+        "b1a1bd7d-4684-4962-9a30-44fb4cadcdcd"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "left",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "b91aacd7-274e-463c-ae0b-232a798895dc": {
       "type": "image-with-text",
       "blocks": {
@@ -50,40 +84,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0": {
-      "type": "image-banner",
-      "blocks": {
-        "75f8b834-2989-4cd9-8f87-b52303a677dc": {
-          "type": "heading",
-          "settings": {
-            "heading": "We are experts in enhancing your pet's well-being from nose to tail.",
-            "heading_size": "h2"
-          }
-        },
-        "b1a1bd7d-4684-4962-9a30-44fb4cadcdcd": {
-          "type": "text",
-          "settings": {
-            "text": "Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts.",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "75f8b834-2989-4cd9-8f87-b52303a677dc",
-        "b1a1bd7d-4684-4962-9a30-44fb4cadcdcd"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "small",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "main-collection-product-grid": {
@@ -141,8 +141,8 @@
   },
   "order": [
     "main-collection-banner",
-    "b91aacd7-274e-463c-ae0b-232a798895dc",
     "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0",
+    "b91aacd7-274e-463c-ae0b-232a798895dc",
     "main-collection-product-grid",
     "2b31f80e-4e7d-4513-af0a-4798a32f6996"
   ]
