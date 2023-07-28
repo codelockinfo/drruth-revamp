@@ -166,6 +166,72 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "5ce5e0ec-f55b-483a-9a6f-6202107380a7": {
+      "type": "coachingmainblog",
+      "blocks": {
+        "00bf2a00-1364-421f-958b-7b1339d5c711": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/1_800x_de6ebfa2-84bc-46e2-b6cd-dd7c7fe22542.webp",
+            "c_head": "Comprehensive Training",
+            "c_desc": "We help you develop the knowledge and skills you need to provide effective and compassionate care for pets."
+          }
+        },
+        "a8ac626c-5be7-45d8-9a9c-76a76df4b7ae": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/2_800x_8de13a57-a6a6-499b-8db3-c9e2282fc5c4.webp",
+            "c_head": "Personalized Learning",
+            "c_desc": "We can help you develop a unique niche in the field and differentiate yourself from other professionals.​"
+          }
+        },
+        "82ff08a3-7b88-445a-9a80-1c66f38350d9": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/5_800x_d4ae4d24-2b72-4805-b764-28eec48de0dc.webp",
+            "c_head": "One-to-One Mentorship",
+            "c_desc": "We support you through the program by offering weekly mentorship sessions over the duration of the program (16 weeks) with the mentor assigned to you by Dr.Ruth."
+          }
+        },
+        "8dc5168f-25f2-4efa-b320-5a75f02fa601": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/6_800x_985495bb-eb44-4524-890e-dd137ec027e3.webp",
+            "c_head": "Networking Opportunities",
+            "c_desc": "Network with other professionals in the field and build relationships that can help you grow your business and advance your career."
+          }
+        },
+        "810072af-55bf-476e-ad03-28f283912f4d": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/3_800x_ba406a30-1f50-4a9c-b5da-cfecf2195215.webp",
+            "c_head": "Personal Fulfillment",
+            "c_desc": "Help pets live healthier, happier lives, and provide owners with the guidance and support they need to make informed decisions about their pets' health."
+          }
+        },
+        "598e83b9-dabd-4c31-8f78-7029a352e249": {
+          "type": "block",
+          "settings": {
+            "blogimg": "shopify:\/\/shop_images\/4_800x_0ec685cc-bebd-4e35-ad7f-8b2d8dc9635e.webp",
+            "c_head": "In-Demand Career",
+            "c_desc": "As pet ownership continues to rise, so does the demand for qualified professionals who can offer holistic, integrative approaches to pet health."
+          }
+        }
+      },
+      "block_order": [
+        "00bf2a00-1364-421f-958b-7b1339d5c711",
+        "a8ac626c-5be7-45d8-9a9c-76a76df4b7ae",
+        "82ff08a3-7b88-445a-9a80-1c66f38350d9",
+        "8dc5168f-25f2-4efa-b320-5a75f02fa601",
+        "810072af-55bf-476e-ad03-28f283912f4d",
+        "598e83b9-dabd-4c31-8f78-7029a352e249"
+      ],
+      "settings": {
+        "c_head": "",
+        "pro_btn1": "",
+        "program_link1": ""
+      }
     }
   },
   "order": [
@@ -174,6 +240,7 @@
     "ca075de0-606f-4393-99bb-5311518b5033",
     "ba04b83f-d846-4952-99a7-7ed1feec335c",
     "main-collection-product-grid",
-    "2b31f80e-4e7d-4513-af0a-4798a32f6996"
+    "2b31f80e-4e7d-4513-af0a-4798a32f6996",
+    "5ce5e0ec-f55b-483a-9a6f-6202107380a7"
   ]
 }
