@@ -311,11 +311,11 @@ background: #2D4B49;
     background-color: transparent !important;
     background-size: 733px !important;
     background-repeat: no-repeat;
-     background-position-x: right !important;
+     
     background-position-y: center !important;
     
 }
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 {
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left{
       
     display: block !important;
     background-attachment: cover;
@@ -323,7 +323,7 @@ background: #2D4B49;
     background-color: transparent !important;
     background-size: 733px !important;
     background-repeat: no-repeat;
-   
+   background-position-x: right !important;
     background-position-y: center !important;
     
 }
