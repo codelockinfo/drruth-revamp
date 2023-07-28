@@ -55,6 +55,66 @@
         "show_text_below": true
       }
     },
+    "ca075de0-606f-4393-99bb-5311518b5033": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Featured Pet Consultant<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-heading-1",
+        "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ba04b83f-d846-4952-99a7-7ed1feec335c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p><strong>Find the right coach for you<\/strong><\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Filter down coaches that matches your needs.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-heading-1",
+        "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
@@ -111,6 +171,8 @@
   "order": [
     "main-collection-banner",
     "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0",
+    "ca075de0-606f-4393-99bb-5311518b5033",
+    "ba04b83f-d846-4952-99a7-7ed1feec335c",
     "main-collection-product-grid",
     "2b31f80e-4e7d-4513-af0a-4798a32f6996"
   ]
