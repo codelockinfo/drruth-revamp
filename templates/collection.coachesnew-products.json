@@ -24,7 +24,7 @@
         "75f8b834-2989-4cd9-8f87-b52303a677dc"
       ],
       "settings": {
-        "image_overlay_opacity": 20,
+        "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
