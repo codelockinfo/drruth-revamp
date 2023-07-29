@@ -131,7 +131,7 @@ top: -470px;
   
 
 }
-#shopify-section-template--14942166286401__265f2342-4de6-43b2-b80e-755f956e15b4 [data-id="myPopup2"]{
+#shopify-section-template--14942166286401__265f2342-4de6-43b2-b80e-755f956e15b4 .starflex1{
 
   z-index: 10;
 }
@@ -140,10 +140,7 @@ top: -470px;
 display: none;
 }
 
-#shopify-section-template--14942166286401__265f2342-4de6-43b2-b80e-755f956e15b4 .starflex1{
-position: relative;
 
-}
 #shopify-section-template--14942166286401__265f2342-4de6-43b2-b80e-755f956e15b4 .customerdetail{
 width: 686px;
 
