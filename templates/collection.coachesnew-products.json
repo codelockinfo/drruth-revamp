@@ -91,7 +91,6 @@
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_37.png",
             "title": "Dlorah deVore",
             "text": "<p>FNTP, HPHC<\/p>",
             "link_label": "Learn More",
@@ -101,7 +100,6 @@
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_38.png",
             "title": "Jessica Fisher",
             "text": "<p>Certified Dog Trainer, HPHC<\/p>",
             "link_label": "Learn More",
@@ -111,7 +109,6 @@
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Rectangle_38_1.png",
             "title": "Kelly Cogen",
             "text": "<p>Cert. CN, B.S.c Naturopathic Animal Science, HPHC<\/p>",
             "link_label": "Learn More",
