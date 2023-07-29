@@ -85,6 +85,168 @@
         "padding_bottom": 52
       }
     },
+    "5b10af01-9fda-4f74-9dd6-340a797a06d6": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_37.png",
+            "title": "Dlorah deVore",
+            "text": "<p>FNTP, HPHC<\/p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        },
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_38.png",
+            "title": "Jessica Fisher",
+            "text": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        },
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Rectangle_38_1.png",
+            "title": "Kelly Cogen",
+            "text": "<p>Cert. CN, B.S.c Naturopathic Animal Science, HPHC<\/p>",
+            "link_label": "Learn More",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-1",
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-2",
+        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c08e6889-5b82-408c-9262-d16cee6dceb5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-1",
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-2",
+        "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a39cad73-abdc-4fc4-b7fe-773016710e31": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-1",
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-2",
+        "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "ba04b83f-d846-4952-99a7-7ed1feec335c": {
       "type": "rich-text",
       "blocks": {
@@ -431,6 +593,9 @@
     "main-collection-banner",
     "785dee0f-be6d-4dbd-84a6-964a4ce5b0f0",
     "ca075de0-606f-4393-99bb-5311518b5033",
+    "5b10af01-9fda-4f74-9dd6-340a797a06d6",
+    "c08e6889-5b82-408c-9262-d16cee6dceb5",
+    "a39cad73-abdc-4fc4-b7fe-773016710e31",
     "ba04b83f-d846-4952-99a7-7ed1feec335c",
     "main-collection-product-grid",
     "2b31f80e-4e7d-4513-af0a-4798a32f6996",
