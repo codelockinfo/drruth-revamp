@@ -233,6 +233,36 @@
         "program_link1": ""
       }
     },
+    "233e2f87-a490-4f13-9d3f-02abbd7d7154": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14940389605441__233e2f87-a490-4f13-9d3f-02abbd7d7154-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Collaboration Approach <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14940389605441__233e2f87-a490-4f13-9d3f-02abbd7d7154-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your <br\/>pet's well-being.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14940389605441__233e2f87-a490-4f13-9d3f-02abbd7d7154-heading-1",
+        "template--14940389605441__233e2f87-a490-4f13-9d3f-02abbd7d7154-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "b2f3b937-1143-4f76-80ce-c460c16b1f5e": {
       "type": "multicolumn",
       "blocks": {
@@ -325,6 +355,7 @@
     "main-collection-product-grid",
     "2b31f80e-4e7d-4513-af0a-4798a32f6996",
     "5ce5e0ec-f55b-483a-9a6f-6202107380a7",
+    "233e2f87-a490-4f13-9d3f-02abbd7d7154",
     "b2f3b937-1143-4f76-80ce-c460c16b1f5e"
   ]
 }
