@@ -549,6 +549,49 @@
       "settings": {
         "mfaqhead": "FAQ's"
       }
+    },
+    "d23ab1ba-25cd-4e5c-b53d-83583af5eeee": {
+      "type": "custom-reviews",
+      "blocks": {
+        "c4cec768-9b4a-4271-9bc8-eaf53a2d5843": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
+            "signtext": "Missy Springer & Kenzie South Paw Aussies"
+          }
+        },
+        "a6095a36-6126-423b-89b9-afd257984192": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
+            "signtext": "Missy Springer & Kenzie South Paw Aussies"
+          }
+        },
+        "5c564c20-c62b-413d-8886-51720bb87f40": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
+            "signtext": "Missy Springer & Kenzie South Paw Aussies"
+          }
+        }
+      },
+      "block_order": [
+        "c4cec768-9b4a-4271-9bc8-eaf53a2d5843",
+        "a6095a36-6126-423b-89b9-afd257984192",
+        "5c564c20-c62b-413d-8886-51720bb87f40"
+      ],
+      "settings": {
+        "starreviewhead": ""
+      }
     }
   },
   "order": [
@@ -562,6 +605,7 @@
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308",
     "1b807219-da09-4a27-a62e-92485e0d5783",
     "5fb17d23-c495-41f2-8b33-acb8352081bd",
-    "ae7e2baf-a177-490c-b4e0-b7818383f201"
+    "ae7e2baf-a177-490c-b4e0-b7818383f201",
+    "d23ab1ba-25cd-4e5c-b53d-83583af5eeee"
   ]
 }
