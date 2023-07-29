@@ -435,13 +435,14 @@ object-position: left !important;
 #coaches #shopify-section-template--14940389605441__b2f3b937-1143-4f76-80ce-c460c16b1f5e .section-template--14940389605441__b2f3b937-1143-4f76-80ce-c460c16b1f5e-padding{
 
     background: var(--gradient-background);
-    background-attachment: cover;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_6bf642d4-d490-44ed-b4b0-baabd744ce61.png?v=1688561682&width=3840) !important;
     background-color: transparent !important;
     background-position: top left !important;
     background-size: auto !important;
     background-repeat: no-repeat;
     background-position-x: center !important;
+    background-position-y: 28px !important;
+
 }
 
 #coaches #Slider-template--14937751814209__e1e9826a-371c-43e4-a3d2-a88b2fd16e3e .multicolumn-card{
