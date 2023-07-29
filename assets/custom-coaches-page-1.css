@@ -131,10 +131,7 @@ top: -470px;
   
 
 }
- #myPopup1{
 
-color: white !important;
-}
 
 #shopify-section-template--14942166286401__d23ab1ba-25cd-4e5c-b53d-83583af5eeee .checked{
 color: orange !important;
@@ -154,6 +151,10 @@ left: 106px;
 
 #shopify-section-template--14942166286401__d23ab1ba-25cd-4e5c-b53d-83583af5eeee .truncate{
 margin-top: 165px;
+color: white !important;
+}
+
+#shopify-section-template--14942166286401__d23ab1ba-25cd-4e5c-b53d-83583af5eeee .truncate span{
 color: white !important;
 }
 
