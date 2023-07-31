@@ -61,7 +61,7 @@
         "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Featured Pet Consultant<\/strong><\/p>",
+            "heading": "<p><strong>Featured Pet Consultants<\/strong><\/p>",
             "heading_size": "h1"
           }
         },
@@ -81,7 +81,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 52,
         "padding_bottom": 52
       }
     },
@@ -282,7 +282,7 @@
         ".facets-vertical {\/* display: block; *\/}"
       ],
       "settings": {
-        "products_per_page": 24,
+        "products_per_page": 10,
         "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": true,
@@ -385,6 +385,9 @@
         "8dc5168f-25f2-4efa-b320-5a75f02fa601",
         "810072af-55bf-476e-ad03-28f283912f4d",
         "598e83b9-dabd-4c31-8f78-7029a352e249"
+      ],
+      "custom_css": [
+        "section{display: none;}"
       ],
       "settings": {
         "c_head": "",
