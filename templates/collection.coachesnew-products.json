@@ -81,8 +81,8 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 52,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 0
       }
     },
     "5b10af01-9fda-4f74-9dd6-340a797a06d6": {
