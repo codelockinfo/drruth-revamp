@@ -560,6 +560,9 @@
     },
     "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
       "type": "Custom-rating",
+      "custom_css": [
+        ".container-content {width: 67%;}"
+      ],
       "settings": {
         "starreviewhead": "asdsad"
       }
