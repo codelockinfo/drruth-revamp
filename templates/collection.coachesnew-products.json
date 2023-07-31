@@ -542,44 +542,44 @@
         "padding_bottom": 36
       }
     },
-    "e306b3a2-17a7-45a5-a39f-c8047f64ab56": {
-      "type": "star_review",
+    "e67404e9-fd71-4531-8d5f-8711d8c7e57d": {
+      "type": "custom-reviews",
       "blocks": {
-        "d402838e-fa98-4c8b-a118-fd4ff8463ed2": {
+        "b10d071f-0463-4698-be2f-20a12e0c49d7": {
           "type": "block",
           "settings": {
             "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
             "rating": 5,
-            "confimed": "",
+            "confimed": "Mind Blowing!",
             "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
-            "signtext": "Missy Springer & Kenzie South Paw Aussies"
-          }
-        },
-        "6c2ecf67-3f42-44db-8b19-18791d36a7dd": {
-          "type": "block",
-          "settings": {
-            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
-            "rating": 5,
-            "confimed": "",
-            "confimedp": "I really enjoyed connecting with Dlorah who is a recent graduate of Dr. Roberts holistic pet health coach program. I found it helpful to hear all about her experience with the course and what she found useful in her journey to become a certified pet health coach. It was great to connect with someone who has a similar educational background and experiences. To me, at the beginning, I was feeling hesitant and having doubts if this was the right path, but the onboarding call just reconfirmed for me that it absolutely is... Read more",
             "signtext": "Amanda Delgado"
           }
         },
-        "f63affc6-5456-4a8b-9284-2cba09030296": {
+        "375e34dc-c0c2-4c56-a135-0c0aa37c83bc": {
           "type": "block",
           "settings": {
             "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
             "rating": 5,
-            "confimed": "",
-            "confimedp": "Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.",
+            "confimed": "Mind Blowing!",
+            "confimedp": "I really enjoyed connecting with Dlorah who is a recent graduate of Dr. Roberts holistic pet health coach program. I found it helpful to hear all about her experience with the course and what she found useful in her journey to become a certified pet health coach. It was great to connect with someone who has a similar educational background and experiences. To me, at the beginning, I was feeling hesitant and having doubts if this was the right path, but the onboarding call just reconfirmed for me that it absolutely is... Read more",
             "signtext": "Lori Schmidt"
+          }
+        },
+        "a8457623-efb4-431b-80d7-6f544e870a15": {
+          "type": "block",
+          "settings": {
+            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
+            "rating": 5,
+            "confimed": "Mind Blowing!",
+            "confimedp": "Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.",
+            "signtext": "Missy Springer & Kenzie South Paw Aussies"
           }
         }
       },
       "block_order": [
-        "d402838e-fa98-4c8b-a118-fd4ff8463ed2",
-        "6c2ecf67-3f42-44db-8b19-18791d36a7dd",
-        "f63affc6-5456-4a8b-9284-2cba09030296"
+        "b10d071f-0463-4698-be2f-20a12e0c49d7",
+        "375e34dc-c0c2-4c56-a135-0c0aa37c83bc",
+        "a8457623-efb4-431b-80d7-6f544e870a15"
       ],
       "settings": {
         "starreviewhead": ""
@@ -600,6 +600,6 @@
     "233e2f87-a490-4f13-9d3f-02abbd7d7154",
     "b2f3b937-1143-4f76-80ce-c460c16b1f5e",
     "931eae68-b165-4c2f-ba2d-fcc963c54b39",
-    "e306b3a2-17a7-45a5-a39f-c8047f64ab56"
+    "e67404e9-fd71-4531-8d5f-8711d8c7e57d"
   ]
 }
