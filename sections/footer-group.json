@@ -28,20 +28,12 @@
             "heading": "SUPPORT",
             "menu": "footer-menu-revamp-support"
           }
-        },
-        "db265a83-60dd-4bcf-9a0d-7f55256cd1e0": {
-          "type": "text",
-          "settings": {
-            "heading": "DISCLAIMER",
-            "subtext": "<p>Medical information or statements made on this site are not intended for use in or as a substitute for the diagnosis or treatment of any health or physical condition or as a substitute for a veterinarian-client relationship which has been established by an in-person evaluation of a patient. This information and advice published or made available through this website is not intended to replace the services of a veterinarian, nor does it constitute a veterinarian-client relationship. Each individual’s treatment and\/or results may vary based upon the circumstances, the patients’ specific situation, as well as the health care provider’s medical judgment and only after further discussion of the patient’s specific situation, goals, risks, and benefits and other relevant medical discussions.<br\/><\/p>"
-          }
         }
       },
       "block_order": [
         "61cdae29-0e27-4c99-ae13-1a4b6e4f0ed0",
         "sections--14898484543553__39a610ad-ed18-4916-9406-868dcf02a3d5-1680016398b6ce32db-0",
-        "a91f38b1-9990-48cb-b0d6-cb69bbb033ee",
-        "db265a83-60dd-4bcf-9a0d-7f55256cd1e0"
+        "a91f38b1-9990-48cb-b0d6-cb69bbb033ee"
       ],
       "custom_css": [
         ".rx-email-field input {text-transform: capitalize !important;}"
