@@ -387,7 +387,8 @@
         "598e83b9-dabd-4c31-8f78-7029a352e249"
       ],
       "custom_css": [
-        "section{display: none;}"
+        "div {border-radius: 30px;}",
+        ".cmax_container {padding-top: 60px;}"
       ],
       "settings": {
         "c_head": "",
