@@ -761,8 +761,94 @@ display: block !important;
 
 
 }
+/*Featured consultant third column*/
+#Slider-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31 .multicolumn-card__info h3{
+color: #FFF;
+font-family: BLT-Heirloom;
+font-size: 39.287px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -0.786px;
+
+}
+
+#Slider-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31 .multicolumn-card__info p{
+color: #FFF;
+font-family: Josefin Sans;
+font-size: 14.74px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.11px; /* 150% */
+letter-spacing: -0.295px;
+
+}
+
+#Slider-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31 .multicolumn-card {
+
+  padding-left: 62px;
+
+}
+
+#SSlider-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31 .multicolumn-card__info{
+height: 380px !important;
+
+}
+
+#Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card{
+width: 420px;
+  
+}
+
+#Slider-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31 .multicolumn-card__info .animate-arrow{
+  position: relative;
+top: 180px;
+border: solid 2px white;
+padding: 5px;
+border-radius: 25px;
+background: white;
+
+}
+
+#Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-1 .multicolumn-card {
+    display: block !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_34.png?v=1690790924) !important;
+    background-color: transparent !important;
+    background-size: 530px !important;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+    background-position-y: center !important;
+    width: 651px;
+
+}
+
+#Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-2 .multicolumn-card{
+position: relative;
+left: 137px;
+
+}
+#Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-2 .multicolumn-card {
+display: block !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_38_4.png?v=1690790924) !important;
+    background-color: transparent !important;
+    background-size: 251px !important;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+    background-position-y: center !important;
 
 
+}
+#Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-3 .multicolumn-card {
+display: block !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_38_5.png?v=1690790924) !important;
+    background-color: transparent !important;
+    background-size: 251px !important;
+    background-repeat: no-repeat;
+    background-position-x: center !important;
+    background-position-y: center !important;
+
+
+}
 
 
 
