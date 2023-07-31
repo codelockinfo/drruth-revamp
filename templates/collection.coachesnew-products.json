@@ -426,7 +426,7 @@
         "template--14940389605441__233e2f87-a490-4f13-9d3f-02abbd7d7154-text-1"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 6rem; color: #2e484a; padding-top: 10rem;}",
+        "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 6rem; color: #2e484a;}",
         "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem;}"
       ],
       "settings": {
