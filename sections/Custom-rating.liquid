@@ -61,16 +61,16 @@
       {% endfor %}
     
   </div>
-</div>
 
+<div class="image view">
 <p class="truncate">{{ block.settings.confimedp | truncate: 380 }}<span class="toggle-text-link" data-id="myPopup{{  forloop.index }}"> Read More</span></p>
           <div class="starflex1">
             <div class="starbg"><img src="{{ block.settings.mainimage |img_url: '800x' }}"></div>
             <h2 class="starthead"> {{ block.settings.signtext }}</h2>
         </div>
 
-
-
+</div>
+</div>
 
 
 {% schema %}
