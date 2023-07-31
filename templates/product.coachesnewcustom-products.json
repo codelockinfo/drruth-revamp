@@ -376,7 +376,7 @@
             "image": "shopify:\/\/shop_images\/Component_5.png",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "View Profile",
             "link": "#"
           }
         },
@@ -386,7 +386,7 @@
             "image": "shopify:\/\/shop_images\/Component_5.png",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "View Profile",
             "link": "#"
           }
         },
@@ -396,7 +396,7 @@
             "image": "shopify:\/\/shop_images\/Component_5.png",
             "title": "",
             "text": "",
-            "link_label": "",
+            "link_label": "View Profile",
             "link": "#"
           }
         },
@@ -418,7 +418,8 @@
         "1a61ff9f-050c-461a-9801-21edc2e284e5"
       ],
       "custom_css": [
-        "div {background-color: #e6f0e7;}"
+        "div {background-color: #e6f0e7;}",
+        ".multicolumn-card__info{margin-top: -30px; text-align: center;}"
       ],
       "settings": {
         "title": "",
