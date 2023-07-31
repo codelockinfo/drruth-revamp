@@ -353,6 +353,10 @@
         "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-heading-1",
         "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-text-1"
       ],
+      "custom_css": [
+        "h2 {padding-top: 100px; padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
+        "p {font-size: 1.7rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -382,6 +386,10 @@
       "block_order": [
         "template--14942166286401__ee4bb36e-3253-45a5-a415-1cb58bcfe308-heading-1",
         "template--14942166286401__ee4bb36e-3253-45a5-a415-1cb58bcfe308-text-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 5rem; color: #2e484a;}",
+        "p {font-size: 1.7rem; padding-left: 5rem; padding-right: 5rem;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -505,6 +513,13 @@
         "c4cec768-9b4a-4271-9bc8-eaf53a2d5843",
         "a6095a36-6126-423b-89b9-afd257984192",
         "5c564c20-c62b-413d-8886-51720bb87f40"
+      ],
+      "custom_css": [
+        ".customercontainer {margin: auto; margin-top: -110px; max-width: 1340px;}",
+        ".customercontainer .truncate {text-align: justify; line-height: 26px;}",
+        ".customercontainer span {}",
+        ".stardiv {display: none;}",
+        ".customerdetail {min-height: 600px;}"
       ],
       "settings": {
         "starreviewhead": ""
@@ -659,7 +674,7 @@
         "39a9195c-c16a-4744-bb87-bea1ab5d67f5"
       ],
       "custom_css": [
-        ".accordion-container{margin-bottom: 100px;}"
+        ".accordion-container {margin-bottom: 100px;}"
       ],
       "settings": {
         "mfaqhead": "FAQ's"
