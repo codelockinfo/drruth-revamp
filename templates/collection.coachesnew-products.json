@@ -584,6 +584,12 @@
       "settings": {
         "starreviewhead": ""
       }
+    },
+    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
+      "type": "Custom-rating",
+      "settings": {
+        "starreviewhead": ""
+      }
     }
   },
   "order": [
@@ -600,6 +606,7 @@
     "233e2f87-a490-4f13-9d3f-02abbd7d7154",
     "b2f3b937-1143-4f76-80ce-c460c16b1f5e",
     "931eae68-b165-4c2f-ba2d-fcc963c54b39",
-    "e67404e9-fd71-4531-8d5f-8711d8c7e57d"
+    "e67404e9-fd71-4531-8d5f-8711d8c7e57d",
+    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5"
   ]
 }
