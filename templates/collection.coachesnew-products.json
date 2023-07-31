@@ -287,7 +287,8 @@
       "custom_css": [
         "h2.title.title--primary {display: flex; justify-content: center;}",
         "a.underlined-link.link {display: flex; align-items: end;}",
-        ".facets-vertical {\/* display: block; *\/}"
+        ".facets-vertical {\/* display: block; *\/}",
+        ".facets-wrapper{display: none;}"
       ],
       "settings": {
         "products_per_page": 10,
