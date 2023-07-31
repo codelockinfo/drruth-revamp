@@ -567,7 +567,7 @@ width: 470px;
 }
 
 
-#Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info{
+#Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info h3{
 color: #FFF;
 font-family: BLT-Heirloom;
 font-size: 39.287px;
@@ -578,6 +578,16 @@ letter-spacing: -0.786px;
 
 }
 
+#Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info p{
+color: #FFF;
+font-family: Josefin Sans;
+font-size: 14.74px;
+font-style: normal;
+font-weight: 500;
+line-height: 22.11px; /* 150% */
+letter-spacing: -0.295px;
+
+}
 
 #Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card {
 
