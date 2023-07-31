@@ -604,7 +604,7 @@
         "a8457623-efb4-431b-80d7-6f544e870a15"
       ],
       "custom_css": [
-        ".customercontainer {margin-top: 0;}"
+        ".customercontainer {margin-top: -100px;}"
       ],
       "settings": {
         "starreviewhead": ""
