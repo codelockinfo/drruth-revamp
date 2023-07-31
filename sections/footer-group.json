@@ -15,25 +15,25 @@
             "rx_brand_info_show_social": true
           }
         },
-        "sections--14898484543553__39a610ad-ed18-4916-9406-868dcf02a3d5-1680016398b6ce32db-0": {
-          "type": "link_list",
-          "settings": {
-            "heading": "QUICK LINKS",
-            "menu": "footer-menu-revamp"
-          }
-        },
         "a91f38b1-9990-48cb-b0d6-cb69bbb033ee": {
           "type": "link_list",
           "settings": {
-            "heading": "SUPPORT",
+            "heading": "QUICK LINKS",
             "menu": "footer-menu-revamp-support"
+          }
+        },
+        "14974bdb-6efe-46d6-83a3-40209dd31089": {
+          "type": "link_list",
+          "settings": {
+            "heading": "SUPPORT",
+            "menu": "footer"
           }
         }
       },
       "block_order": [
         "61cdae29-0e27-4c99-ae13-1a4b6e4f0ed0",
-        "sections--14898484543553__39a610ad-ed18-4916-9406-868dcf02a3d5-1680016398b6ce32db-0",
-        "a91f38b1-9990-48cb-b0d6-cb69bbb033ee"
+        "a91f38b1-9990-48cb-b0d6-cb69bbb033ee",
+        "14974bdb-6efe-46d6-83a3-40209dd31089"
       ],
       "custom_css": [
         ".rx-email-field input {text-transform: capitalize !important;}"
