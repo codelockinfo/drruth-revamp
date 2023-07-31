@@ -76,6 +76,9 @@
         "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-heading-1",
         "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-text-1"
       ],
+      "custom_css": [
+        "h2{padding-top: 100px; padding-bottom: 0;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
