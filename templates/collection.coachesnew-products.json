@@ -505,7 +505,7 @@
         "7572deba-4700-4b6f-97c7-8c914f40aba9"
       ],
       "custom_css": [
-        "p{text-align: justify; font-size: 1.5rem; line-height: 1.8rem;}"
+        "p {text-align: justify; font-size: 1.5rem; line-height: 1.8rem;}"
       ],
       "settings": {
         "title": "",
@@ -524,41 +524,44 @@
         "padding_bottom": 52
       }
     },
-    "931eae68-b165-4c2f-ba2d-fcc963c54b39": {
-      "type": "rx-img-with-text",
+    "8969544c-04f4-43a5-8d9a-50ad67e04785": {
+      "type": "rich-text",
       "blocks": {
-        "template--14940389605441__931eae68-b165-4c2f-ba2d-fcc963c54b39-heading-1": {
+        "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "font_family": "font_blt"
+            "heading": "<h2>What Real Pet Parents Are Saying<\/h2>",
+            "heading_size": "h1"
           }
         },
-        "template--14940389605441__931eae68-b165-4c2f-ba2d-fcc963c54b39-text-1": {
+        "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service<\/p>"
           }
         }
       },
       "block_order": [
-        "template--14940389605441__931eae68-b165-4c2f-ba2d-fcc963c54b39-heading-1",
-        "template--14940389605441__931eae68-b165-4c2f-ba2d-fcc963c54b39-text-1"
+        "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-heading-1",
+        "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-text-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 5rem; color: #2e484a;}",
+        "p {font-size: 1.8rem; padding-left: 5rem; padding-right: 5rem;}"
       ],
       "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "center",
-        "content_layout": "no-overlap",
-        "grid_type": "type1",
-        "imgText-bg-color": "",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
+      "type": "Custom-rating",
+      "settings": {
+        "starreviewhead": "asdsad"
       }
     },
     "e67404e9-fd71-4531-8d5f-8711d8c7e57d": {
@@ -603,12 +606,6 @@
       "settings": {
         "starreviewhead": ""
       }
-    },
-    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
-      "type": "Custom-rating",
-      "settings": {
-        "starreviewhead": ""
-      }
     }
   },
   "order": [
@@ -624,8 +621,8 @@
     "5ce5e0ec-f55b-483a-9a6f-6202107380a7",
     "233e2f87-a490-4f13-9d3f-02abbd7d7154",
     "b2f3b937-1143-4f76-80ce-c460c16b1f5e",
-    "931eae68-b165-4c2f-ba2d-fcc963c54b39",
-    "e67404e9-fd71-4531-8d5f-8711d8c7e57d",
-    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5"
+    "8969544c-04f4-43a5-8d9a-50ad67e04785",
+    "1d09ce56-d815-4da4-9b2c-a947a3eaafd5",
+    "e67404e9-fd71-4531-8d5f-8711d8c7e57d"
   ]
 }
