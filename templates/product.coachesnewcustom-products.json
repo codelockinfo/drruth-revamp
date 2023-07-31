@@ -596,6 +596,9 @@
         "50343c4b-24ae-4259-a2d7-349ecf662bd7",
         "a02377b2-5215-41a6-bc48-d4afcccc8c69"
       ],
+      "custom_css": [
+        "h3{font-size: 2rem;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -619,7 +622,7 @@
         "d0b1be18-7116-49d8-8bb0-1b8021d01857": {
           "type": "collection",
           "settings": {
-            "faqdes": "test",
+            "faqdes": "Answer.",
             "faqid": "",
             "faqbtn": "What will I learn from this certification?"
           }
@@ -627,7 +630,7 @@
         "ce65b864-4d98-43c4-983b-90fb08fcd5db": {
           "type": "collection",
           "settings": {
-            "faqdes": "",
+            "faqdes": "Answer.",
             "faqid": "",
             "faqbtn": "What can I do as a Certified Holistic Pet Health Coach?"
           }
@@ -635,7 +638,7 @@
         "b14ae6db-214c-43ee-9e5a-e694f2cde4c3": {
           "type": "collection",
           "settings": {
-            "faqdes": "",
+            "faqdes": "Answer.",
             "faqid": "",
             "faqbtn": "What is one-to-one mentorship work?"
           }
@@ -643,17 +646,9 @@
         "39a9195c-c16a-4744-bb87-bea1ab5d67f5": {
           "type": "collection",
           "settings": {
-            "faqdes": "",
+            "faqdes": "Answer.",
             "faqid": "",
             "faqbtn": "What are the Q&A Weekly sessions?"
-          }
-        },
-        "b0d157c6-de04-42dd-bcaf-73b350b003c1": {
-          "type": "collection",
-          "settings": {
-            "faqdes": "",
-            "faqid": "",
-            "faqbtn": "What can I do as a Certified Holistic Pet Health Coach?"
           }
         }
       },
@@ -661,8 +656,7 @@
         "d0b1be18-7116-49d8-8bb0-1b8021d01857",
         "ce65b864-4d98-43c4-983b-90fb08fcd5db",
         "b14ae6db-214c-43ee-9e5a-e694f2cde4c3",
-        "39a9195c-c16a-4744-bb87-bea1ab5d67f5",
-        "b0d157c6-de04-42dd-bcaf-73b350b003c1"
+        "39a9195c-c16a-4744-bb87-bea1ab5d67f5"
       ],
       "settings": {
         "mfaqhead": "FAQ's"
