@@ -597,7 +597,7 @@
         "a02377b2-5215-41a6-bc48-d4afcccc8c69"
       ],
       "custom_css": [
-        "h3{font-size: 2rem;}"
+        "h3 {font-size: 2rem;}"
       ],
       "settings": {
         "title": "",
@@ -657,6 +657,9 @@
         "ce65b864-4d98-43c4-983b-90fb08fcd5db",
         "b14ae6db-214c-43ee-9e5a-e694f2cde4c3",
         "39a9195c-c16a-4744-bb87-bea1ab5d67f5"
+      ],
+      "custom_css": [
+        ".accordion-container{margin-bottom: 100px;}"
       ],
       "settings": {
         "mfaqhead": "FAQ's"
