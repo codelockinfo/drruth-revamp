@@ -603,6 +603,9 @@
         "375e34dc-c0c2-4c56-a135-0c0aa37c83bc",
         "a8457623-efb4-431b-80d7-6f544e870a15"
       ],
+      "custom_css": [
+        ".customercontainer {display: none; padding: 0; margin-top: 0;}"
+      ],
       "settings": {
         "starreviewhead": ""
       }
