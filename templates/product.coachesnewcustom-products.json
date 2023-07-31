@@ -546,6 +546,10 @@
         "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1",
         "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1"
       ],
+      "custom_css": [
+        "h2 {padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
+        "p {font-size: 1.7rem;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -622,7 +626,7 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
