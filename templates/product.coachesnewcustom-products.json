@@ -422,7 +422,8 @@
       ],
       "custom_css": [
         "div {background-color: #e6f0e7;}",
-        ".multicolumn-card__info {margin-top: -30px; text-align: center;}"
+        ".multicolumn-card__info {margin-top: -30px; text-align: center;}",
+        ".color-background-1 {background: red;}"
       ],
       "settings": {
         "title": "",
