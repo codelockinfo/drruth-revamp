@@ -619,7 +619,7 @@
         "d0b1be18-7116-49d8-8bb0-1b8021d01857": {
           "type": "collection",
           "settings": {
-            "faqdes": "",
+            "faqdes": "test",
             "faqid": "",
             "faqbtn": "What will I learn from this certification?"
           }
