@@ -197,27 +197,27 @@
         "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "Rhiannon Andrus",
+            "text": "<p>Certified Holistic Human Coach, HPHC<\/p>",
+            "link_label": "Book A Consultant",
             "link": ""
           }
         },
         "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "Kristy Green",
+            "text": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "link_label": "Book A Consultant",
             "link": ""
           }
         },
         "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
+            "title": "Bea Swasey",
+            "text": "<p>MBA, NTP, RWS II, HPHC<\/p>",
+            "link_label": "Book A Consultant",
             "link": ""
           }
         }
