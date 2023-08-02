@@ -216,6 +216,33 @@
         "padding_bottom": 36
       }
     },
+    "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14942166286401__4f71bb3b-ad95-478f-9d80-d3a7d8c75c18-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Book a consultation",
+            "button_link": "{{ product.metafields.custom.coach_booklink.value }}",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14942166286401__4f71bb3b-ad95-478f-9d80-d3a7d8c75c18-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "917f0b14-b480-4b5a-a463-55d41ed905c9": {
       "type": "multicolumn",
       "blocks": {
@@ -288,7 +315,7 @@
       ],
       "custom_css": [
         "h3 {padding-top: 10px; padding-left: 20px !important; padding-bottom: 5px; color: #2d4b49; font-family: BLT-Heirloom; font-size: 3rem;}",
-        "p{padding-top: 10px; margin-left: 10px !important;}"
+        "p {padding-top: 10px; margin-left: 10px !important;}"
       ],
       "settings": {
         "title": "",
@@ -701,6 +728,7 @@
     "main",
     "related-products",
     "08272d4d-303d-440d-b37b-7a83170b6abe",
+    "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18",
     "917f0b14-b480-4b5a-a463-55d41ed905c9",
     "01b656ad-4c3f-458a-8166-7e6ac363dbd0",
     "abe4a906-a16b-4d26-8f07-691acdb8382b",
