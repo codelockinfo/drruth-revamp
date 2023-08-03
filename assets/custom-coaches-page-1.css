@@ -3022,8 +3022,7 @@ padding-top: 0px !important;
     width: 600px;
     margin-right: 5rem;
     background-position-y: unset;
-    margin-top: 5rem;
-    height: 475px;
+    height: 430px;
 }
 
 #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container{
@@ -3042,7 +3041,7 @@ line-height: 55px;
 }
 
 #coaches .banner--large:not(.banner--adapt) {
-    min-height: 72rem;
+    min-height: 0rem;
 }
 
 #coaches .banner_img .banner__text.body span {
