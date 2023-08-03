@@ -3012,4 +3012,50 @@ padding-top: 0px !important;
 
 
 
+/*--------------------------------------------------------------Tablet Responsive (1024)-----------------------------------------------------------*/
+@media screen and (max-width: 1024px) {
+  
+/*-------------------------1st Section--------------------------*/
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left{
+    background-size: 480px !important;
+    left: 0px;
+    width: 600px;
+    margin-right: 5rem;
+    background-position-y: unset;
+    margin-top: 5rem;
+    height: 475px;
+}
+
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container{
+
+margin-left: -56%;
+padding-top: 0px;
+}
+
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container--full-width-mobile h2{
+font-size: 40px;
+line-height: 55px;
+}
+
+#coaches .banner__media {
+  height: 100%;
+}
+
+#coaches .banner--large:not(.banner--adapt) {
+    min-height: 72rem;
+}
+
+#coaches .banner_img .banner__text.body span {
+    font-size: 15px;
+    line-height: 20px;
+}
+
+#coaches .banner_img a.button.button--primary {
+    font-size: 12px;
+    padding: 5px 40px;
+}
+}
+
+
+
            
