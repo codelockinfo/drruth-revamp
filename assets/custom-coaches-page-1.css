@@ -3053,6 +3053,79 @@ line-height: 55px;
     font-size: 12px;
     padding: 5px 40px;
 }
+
+
+
+/*-------------------------2nd Section--------------------------*/
+#coaches #shopify-section-template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033 .rich-text__heading span{
+    font-size: 40px;
+}
+
+#coaches #shopify-section-template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033 h2 {
+    padding-top: 35px;
+}
+
+#coaches #shopify-section-template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033 p {
+    font-size: 1.5rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+#coaches rich-text__blocks>*+* {
+    margin-top: 0rem;
+}
+
+/*Card row 1*/
+#coaches #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card {
+   background-size: 397px!important;
+   background-position-x: 20%!important;
+}
+
+#coaches #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-2 .multicolumn-card {
+    background-size: 186px!important;
+    left: 152px;
+}
+
+#coaches #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-3 .multicolumn-card {
+    background-size: 186px!important;
+    background-position-x: 46%!important;
+}
+
+/*Card row 2*/
+#coaches #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-3 .multicolumn-card {
+    background-size: 397px!important;
+    background-position-x: 42%!important;
+}
+
+#coaches #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-2 .multicolumn-card {
+    background-size: 194px!important;
+    left: -103px;
+}
+
+#coaches #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-1 .multicolumn-card {
+    background-size: 186px!important;
+    background-position-x: 54%!important;
+}
+
+/*Card row 3*/
+#coaches #Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-1 .multicolumn-card {
+   background-size: 397px!important;
+   background-position-x: 20%!important;
+}
+
+#coaches #Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-2 .multicolumn-card {
+    background-size: 186px!important;
+    left: 152px;
+}
+
+#coaches #Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-3 .multicolumn-card {
+    background-size: 186px!important;
+    background-position-x: 46%!important;
+}
+
+#coaches #Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info {
+    height: 297px!important;
+}
 }
 
 
