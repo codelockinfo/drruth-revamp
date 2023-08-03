@@ -3091,6 +3091,19 @@ line-height: 55px;
     background-position-x: 46%!important;
 }
 
+/*Info*/
+#coaches #Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info h3 {
+    font-size: 25px;
+}
+
+#coaches #Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info p {
+    font-size: 12px;
+}
+
+#coaches .multicolumn-card__info {
+    padding-left: 1rem;
+}
+
 /*Card row 2*/
 #coaches #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-3 .multicolumn-card {
     background-size: 397px!important;
