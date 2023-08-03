@@ -652,11 +652,11 @@ background: white;
 }
 
 #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card {
-    display: block !important;
+    display: block;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_37.png?v=1690636113) !important;
     background-color: transparent !important;
     background-size: 530px !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     background-position-x: center !important;
     background-position-y: center !important;
     width: 651px;
@@ -669,22 +669,22 @@ left: 137px;
 
 }
 #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-2 .multicolumn-card {
-display: block !important;
+display: block;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_38.png?v=1690636114) !important;
     background-color: transparent !important;
     background-size: 251px !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat  !important;
     background-position-x: center !important;
     background-position-y: center !important;
 
 
 }
 #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-3 .multicolumn-card {
-display: block !important;
+display: block;
     background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Rectangle_38_1.png?v=1690636113) !important;
     background-color: transparent !important;
     background-size: 251px !important;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     background-position-x: center !important;
     background-position-y: center !important;
 
