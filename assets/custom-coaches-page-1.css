@@ -3041,7 +3041,7 @@ line-height: 55px;
 }
 
 #coaches .banner--large:not(.banner--adapt) {
-    min-height: 0rem;
+    min-height: auto;
 }
 
 #coaches .banner_img .banner__text.body span {
