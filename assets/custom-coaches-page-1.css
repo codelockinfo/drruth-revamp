@@ -415,6 +415,13 @@ background-color: #184B44;
  
 }
 
+
+
+
+
+
+
+
 /*Mobile and tab responsive*/
 
 @media screen and (max-width: 1130px) {
@@ -3111,7 +3118,6 @@ line-height: 55px;
 
 #coaches .multicolumn-card__info .link {
     font-size: 12px;
-    display: none;
 }
 
 
@@ -3150,6 +3156,32 @@ line-height: 55px;
 #coaches #Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info {
     height: 297px!important;
 }
+}
+
+
+
+
+/*COACH PAGE*/
+/*Button*/
+#MainProduct-template--14942166286401__main .rich-text__buttons {
+    display: block;
+    margin-top: -100px;
+    margin-left: -50px;
+} 
+
+#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
+    border-radius: 20px;
+    background-color: #2e484a;
+    padding: 5px 15px 5px 15px;
+    color: white;
+}
+
+#shopify-section-template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067 .multicolumn-card__info {
+    margin-top: -93px;
+    text-align: center;
+    z-index: 10;
+    position: relative;
+    background: none;
 }
 
 
