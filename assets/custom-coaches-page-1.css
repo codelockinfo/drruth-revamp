@@ -445,6 +445,21 @@ display: flex;
     width: 95% !important;
 }
 
+.sub_container{
+display: block !important;
+    background-image: url(https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Group_1_9aa27c2c-90ff-4361-b055-0b27c3ce8c1a.png?v=1690635227) !important;
+    background-color: transparent !important;
+    background-size: 917px !important;
+    background-repeat: no-repeat;
+    background-position-x: right !important;
+    background-position-y: center !important;
+    position: relative;
+    left: 7%;
+    width: 81%;
+
+  
+}
+
 #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0{
 background: #2D4B49;
   
