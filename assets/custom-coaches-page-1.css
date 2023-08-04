@@ -3111,6 +3111,7 @@ line-height: 55px;
 
 #coaches .multicolumn-card__info .link {
     font-size: 12px;
+    display: none;
 }
 
 
