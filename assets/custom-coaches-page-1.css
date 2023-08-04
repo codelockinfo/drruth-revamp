@@ -3169,7 +3169,7 @@ line-height: 55px;
     margin-left: -50px !important;
 } 
 
-#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
+.multicolumn-card__info .link {
     border-radius: 20px !important;
     background-color: #2e484a !important;
     padding: 5px 15px 5px 15px !important;
