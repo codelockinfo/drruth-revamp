@@ -451,11 +451,9 @@ display: block !important;
     background-color: transparent !important;
     background-size: 917px !important;
     background-repeat: no-repeat;
-    background-position-x: right !important;
+    background-position-x: center !important;
     background-position-y: center !important;
-    position: relative;
-    left: 7%;
-    width: 81%;
+  
 
   
 }
