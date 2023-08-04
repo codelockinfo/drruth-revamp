@@ -3974,7 +3974,25 @@ border-radius: 25px;
 
 }
 
+/*Star review*/
 
+@media screen and (max-width: 989px) {
+#shopify-section-template--14940389605441__e67404e9-fd71-4531-8d5f-8711d8c7e57d .ratinconain {
+    max-width: 100%;
+    display: block;
+    margin: auto;
+}
+
+#shopify-section-template--14940389605441__e67404e9-fd71-4531-8d5f-8711d8c7e57d .reviestep {
+    max-width: 100%;
+}
+
+#shopify-section-template--14940389605441__e67404e9-fd71-4531-8d5f-8711d8c7e57d .starflex1 {
+    position: relative!important;
+    top: -220px;
+}
+
+}
 
 
            
