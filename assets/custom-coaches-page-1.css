@@ -4018,6 +4018,9 @@ display: grid !important;
 #shopify-section-template--14940389605441__1d09ce56-d815-4da4-9b2c-a947a3eaafd5 .Sub_main {
     display: contents;
 }
+  .sub_container{
+ margin: 20px;
+}
   
 }
 
