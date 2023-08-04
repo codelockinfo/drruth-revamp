@@ -448,7 +448,9 @@ display: flex;
 
 .sub_container{
 background: #faf2e9;
-
+border-radius: 25px;
+  margin-bottom: 25px;
+  margin-top: 25px;
 }
 
 #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0{
