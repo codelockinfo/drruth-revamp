@@ -3163,7 +3163,7 @@ line-height: 55px;
 
 /*COACH PAGE*/
 /*Button*/
-#MainProduct-template--14942166286401__main .rich-text__buttons {
+.isolate .rich-text__buttons {
     display: block !important;
     margin-top: -100px !important;
     margin-left: -50px !important;
