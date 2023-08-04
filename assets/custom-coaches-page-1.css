@@ -443,6 +443,7 @@ display: flex;
 
 #shopify-section-template--14940389605441__1d09ce56-d815-4da4-9b2c-a947a3eaafd5 .container-content {
     width: 95% !important;
+  padding-left: 51px;
 }
 
 .sub_container{
@@ -455,7 +456,7 @@ display: block !important;
     background-position-y: center !important;
   margin-bottom: 8px;
 border-radius: 25px;
-  
+  margin-right: 20px;
 }
 
 #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0{
