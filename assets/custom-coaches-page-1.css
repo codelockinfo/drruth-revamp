@@ -3238,19 +3238,23 @@ line-height: 55px;
 
 
 
-/*@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1170px) {
+#Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
+    width: 401%!important;
+    min-width: 41rem;
+}
+
 #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left {
-    background-size: 650px !important;
-    left: -50px !important;
+    background-size: 600px!important;
 }
 
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
-    margin-left: 1% !important;
+  #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container--full-width-mobile h2 {
+ font-size: 30.908px;
+    line-height: 43.917px;
+ 
+    padding-top: 64px;
 }
 
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container--full-width-mobile h2 {
-    font-size: 51.908px !important;
-}
 }/*@media screen and (max-width: 1280px)*/
 
 
