@@ -3226,14 +3226,15 @@ line-height: 55px;
 
 
 
-/*@media screen and (max-width: 1366px) {
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
-    margin-left: -7% !important;
+@media screen and (max-width: 1300px) {
+#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left {
+    background-size: 707px !important;
 }
 
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left {
-    background-size: 750px !important;
-    left: 17px !important;
+#Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container--full-width-mobile h2 {
+   
+    font-size: 48.908px;
+ 
 }
 }/*@media screen and (max-width: 1366px)*/
 
