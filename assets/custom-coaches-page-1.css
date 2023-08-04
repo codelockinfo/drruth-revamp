@@ -3176,12 +3176,12 @@ line-height: 55px;
     color: white !important;
 }
 
-#shopify-section-template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067 .multicolumn-card__info {
-    margin-top: -93px;
-    text-align: center;
-    z-index: 10;
-    position: relative;
-    background: none;
+.multicolumn-card__info {
+    margin-top: -93px !important;
+    text-align: center !important;
+    z-index: 10 !important;
+    position: relative !important;
+    background: none !important;
 }
 
 
