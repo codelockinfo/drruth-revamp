@@ -3502,6 +3502,38 @@ position: relative;
   
 }
 
+
+@media screen and (max-width: 1000px) {
+
+#coaches #Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card {
+    background-size: 437px!important;
+    background-position-x: center !important;
+}
+
+#Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card {
+    position: relative;
+    left: 0px;
+}
+#Slide-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-1 .multicolumn-card {
+    width: 100%;
+}
+#Slider-template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6 .multicolumn-card__info {
+    padding-left: 143px;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /*Second Column*/
 
 @media screen and (max-width: 1300px) {
