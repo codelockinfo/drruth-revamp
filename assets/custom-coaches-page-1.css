@@ -3320,10 +3320,7 @@ color: white !important;
 }
 
 @media screen and (max-width: 650px) {
-#Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content{
-    margin: auto;
-    width: 72%;
-}
+
   #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
     width: 40%!important;
    min-width: 52rem;
