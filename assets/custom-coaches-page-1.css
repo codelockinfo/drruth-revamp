@@ -3169,14 +3169,14 @@ line-height: 55px;
     margin-left: -50px !important;
 } 
 
-/*#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
-    border-radius: 20px;
-    background-color: #2e484a;
-    padding: 5px 15px 5px 15px;
-    color: white;
+#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
+    border-radius: 20px !important;
+    background-color: #2e484a !important;
+    padding: 5px 15px 5px 15px !important;
+    color: white !important;
 }
 
-#shopify-section-template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067 .multicolumn-card__info {
+/*#shopify-section-template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067 .multicolumn-card__info {
     margin-top: -93px;
     text-align: center;
     z-index: 10;
