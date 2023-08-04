@@ -3994,5 +3994,14 @@ border-radius: 25px;
 
 }
 
+@media screen and (max-width: 813px) {
+
+
+#shopify-section-template--14940389605441__e67404e9-fd71-4531-8d5f-8711d8c7e57d .starflex1 {
+    position: relative!important;
+    top: -251px;
+}
+
+}
 
            
