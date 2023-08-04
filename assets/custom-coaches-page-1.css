@@ -3976,6 +3976,34 @@ border-radius: 25px;
 
 /*Star review*/
 
+@media screen and (max-width: 989px) {
+.block_container{
+
+padding-left: 20px;
+}
+
+
+.Maincontainer {
+    display: grid;
+}
+
+.block_container{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#shopify-section-template--14940389605441__1d09ce56-d815-4da4-9b2c-a947a3eaafd5 .container-content {
+    width: 100%;
+}
+
+}
+
+
+
+
+
 @media screen and (max-width: 1180px) {
 #shopify-section-template--14940389605441__e67404e9-fd71-4531-8d5f-8711d8c7e57d .ratinconain {
     max-width: 100%;
