@@ -3164,12 +3164,12 @@ line-height: 55px;
 /*COACH PAGE*/
 /*Button*/
 #MainProduct-template--14942166286401__main .rich-text__buttons {
-    display: block;
-    margin-top: -100px;
-    margin-left: -50px;
+    display: block !important;
+    margin-top: -100px !important;
+    margin-left: -50px !important;
 } 
 
-#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
+/*#MainProduct-template--14942166286401__main .multicolumn-card__info .link {
     border-radius: 20px;
     background-color: #2e484a;
     padding: 5px 15px 5px 15px;
@@ -3182,7 +3182,7 @@ line-height: 55px;
     z-index: 10;
     position: relative;
     background: none;
-}
+}*/
 
 
 
