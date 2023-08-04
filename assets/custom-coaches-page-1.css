@@ -3205,14 +3205,17 @@ line-height: 55px;
 
 
 
-/*@media screen and (max-width: 1440px) {
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
-    margin-left: -12% !important;
+@media screen and (max-width: 1340px) {
+  
+.banner__box.content-container.content-container--full-width-mobile.color-background-1.gradient {
+    width: 60%;
+}
+  #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .content-container {
+    margin-left: -37%;
 }
 
-#coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left {
-    background-size: 800px !important;
-    left: 30px !important;
+  #coaches #Banner-template--14940389605441__785dee0f-be6d-4dbd-84a6-964a4ce5b0f0 .banner__content--middle-left {
+    background-size: 764px!important;
 }
 }/*@media screen and (max-width: 1440px)*/
 
