@@ -3502,6 +3502,123 @@ position: relative;
   
 }
 
+/*Second Column*/
+
+@media screen and (max-width: 1300px) {
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-3 .multicolumn-card {
+    width: 536px;
+}
+
+  #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card__info {
+    padding-top: 40px;
+    padding-left: 50px;
+}
+  
+
+#Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card {
+     padding-left: 0px; 
+}
+ #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-2 .multicolumn-card {
+    position: relative;
+    left: 130px;
+}
+  #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-1 .multicolumn-card {
+    position: relative;
+    left: 29px;
+}
+
+    #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card__info .animate-arrow {
+    position: relative;
+    top: 161px;
+    font-size: 12px;
+}
+  
+
+
+
+}
+
+
+@media screen and (max-width: 1200px) {
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-3 .multicolumn-card {
+    background-size: 506px!important;
+
+}
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-2 .multicolumn-card {
+
+    background-size: 238px!important;
+
+}
+
+  #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-1 .multicolumn-card {
+
+    background-size: 238px!important;
+
+}
+  #Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-2 .multicolumn-card {
+    position: relative;
+    left: 134px;
+}
+
+  
+ 
+  
+}
+
+@media screen and (max-width: 1120px) {
+
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-3 .multicolumn-card{
+position: relative;
+    left: -27px;
+
+}
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-1 .multicolumn-card {
+    position: relative;
+    left: 44px;
+}
+  
+}
+
+
+
+@media screen and (max-width: 1086px) {
+
+  #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card {
+    background-size: 454px!important;
+}
+
+  #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card, #Slide-template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-3 .multicolumn-card {
+    background-size: 213px!important;
+}
+
+#Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card {
+    left: 128px;
+}
+  
+}
+
+@media screen and (max-width: 1024px) {
+
+#coaches #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card__info h3 {
+    font-size: 25px;
+}
+  #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card__info{
+
+padding-top: 65px;
+    padding-left: 50px;
+}
+
+  #Slider-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5 .multicolumn-card__info .animate-arrow {
+    top: 130px;
+
+}
+  
+}
+
+
+
+
+
 
 /*Third column*/
 @media screen and (max-width: 1300px) {
