@@ -3567,10 +3567,15 @@ padding-left: 50px !important;
     left: -125px;
 }
 
-
- 
-  
 }
+
+@media screen and (max-width: 1150px) {
+#Slide-template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-2 .multicolumn-card__info .animate-arrow {
+    top: 124px;
+ 
+}
+}
+
 
 @media screen and (max-width: 1120px) {
 
