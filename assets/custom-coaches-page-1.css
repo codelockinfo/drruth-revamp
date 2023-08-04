@@ -3161,7 +3161,9 @@ line-height: 55px;
 
 
 
-
+html{
+  overflow-x: hidden !important;
+}
 
 /*COACH PAGE*/
 /*Button*/
