@@ -4006,10 +4006,6 @@ padding-left: 20px;
 }
 
 
-.Maincontainer {
-    display: grid;
-}
-
 .block_container{
 
     display: block;
@@ -4022,7 +4018,7 @@ padding-left: 20px;
 }
 
 .Maincontainer{
-display: grid;
+display: grid !important;
 
 }
 
