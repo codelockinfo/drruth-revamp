@@ -3,6 +3,26 @@
     "e8ef76fe-7f25-4f27-98ea-830e37605e09": {
       "type": "rx-img-with-text-slider",
       "blocks": {
+        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ruth_roberts_5726763e-4b14-40d3-a412-9ae13a4dbae2.jpg",
+            "height": "medium",
+            "desktop_image_width": "medium",
+            "layout": "text_first",
+            "desktop_title_alignment": "center",
+            "desktop_content_alignment": "center",
+            "desktop_button_alignment": "center",
+            "content_layout": "overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "center",
+            "heading": "Transform Your Pet's Health",
+            "description": "<p>Discover the power of holistic veterinary care with our expert coaching and support<\/p>",
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/holistic-pet-health-coaching-program"
+          }
+        },
         "2548be85-ca59-4cac-91f4-82dd357a90d6": {
           "type": "slide",
           "settings": {
@@ -42,41 +62,112 @@
             "button_label": "READ MORE",
             "button_link": "shopify:\/\/blogs\/news"
           }
-        },
-        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-0": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/mainpic.png",
-            "height": "medium",
-            "desktop_image_width": "medium",
-            "layout": "text_first",
-            "desktop_title_alignment": "center",
-            "desktop_content_alignment": "center",
-            "desktop_button_alignment": "center",
-            "content_layout": "overlap",
-            "grid_type": "type1",
-            "show_arrow_mobile": "yes",
-            "mobile_content_alignment": "center",
-            "heading": "Transform Your Pet's Health",
-            "description": "<p>Discover the power of holistic veterinary care with our expert coaching and support<\/p>",
-            "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/holistic-pet-health-coaching-program"
-          }
         }
       },
       "block_order": [
+        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-0",
         "2548be85-ca59-4cac-91f4-82dd357a90d6",
-        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-1",
-        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-0"
+        "template--14898486050881__e8ef76fe-7f25-4f27-98ea-830e37605e09-168166524565a8e0f6-1"
       ],
       "settings": {
         "desktopMaxWidth": "100%",
         "auto_play": true
       }
     },
+    "519a28f3-c4ef-4319-9853-c8d825c82db3": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Holistic Pet Care<\/p>"
+          }
+        },
+        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unlock a rewarding career while promoting natural well-being for pets. Join now and step into a fulfilling journey of holistic pet care. <\/p><p><\/p>"
+          }
+        },
+        "cdef16fb-a015-4f16-a6c3-5bd9d2a2062b": {
+          "type": "button",
+          "settings": {
+            "button_label": "ENROLL NOW",
+            "button_link": "shopify:\/\/pages\/applicationform",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "shopify:\/\/pages\/applicationform",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-0",
+        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1",
+        "cdef16fb-a015-4f16-a6c3-5bd9d2a2062b"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 16
+      }
+    },
+    "e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Unlock a rewarding career while promoting natural well-being for pets.<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-heading-1",
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-text-1",
+        "template--14921793798209__e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39-button-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "745fe7da-4576-486b-b400-3c9f3079872e": {
       "type": "rx-img-with-text",
-      "disabled": true,
       "blocks": {
         "c01b4b51-d767-424e-bc41-445ac521fb38": {
           "type": "heading",
@@ -104,6 +195,7 @@
         "6ebf0dcb-bf41-4a48-b22c-94f9a660ac66",
         "9595813e-6667-48b4-aa12-1452080b757b"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/mainpic_d587ca50-35d4-49d9-8a5a-faaf578da7ab.png",
         "height": "medium",
@@ -121,16 +213,16 @@
         "padding_bottom": 36
       }
     },
-    "519a28f3-c4ef-4319-9853-c8d825c82db3": {
+    "eb57d411-6ce7-4b68-9a6a-1c9252889203": {
       "type": "rx-rich-text",
       "blocks": {
-        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-0": {
+        "98b7c172-861f-4a01-a3fd-d2a5875d7159": {
           "type": "heading",
           "settings": {
             "heading": "<p>Natural Products<\/p>"
           }
         },
-        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1": {
+        "ba076bd1-b496-4be5-819b-b14877e487cd": {
           "type": "text",
           "settings": {
             "text": "<p>We offer a range of high-quality supplements for dogs and cats that are designed to support their overall health and well-being.<\/p>"
@@ -138,8 +230,8 @@
         }
       },
       "block_order": [
-        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-0",
-        "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1"
+        "98b7c172-861f-4a01-a3fd-d2a5875d7159",
+        "ba076bd1-b496-4be5-819b-b14877e487cd"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -466,7 +558,6 @@
     },
     "2b1d20ae-49de-4e39-ab92-d62ff31188a4": {
       "type": "rx-collections-list",
-      "disabled": true,
       "blocks": {
         "template--14898486050881__2b1d20ae-49de-4e39-ab92-d62ff31188a4-1679473345ed58416a-0": {
           "type": "Collection",
@@ -525,6 +616,7 @@
         "template--14898486050881__2b1d20ae-49de-4e39-ab92-d62ff31188a4-1679473345ed58416a-2",
         "template--14898486050881__2b1d20ae-49de-4e39-ab92-d62ff31188a4-1679473345ed58416a-5"
       ],
+      "disabled": true,
       "settings": {
         "background_color": "rgba(0,0,0,0)",
         "card_color": "#f5f8f1",
@@ -768,7 +860,6 @@
     },
     "41def7a6-c370-4591-a416-a22b442ac6d4": {
       "type": "rx-rich-text",
-      "disabled": true,
       "blocks": {
         "template--14898486050881__41def7a6-c370-4591-a416-a22b442ac6d4-1680361175b29958ce-0": {
           "type": "heading",
@@ -780,6 +871,7 @@
       "block_order": [
         "template--14898486050881__41def7a6-c370-4591-a416-a22b442ac6d4-1680361175b29958ce-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -793,7 +885,6 @@
     },
     "c07243a3-5fee-499e-a09b-241b56f0595c": {
       "type": "rx-testimonial",
-      "disabled": true,
       "blocks": {
         "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
           "type": "title",
@@ -828,6 +919,7 @@
         "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1",
         "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2"
       ],
+      "disabled": true,
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
@@ -935,7 +1027,6 @@
     },
     "8960ec65-5cef-4d84-b887-aa69c09a76a9": {
       "type": "rx-rich-text",
-      "disabled": true,
       "blocks": {
         "template--14898486050881__8960ec65-5cef-4d84-b887-aa69c09a76a9-1680101985c1e6dc2c-0": {
           "type": "heading",
@@ -947,6 +1038,7 @@
       "block_order": [
         "template--14898486050881__8960ec65-5cef-4d84-b887-aa69c09a76a9-1680101985c1e6dc2c-0"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -960,7 +1052,6 @@
     },
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90": {
       "type": "rx-podcast-list",
-      "disabled": true,
       "blocks": {
         "template--14898486050881__e3511e10-8d71-4ec1-a035-4c3a079b8d90-1680100959c206c0fb-0": {
           "type": "Podcast",
@@ -995,6 +1086,7 @@
         "template--14898486050881__e3511e10-8d71-4ec1-a035-4c3a079b8d90-1680100959c206c0fb-1",
         "template--14898486050881__e3511e10-8d71-4ec1-a035-4c3a079b8d90-1680100959c206c0fb-2"
       ],
+      "disabled": true,
       "settings": {
         "title_font": "assistant_n4",
         "title_font_size": 40,
@@ -1067,8 +1159,10 @@
   },
   "order": [
     "e8ef76fe-7f25-4f27-98ea-830e37605e09",
-    "745fe7da-4576-486b-b400-3c9f3079872e",
     "519a28f3-c4ef-4319-9853-c8d825c82db3",
+    "e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39",
+    "745fe7da-4576-486b-b400-3c9f3079872e",
+    "eb57d411-6ce7-4b68-9a6a-1c9252889203",
     "b4714d06-abcd-4096-947f-125116149229",
     "914ef044-a3b1-4773-91ae-f1b36874354b",
     "16751816500272c7d1",
