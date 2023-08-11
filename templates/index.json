@@ -86,7 +86,7 @@
         "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Unlock a rewarding career while promoting natural well-being for pets. Join now and step into a fulfilling journey of holistic pet care. <\/p><p><\/p>"
+            "text": "<h6>Unlock a rewarding career while promoting natural well-being for pets. Join now and step into a fulfilling journey of holistic pet care. <\/h6><p><\/p>"
           }
         },
         "cdef16fb-a015-4f16-a6c3-5bd9d2a2062b": {
@@ -118,6 +118,52 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 16
+      }
+    },
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
+            "font_family": "font_blt"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
+          }
+        },
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET THE RECIPES HERE",
+            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
+        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/image_2023_05_29T04_07_29_377Z.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_title_alignment": "left",
+        "desktop_content_alignment": "left",
+        "desktop_button_alignment": "left",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "#f5f8f1",
+        "show_arrow_mobile": "no",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39": {
@@ -661,52 +707,6 @@
         "padding_bottom": 0
       }
     },
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Build Your Pet’s Meal At Home - The Original Crockpet Diet",
-            "font_family": "font_blt"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Build a better diet for your pet with veterinarian formulated recipes. Dr. Ruth Roberts guides you through, step-by-step, to make nutritionally complete meals for your pet, without the headache. Homemade meals don't have to be complicated, they can be catered to your pet's health needs, right in your own kitchen!<\/p>"
-          }
-        },
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "GET THE RECIPES HERE",
-            "button_link": "https:\/\/shop.drruthroberts.com\/products\/the-original-crockpet-diet-1"
-          }
-        }
-      },
-      "block_order": [
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-0",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-1",
-        "template--14898486050881__4add22ab-e9ac-4adc-9d80-f5ec5ac0302d-167949693262966e94-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/image_2023_05_29T04_07_29_377Z.png",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "left",
-        "content_layout": "overlap",
-        "grid_type": "type2",
-        "imgText-bg-color": "#f5f8f1",
-        "show_arrow_mobile": "no",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "40e124d8-821b-4b01-8eb8-2482449db53a": {
       "type": "rx-product-list",
       "blocks": {
@@ -1160,6 +1160,7 @@
   "order": [
     "e8ef76fe-7f25-4f27-98ea-830e37605e09",
     "519a28f3-c4ef-4319-9853-c8d825c82db3",
+    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39",
     "745fe7da-4576-486b-b400-3c9f3079872e",
     "eb57d411-6ce7-4b68-9a6a-1c9252889203",
@@ -1171,7 +1172,6 @@
     "df6ff21b-835d-453a-ab12-a99160479690",
     "2b1d20ae-49de-4e39-ab92-d62ff31188a4",
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56",
-    "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "40e124d8-821b-4b01-8eb8-2482449db53a",
     "42a0c8a2-518d-4af7-81cd-2253cf91765e",
     "2758b93a-1c5e-4890-87a5-086ee9572e15",
