@@ -2,105 +2,62 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "disabled": true,
+    "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7": {
+      "type": "image-with-text",
       "blocks": {
-        "heading": {
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "heading": "We will do anything for Their Wellness from nose to tail.",
+            "heading_size": "h0"
           }
         },
-        "paragraph": {
-          "type": "paragraph",
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
+          "type": "text",
           "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+            "text": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>",
+            "text_style": "body"
           }
         },
-        "email-form": {
-          "type": "email_form",
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1": {
+          "type": "button",
           "settings": {
+            "button_label": "Book Now",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1",
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1",
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Group_832-min.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-2",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
-      }
-    },
-    "1655751929e34d4e57": {
-      "type": "collection-list",
-      "disabled": true,
-      "blocks": {
-        "16557519296bd204f0-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "herbsmith-products"
-          }
-        },
-        "16557519296bd204f0-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "standard-process-collection"
-          }
-        },
-        "16557519296bd204f0-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "animalbiome"
-          }
-        },
-        "aa1c3c69-2ce2-435d-81c8-18b114024961": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "assisi-loop-calmer-canine®"
-          }
-        },
-        "c56b4d3d-e5ba-4cab-8c1a-269a1bd2d7f8": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "16557519296bd204f0-0",
-        "16557519296bd204f0-1",
-        "16557519296bd204f0-2",
-        "aa1c3c69-2ce2-435d-81c8-18b114024961",
-        "c56b4d3d-e5ba-4cab-8c1a-269a1bd2d7f8"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "left",
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     }
   },
   "order": [
     "main",
-    "newsletter",
-    "1655751929e34d4e57"
+    "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7"
   ]
 }
