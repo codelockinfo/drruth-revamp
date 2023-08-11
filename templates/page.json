@@ -39,7 +39,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1"
       ],
       "custom_css": [
-
+        ".image-with-text__text-item.grid__item.image_content {padding-left: 0;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Group_832-min.png",
