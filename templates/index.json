@@ -86,13 +86,13 @@
         "template--14898486050881__519a28f3-c4ef-4319-9853-c8d825c82db3-1679459498aff81436-1": {
           "type": "text",
           "settings": {
-            "text": "<h3>Unlock a rewarding career while promoting natural well-being for pets. Join now and step into a fulfilling journey of holistic pet care. <\/h3><p><\/p>"
+            "text": "<h3>Unlock a rewarding career while promoting natural well-being for pets. <\/h3>"
           }
         },
         "cdef16fb-a015-4f16-a6c3-5bd9d2a2062b": {
           "type": "button",
           "settings": {
-            "button_label": "ENROLL NOW",
+            "button_label": "LEARN MORE",
             "button_link": "https:\/\/drruthroberts.com\/pages\/holistic-pet-health-coaching-program",
             "button_style_secondary": false,
             "button_label_2": "",
