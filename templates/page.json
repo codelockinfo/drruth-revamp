@@ -79,7 +79,7 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\";}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
         ".button.button--primary {display: none;}"
       ],
       "settings": {
@@ -235,7 +235,7 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #1E1E1E;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color:#2D4B49; font-weight: 300;}",
         ".button.button--primary {display: none;}"
       ],
       "settings": {
