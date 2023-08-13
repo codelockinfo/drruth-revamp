@@ -398,7 +398,8 @@
         ".banner__media.media {padding: 0;}",
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
         ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}"
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
