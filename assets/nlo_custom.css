@@ -1,0 +1,283 @@
+.amr_container_1170 {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+.amr_pet_consultants {
+    position: relative;
+    padding: 60px 0px;
+}
+.amr_pet_consultants_header {
+    margin-bottom: 66px;
+    text-align: center;
+}
+.amr_pet_consultants_header h2 {
+    color: #2D4B49;
+    text-align: center;
+    font-family: BLT-Heirloom;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin: 0;
+}
+.amr_pet_consultants_header p {
+    color: #1E1E1E;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 0;
+}
+.amr_pet_consultants_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-row-gap: 24px;
+    grid-column-gap: 36px;
+}
+.amr_pet_consultants_item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 35px;
+    padding: 10px;
+    min-height: 388px;
+    width: 100%;
+    background-position:center center;
+}
+.amr_pet_consultants_item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+.amr_pet_consultants_item_upper h3 {
+    color: #FFF;
+    font-family: BLT-Heirloom;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.786px;
+    margin: 0;
+}
+.amr_pet_consultants_item_upper p {
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 14.74px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22.11px;
+    letter-spacing: -0.295px;
+    margin-bottom: 0;
+}
+.amr_pet_consultants_item a {
+    color: var(--style, #1E1E1E);
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.21px;
+    text-decoration: none;
+    background-color: #fff;
+    border-radius: 30px;
+    padding: 10px 14px;
+    width: fit-content;
+    transition:.3s;
+}
+.amr_pet_consultants_item a:hover {
+    color: #fff;
+    background-color: #000;
+    transition:.3s;
+}
+
+.amr_pet_consultants_item_1 {
+  grid-column-start: 1;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_2 {
+  grid-column-start: 3;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_3 {
+  grid-column-start: 4;
+  grid-column-end:5;
+}
+.amr_pet_consultants_item_4 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_5 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_6 {
+  grid-column-start: 3;
+  grid-column-end:5;
+}
+.amr_pet_consultants_item_7 {
+  grid-column-start: 1;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_8 {
+  grid-column-start: 3;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_9 {
+  grid-column-start: 4;
+  grid-column-end:5;
+}
+.amr_pet_consultants_item_10 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_11 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_12 {
+  grid-column-start: 3;
+  grid-column-end:5;
+}
+.amr_pet_consultants_list_mobile{
+  display:none;
+}
+@media screen and (max-width:1200px){
+.amr_container_1170 {
+    max-width: 100%;
+    padding: 0 20px;
+}
+}
+@media screen and (max-width:991px){
+.amr_pet_consultants_header h2 {
+    font-size: 48px;
+}
+.amr_pet_consultants_header p {
+    font-size: 16px;
+}
+.amr_pet_consultants_list {
+    grid-column-gap: 24px;
+}
+.amr_pet_consultants_list {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.amr_pet_consultants_item_1 {
+  grid-column-start: 1;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_2 {
+  grid-column-start: 3;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_3 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_4 {
+  grid-column-start: 2;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_5 {
+  grid-column-start: 1;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_6 {
+  grid-column-start: 3;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_7 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_8 {
+  grid-column-start: 2;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_9 {
+  grid-column-start: 1;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_10 {
+  grid-column-start: 3;
+  grid-column-end:4;
+}
+.amr_pet_consultants_item_11 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_12 {
+  grid-column-start: 2;
+  grid-column-end:4;
+}
+}
+@media screen and (max-width:767px){
+.amr_pet_consultants_header h2 {
+    font-size: 42px;
+}
+.amr_pet_consultants_list {
+    grid-column-gap: 18px;
+    grid-row-gap: 18px;
+}
+.amr_pet_consultants_list {
+    grid-template-columns: 1fr 1fr;
+}
+.amr_pet_consultants_item_1 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_2 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_3 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_4 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_5 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_6 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_7 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_8 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_9 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_10 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+.amr_pet_consultants_item_11 {
+  grid-column-start: 1;
+  grid-column-end:2;
+}
+.amr_pet_consultants_item_12 {
+  grid-column-start: 2;
+  grid-column-end:3;
+}
+}
+@media screen and (max-width:575px){
+.amr_pet_consultants_list.amr_pet_consultants_list_desktp {
+    display: none;
+}
+.amr_pet_consultants_list.amr_pet_consultants_list_mobile {
+    display: block;
+}
+.amr_pet_consultants_item {
+    display: flex !important;
+}
+}
