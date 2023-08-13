@@ -396,6 +396,8 @@
       ],
       "custom_css": [
         ".banner__media.media {padding: 0;}",
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".banner__media.media {padding: 0;}",
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}"
       ],
       "settings": {
