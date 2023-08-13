@@ -333,6 +333,39 @@
         "padding_bottom": 36
       }
     },
+    "3d80628c-ea6f-48fc-8760-085a2af33b6e": {
+      "type": "multicolumn",
+      "blocks": {
+        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "c310de0e-f268-4dff-8278-ea581c28a408": {
       "type": "multicolumn",
       "blocks": {
@@ -371,51 +404,6 @@
         "swipe_on_mobile": false,
         "padding_top": 48,
         "padding_bottom": 36
-      }
-    },
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76": {
-      "type": "rx-image-banner-v2",
-      "blocks": {
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "The opportunity to become a professional pet Pet Health Coach has come very close to you"
-          }
-        },
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "APPLY TO THE PROGRAM",
-            "button_link_1": "#"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1",
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1"
-      ],
-      "custom_css": [
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
-        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
-      ],
-      "settings": {
-        "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "container_bg": "rgba(0,0,0,0)",
-        "desktop_content_alignment": "left",
-        "heading_color": "#ffffff",
-        "text_color": "#ffffff",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
       }
     },
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3": {
@@ -471,6 +459,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76": {
+      "type": "rx-image-banner-v2",
+      "blocks": {
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "The opportunity to become a professional pet Pet Health Coach has come very close to you"
+          }
+        },
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "APPLY TO THE PROGRAM",
+            "button_link_1": "#"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1",
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1"
+      ],
+      "custom_css": [
+        ".banner__media.media {padding: 0;}",
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".banner__media.media {padding: 0;}",
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
+        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "container_bg": "rgba(0,0,0,0)",
+        "desktop_content_alignment": "left",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -483,8 +516,9 @@
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
+    "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3"
+    "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
   ]
 }
