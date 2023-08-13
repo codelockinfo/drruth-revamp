@@ -352,6 +352,7 @@
       "block_order": [
         "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
       ],
+      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
@@ -390,6 +391,7 @@
       "block_order": [
         "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
       ],
+      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
@@ -429,6 +431,7 @@
       "block_order": [
         "ecd00adf-9645-4a9e-9b34-afa80daf4ab8"
       ],
+      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
@@ -468,6 +471,7 @@
       "block_order": [
         "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h0",
