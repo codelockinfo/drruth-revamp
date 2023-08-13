@@ -684,7 +684,8 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "\/*HEADER*\/ \/*COACHING PAGE*\/ \/*KLAVIYO*\/.klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}"
+      "\/*HEADER*\/ \/*COACHING PAGE*\/ \/*KLAVIYO*\/.klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}",
+      "#consulting-page a.button.button--primary {background: #A6B7FF; padding-top: 5px;}"
     ]
   }
 }
