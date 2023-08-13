@@ -156,12 +156,61 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "3270ceca-463c-4a94-837a-eab99dd78163": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Comprehensive Services",
+            "text": "<p>Our pet consultants can assist you with various aspects of pet health, including nutrition advice, behavior modification, exercise plans, and preventive care strategies. Whatever your pet's needs may be, we're here to help.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Practical Recommendations",
+            "text": "<p>You'll receive clear and actionable recommendations to address your pet's health concerns, enhance their behavior, or improve their overall quality of life.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
+        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
+      ],
+      "custom_css": [
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 45px; font-weight: 300; min-height: 95px;}",
+        ".button.button--primary {display: none;}",
+        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; padding: 6rem 4rem;}"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
-    "e5035dd7-0d99-448e-9e24-80d60b96ee6c"
+    "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
+    "3270ceca-463c-4a94-837a-eab99dd78163"
   ]
 }
