@@ -186,7 +186,8 @@
       "custom_css": [
         "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 45px; font-weight: 300; min-height: 95px;}",
         ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; padding: 6rem 4rem;}"
+        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; padding: 6rem 4rem;}",
+        ".grid:last-child {margin-bottom: 0; justify-content: center;}"
       ],
       "settings": {
         "title": "",
