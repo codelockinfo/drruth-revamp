@@ -139,8 +139,8 @@
   grid-column-start: 3;
   grid-column-end:5;
 }
-.amr_pet_consultants_list_mobile{
-  display:none;
+.amr_pet_consultants_list.amr_pet_consultants_list_mobile.slick-initialized.slick-slider {
+    display: none;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170 {
@@ -274,7 +274,7 @@
 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
     display: none;
 }
-.amr_pet_consultants_list.amr_pet_consultants_list_mobile {
+.amr_pet_consultants_list.amr_pet_consultants_list_mobile.slick-initialized.slick-slider {
     display: block;
 }
 .amr_pet_consultants_item {
