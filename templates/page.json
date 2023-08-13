@@ -136,7 +136,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 40px; line-height: 40px; font-weight: 300; min-height: 85px;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
       ],
