@@ -205,6 +205,14 @@
         "padding_top": 0,
         "padding_bottom": 36
       }
+    },
+    "fadcc9ee-5901-42d9-8139-51be2d304bad": {
+      "type": "coachingmainblog",
+      "settings": {
+        "c_head": "",
+        "pro_btn1": "Check our consultant",
+        "program_link1": ""
+      }
     }
   },
   "order": [
@@ -212,6 +220,7 @@
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
-    "3270ceca-463c-4a94-837a-eab99dd78163"
+    "3270ceca-463c-4a94-837a-eab99dd78163",
+    "fadcc9ee-5901-42d9-8139-51be2d304bad"
   ]
 }
