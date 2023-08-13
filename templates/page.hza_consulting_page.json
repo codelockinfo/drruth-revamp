@@ -217,6 +217,48 @@
         "program_link1": ""
       }
     },
+    "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd": {
+      "type": "hza_our_collaboration_app",
+      "blocks": {
+        "482b7323-48b7-4645-af31-bb70319bf14a": {
+          "type": "collab_approach_left",
+          "settings": {
+            "title": "1-Select a Pet Consultant",
+            "detail": "<p>Browse through our team of dedicated petconsultants and select the one who best fits your needs. Each consultant brings a unique skill set, experience, and specialization in holistic pet care. Take into account their expertise and areas of focus to find the perfect match for your pet's specific requirements.<\/p>",
+            "title_1": "2-Book Our Pet Consultant",
+            "detail_1": "<p>Once you've chosen your preferred consultant, it's time to book a consultation. Utilize our convenient booking system or contact our team directly to schedule an appointment with your selected consultant. This step ensures that you have dedicated time to discuss your pet's situation and work collaboratively towards their well-being.<\/p>",
+            "title_2": "3-Assess Your Pet's Situation",
+            "detail_2": "<p>During the consultation, your chosen pet consultant will conduct a thorough assessment of your dog’s or cat’s situation. They will actively listen to your concerns, ask relevant questions, and gather information about your pet's health, behavior, and lifestyle. This comprehensive evaluation forms the basis for creating a personalized care plan.<\/p>"
+          }
+        },
+        "2c1dde31-a28e-410e-ac25-bcbde16ebbfa": {
+          "type": "main_img",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/8851592_4019031_2.png"
+          }
+        },
+        "6aad353e-30fb-47d9-9b0f-40d3ebe1800a": {
+          "type": "collab_approach_right",
+          "settings": {
+            "title_r": "4-Receive a Personalized Care Plan",
+            "detail_r": "<p>Based on the assessment, your consultant will develop a personalized care plan tailored to your pet's specific needs. The care plan will encompass recommendations and interventions designed to address your dog’s or cat’s health concerns and enhance their overall well-being. <\/p>",
+            "title_r_2": "5-Implement the Care Plan",
+            "detail_r_2": "<p>With the personalized care plan in hand, it's time to put it into action. Your consultant will guide you through the implementation process, providing clear instructions and practical guidance. They will help you make necessary adjustments to your pet's diet, exercise routine, and other aspects of their care. This collaborative effort ensures a seamless integration of the care plan into your pet's daily life.<\/p>",
+            "title_r_3": "6-Get Ongoing Support",
+            "detail_r_3": "<p>We understand that ongoing support is crucial for the success of your pet's well-being. Your consultant will be available to provide continuous support and guidance. They will address any questions, concerns, or challenges you may have along the way. Regular check-ins and follow-up consultations will allow for monitoring progress, making adjustments to the pet care plan, and providing ongoing support.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "482b7323-48b7-4645-af31-bb70319bf14a",
+        "2c1dde31-a28e-410e-ac25-bcbde16ebbfa",
+        "6aad353e-30fb-47d9-9b0f-40d3ebe1800a"
+      ],
+      "settings": {
+        "heading": "Our Collaboration Approach ",
+        "desc": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>"
+      }
+    },
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140": {
       "type": "Our_Pet_Consultants",
       "blocks": {
@@ -334,159 +376,6 @@
       "settings": {
         "heading": "Our Pet Consultants",
         "desc": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>"
-      }
-    },
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
-      "type": "multicolumn",
-      "blocks": {
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "title": "Our Collaboration Approach ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
-      "type": "multicolumn",
-      "blocks": {
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "title": "Our Pet Consultants",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
-      "type": "multicolumn",
-      "blocks": {
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "title": "Our Client’s Testimonials ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e": {
-      "type": "multicolumn",
-      "blocks": {
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
       }
     },
     "c310de0e-f268-4dff-8278-ea581c28a408": {
@@ -627,68 +516,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9": {
-      "type": "rx-testimonial",
-      "blocks": {
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1": {
-          "type": "title",
-          "settings": {
-            "title": "Mind Blowing!",
-            "testimonial": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
-            "reviewer_name": "Missy Springer & Kenzie South Paw Aussies",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktopColumns": "2",
-        "tabletColumns": "2",
-        "desktopMaxWidth": "100%",
-        "tabletMaxWidth": "100%",
-        "mobileMaxWidth": "100%",
-        "autoPlay": false,
-        "smoothAutoPlay": false,
-        "auto_hide_arrow": false,
-        "container_bgcolor": "#ffffff",
-        "card_bgcolor": "#ffffff",
-        "filled_star_color": "",
-        "empty_star_color": ""
-      }
     }
   },
   "order": [
@@ -698,14 +525,10 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
+    "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd",
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140",
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28",
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7",
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
   ]
 }
