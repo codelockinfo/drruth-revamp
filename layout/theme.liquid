@@ -250,6 +250,7 @@
   
     {{ 'custom-coaches-page-1.css' | asset_url | stylesheet_tag }}
     {{ 'base.css' | asset_url | stylesheet_tag }}
+    {{ 'nlo_custom.css' | asset_url | stylesheet_tag }}
 
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
@@ -517,6 +518,22 @@ $(".replyComent").click(function(e){
 e.preventDefault();
 $(this).next(".blogReply").toggle();
 });
+
+
+// Our Pet Consultants Slider
+  $('.amr_pet_consultants_list.amr_pet_consultants_list_mobile').slick({
+  infinite: true,
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  dots:true
+});
+
+
+
+
+
+
+  
 </script>
 <style>
 .oNS9ciVl9HkYl_RNpI17.qW_zL2XDBBdtqDDZUDDc {
