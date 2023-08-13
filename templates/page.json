@@ -353,7 +353,8 @@
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center;}",
         ".button.button--primary {display: none;}",
-        ".multicolumn > div{max-width: 900px;}"
+        ".multicolumn > div {max-width: 900px;}",
+        ".multicolumn-list__item:only-child{max-width:100%;}"
       ],
       "settings": {
         "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
