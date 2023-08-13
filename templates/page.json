@@ -72,41 +72,78 @@
             "link_label": "",
             "link": ""
           }
-        },
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-2": {
+        }
+      },
+      "block_order": [
+        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\";}"
+      ],
+      "settings": {
+        "title": "Why Us?",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Expertise",
+            "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-3": {
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Holistic Approach",
+            "text": "<p>We believe in treating pets as whole beings, considering their physical, emotional, and nutritional needs. Our coaches specialize in holistic approaches that emphasize natural remedies and balanced lifestyles.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Personalized Care",
+            "text": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1",
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-2",
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-3"
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1",
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-
+        "h3 {font-family: 'BLT-Heirloom'; font-size: 18px;}"
       ],
       "settings": {
-        "title": "Why Us",
+        "title": "",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "left",
+        "columns_desktop": 3,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
@@ -121,6 +158,7 @@
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117"
+    "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
+    "e5035dd7-0d99-448e-9e24-80d60b96ee6c"
   ]
 }
