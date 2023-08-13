@@ -670,6 +670,7 @@
         "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3",
         "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4"
       ],
+      "disabled": true,
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
