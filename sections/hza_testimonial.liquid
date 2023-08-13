@@ -1,0 +1,83 @@
+<div class="amr_testimonial">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+    </div>
+    <div class="amr_testimonial_items">
+      {% for block in section.blocks %}
+        <div class="amr_testimonial_item" style="{% if block.settings.bg_color != blank %}background-color:{{ block.settings.bg_color }};{% endif %}">
+         <div class="amr_testimonial_item_inner">
+          <h3>{{ block.settings.title }}</h3>
+          <img src={{ block.settings.main_img | img_url:'master' }}>
+          <h4>{{ block.settings.name }}</h4>
+          <div>{{ block.settings.message }}</div>
+           </div>
+          <div class="stars_list">
+            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" class="star">
+            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" class="star">
+            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
+            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
+            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% schema %}
+{
+  "name": "Testimonial Section",
+  "max_blocks":3,
+  "settings": [
+    {
+      "type": "text",
+      "id": "heading",
+      "label":"Heading"
+    },
+    {
+      "type": "richtext",
+      "id": "desc",
+      "label":"Description"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "testimonial",
+      "name": "Testimonial",
+      "settings": [
+        {
+          "type":"color",
+          "id":"bg_color",
+          "label":"Background Color"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label":"Title"
+        },
+        {
+          "type": "image_picker",
+          "id": "main_img",
+          "label":"Image"
+        },
+        {
+          "type":"text",
+          "id":"name",
+          "label":"Name"
+        },
+        {
+          "type": "richtext",
+          "id": "message",
+          "label":"Message"
+        }
+      ]
+    }
+  ],
+  "presets": [
+      {
+        "name": "Testimonial Section"
+      }
+    ]
+}
+{% endschema %}
