@@ -136,7 +136,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 42px; line-height: 40px; font-weight: 300; min-height: 85px;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 6rem 4rem;}"
       ],
@@ -184,7 +184,7 @@
         "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 42px; line-height: 40px; font-weight: 300; min-height: 85px;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 6rem 4rem;}",
         ".grid:last-child {margin-bottom: 0; justify-content: center;}"
