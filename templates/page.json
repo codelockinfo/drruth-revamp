@@ -450,10 +450,10 @@
       ],
       "custom_css": [
         ".image-with-text__grid.grid {background: #e0ecbe; padding: 35px; border-radius: 50px;}",
-        ".image-with-text__grid.grid div {background-color: #fff0; padding-left: 0;}",
+        ".image-with-text__grid.grid div {background-color: #fff0;}",
         ".image-with-text__heading {text-align: left;}",
         ".image-with-text__media-item {width: 25% !important;}",
-        ".image-with-text__text-item{padding-left:5%;}"
+        ".image-with-text__content {padding-left: 5%;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/image_4_ba456788-5c27-4b4d-b5d1-19eacd0079a5.png",
