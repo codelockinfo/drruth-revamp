@@ -217,6 +217,125 @@
         "program_link1": ""
       }
     },
+    "0502099a-ae9f-4b1f-8cb4-c3872f69c140": {
+      "type": "Our_Pet_Consultants",
+      "blocks": {
+        "9a379d41-10a7-45d7-ada8-97564dd10847": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#e9cdb7",
+            "bg_img": "shopify:\/\/shop_images\/1_a108d78d-09f2-4b8d-951f-36c40a0961b1.png",
+            "title": "Dlorah deVore",
+            "detail": "<p>FNTP, HPHC<\/p>",
+            "btn_txt": "Learn More",
+            "btn_url": "#"
+          }
+        },
+        "1f15f002-d3aa-4e97-93b1-8e5f49d89d27": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#b4a8e1",
+            "bg_img": "shopify:\/\/shop_images\/2_fc935fe1-4524-4dd2-88a6-ebc0a789b427.png",
+            "title": "Jessica Fisher",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "07b2b3af-05e3-45dd-9be1-683e4e9f4622": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#f3ca56",
+            "bg_img": "shopify:\/\/shop_images\/3_d04c6a77-1c7e-4836-ae2a-f99cc884274b.png",
+            "title": "Kelly Cogen",
+            "detail": "<p>Cert. CN, B.S.c Naturopathic Animal Science, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "33f37d89-868f-4ade-916a-dc334b2e001d": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#edbbaa",
+            "bg_img": "shopify:\/\/shop_images\/4_a336ccdd-3b68-4387-80e3-e6ba59984db0.png",
+            "title": "Wilma Shaw",
+            "detail": "<p>FNTP, BCHN, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "e9f8a49a-1b6b-4622-9d1a-c516fe9d725b": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#a7c5c7",
+            "bg_img": "shopify:\/\/shop_images\/5_12be59f0-3042-4478-880d-cb7113e2499a.png",
+            "title": "Leah Bookhamer",
+            "detail": "<p>NTP, MRWP, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "7109be25-d5d3-4d59-90df-1338007acd20": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#e0ecbe",
+            "bg_img": "shopify:\/\/shop_images\/6_2e789242-d6ae-4a9e-a0b3-bb8d5ba49b16.png",
+            "title": "Michael Daly",
+            "detail": "<p>Canine\/Equine Massage Therapist, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "c8bfb29c-3d45-480d-a9b1-f156fc5111a0": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#bcb8b5",
+            "bg_img": "shopify:\/\/shop_images\/7_2.png",
+            "title": "Rhiannon Andrus",
+            "detail": "<p>Certified Holistic Human Coach, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "3d6942da-ae41-4b6d-8e77-20eca0fe0dd9": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#899da6",
+            "bg_img": "shopify:\/\/shop_images\/8_2.png",
+            "title": "Kristy Green",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        },
+        "7c7a50a1-d912-4619-a969-38477ca03106": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "#426d90",
+            "bg_img": "shopify:\/\/shop_images\/9_2.png",
+            "title": "Bea Swasey",
+            "detail": "<p>MBA, NTP, RWS II, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
+        }
+      },
+      "block_order": [
+        "9a379d41-10a7-45d7-ada8-97564dd10847",
+        "1f15f002-d3aa-4e97-93b1-8e5f49d89d27",
+        "07b2b3af-05e3-45dd-9be1-683e4e9f4622",
+        "33f37d89-868f-4ade-916a-dc334b2e001d",
+        "e9f8a49a-1b6b-4622-9d1a-c516fe9d725b",
+        "7109be25-d5d3-4d59-90df-1338007acd20",
+        "c8bfb29c-3d45-480d-a9b1-f156fc5111a0",
+        "3d6942da-ae41-4b6d-8e77-20eca0fe0dd9",
+        "7c7a50a1-d912-4619-a969-38477ca03106"
+      ],
+      "settings": {
+        "heading": "Our Pet Consultants",
+        "desc": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>"
+      }
+    },
     "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
       "type": "multicolumn",
       "blocks": {
@@ -560,8 +679,8 @@
         "autoPlay": false,
         "smoothAutoPlay": false,
         "auto_hide_arrow": false,
-        "container_bgcolor": "#fff",
-        "card_bgcolor": "#fff",
+        "container_bgcolor": "#ffffff",
+        "card_bgcolor": "#ffffff",
         "filled_star_color": "",
         "empty_star_color": ""
       }
@@ -574,6 +693,7 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
+    "0502099a-ae9f-4b1f-8cb4-c3872f69c140",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
