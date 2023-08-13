@@ -395,7 +395,7 @@
         "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1"
       ],
       "custom_css": [
-
+        ".banner__media.media {padding: 0;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
