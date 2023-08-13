@@ -79,7 +79,8 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\";}"
+        ".multicolumn .title {font-family: \"BLT-Heirloom\";}",
+        ".button.button--primary{display:none;}"
       ],
       "settings": {
         "title": "Why Us?",
@@ -135,7 +136,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-        "h3 {font-family: 'BLT-Heirloom'; font-size: 18px;}"
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 18px;}"
       ],
       "settings": {
         "title": "",
