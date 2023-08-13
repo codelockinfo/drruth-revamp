@@ -209,12 +209,50 @@
     "fadcc9ee-5901-42d9-8139-51be2d304bad": {
       "type": "coachingmainblog",
       "custom_css": [
-        "svg{display:none;}"
+        "svg {display: none;}"
       ],
       "settings": {
         "c_head": "",
         "pro_btn1": "Check our consultant",
         "program_link1": ""
+      }
+    },
+    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
+      "type": "multicolumn",
+      "blocks": {
+        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\";}",
+        ".button.button--primary {display: none;}"
+      ],
+      "settings": {
+        "title": "Our Collaboration Approach ",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
       }
     }
   },
@@ -224,6 +262,7 @@
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
-    "fadcc9ee-5901-42d9-8139-51be2d304bad"
+    "fadcc9ee-5901-42d9-8139-51be2d304bad",
+    "872df224-c2bf-4a52-9d67-ad2d05e43f28"
   ]
 }
