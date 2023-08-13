@@ -139,8 +139,158 @@
   grid-column-start: 3;
   grid-column-end:5;
 }
-.amr_pet_consultants_list.amr_pet_consultants_list_mobile.slick-initialized.slick-slider {
-    display: none;
+.amr_pet_consultants_list_mobile{
+  display:none;
+}
+/* testimonial section */
+.amr_testimonial {
+    position: relative;
+    padding: 60px 0px;
+}
+.amr_testimonial_items {
+    display: flex;
+    column-gap: 20px;
+    justify-content: space-between;
+}
+.amr_testimonial_item {
+    width: 100%;
+    min-height: 590px;
+    padding: 37px 22px 58px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 33px;
+}
+.amr_testimonial_item h3 {
+    margin: 0 0 39px;
+    color: #FFF;
+    font-family: BLT-Heirloom;
+    font-size: 33.833px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: capitalize;
+}
+.amr_testimonial_item img {
+    border-radius: 100%;
+    width: 76px;
+    height: 76px;
+    object-fit: cover;
+    margin-bottom:10px;
+}
+.amr_testimonial_item h4 {
+    color: #FFF;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 14.572px;
+    margin: 0 0 39px;
+}
+.amr_testimonial_item p {
+    color: #ffffff94;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 15.225px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16.144px;
+    margin-top: 0;
+}
+.stars_list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 4px;
+}
+.stars_list img.star {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+}
+/* our collabrator approach */
+.amr_collaboration_approach_grup {
+    display: flex;
+    justify-content: space-between;
+}
+.amr_collaboration_approach_content_left,
+.amr_collaboration_approach_content_right
+{
+    display: flex;
+    flex-direction: column;
+    row-gap: 68px;
+}
+.amr_collaboration_approach_content_left .amr_collaboration_approach_content{
+   padding-right:20px;
+}
+.amr_collaboration_approach_content_right .amr_collaboration_approach_content{
+   padding-left:48px;
+}
+.amr_collaboration_approach_content {
+    position: relative;
+}
+.amr_collaboration_approach_content p {
+    color: var(--style, #1E1E1E);
+    text-align: justify;
+    font-family: Josefin Sans;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18.573px;
+}
+.amr_collaboration_approach_content:not(:last-child):after {
+    content: '';
+    position: absolute;
+    bottom: -27px;
+    width: 80%;
+    height: 5px;
+    display: block;
+    background-color: #2D4B49;
+}
+.amr_collaboration_approach_content:not(:last-child):before {
+    content: '';
+    position: absolute;
+    bottom: -42px;
+    width: 38px;
+    height: 38px;
+    border-radius:100%;
+    display: block;
+    background-color: #2D4B49;
+}
+.amr_collaboration_approach_content_left .amr_collaboration_approach_content:not(:last-child):after {
+    right: 0;
+}
+.amr_collaboration_approach_content_right .amr_collaboration_approach_content:not(:last-child):after {
+    left: 0;
+}
+.amr_collaboration_approach_content_left .amr_collaboration_approach_content:not(:last-child):before {
+    right: -20px;
+}
+.amr_collaboration_approach_content_right .amr_collaboration_approach_content:not(:last-child):before {
+    left: -20px;
+}
+.amr_collaboration_approach_content h3 {
+    color: var(--style, #1E1E1E);
+    font-family: BLT-Heirloom;
+    font-size: 24.765px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 33.019px;
+    margin: 0 0 11px;
+}
+.amr_collaboration_approach_img {
+    border-radius: 300px;
+    border: 2px solid #2D4B49;
+    padding: 55px;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+}
+.amr_collaboration_approach_img img {
+    border-radius: 300px;
+    min-height: 90%;
+    max-width: 300px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170 {
@@ -209,6 +359,33 @@
   grid-column-start: 2;
   grid-column-end:4;
 }
+.amr_testimonial_items {
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
+.amr_testimonial_item {
+    min-height: unset;
+}
+.amr_collaboration_approach_grup {
+    flex-direction: column;
+    row-gap:40px;
+}
+.amr_collaboration_approach_content_left,
+.amr_collaboration_approach_content_right {
+    flex-direction: row;
+}
+.amr_collaboration_approach_content:not(:last-child):after,
+.amr_collaboration_approach_content:not(:last-child):before {
+    display:none;
+}
+.amr_collaboration_approach_img {
+    width: fit-content;
+    margin: 0 auto;
+}
+.amr_collaboration_approach_img img {
+    min-height: auto;
+    max-width: 100%;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2 {
@@ -269,12 +446,22 @@
   grid-column-start: 2;
   grid-column-end:3;
 }
+.amr_collaboration_approach_content_left, .amr_collaboration_approach_content_right {
+    flex-direction: column;
+    row-gap: 20px;
+}
+.amr_collaboration_approach_content_right .amr_collaboration_approach_content {
+    padding-left: 0;
+}
+.amr_collaboration_approach_content_left .amr_collaboration_approach_content {
+    padding-right: 0px;
+}
 }
 @media screen and (max-width:575px){
 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
     display: none;
 }
-.amr_pet_consultants_list.amr_pet_consultants_list_mobile.slick-initialized.slick-slider {
+.amr_pet_consultants_list.amr_pet_consultants_list_mobile {
     display: block;
 }
 .amr_pet_consultants_item {
