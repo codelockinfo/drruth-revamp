@@ -504,6 +504,67 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9": {
+      "type": "rx-testimonial",
+      "blocks": {
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Mind Blowing!",
+            "testimonial": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
+            "reviewer_name": "Missy Springer & Kenzie South Paw Aussies",
+            "rating": "5"
+          }
+        },
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "testimonial": "<p>Review Text<\/p>",
+            "reviewer_name": "Reviewer Name",
+            "rating": "5"
+          }
+        },
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "testimonial": "<p>Review Text<\/p>",
+            "reviewer_name": "Reviewer Name",
+            "rating": "5"
+          }
+        },
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "testimonial": "<p>Review Text<\/p>",
+            "reviewer_name": "Reviewer Name",
+            "rating": "5"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1",
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2",
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3",
+        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4"
+      ],
+      "settings": {
+        "desktopColumns": "2",
+        "tabletColumns": "2",
+        "desktopMaxWidth": "100%",
+        "tabletMaxWidth": "100%",
+        "mobileMaxWidth": "100%",
+        "autoPlay": false,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": false,
+        "container_bgcolor": "#fff",
+        "card_bgcolor": "#fff",
+        "filled_star_color": "",
+        "empty_star_color": ""
+      }
     }
   },
   "order": [
@@ -519,6 +580,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
   ]
 }
