@@ -396,7 +396,7 @@
       ],
       "custom_css": [
         ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom{margin:0; max-width:100%;}"
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
