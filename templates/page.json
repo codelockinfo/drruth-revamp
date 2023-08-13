@@ -208,6 +208,9 @@
     },
     "fadcc9ee-5901-42d9-8139-51be2d304bad": {
       "type": "coachingmainblog",
+      "custom_css": [
+        "svg{display:none;}"
+      ],
       "settings": {
         "c_head": "",
         "pro_btn1": "Check our consultant",
