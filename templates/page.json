@@ -450,7 +450,7 @@
       ],
       "custom_css": [
         ".image-with-text__grid.grid {background: #e0ecbe; padding: 35px; border-radius: 50px;}",
-        ".image-with-text__grid.grid div{background-color:#fff0 !important;}"
+        ".image-with-text__grid.grid div {background-color: #fff0; padding-left: 0;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/image_4_ba456788-5c27-4b4d-b5d1-19eacd0079a5.png",
