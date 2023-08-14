@@ -46,12 +46,16 @@
         "d7336c16-e578-4a67-a9e6-ebec09afb1f5": {
           "type": "testimonial_image",
           "settings": {
-            "testi_title": "",
-            "testi_title_color": "",
+            "side_img": "shopify:\/\/shop_images\/8851592_4019031_3.png",
+            "bg_img_color": "#a6b7ff",
+            "testi_bg_img": "shopify:\/\/shop_images\/Frame_15383.png",
+            "testi_title": "Mind Blowing!",
+            "testi_title_color": "#2d4b49",
             "testi_name": "",
             "testi_name_color": "",
-            "testi_message": "",
-            "testi_message_color": ""
+            "testi_message": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
+            "testi_message_color": "#2d4b49",
+            "testi_star_img": "shopify:\/\/shop_images\/Vector_2.svg"
           }
         },
         "b34d834c-39a9-456a-85c6-24cff6dcc7c8": {
