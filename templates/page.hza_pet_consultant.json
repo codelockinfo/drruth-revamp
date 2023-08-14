@@ -521,19 +521,11 @@
             "text": "<p>Certified Holistic Pet Health Coaches are trained professionals who specialize in providing guidance and support to pet owners in achieving optimal health and well-being for their pets using holistic, integrative and natural approaches. These coaches have an understanding of the various factors that impact pet health, such as nutrition, exercise, emotional health, and environmental factors. <\/p><p>By becoming a certified Holistic Pet Health Coach, they may provide your services in a variety of settings, including veterinary clinics, pet stores, animal shelters, or working one to one with pet parents. You may also offer  a range of services, the science behind Functional Medicine, supporting dogs and cats with Traditional Chinese Veterinary Medicine, developing food and supplement plans tailored to each cat and dog, and lifestyle coaching to help domestic animals thrive and live healthier, happier lives. Additionally, the program has received approval for 40 hours of RACE CE Credits through AAVSB. Our comprehensive training program equips you with the knowledge and skills needed to succeed in this rewarding field. Join the growing demand for pet care professionals and start your career as a Certified Holistic Pet Health Coach today!<\/p>",
             "text_style": "body"
           }
-        },
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1",
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1",
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-button-1"
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1"
       ],
       "custom_css": [
         ".image-with-text__grid {background: #fdc530; padding: 35px; border-radius: 50px;}",
