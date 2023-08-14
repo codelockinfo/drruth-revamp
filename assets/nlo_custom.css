@@ -480,6 +480,7 @@ img.amr_person_detail_img {
     font-weight: 400;
     width: 100%;
     min-width: 320px;
+    padding:15px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
