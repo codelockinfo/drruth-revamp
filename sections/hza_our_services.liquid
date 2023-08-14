@@ -10,16 +10,13 @@
         {% if block.type == 'service_link' %}
         <div class="our_services_links">
           <div class="our_services_links_content">
-            {% if block.settings.title != blank %}<a>{{ block.settings.title }}</a>{% endif %}
             {% if block.settings.detail != blank %}<div>{{ block.settings.detail }}</div>{% endif %}
           </div>
           <div class="our_services_links_content">
-            {% if block.settings.title_1 != blank %}<a>{{ block.settings.title_1 }}</a>{% endif %}
             {% if block.settings.detail_1 != blank %}<div>{{ block.settings.detail_1 }}</div>{% endif %}
           </div>
           <div class="our_services_links_content">
-            {% if block.settings.title_2 != blank %}<a>{{ block.settings.title_2 }}</a>{% endif %}
-            {% if block.settings.detail_2 != blank %}<div>{{ block.settings.detail_2 }}</div>{% endif %}
+            {% if block.settings.detail_3 != blank %}<div>{{ block.settings.detail_3 }}</div>{% endif %}
           </div>
         </div>
       {% endif %}
@@ -69,19 +66,9 @@
       "limit":1,
       "settings": [
         {
-          "type": "text",
-          "id": "title",
-          "label":"Title"
-        },
-        {
           "type": "richtext",
           "id": "detail",
           "label":"Detail"
-        },
-        {
-          "type": "text",
-          "id": "title_1",
-          "label":"Title"
         },
         {
           "type": "richtext",
@@ -89,13 +76,13 @@
           "label":"Detail"
         },
         {
-          "type": "text",
-          "id": "title_2",
-          "label":"Title"
+          "type": "richtext",
+          "id": "detail_2",
+          "label":"Detail"
         },
         {
           "type": "richtext",
-          "id": "detail_2",
+          "id": "detail_3",
           "label":"Detail"
         }
       ]
