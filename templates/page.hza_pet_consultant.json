@@ -505,6 +505,49 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "29966739-8bcc-421d-8e19-368ce7459253": {
+      "type": "image-with-text-2",
+      "blocks": {
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Become a Certified Holistic Pet Health Coach Dr. Ruth Roberts",
+            "heading_size": "h1"
+          }
+        },
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform  your passion for pet health & wellness into a meaningful and rewarding career<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Apply Now",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-heading-1",
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-text-1",
+        "template--14952470151233__29966739-8bcc-421d-8e19-368ce7459253-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Group_832_7a816a15-551a-4e45-9168-810aaa54d922.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -520,6 +563,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
+    "29966739-8bcc-421d-8e19-368ce7459253"
   ]
 }
