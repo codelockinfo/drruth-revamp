@@ -39,12 +39,12 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1"
       ],
       "custom_css": [
-        ".image-with-text__text-item.grid__item.image_content {padding-left: 0;}",
+        ".image-with-text__text-item {padding-left: 0;}",
         ".image-with-text {background-color: #2d4b49; margin: 0; max-width: 100%;}",
         ".grid__item > div {background: #fff0; justify-content: center;}",
         ".image-with-text__media-item img {object-fit: contain;}",
         ".image-with-text__heading {font-family: \"BLT-Heirloom\"; color: #fff; text-align: left; font-size: 60px; line-height: 60px;}",
-        ".image-with-text__grid {max-width: 1300px; margin: auto;}",
+        ".image-with-text__grid {max-width: 1300px; margin: auto; display: flex; flex-direction: column-reverse;}",
         ".image-with-text__text p {color: #fff; font-size: 18px;}"
       ],
       "settings": {
