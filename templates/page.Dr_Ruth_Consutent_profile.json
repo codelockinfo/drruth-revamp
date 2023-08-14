@@ -79,6 +79,11 @@
         "86de4d56-7e4d-4c61-b3b7-c1dd84a0a522",
         "38f5785d-86d1-401c-be10-d2ccdcca12ad"
       ],
+      "custom_css": [
+        ".amr_testimonial_item h4 {color: #000;}",
+        ".amr_testimonial_item h3 {color: #000;}",
+        ".amr_testimonial_item p {color: #2D4B49;}"
+      ],
       "settings": {
         "heading": "What real pet parents are saying",
         "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
