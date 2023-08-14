@@ -494,6 +494,10 @@ img.amr_person_detail_img {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding:20px;
+}
+.amr_testimonial_item_upr_grup .amr_testi_img_side img {
+    max-height: 350px;
 }
 .amr_testimonial_item_upr_grup .amr_testimonial_item {
     min-height: unset;
