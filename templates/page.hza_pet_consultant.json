@@ -504,6 +504,59 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "91d75749-340e-4f9a-9bba-f82d8c67429a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1",
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1",
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-button-1"
+      ],
+      "custom_css": [
+        ".image-with-text__grid.grid {background: #FDC530; padding: 35px; border-radius: 50px;}",
+        ".image-with-text__grid.grid div {background-color: #fff0;}",
+        ".image-with-text__heading {text-align: left;}",
+        ".image-with-text__media-item {width: 25% !important;}",
+        ".image-with-text__text-item.grid__item.image_content {padding-left: 2%;}",
+        ".image-with-text__media.media {max-width: 250px; margin: auto;}",
+        ".image-with-text__media img {object-fit: contain !important;}",
+        "h2.image-with-text__heading.h1 {font-size: 54px; line-height: 50px;}"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -519,6 +572,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
+    "91d75749-340e-4f9a-9bba-f82d8c67429a"
   ]
 }
