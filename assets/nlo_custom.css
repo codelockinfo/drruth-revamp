@@ -497,7 +497,9 @@ img.amr_person_detail_img {
 }
 .amr_testimonial_item_upr_grup .amr_testimonial_item {
     min-height: unset;
-    justify-content:center;
+    align-items: center;
+    justify-content: center;
+    padding: 45px;
 }
 .amr_testimonial_item_upr_grup .amr_testimonial_item p {
     margin-bottom: 55px;
