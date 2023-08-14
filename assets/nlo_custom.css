@@ -2,6 +2,10 @@
     max-width: 1170px;
     margin: 0 auto;
 }
+.amr_container_1050{
+    max-width: 1050px;
+    margin: 0 auto;
+}
 .amr_pet_consultants {
     position: relative;
     padding: 60px 0px;
@@ -292,8 +296,184 @@
     min-height: 90%;
     max-width: 300px;
 }
+/* person detail */
+.amr_person_detail {
+    position: relative;
+    padding-bottom: 160px;
+}
+img.amr_person_detail_img {
+    position: absolute;
+    height: 265px;
+    object-position: center;
+    object-fit: cover;
+    width:100%;
+}
+.amr_person_detail .amr_container_1050 {
+    text-align: center;
+    top: 100px;
+    position: relative;
+}
+.amr_person_detail .amr_container_1050 img {
+    width: 265px;
+    height: 265px;
+    object-fit: contain;
+    border-radius: 100%;
+    margin-bottom:25px;
+}
+.amr_person_detail .amr_container_1050 h2 {
+    color: #2D4B49;
+    text-align: center;
+    font-family: BLT-Heirloom;
+    font-size: 36px;
+    letter-spacing: -0.72px;
+    margin: 0 0 17px;
+    line-height: normal;
+}
+.amr_person_detail .amr_container_1050 h4 {
+    color: #2D4B49;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 17.424px;
+    letter-spacing: -0.32px;
+    margin: 0 0 24px;
+}
+.amr_person_detail .amr_container_1050 p {
+    color: #2D4B49;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 17.424px;
+    letter-spacing: -0.32px;
+    margin: 0 0 25px;
+}
+.amr_PD_btn_grup {
+    display: flex;
+    justify-content: center;
+    column-gap: 24px;
+    align-items: center;
+}
+.amr_PD_btn_grup a {
+    text-align: center;
+    max-width: 198px;
+    width: 100%;
+    text-decoration: none;
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 20px;
+    font-style: normal;
+    text-transform: capitalize;
+    font-weight: 400;
+    padding: 6px;
+    border-radius:25px;
+}
+.amr_PD_btn_grup a:first-child {
+    background-color: #a6b7ff;
+    border: 1px solid #a6b7ff;
+}
+.amr_PD_btn_grup a:nth-child(2) {
+    background-color:#fff;
+    border: 1px solid #2D4B49;
+}
+/* stories */
+.person_story .card__information {
+    top: 0;
+}
+.person_story p.amr_article_detail {
+    color: #2D4B49;
+    font-family: Josefin Sans;
+    font-size: 15.013px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22.937px;
+    text-align: left;
+    margin: 0;
+}
+.person_story h3.card__heading {
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 30.026px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30.582px;
+    margin: 0 0 20px;
+    text-align: left;
+}
+.person_story h3.card__heading a{
+    margin:0px;
+    text-align:left;
+}
+.person_story .article-card-wrapper.card-wrapper:hover h3.card__heading a{
+    text-decoration:none;
+}
+.person_story .card__information.aaa {
+    padding: 0 !important;
+}
+.person_story p.article-card__excerpt.rte-width {
+    display: none;
+}
+.person_story h2.blog__title {
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 61.908px;
+    font-style: normal;
+    font-weight: 300;
+    text-transform: capitalize;
+    margin-bottom: 55px;
+}
+.person_story .title-wrapper-with-link {
+    margin-bottom: 0px;
+}
+.person_story .article-card__image-wrapper.card__media {
+    margin-bottom: 20px;
+}
+.newsletter__wrapper h2 {
+    color: #2D4B49;
+    text-align: center;
+    font-family: BLT-Heirloom;
+    font-size: 61.908px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+    margin: 0 0 24px;
+}
+.newsletter__subheading {
+    color: #1E1E1E;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.034px;
+    margin-bottom: 54px;
+    max-width: 100% !important;
+}
+.newsletter__wrapper .newsletter-form__field-wrapper button#Subscribe {
+    width: fit-content;
+    padding: 15px 30px;
+    border-radius: 25px;
+    background: #2D4B49;
+    color: #fff;
+}
+.newsletter__wrapper .newsletter-form__field-wrapper {
+    max-width: 530px !important;
+    width: 100%;
+}
+.newsletter__wrapper .newsletter-form__field-wrapper {
+    max-width: 530px!important;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+}
 @media screen and (max-width:1200px){
-.amr_container_1170 {
+.amr_container_1170,
+.amr_container_1050{
     max-width: 100%;
     padding: 0 20px;
 }
@@ -301,6 +481,9 @@
 @media screen and (max-width:991px){
 .amr_pet_consultants_header h2 {
     font-size: 48px;
+}
+.person_story h2.blog__title {
+    margin-bottom: 48px;
 }
 .amr_pet_consultants_header p {
     font-size: 16px;
@@ -391,6 +574,9 @@
 .amr_pet_consultants_header h2 {
     font-size: 42px;
 }
+.person_story h2.blog__title {
+    margin-bottom: 42px;
+}
 .amr_pet_consultants_list {
     grid-column-gap: 18px;
     grid-row-gap: 18px;
@@ -456,6 +642,22 @@
 .amr_collaboration_approach_content_left .amr_collaboration_approach_content {
     padding-right: 0px;
 }
+.amr_person_detail {
+    padding-bottom: 120px;
+}
+img.amr_person_detail_img {
+    height: 140px;
+}
+.amr_person_detail .amr_container_1050 {
+    top: 60px;
+}
+.amr_person_detail .amr_container_1050 img {
+    width: 150px;
+    height: 150px;
+}
+.person_story h2.blog__title {
+    margin-bottom: 30px;
+}
 }
 @media screen and (max-width:575px){
 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
@@ -466,5 +668,12 @@
 }
 .amr_pet_consultants_item {
     display: flex !important;
+}
+.amr_PD_btn_grup {
+    flex-direction: column;
+    row-gap: 10px;
+}
+.amr_PD_btn_grup a {
+    max-width: 100%;
 }
 }
