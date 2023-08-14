@@ -461,15 +461,12 @@ img.amr_person_detail_img {
     color: #fff;
 }
 .newsletter__wrapper .newsletter-form__field-wrapper {
-    max-width: 530px !important;
-    width: 100%;
-}
-.newsletter__wrapper .newsletter-form__field-wrapper {
     max-width: 530px!important;
     width: 100%;
     display: flex;
     align-items: center;
     column-gap: 10px;
+    justify-content:center;
 }
 .newsletter-form__field-wrapper .field__input {
     padding-right: 10px !important;
