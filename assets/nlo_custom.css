@@ -495,6 +495,10 @@ img.amr_person_detail_img {
     align-items: center;
     justify-content: center;
 }
+.amr_testimonial_item_upr_grup .amr_testimonial_item {
+    min-height: unset;
+    justify-content:center;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
