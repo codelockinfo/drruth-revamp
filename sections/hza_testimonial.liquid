@@ -6,6 +6,30 @@
     </div>
     <div class="amr_testimonial_items">
       {% for block in section.blocks %}
+        {% if block.type == 'testimonial_image' %}
+          {% if block.settings.side_img != blank %}
+          <div class="amr_testimonial_item_upr_grup">
+            <div class="amr_testi_img_side">
+              <img src="{{ block.settings.side_img | img_url:'master' }}">
+            </div>
+            <div class="amr_testimonial_item" style="{% if block.settings.testi_bg_img != blank %}background-image:url('{{ block.settings.testi_bg_img | img_url:'master' }}');{% endif %}">
+             <div class="amr_testimonial_item_inner">
+              <h3 style="color:{{ block.settings.testi_title_color }};">{{ block.settings.testi_title }}</h3>
+              <img src={{ block.settings.main_img | img_url:'master' }}>
+              <h4 style="color:{{ block.settings.testi_name_color }};">{{ block.settings.testi_name }}</h4>
+              <div style="color:{{ block.settings.testi_message_color }};">{{ block.settings.testi_message }}</div>
+               </div>
+              <div class="stars_list">
+                <img src="{{ block.settings.testi_star_img | img_url:'master' }}" class="star">
+                <img src="{{ block.settings.testi_star_img | img_url:'master' }}" class="star">
+                <img src="{{ block.settings.testi_star_img | img_url:'master' }}" class="star">
+                <img src="{{ block.settings.testi_star_img | img_url:'master' }}" class="star">
+                <img src="{{ block.settings.testi_star_img | img_url:'master' }}" class="star">
+              </div>
+            </div>
+          </div>
+            {% endif %}
+        {% endif %}
         {% if block.type == 'testimonial' %}
         <div class="amr_testimonial_item" style="{% if block.settings.bg_color != blank %}background-color:{{ block.settings.bg_color }};{% endif %}">
          <div class="amr_testimonial_item_inner">
