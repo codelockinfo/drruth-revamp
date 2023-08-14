@@ -9,7 +9,7 @@
         {% if block.type == 'testimonial_image' %}
           {% if block.settings.side_img != blank %}
           <div class="amr_testimonial_item_upr_grup">
-            <div class="amr_testi_img_side">
+            <div class="amr_testi_img_side" style="background-color:{{ block.settings.bg_img_color }};">
               <img src="{{ block.settings.side_img | img_url:'master' }}">
             </div>
             <div class="amr_testimonial_item" style="{% if block.settings.testi_bg_img != blank %}background-image:url('{{ block.settings.testi_bg_img | img_url:'master' }}');{% endif %}">
@@ -130,6 +130,11 @@
           "type": "image_picker",
           "id": "side_img",
           "label":"Side Image"
+        },
+        {
+          "type":"color",
+          "id":"bg_img_color",
+          "label":"Image background Color"
         },
         {
           "type": "image_picker",

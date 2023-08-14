@@ -43,6 +43,17 @@
     "96214aaf-b822-4973-9ad0-b39a722f6e93": {
       "type": "hza_testimonial",
       "blocks": {
+        "d7336c16-e578-4a67-a9e6-ebec09afb1f5": {
+          "type": "testimonial_image",
+          "settings": {
+            "testi_title": "",
+            "testi_title_color": "",
+            "testi_name": "",
+            "testi_name_color": "",
+            "testi_message": "",
+            "testi_message_color": ""
+          }
+        },
         "b34d834c-39a9-456a-85c6-24cff6dcc7c8": {
           "type": "testimonial",
           "settings": {
@@ -87,6 +98,7 @@
         }
       },
       "block_order": [
+        "d7336c16-e578-4a67-a9e6-ebec09afb1f5",
         "b34d834c-39a9-456a-85c6-24cff6dcc7c8",
         "86de4d56-7e4d-4c61-b3b7-c1dd84a0a522",
         "38f5785d-86d1-401c-be10-d2ccdcca12ad"
