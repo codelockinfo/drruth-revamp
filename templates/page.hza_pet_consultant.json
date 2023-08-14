@@ -552,6 +552,45 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "652c7008-877b-454a-9171-63f8615c96e1": {
+      "type": "hza_our_services",
+      "blocks": {
+        "c5e0c7ec-b536-46f2-9412-e2d7f1eb9f95": {
+          "type": "service_link",
+          "settings": {
+            "title": "",
+            "detail": "",
+            "title_1": "",
+            "detail_1": "",
+            "title_2": "",
+            "detail_2": ""
+          }
+        },
+        "dd0fff3b-0f01-4482-b43a-99de79a5f33c": {
+          "type": "main_img",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/our_service.png"
+          }
+        },
+        "09d5f1fc-7c17-49f3-8a81-3ff241900467": {
+          "type": "service_right",
+          "settings": {
+            "detail": "",
+            "btnText": "",
+            "btnlink": ""
+          }
+        }
+      },
+      "block_order": [
+        "c5e0c7ec-b536-46f2-9412-e2d7f1eb9f95",
+        "dd0fff3b-0f01-4482-b43a-99de79a5f33c",
+        "09d5f1fc-7c17-49f3-8a81-3ff241900467"
+      ],
+      "settings": {
+        "heading": "Our Services",
+        "desc": ""
+      }
     }
   },
   "order": [
@@ -568,6 +607,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
+    "652c7008-877b-454a-9171-63f8615c96e1"
   ]
 }
