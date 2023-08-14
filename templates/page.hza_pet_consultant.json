@@ -98,6 +98,17 @@
         "padding_bottom": 36
       }
     },
+    "fadcc9ee-5901-42d9-8139-51be2d304bad": {
+      "type": "coachingmainblog",
+      "custom_css": [
+        "svg {display: none;}"
+      ],
+      "settings": {
+        "c_head": "",
+        "pro_btn1": "Check our consultants",
+        "program_link1": ""
+      }
+    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -203,17 +214,6 @@
         "swipe_on_mobile": false,
         "padding_top": 0,
         "padding_bottom": 36
-      }
-    },
-    "fadcc9ee-5901-42d9-8139-51be2d304bad": {
-      "type": "coachingmainblog",
-      "custom_css": [
-        "svg {display: none;}"
-      ],
-      "settings": {
-        "c_head": "",
-        "pro_btn1": "Check our consultant",
-        "program_link1": ""
       }
     },
     "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
@@ -510,9 +510,9 @@
     "main",
     "29966739-8bcc-421d-8e19-368ce7459253",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
+    "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
-    "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
