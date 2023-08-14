@@ -254,6 +254,9 @@
         "2c1dde31-a28e-410e-ac25-bcbde16ebbfa",
         "6aad353e-30fb-47d9-9b0f-40d3ebe1800a"
       ],
+      "custom_css": [
+        ".amr_collaboration_approach_img img {object-fit: cover;}"
+      ],
       "settings": {
         "heading": "Our Collaboration Approach ",
         "desc": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>"
