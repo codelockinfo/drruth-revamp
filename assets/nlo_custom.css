@@ -480,6 +480,12 @@ img.amr_person_detail_img {
     min-width: 320px;
     padding:15px;
 }
+.amr_testimonial_item_upr_grup {
+    display: flex;
+    column-gap: 24px;
+    margin-bottom: 20px;
+    justify-content: space-between;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
