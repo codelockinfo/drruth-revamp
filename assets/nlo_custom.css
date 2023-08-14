@@ -460,6 +460,7 @@ img.amr_person_detail_img {
     background: #2D4B49;
     color: #fff;
     min-width: 180px;
+    cursor:pointer;
 }
 .newsletter__wrapper .newsletter-form__field-wrapper {
     max-width: 530px!important;
