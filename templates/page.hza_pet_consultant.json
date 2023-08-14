@@ -67,9 +67,9 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>",
-            "link_label": "",
-            "link": ""
+            "text": "<p>A Comprehensive Training in Pet Health and Wellness: Guide pet owners towards natural and holistic health solutions for their beloved animals as a certified pet health coach.<\/p>",
+            "link_label": "Check Our Consultants",
+            "link": "#"
           }
         }
       },
@@ -82,7 +82,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
-        "title": "Why Us?",
+        "title": "Design Your Dream Career and Lifestyle",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
