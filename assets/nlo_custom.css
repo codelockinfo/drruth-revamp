@@ -471,6 +471,10 @@ img.amr_person_detail_img {
     align-items: center;
     column-gap: 10px;
 }
+.newsletter-form__field-wrapper .field__input {
+    padding-right: 10px !important;
+    border-radius: 25px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
