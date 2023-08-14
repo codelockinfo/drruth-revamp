@@ -717,4 +717,11 @@ img.amr_person_detail_img {
 .amr_PD_btn_grup a {
     max-width: 100%;
 }
+.newsletter__wrapper .newsletter-form__field-wrapper {
+    flex-direction: column;
+    row-gap: 20px;
+}
+.newsletter__wrapper .newsletter-form__field-wrapper button#Subscribe {
+    width: 100%;
+}
 }
