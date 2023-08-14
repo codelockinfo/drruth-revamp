@@ -68,8 +68,8 @@
           "settings": {
             "title": "",
             "text": "<p>A Comprehensive Training in Pet Health and Wellness: Guide pet owners towards natural and holistic health solutions for their beloved animals as a certified pet health coach.<\/p>",
-            "link_label": "Check Our Consultants",
-            "link": "#"
+            "link_label": "",
+            "link": ""
           }
         }
       },
@@ -79,7 +79,7 @@
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
-        ".button.button--primary {display: none;}"
+        ".button.button--primary,.multicolumn-card__info .icon-wrap {display: none;}"
       ],
       "settings": {
         "title": "Design Your Dream Career and Lifestyle",
