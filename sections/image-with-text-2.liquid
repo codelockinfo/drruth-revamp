@@ -22,6 +22,10 @@
   .section-{{ section.id }}-padding .image-with-text__text{
     padding-right:0 !important;
   }
+  .section-{{ section.id }}-padding a.button.button--primary {
+    background-color: #A6B7FF;
+    text-transform: capitalize;
+}
 {%- endstyle -%}
 
 <div class="imgpage_width image-with-text image-with-text--{{ section.settings.content_layout }} page-width isolate{% if settings.text_boxes_border_thickness > 0 and settings.text_boxes_border_opacity > 0 and settings.media_border_thickness > 0 and settings.media_border_opacity > 0 %} collapse-borders{% endif %}{% unless section.settings.color_scheme == 'background-1' and settings.media_border_thickness > 0 and settings.text_boxes_shadow_opacity == 0 and settings.text_boxes_border_thickness == 0 or settings.text_boxes_border_opacity == 0 %} collapse-corners{% endunless %} section-{{ section.id }}-padding">
