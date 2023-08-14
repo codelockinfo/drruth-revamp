@@ -48,9 +48,13 @@
           "settings": {
             "bg_color": "#faf2e9",
             "title": "Mind Blowing!",
+            "title_color": "#2d4b49",
             "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
             "name": "Missy Springer & Kenzie South Paw Aussies",
-            "message": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>"
+            "name_color": "#2d4b49",
+            "message": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
+            "message_color": "#2d4b49",
+            "star_img": "shopify:\/\/shop_images\/Vector_1.svg"
           }
         },
         "86de4d56-7e4d-4c61-b3b7-c1dd84a0a522": {
@@ -58,9 +62,13 @@
           "settings": {
             "bg_color": "#faf2e9",
             "title": "Mind Blowing!",
+            "title_color": "#2d4b49",
             "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
             "name": "Amanda Delgado",
-            "message": "<p>I really enjoyed connecting with Dlorah who is a recent graduate of Dr. Roberts holistic pet health coach program. I found it helpful to hear all about her experience with the course and what she found useful in her journey to become a certified pet health coach. It was great to connect with someone who has a similar educational background and experiences. To me, at the beginning, I was feeling hesitant and having doubts if this was the right path, but the onboarding call just reconfirmed for me that it absolutely is... Read more<\/p>"
+            "name_color": "#2d4b49",
+            "message": "<p>I really enjoyed connecting with Dlorah who is a recent graduate of Dr. Roberts holistic pet health coach program. I found it helpful to hear all about her experience with the course and what she found useful in her journey to become a certified pet health coach. It was great to connect with someone who has a similar educational background and experiences. To me, at the beginning, I was feeling hesitant and having doubts if this was the right path, but the onboarding call just reconfirmed for me that it absolutely is... Read more<\/p>",
+            "message_color": "#2d4b49",
+            "star_img": "shopify:\/\/shop_images\/Vector_1.svg"
           }
         },
         "38f5785d-86d1-401c-be10-d2ccdcca12ad": {
@@ -68,9 +76,13 @@
           "settings": {
             "bg_color": "#faf2e9",
             "title": "Mind Blowing!",
+            "title_color": "#2d4b49",
             "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
             "name": "Lori Schmidt",
-            "message": "<p>Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.<\/p>"
+            "name_color": "#2d4b49",
+            "message": "<p>Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.<\/p>",
+            "message_color": "#2d4b49",
+            "star_img": "shopify:\/\/shop_images\/Vector_1.svg"
           }
         }
       },
@@ -80,9 +92,7 @@
         "38f5785d-86d1-401c-be10-d2ccdcca12ad"
       ],
       "custom_css": [
-        ".amr_testimonial_item h4 {color: #000;}",
-        ".amr_testimonial_item h3 {color: #000;}",
-        ".amr_testimonial_item p {color: #2D4B49;}"
+
       ],
       "settings": {
         "heading": "What real pet parents are saying",
