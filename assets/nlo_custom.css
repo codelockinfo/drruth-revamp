@@ -486,6 +486,13 @@ img.amr_person_detail_img {
     margin-bottom: 20px;
     justify-content: space-between;
 }
+.amr_testimonial_item_upr_grup .amr_testi_img_side {
+    width: 100%;
+    border-radius: 33px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
