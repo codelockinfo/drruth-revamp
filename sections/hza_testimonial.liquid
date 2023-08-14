@@ -14,11 +14,11 @@
           <div>{{ block.settings.message }}</div>
            </div>
           <div class="stars_list">
-            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" class="star">
-            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" class="star">
-            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
-            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
-            <img src="https://cdn.shopify.com/s/files/1/0621/0564/9328/files/61c9d866d636ba354463dd72_star-fill_1.png" loading="lazy" alt="" class="star">
+            <img src="{{ block.settings.star_img | img_url:'master' }}" class="star">
+            <img src="{{ block.settings.star_img | img_url:'master' }}" class="star">
+            <img src="{{ block.settings.star_img | img_url:'master' }}" class="star">
+            <img src="{{ block.settings.star_img | img_url:'master' }}" class="star">
+            <img src="{{ block.settings.star_img | img_url:'master' }}" class="star">
           </div>
         </div>
       {% endfor %}
@@ -70,6 +70,11 @@
           "type": "richtext",
           "id": "message",
           "label":"Message"
+        },
+        {
+          "type":"image_picker",
+          "id":"star_img",
+          "label":"Star Image"
         }
       ]
     }
