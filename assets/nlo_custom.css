@@ -469,7 +469,7 @@ img.amr_person_detail_img {
     column-gap: 10px;
     justify-content:center;
 }
-.newsletter-form__field-wrapper .field__input {
+.newsletter-form__field-wrapper input {
     padding-right: 10px!important;
     border-radius: 25px;
     border: 2px solid #2D4B49;
