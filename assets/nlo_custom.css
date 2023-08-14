@@ -695,6 +695,10 @@ img.amr_person_detail_img {
 .person_story h2.blog__title {
     margin-bottom: 30px;
 }
+.amr_testimonial_item_upr_grup {
+    flex-direction: column;
+    row-gap: 24px;
+}
 }
 @media screen and (max-width:575px){
 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
