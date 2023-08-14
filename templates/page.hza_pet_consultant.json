@@ -511,14 +511,14 @@
         "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Design Your Dream Career and Lifestyle",
             "heading_size": "h1"
           }
         },
         "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Certified Holistic Pet Health Coaches are trained professionals who specialize in providing guidance and support to pet owners in achieving optimal health and well-being for their pets using holistic, integrative and natural approaches. These coaches have an understanding of the various factors that impact pet health, such as nutrition, exercise, emotional health, and environmental factors. <\/p><p>By becoming a certified Holistic Pet Health Coach, they may provide your services in a variety of settings, including veterinary clinics, pet stores, animal shelters, or working one to one with pet parents. You may also offer  a range of services, the science behind Functional Medicine, supporting dogs and cats with Traditional Chinese Veterinary Medicine, developing food and supplement plans tailored to each cat and dog, and lifestyle coaching to help domestic animals thrive and live healthier, happier lives. Additionally, the program has received approval for 40 hours of RACE CE Credits through AAVSB. Our comprehensive training program equips you with the knowledge and skills needed to succeed in this rewarding field. Join the growing demand for pet care professionals and start your career as a Certified Holistic Pet Health Coach today!<\/p>",
             "text_style": "body"
           }
         },
@@ -536,16 +536,17 @@
         "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-button-1"
       ],
       "custom_css": [
-        ".image-with-text__grid.grid {background: #FDC530; padding: 35px; border-radius: 50px;}",
+        ".image-with-text__grid.grid {background: #fdc530; padding: 35px; border-radius: 50px;}",
         ".image-with-text__grid.grid div {background-color: #fff0;}",
         ".image-with-text__heading {text-align: left;}",
-        ".image-with-text__media-item {width: 25% !important;}",
-        ".image-with-text__text-item.grid__item.image_content {padding-left: 2%;}",
+        ".image-with-text__media-item {width: 5% !important;}",
+        ".image-with-text__text-item.grid__item.image_content {padding-left: 0%;}",
         ".image-with-text__media.media {max-width: 250px; margin: auto;}",
         ".image-with-text__media img {object-fit: contain !important;}",
         "h2.image-with-text__heading.h1 {font-size: 54px; line-height: 50px;}"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_2261.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
