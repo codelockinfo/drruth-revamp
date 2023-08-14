@@ -109,6 +109,54 @@
         "program_link1": ""
       }
     },
+    "91d75749-340e-4f9a-9bba-f82d8c67429a": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Design Your Dream Career and Lifestyle",
+            "heading_size": "h1"
+          }
+        },
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Certified Holistic Pet Health Coaches are trained professionals who specialize in providing guidance and support to pet owners in achieving optimal health and well-being for their pets using holistic, integrative and natural approaches. These coaches have an understanding of the various factors that impact pet health, such as nutrition, exercise, emotional health, and environmental factors. <\/p><p>By becoming a certified Holistic Pet Health Coach, they may provide your services in a variety of settings, including veterinary clinics, pet stores, animal shelters, or working one to one with pet parents. You may also offer  a range of services, the science behind Functional Medicine, supporting dogs and cats with Traditional Chinese Veterinary Medicine, developing food and supplement plans tailored to each cat and dog, and lifestyle coaching to help domestic animals thrive and live healthier, happier lives. Additionally, the program has received approval for 40 hours of RACE CE Credits through AAVSB. Our comprehensive training program equips you with the knowledge and skills needed to succeed in this rewarding field. Join the growing demand for pet care professionals and start your career as a Certified Holistic Pet Health Coach today!<\/p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1",
+        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1"
+      ],
+      "custom_css": [
+        ".image-with-text__grid {background: #fdc530; padding: 35px 35px 40px; border-radius: 50px;}",
+        ".image-with-text__grid div {background-color: #fff0;}",
+        ".image-with-text__heading {text-align: left;}",
+        ".image-with-text__media-item {width: 5% !important;}",
+        ".image-with-text__text-item {padding-left: 0%;}",
+        ".image-with-text__text {padding-right: 0%;}",
+        ".image-with-text__media {max-width: 250px; margin: auto;}",
+        ".image-with-text__media img {object-fit: contain !important;}",
+        "h2.image-with-text__heading {font-size: 46px; line-height: 50px;}",
+        "p {color: #1e1e1e;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Rectangle_2261.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -504,54 +552,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "91d75749-340e-4f9a-9bba-f82d8c67429a": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Design Your Dream Career and Lifestyle",
-            "heading_size": "h1"
-          }
-        },
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Certified Holistic Pet Health Coaches are trained professionals who specialize in providing guidance and support to pet owners in achieving optimal health and well-being for their pets using holistic, integrative and natural approaches. These coaches have an understanding of the various factors that impact pet health, such as nutrition, exercise, emotional health, and environmental factors. <\/p><p>By becoming a certified Holistic Pet Health Coach, they may provide your services in a variety of settings, including veterinary clinics, pet stores, animal shelters, or working one to one with pet parents. You may also offer  a range of services, the science behind Functional Medicine, supporting dogs and cats with Traditional Chinese Veterinary Medicine, developing food and supplement plans tailored to each cat and dog, and lifestyle coaching to help domestic animals thrive and live healthier, happier lives. Additionally, the program has received approval for 40 hours of RACE CE Credits through AAVSB. Our comprehensive training program equips you with the knowledge and skills needed to succeed in this rewarding field. Join the growing demand for pet care professionals and start your career as a Certified Holistic Pet Health Coach today!<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-heading-1",
-        "template--14952470151233__91d75749-340e-4f9a-9bba-f82d8c67429a-text-1"
-      ],
-      "custom_css": [
-        ".image-with-text__grid {background: #fdc530; padding: 35px 35px 50px; border-radius: 50px;}",
-        ".image-with-text__grid div {background-color: #fff0;}",
-        ".image-with-text__heading {text-align: left;}",
-        ".image-with-text__media-item {width: 5% !important;}",
-        ".image-with-text__text-item {padding-left: 0%;}",
-        ".image-with-text__text {padding-right: 0%;}",
-        ".image-with-text__media {max-width: 250px; margin: auto;}",
-        ".image-with-text__media img {object-fit: contain !important;}",
-        "h2.image-with-text__heading {font-size: 46px; line-height: 50px;}",
-        "p {color: #1e1e1e;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Rectangle_2261.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -559,6 +559,7 @@
     "29966739-8bcc-421d-8e19-368ce7459253",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
+    "91d75749-340e-4f9a-9bba-f82d8c67429a",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
@@ -567,7 +568,6 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "91d75749-340e-4f9a-9bba-f82d8c67429a"
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76"
   ]
 }
