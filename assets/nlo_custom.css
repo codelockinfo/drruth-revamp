@@ -459,6 +459,7 @@ img.amr_person_detail_img {
     border-radius: 25px;
     background: #2D4B49;
     color: #fff;
+    min-width: 180px;
 }
 .newsletter__wrapper .newsletter-form__field-wrapper {
     max-width: 530px!important;
@@ -478,7 +479,7 @@ img.amr_person_detail_img {
     font-style: normal;
     font-weight: 400;
     width: 100%;
-    min-width: 350px;
+    min-width: 320px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
