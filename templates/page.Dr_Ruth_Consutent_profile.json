@@ -40,6 +40,50 @@
         "padding_bottom": 60
       }
     },
+    "96214aaf-b822-4973-9ad0-b39a722f6e93": {
+      "type": "hza_testimonial",
+      "blocks": {
+        "b34d834c-39a9-456a-85c6-24cff6dcc7c8": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#faf2e9",
+            "title": "Mind Blowing!",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Missy Springer & Kenzie South Paw Aussies",
+            "message": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>"
+          }
+        },
+        "86de4d56-7e4d-4c61-b3b7-c1dd84a0a522": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#faf2e9",
+            "title": "Mind Blowing!",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Amanda Delgado",
+            "message": "<p>I really enjoyed connecting with Dlorah who is a recent graduate of Dr. Roberts holistic pet health coach program. I found it helpful to hear all about her experience with the course and what she found useful in her journey to become a certified pet health coach. It was great to connect with someone who has a similar educational background and experiences. To me, at the beginning, I was feeling hesitant and having doubts if this was the right path, but the onboarding call just reconfirmed for me that it absolutely is... Read more<\/p>"
+          }
+        },
+        "38f5785d-86d1-401c-be10-d2ccdcca12ad": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#faf2e9",
+            "title": "Mind Blowing!",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Lori Schmidt",
+            "message": "<p>Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "b34d834c-39a9-456a-85c6-24cff6dcc7c8",
+        "86de4d56-7e4d-4c61-b3b7-c1dd84a0a522",
+        "38f5785d-86d1-401c-be10-d2ccdcca12ad"
+      ],
+      "settings": {
+        "heading": "What real pet parents are saying",
+        "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
+      }
+    },
     "80b8f9bf-2cdd-4cef-aca3-85e7ce455bbf": {
       "type": "newsletter",
       "blocks": {
@@ -80,6 +124,7 @@
     "main",
     "ba85da22-4605-49c5-8217-2bd483fac09a",
     "0cbb6ce1-efe2-46d2-88c2-ebf85dcf0f72",
+    "96214aaf-b822-4973-9ad0-b39a722f6e93",
     "80b8f9bf-2cdd-4cef-aca3-85e7ce455bbf"
   ]
 }
