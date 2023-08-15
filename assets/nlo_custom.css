@@ -525,6 +525,7 @@ img.amr_person_detail_img {
 }
 .amr_HW_item {
     position: relative;
+    margin-bottom: 26px;
 }
 .amr_HW_item:before {
     content: '';
