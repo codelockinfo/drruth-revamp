@@ -567,6 +567,24 @@ img.amr_person_detail_img {
     line-height: 20px;
     margin:0px;
 }
+.amr_HW_btn {
+    text-decoration: none;
+    margin: 0 auto;
+    max-width: 230px;
+    width: 100%;
+    display: block;
+    border-radius: 25px;
+    background: #A6B7FF;
+    text-align: center;
+    color: #2D4B49;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 4.2px;
+    text-transform: uppercase;
+    padding: 10px 8px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
