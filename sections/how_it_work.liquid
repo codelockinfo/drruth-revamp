@@ -1,3 +1,19 @@
+<div class="amr_how_work">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+    </div>
+    <div class="amr_HW_items">
+      {% for block in section.blocks %}
+        <div class="amr_HW_item">
+            <h3>{{ block.settings.title }}</h3>
+            <div>{{ block.settings.detail }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 {% schema %}
 {
   "name": "How It Works",
@@ -24,19 +40,9 @@
           "label":"Title"
         },
         {
-          "type":"color",
-          "id":"title_color",
-          "label":"Title Color"
-        },
-        {
           "type": "richtext",
           "id": "detail",
           "label":"Detail"
-        },
-        {
-          "type":"color",
-          "id":"detail_color",
-          "label":"Detail Color"
         }
       ]
     }
