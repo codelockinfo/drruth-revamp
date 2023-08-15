@@ -508,6 +508,21 @@ img.amr_person_detail_img {
 .amr_testimonial_item_upr_grup .amr_testimonial_item p {
     margin-bottom: 55px;
 }
+/* how it work */
+.amr_how_work {
+    position: relative;
+    padding: 60px 0px;
+}
+.amr_how_work .amr_container_1170 {
+    border-radius: 31.229px;
+    background: #FFF;
+    box-shadow: 8px 8px 24px 0px rgba(2, 2, 70, 0.05);
+    padding: 40px;
+}
+.amr_HW_items {
+    position: relative;
+    padding-left: 34px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
