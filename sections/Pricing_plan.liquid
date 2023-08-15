@@ -1,3 +1,27 @@
+<div class="amr_pricing_plan">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+    </div>
+    <div class="amr_PP_grup">
+      {% for block in section.blocks %}
+        <div class="amr_PP_item{% if block.settings.custom_class != blank %} {{ block.settings.custom_class }}{% endif %}">
+            <div class="amr_PP_item_content">
+            <h3>{{ block.settings.title }}</h3>
+            <h4>{{ block.settings.detail }}</h4>
+            <div class="amr_PP_price_grup">
+              {% if block.settings.price != blank %}<p class="amr_PP_price">{{ block.settings.price }}</p>{% endif %}
+              {% if block.settings.time != blank %}<p class="amr_PP_time"> / {{ block.settings.time }}</p>{% endif %}
+            </div>
+          <div class="amr_PP_points">{{ block.settings.kpoints }}</div>
+              </div>
+          {% if block.settings.btn_txt != blank %}<a href="{{ block.settings.btn_url }}">{{ block.settings.btn_txt }}</a>{% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 {% schema %}
 {
   "name": "Pricing Plan",
@@ -19,6 +43,11 @@
       "name": "Plan",
       "settings": [
         {
+          "type":"text",
+          "id":"custom_class",
+          "label":"Custom Class"
+        },
+        {
           "type": "text",
           "id": "title",
           "label":"Title"
@@ -26,7 +55,7 @@
         {
           "type": "richtext",
           "id": "detail",
-          "label":"Detail"
+          "label":"Short Detail"
         },
         {
           "type":"text",
