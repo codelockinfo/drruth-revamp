@@ -419,8 +419,8 @@
         "aa805a4c-34ab-45f2-9cf6-a4833ba05365": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Years of saving pet lives",
+            "text": "<p>35+<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -428,8 +428,8 @@
         "3430656a-6166-4bf9-a2a0-c8567cdf30ff": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Successful Students",
+            "text": "<p>100+<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -437,8 +437,8 @@
         "fec3f12f-a2b1-4d2d-b023-d9cf792a59fb": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "Happy Tails",
+            "text": "<p>30000<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -450,7 +450,7 @@
         "fec3f12f-a2b1-4d2d-b023-d9cf792a59fb"
       ],
       "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center; max-width: 800px;}",
         ".button.button--primary {display: none;}"
       ],
@@ -459,7 +459,7 @@
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Button label",
@@ -467,7 +467,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 48,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     },
