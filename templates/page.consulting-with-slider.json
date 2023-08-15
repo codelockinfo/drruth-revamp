@@ -254,6 +254,9 @@
         "2c1dde31-a28e-410e-ac25-bcbde16ebbfa",
         "6aad353e-30fb-47d9-9b0f-40d3ebe1800a"
       ],
+      "custom_css": [
+        ".amr_collaboration_approach_img img {object-fit: cover;}"
+      ],
       "settings": {
         "heading": "Our Collaboration Approach ",
         "desc": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>"
@@ -372,6 +375,9 @@
         "c8bfb29c-3d45-480d-a9b1-f156fc5111a0",
         "3d6942da-ae41-4b6d-8e77-20eca0fe0dd9",
         "7c7a50a1-d912-4619-a969-38477ca03106"
+      ],
+      "custom_css": [
+        ".amr_pet_consultants_item:hover * {color:#000;}"
       ],
       "settings": {
         "heading": "Connecting vulnerable animals with their forever families",
