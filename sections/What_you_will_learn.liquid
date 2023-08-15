@@ -1,12 +1,55 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "What you will learn",
+  "settings": [
+    {
+      "type":"color",
+      "id":"bg_color",
+      "label":"Background Color"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label":"Heading"
+    },
+    {
+      "type": "richtext",
+      "id": "desc",
+      "label":"Description"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "points",
+      "name": "Point",
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label":"Title"
+        },
+        {
+          "type":"color",
+          "id":"title_color",
+          "label":"Title Color"
+        },
+        {
+          "type": "richtext",
+          "id": "detail",
+          "label":"Detail"
+        },
+        {
+          "type":"color",
+          "id":"detail_color",
+          "label":"Detail Color"
+        }
+      ]
+    }
+  ],
+  "presets": [
+      {
+        "name": "What you will learn"
+      }
+    ]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
