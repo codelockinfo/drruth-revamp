@@ -523,6 +523,19 @@ img.amr_person_detail_img {
     position: relative;
     padding-left: 34px;
 }
+.amr_HW_item {
+    position: relative;
+}
+.amr_HW_item:before {
+    content: '';
+    background-image: url('https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Content.png?v=1692138453');
+    position: absolute;
+    left: -34px;
+    top: 0;
+    width: 24px;
+    height: 24px;
+    background-size: contain;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
