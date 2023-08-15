@@ -1,3 +1,14 @@
+<div class="amr_more_resources amr_dots_arrows">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+      <div class="amr_PD_btn_grup">
+        {% if section.settings.btn_txt != blank %}<a href="{{ section.settings.btn_url }}">{{ section.settings.btn_txt }}</a>{% endif %}
+        {% if section.settings.btn_txt2 != blank %}<a href="{{ section.settings.btn_url2 }}">{{ section.settings.btn_txt2 }}</a>{% endif %}
+      </div>
+    </div>
+</div>
 {% schema %}
 {
   "name": "More Resources",
