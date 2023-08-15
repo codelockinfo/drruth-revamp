@@ -12,6 +12,7 @@
         </div>
       {% endfor %}
     </div>
+    {% if section.settings.btn_txt != blank %}<a class="amr_HW_btn" href="{{ section.settings.btn_url }}">{{ section.settings.btn_txt }}</a>{% endif %}
   </div>
 </div>
 {% schema %}
@@ -27,6 +28,16 @@
       "type": "richtext",
       "id": "desc",
       "label":"Description"
+    },
+    {
+      "type": "text",
+      "id": "btn_txt",
+      "label":"Button Text"
+    },
+    {
+      "type": "url",
+      "id": "btn_url",
+      "label": "Button URL"
     }
   ],
   "blocks": [
