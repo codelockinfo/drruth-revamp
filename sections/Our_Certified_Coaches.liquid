@@ -7,10 +7,15 @@
     <div class="amr_CC_items">
       {% for block in section.blocks %}
           <div class="amr_CC_item">
-            
+            <div class="amr_CC_item_header">
+              <h3>{{ block.settings.title }}</h3>
+              <div>{{ block.settings.detail }}</div>
+            </div>
+            {% if block.settings.btn_txt != blank %}<a class="amr_CC_item_btn" href="{{ block.settings.btn_url }}">{{ block.settings.btn_txt }}</a>{% endif %}
           </div>
       {% endfor %}
     </div>
+    {% if section.settings.btn_txt_main != blank %}<a class="amr_CC_main_btn" href="{{ section.settings.btn_url_main }}">{{ section.settings.btn_txt_main }}</a>{% endif %}
   </div>
 </div>
 {% schema %}
