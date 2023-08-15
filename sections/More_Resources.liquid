@@ -1,12 +1,65 @@
 {% schema %}
-  {
-    "name": "Section name",
-    "settings": []
-  }
+{
+  "name": "More Resources",
+  "settings": [
+    {
+      "type":"color",
+      "id":"bg_color",
+      "label":"Background Color"
+    },
+    {
+      "type":"color",
+      "id":"slide_bg_color",
+      "label":"Slider Background Color"
+    },
+    {
+      "type": "text",
+      "id": "heading",
+      "label":"Heading"
+    },
+    {
+      "type": "richtext",
+      "id": "desc",
+      "label":"Description"
+    },
+    {
+      "type":"text",
+      "id":"btn_txt",
+      "label":"Button Text"
+    },
+    {
+      "type":"url",
+      "id":"btn_url",
+      "label":"Button URL"
+    },
+    {
+      "type":"text",
+      "id":"btn_txt2",
+      "label":"Button Text"
+    },
+    {
+      "type":"url",
+      "id":"btn_url2",
+      "label":"Button URL"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "Images",
+      "name": "Images",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "main_img",
+          "label":"Image"
+        }
+      ]
+    }
+  ],
+  "presets": [
+      {
+        "name": "More Resources"
+      }
+    ]
+}
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
