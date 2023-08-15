@@ -514,13 +514,13 @@
         "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "The opportunity to become a professional pet Pet Health Coach has come very close to you"
+            "heading": "“If you have a strong purpose in life, you don’t have to be pushed. Your passion will drive you there.” "
           }
         },
         "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "APPLY TO THE PROGRAM",
+            "button_label_1": "-Dr. Ruth",
             "button_link_1": "#"
           }
         }
@@ -538,13 +538,13 @@
         ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
+        "image_2": "shopify:\/\/shop_images\/Rectangle_b77a9a5f-54b5-400f-be26-5ea80af4cd73.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "container_bg": "rgba(0,0,0,0)",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "heading_color": "#ffffff",
         "text_color": "#ffffff",
         "show_arrow_mobile": "yes",
@@ -560,11 +560,7 @@
           "type": "service_link",
           "settings": {
             "title": "",
-            "detail": "",
-            "title_1": "",
-            "detail_1": "",
-            "title_2": "",
-            "detail_2": ""
+            "servicelink": ""
           }
         },
         "dd0fff3b-0f01-4482-b43a-99de79a5f33c": {
@@ -587,6 +583,7 @@
         "dd0fff3b-0f01-4482-b43a-99de79a5f33c",
         "09d5f1fc-7c17-49f3-8a81-3ff241900467"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Our Services",
         "desc": ""
