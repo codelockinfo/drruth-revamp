@@ -682,7 +682,9 @@
       ],
       "settings": {
         "heading": "How it Works during the program",
-        "desc": "<p>From application to graduation, our program offers a comprehensive journey towards becoming a certified holistic pet health coach. In this guide, we will walk you through each step of the process and provide an overview of what you can expect as you embark on this exciting career path<\/p>"
+        "desc": "<p>From application to graduation, our program offers a comprehensive journey towards becoming a certified holistic pet health coach. In this guide, we will walk you through each step of the process and provide an overview of what you can expect as you embark on this exciting career path<\/p>",
+        "btn_txt": "Apply Now",
+        "btn_url": ""
       }
     }
   },
