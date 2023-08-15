@@ -541,11 +541,11 @@ img.amr_person_detail_img {
     content: '';
     position: absolute;
     left: -24px;
-    bottom: -30px;
+    bottom: -22px;
     background-size: contain;
     background-image: url('https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Connector1.png?v=1692138978');
-    width: 2px;
-    height: 100%;
+    width: 3px;
+    height: 90%;
 }
 .amr_HW_item h3 {
     color: #1E1E1E;
