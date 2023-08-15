@@ -541,7 +541,7 @@
         "image_2": "shopify:\/\/shop_images\/Rectangle_b77a9a5f-54b5-400f-be26-5ea80af4cd73.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "desktop_content_position": "middle-left",
+        "desktop_content_position": "middle-center",
         "show_text_box": true,
         "container_bg": "rgba(0,0,0,0)",
         "desktop_content_alignment": "center",
