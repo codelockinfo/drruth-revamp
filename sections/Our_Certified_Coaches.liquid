@@ -1,6 +1,22 @@
+<div class="amr_certified_coaches">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+    </div>
+    <div class="amr_CC_items">
+      {% for block in section.blocks %}
+          <div class="amr_CC_item">
+            
+          </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 {% schema %}
 {
   "name": "Our Certified Coaches",
+  "max_blocks":8,
   "settings": [
     {
       "type": "text",
