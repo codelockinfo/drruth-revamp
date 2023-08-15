@@ -534,8 +534,8 @@
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
         ".banner__media.media {padding: 0;}",
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
-        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
+        ".rx_read_more_btn_green {font-family: \"Oakley Script\"; font-size: 42px; font-weight: 100; border: 0; cursor: text; pointer-events: none; color: #fff;}",
+        ".rx_banner__heading {font-size: 34px; max-width: 750px; line-height: 45px;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/Rectangle_b77a9a5f-54b5-400f-be26-5ea80af4cd73.png",
