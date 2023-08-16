@@ -585,6 +585,7 @@ img.amr_person_detail_img {
     text-transform: uppercase;
     padding: 10px 8px;
 }
+/* What to Learn */
 .amr_what_learn {
     padding: 100px 0px;
     position: relative;
@@ -613,6 +614,19 @@ img.amr_person_detail_img {
     font-weight: 400;
     line-height: 26.034px;
     margin: 0;
+}
+.amr_WL_item  h3 {
+    margin: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: BLT-Heirloom;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 32.593px;
+}
+.amr_WL_item  h3:last-child {
+    margin: 0 0 80px;;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
