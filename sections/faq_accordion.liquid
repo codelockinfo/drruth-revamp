@@ -6,16 +6,16 @@
     </div>
     <div class="amr_faq_list">
       {% for block in section.blocks %}
+          <div class="amr_faq_item">
             <button class="amr_accordion"><span>{{ block.settings.title }}</span><img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Vector_002ad72b-39a6-4f7f-8764-e837678cc6ec.svg?v=1692192786"></button>
             <div class="amr_panel">{{ block.settings.detail }}</div>
+          </div>
       {% endfor %}
     </div>
   </div>
 </div>
 <style>
-.amr_panel{
-    display:none;
-}
+  
 </style>
 <script>
 var acc = document.getElementsByClassName("amr_accordion");
