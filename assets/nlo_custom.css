@@ -829,6 +829,25 @@ img.amr_person_detail_img {
     line-height: 40px;
     margin: 0 0 10px;
 }
+.amr_PP_price_grup {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.amr_PP_price_grup p {
+    margin: 0;
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 58.889px;
+}
+.amr_PP_price_grup .amr_PP_price {
+    font-size: 44.167px;
+}
+.amr_PP_price_grup .amr_PP_time {
+    font-size: 24.167px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
