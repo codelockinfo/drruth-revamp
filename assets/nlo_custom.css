@@ -693,6 +693,9 @@ img.amr_person_detail_img {
     left: 50%;
     transform: translateX(-50%);
 }
+.amr_WL_points {
+    position: relative;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
