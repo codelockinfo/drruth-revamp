@@ -6,7 +6,7 @@
     </div>
     <div class="amr_CC_items">
       {% for block in section.blocks %}
-          <div class="amr_CC_item">
+          <div class="amr_CC_item" style="background-image:url('{{ block.settings.bg_img | img_url:'master' }}');">
             <div class="amr_CC_item_header">
               <h3>{{ block.settings.title }}</h3>
               <div>{{ block.settings.detail }}</div>
