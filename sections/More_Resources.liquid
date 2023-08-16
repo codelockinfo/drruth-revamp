@@ -7,15 +7,78 @@
         {% if section.settings.btn_txt != blank %}<a href="{{ section.settings.btn_url }}">{{ section.settings.btn_txt }}</a>{% endif %}
         {% if section.settings.btn_txt2 != blank %}<a href="{{ section.settings.btn_url2 }}">{{ section.settings.btn_txt2 }}</a>{% endif %}
       </div>
-      <div class="amr_MR_images">
+      <!-- <div class="amr_MR_images">
         {% for block in section.blocks %}
           <div class="amr_MR_img">
             <img src="{{ block.settings.main_img | img_url:'master' }}">
           </div>
         {% endfor %}
-      </div>
+      </div> -->
+
+<div class="carousel">
+    <div class="carousel-item">
+      <img src="../abdullah/Hero.png" alt="Image 1">
+    </div>
+    <div class="carousel-item active">
+      <img src="../abdullah/Hero.png" alt="Image 2">
+    </div>
+    <div class="carousel-item">
+      <img src="../abdullah/Hero.png" alt="Image 3">
+    </div>
+    <!-- Add more carousel items as needed -->
+    <button class="carousel-control-prev">Prev</button>
+    <button class="carousel-control-next">Next</button>
+  </div>
+
+    
     </div>
 </div>
+
+  <style>
+    .carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  position: relative;
+}
+
+.carousel-item {
+  flex: 0 0 100px; /* Adjust this value for smaller image width */
+  transition: all 0.3s;
+  opacity: 0.6;
+}
+
+.carousel-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+.carousel-item.active {
+  flex: 0 0 300px; /* Adjust this value for hero image width */
+  opacity: 1;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 10px 20px;
+}
+
+.carousel-control-prev {
+  left: 10px;
+}
+
+.carousel-control-next {
+  right: 10px;
+}
+  </style>
 {% schema %}
 {
   "name": "More Resources",
