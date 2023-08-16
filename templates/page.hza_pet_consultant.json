@@ -752,6 +752,63 @@
         "heading": "What you will learn",
         "desc": "<p>The program fees for our certified holistic pet health coach program may seem like a significant investment, but it's important to remember that this is an investment in your future and the health of pets. Our flexible payment options make it easier for you to get started on your career path without worrying about financial constraints. By becoming a certified holistic pet health coach, you'll be able to make a positive impact on the lives of pets and their owners, while building a fulfilling and rewarding career. Don't hesitate to invest in yourself and the future of pet health - join our program today!<\/p>"
       }
+    },
+    "6062b1f4-3e8c-4f90-a072-e18850ceccfd": {
+      "type": "Our_Certified_Coaches",
+      "blocks": {
+        "5b7b62f2-c989-440a-b405-910eb37bba51": {
+          "type": "consultants",
+          "settings": {
+            "bg_img": "shopify:\/\/shop_images\/c1.png",
+            "title": "Jessica Fisher",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "d034838f-3f9c-4c6a-b33f-6daf7069d80f": {
+          "type": "consultants",
+          "settings": {
+            "bg_img": "shopify:\/\/shop_images\/c2.png",
+            "title": "Jessica Fisher",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "e979b194-067e-4cb4-b46c-a187dc2a3d8f": {
+          "type": "consultants",
+          "settings": {
+            "bg_img": "shopify:\/\/shop_images\/c3.png",
+            "title": "Jessica Fisher",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "b8677903-5d45-4e90-a170-cdf32471689e": {
+          "type": "consultants",
+          "settings": {
+            "bg_img": "shopify:\/\/shop_images\/c4.png",
+            "title": "Jessica Fisher",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "5b7b62f2-c989-440a-b405-910eb37bba51",
+        "d034838f-3f9c-4c6a-b33f-6daf7069d80f",
+        "e979b194-067e-4cb4-b46c-a187dc2a3d8f",
+        "b8677903-5d45-4e90-a170-cdf32471689e"
+      ],
+      "settings": {
+        "heading": "Our Certified Coaches",
+        "desc": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>",
+        "btn_txt_main": "Book A Consultation",
+        "btn_url_main": ""
+      }
     }
   },
   "order": [
@@ -771,6 +828,7 @@
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "652c7008-877b-454a-9171-63f8615c96e1",
     "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f",
-    "0967645d-51d5-4ed7-98bb-13a79e9edfe7"
+    "0967645d-51d5-4ed7-98bb-13a79e9edfe7",
+    "6062b1f4-3e8c-4f90-a072-e18850ceccfd"
   ]
 }
