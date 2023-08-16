@@ -641,6 +641,21 @@ img.amr_person_detail_img {
 .amr_WL_item_inner {
     padding: 0px 20px;
 }
+ul.slick-dots li {
+    list-style: none;
+    width: 12px;
+    height: 12px;
+    background-color: #999999;
+    border-radius: 100%;
+}
+ul.slick-dots li button{
+    width:0;
+    height:0px;
+    font-size:0px;
+}
+ul.slick-dots li button:before{
+    display:none;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
