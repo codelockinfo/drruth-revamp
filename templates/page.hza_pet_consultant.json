@@ -804,9 +804,9 @@
         "09d5f1fc-7c17-49f3-8a81-3ff241900467": {
           "type": "service_right",
           "settings": {
-            "detail": "",
-            "btnText": "",
-            "btnlink": ""
+            "detail": "<p>We help you develop the knowledge and skills you need to provide effective and compassionate care for pets.<\/p>",
+            "btnText": "APPLY NOW",
+            "btnlink": "#"
           }
         }
       },
@@ -815,7 +815,6 @@
         "dd0fff3b-0f01-4482-b43a-99de79a5f33c",
         "09d5f1fc-7c17-49f3-8a81-3ff241900467"
       ],
-      "disabled": true,
       "settings": {
         "heading": "Our Services",
         "desc": ""
