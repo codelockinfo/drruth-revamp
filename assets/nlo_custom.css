@@ -721,6 +721,17 @@ img.amr_person_detail_img {
     padding: 0 20px;
 }
 }
+@media screen and (max-width:1150px){
+.amr_WL_points:before {
+    left: 350px;
+}
+.amr_WL_points:after {
+    right: 350px;
+}
+}
+@media screen and (max-width:1040px){
+  
+}
 @media screen and (max-width:991px){
 .amr_pet_consultants_header h2 {
     font-size: 48px;
