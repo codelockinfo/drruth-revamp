@@ -252,7 +252,7 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; text-align:center !important;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; text-align: center !important;}",
         ".button.button--primary,.multicolumn-card__info .icon-wrap {display: none;}"
       ],
       "settings": {
@@ -299,6 +299,11 @@
       "block_order": [
         "template--14952470151233__068f4c7f-2708-4af0-9ba4-5926ffd56208-column-1",
         "template--14952470151233__068f4c7f-2708-4af0-9ba4-5926ffd56208-column-2"
+      ],
+      "custom_css": [
+        "h3 {font-size: 36px; font-weight: 300; font-family: \"Montserrat\" !important; margin-bottom: 80px !important;}",
+        ".multicolumn-list__item {border-radius: 25px;}",
+        ".multicolumn-list__item:nth-of-type(1) {background-color:#2D4B49;}"
       ],
       "settings": {
         "title": "",
