@@ -20,7 +20,7 @@
         {% for block in section.blocks %}
           {% if block.type == 'detail' %}
             <div>{{ block.settings.detail }}</div>
-            <a href="{{ block.settings.btn_urlm }}">{{ block.settings.btn_txtm }}</a>
+            <a href="{{ block.settings.btn_urlm }}"><span>{{ block.settings.btn_txtm }}</span> <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Vector_1_24bec78c-516f-4df7-a7b8-50bf4a4183f3.svg?v=1692219691"></a>
           {% endif %}
         {% endfor %}
       </div>
