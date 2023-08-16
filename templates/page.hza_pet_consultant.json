@@ -827,12 +827,44 @@
           "type": "FAQ",
           "settings": {
             "title": "What will I learn from this certification?",
-            "detail": ""
+            "detail": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+          }
+        },
+        "1c9d3ab8-2b89-44cd-a369-63212937a027": {
+          "type": "FAQ",
+          "settings": {
+            "title": "What can I do as a Certified Holistic Pet Health Coach?",
+            "detail": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+          }
+        },
+        "ee6663e4-97c7-43bc-92e4-ff248dfbf205": {
+          "type": "FAQ",
+          "settings": {
+            "title": "What is one-to-one mentorship work?",
+            "detail": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+          }
+        },
+        "3e9f562b-edfe-482f-9d72-382a23cb236a": {
+          "type": "FAQ",
+          "settings": {
+            "title": "What are the Q&A Weekly sessions?",
+            "detail": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
+          }
+        },
+        "7cc8c0ad-d8e9-4cf9-8b03-649b7e80aa38": {
+          "type": "FAQ",
+          "settings": {
+            "title": "What can I do as a Certified Holistic Pet Health Coach?",
+            "detail": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<\/p>"
           }
         }
       },
       "block_order": [
-        "0d03e849-08be-4fee-9b08-57b6cae38dd0"
+        "0d03e849-08be-4fee-9b08-57b6cae38dd0",
+        "1c9d3ab8-2b89-44cd-a369-63212937a027",
+        "ee6663e4-97c7-43bc-92e4-ff248dfbf205",
+        "3e9f562b-edfe-482f-9d72-382a23cb236a",
+        "7cc8c0ad-d8e9-4cf9-8b03-649b7e80aa38"
       ],
       "settings": {
         "heading": "FAQs",
