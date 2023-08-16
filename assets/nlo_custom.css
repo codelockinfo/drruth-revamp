@@ -1209,6 +1209,12 @@ img.amr_person_detail_img {
 .amr_CC_items {
     grid-template-columns: repeat(2,1fr);
 }
+button.amr_accordion span {
+    font-size: 18px;
+}
+.amr_panel p {
+    font-size: 16px;
+}
 }
 @media screen and (max-width:600px){
 .amr_WL_points:before {
