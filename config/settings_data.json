@@ -686,8 +686,9 @@
     "custom_css": [
       "\/*HEADER*\/ \/*COACHING PAGE*\/ \/*KLAVIYO*\/.klaviyo-close-form {margn-top: 20px !important; margin-right: 20px !important;}",
       "#consulting-page a.button.button--primary {background: #a6b7ff; padding-top: 5px;}",
-      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(2) {background: #A6B7FF;}",
-      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(3) {background: #2D4B49; color:#fff;}"
+      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(2) {background: #a6b7ff;}",
+      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(3) {background: #2d4b49; color: #fff;}",
+      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .multicolumn-card__info {border-radius: 44px !important; padding: 25px 30px;}"
     ]
   }
 }
