@@ -1201,6 +1201,10 @@ div#footer-association-container img#footer-association-img {
 .amr_PP_price_grup:after {
     bottom: -30px;
 }
+.amr_OS_links h2 {
+    font-size: 48px;
+    margin: 0 0 40px;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2,
