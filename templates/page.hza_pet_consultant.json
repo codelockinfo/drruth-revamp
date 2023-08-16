@@ -693,13 +693,59 @@
         "024a2427-e055-42eb-81ad-5662bc9a068f": {
           "type": "points",
           "settings": {
-            "title": "Module 8",
-            "detail": ""
+            "point_number": "Module 1",
+            "title": "Endocrine",
+            "detail": "<p>This module will cover the endocrine system and how it impacts pet health, including strategies for supporting healthy hormonal balance.<\/p>"
+          }
+        },
+        "f00d98b6-df92-4541-8a11-006a712afbc5": {
+          "type": "points",
+          "settings": {
+            "point_number": "Module 2",
+            "title": "BusinessLogistics\/Essentials",
+            "detail": "<p>You'll learn about the business side of pet health coaching, including legal and financial considerations.<\/p>"
+          }
+        },
+        "c561e895-a20b-43dc-b392-369b330f98b5": {
+          "type": "points",
+          "settings": {
+            "point_number": "Module 3",
+            "title": "Skin",
+            "detail": "<p>This module will cover common skin issues in pets and how to support healthy skin through nutrition and other holistic approaches.<\/p>"
+          }
+        },
+        "a6fc9c43-9b86-44c5-b3f9-1f35c182e186": {
+          "type": "points",
+          "settings": {
+            "point_number": "Module 4",
+            "title": "Endocrine",
+            "detail": "<p>This module will cover the endocrine system and how it impacts pet health, including strategies for supporting healthy hormonal balance.<\/p>"
+          }
+        },
+        "8aee48a5-24f0-4d5e-8789-08251dcd1730": {
+          "type": "points",
+          "settings": {
+            "point_number": "Module 5",
+            "title": "BusinessLogistics\/Essentials",
+            "detail": "<p>You'll learn about the business side of pet health coaching, including legal and financial considerations.<\/p>"
+          }
+        },
+        "a5bb3e43-58bc-474a-a576-cb705f0f9e8d": {
+          "type": "points",
+          "settings": {
+            "point_number": "Module 6",
+            "title": "Skin",
+            "detail": "<p>This module will cover common skin issues in pets and how to support healthy skin through nutrition and other holistic approaches.<\/p>"
           }
         }
       },
       "block_order": [
-        "024a2427-e055-42eb-81ad-5662bc9a068f"
+        "024a2427-e055-42eb-81ad-5662bc9a068f",
+        "f00d98b6-df92-4541-8a11-006a712afbc5",
+        "c561e895-a20b-43dc-b392-369b330f98b5",
+        "a6fc9c43-9b86-44c5-b3f9-1f35c182e186",
+        "8aee48a5-24f0-4d5e-8789-08251dcd1730",
+        "a5bb3e43-58bc-474a-a576-cb705f0f9e8d"
       ],
       "settings": {
         "bg_color": "#2d4b49",
