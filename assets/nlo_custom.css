@@ -753,11 +753,10 @@ img.amr_person_detail_img {
 .amr_dots_arrows button.slick-next.slick-arrow {
     right: 25%;
 }
-.amr_pet_consultants_header h2 {
+.amr_pet_consultants_header h2,
+.person_story h2.blog__title,
+.amr_WL_header h2{
     font-size: 48px;
-}
-.person_story h2.blog__title {
-    margin-bottom: 48px;
 }
 .amr_pet_consultants_header p {
     font-size: 16px;
@@ -852,11 +851,10 @@ div#footer-association-container img#footer-association-img {
 }
 }
 @media screen and (max-width:767px){
-.amr_pet_consultants_header h2 {
+.amr_pet_consultants_header h2,
+.person_story h2.blog__title,
+.amr_WL_header h2{
     font-size: 42px;
-}
-.person_story h2.blog__title {
-    margin-bottom: 42px;
 }
 .amr_pet_consultants_list {
     grid-column-gap: 18px;
