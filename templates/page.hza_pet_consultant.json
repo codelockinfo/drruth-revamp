@@ -862,6 +862,62 @@
         "heading": "Program fees",
         "desc": "<p>The program fees for our certified holistic pet health coach program may seem like a significant investment, but it's important to remember that this is an investment in your future and the health of pets. Our flexible payment options make it easier for you to get started on your career path without worrying about financial constraints.By becoming a certified holistic pet health coach, you'll be able to make a positive impact on the lives of pets and their owners, while building a fulfilling and rewarding career. Don't hesitate to invest in yourself and the future of pet health - join our program today!<\/p>"
       }
+    },
+    "feaf7099-4632-4f4a-beb7-b14a2f6dfcb7": {
+      "type": "hza_testimonial",
+      "blocks": {
+        "ae1b5ffd-9b16-4754-9c48-8d0724c96157": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#2d4b49",
+            "title": "Mind Blowing!",
+            "title_color": "#ffffff",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Missy Springer & Kenzie South Paw Aussies",
+            "name_color": "#ffffff",
+            "message": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
+            "message_color": "#ffffff",
+            "star_img": "shopify:\/\/shop_images\/Vector.svg"
+          }
+        },
+        "239b2bd7-f911-4dae-8651-5f0d8d3fb84b": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#2d4b49",
+            "title": "Mind Blowing!",
+            "title_color": "#ffffff",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Missy Springer & Kenzie South Paw Aussies",
+            "name_color": "#ffffff",
+            "message": "",
+            "message_color": "#ffffff",
+            "star_img": "shopify:\/\/shop_images\/Vector.svg"
+          }
+        },
+        "ed7e48d5-5e44-435e-b6b6-358458977a8d": {
+          "type": "testimonial",
+          "settings": {
+            "bg_color": "#2d4b49",
+            "title": "Mind Blowing!",
+            "title_color": "#ffffff",
+            "main_img": "shopify:\/\/shop_images\/b716bc8363553aa644c12de5d484544e.png",
+            "name": "Missy Springer & Kenzie South Paw Aussies",
+            "name_color": "#ffffff",
+            "message": "",
+            "message_color": "#ffffff",
+            "star_img": "shopify:\/\/shop_images\/Vector.svg"
+          }
+        }
+      },
+      "block_order": [
+        "ae1b5ffd-9b16-4754-9c48-8d0724c96157",
+        "239b2bd7-f911-4dae-8651-5f0d8d3fb84b",
+        "ed7e48d5-5e44-435e-b6b6-358458977a8d"
+      ],
+      "settings": {
+        "heading": "our client’s Testimonials ",
+        "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
+      }
     }
   },
   "order": [
@@ -883,6 +939,7 @@
     "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f",
     "0967645d-51d5-4ed7-98bb-13a79e9edfe7",
     "6062b1f4-3e8c-4f90-a072-e18850ceccfd",
-    "cdb9ea8d-5b05-4219-930a-f46075180e68"
+    "cdb9ea8d-5b05-4219-930a-f46075180e68",
+    "feaf7099-4632-4f4a-beb7-b14a2f6dfcb7"
   ]
 }
