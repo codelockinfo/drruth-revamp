@@ -1,3 +1,27 @@
+<div class="amr_our_services">
+  <div class="amr_container_1170">
+    <div class="amr_OS_flex">
+      <div class="amr_OS_links">
+        {% for block in section.blocks %}
+          {% if block.type == 'link' %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="amr_OS_img">
+        {% for block in section.blocks %}
+          {% if block.type == 'img' %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <div class="amr_OS_detail">
+        {% for block in section.blocks %}
+          {% if block.type == 'detail' %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
 {% schema %}
 {
   "name": "Our Services",
@@ -12,6 +36,7 @@
     {
       "type": "img",
       "name": "Image",
+      "limit":1,
       "settings": [
         {
           "type": "image_picker",
@@ -39,6 +64,7 @@
     {
       "type": "detail",
       "name": "Detail",
+      "limit":1,
       "settings": [
         {
           "type":"richtext",
