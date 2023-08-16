@@ -557,6 +557,9 @@
         "239b2bd7-f911-4dae-8651-5f0d8d3fb84b",
         "ed7e48d5-5e44-435e-b6b6-358458977a8d"
       ],
+      "custom_css": [
+        ".amr_testimonial{padding-bottom:10px;}"
+      ],
       "settings": {
         "heading": "our client’s Testimonials ",
         "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
