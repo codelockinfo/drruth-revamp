@@ -384,6 +384,9 @@
         "8aee48a5-24f0-4d5e-8789-08251dcd1730",
         "a5bb3e43-58bc-474a-a576-cb705f0f9e8d"
       ],
+      "custom_css": [
+        ".amr_what_learn {padding: 135px 0 160px;}"
+      ],
       "settings": {
         "bg_color": "#2d4b49",
         "heading": "What you will learn",
@@ -496,7 +499,7 @@
         "df7b49a3-8db0-4fb1-930b-2baf4adf828f"
       ],
       "custom_css": [
-        ".amr_pricing_plan {padding-top:0;}"
+        ".amr_pricing_plan {padding-top: 0;}"
       ],
       "settings": {
         "heading": "Program fees",
