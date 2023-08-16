@@ -650,6 +650,8 @@ img.amr_person_detail_img {
 }
 .amr_dots_arrows ul.slick-dots li.slick-active {
     background-color: #A6B7FF;
+    width: 16px;
+    height: 16px;
 }
 .amr_dots_arrows ul.slick-dots li button{
     width:0;
