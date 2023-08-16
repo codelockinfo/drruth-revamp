@@ -15,7 +15,7 @@
             "desktop_button_alignment": "center",
             "content_layout": "overlap",
             "grid_type": "type1",
-            "show_arrow_mobile": "yes",
+            "show_arrow_mobile": "no",
             "mobile_content_alignment": "center",
             "heading": "Transform Your Pet's Health",
             "description": "<p>Discover the power of holistic veterinary care with Dr. Ruth Roberts' expert coaching & guidance. Transform your pet's well-being today.<\/p>",
@@ -73,7 +73,7 @@
       ],
       "settings": {
         "desktopMaxWidth": "100%",
-        "auto_play": true
+        "auto_play": false
       }
     },
     "519a28f3-c4ef-4319-9853-c8d825c82db3": {
