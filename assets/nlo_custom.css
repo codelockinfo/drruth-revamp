@@ -725,6 +725,50 @@ img.amr_person_detail_img {
     grid-row-gap: 30px;
     grid-column-gap: 30px;
 }
+.amr_CC_item {
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 28px;
+    min-height: 388px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+}
+.amr_CC_item .amr_CC_item_header h3 {
+    color: #FFF;
+    font-family: BLT-Heirloom;
+    font-size: 39.287px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.786px;
+    margin: 0 0 6px;
+}
+.amr_CC_item .amr_CC_item_header p {
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 14.74px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22.11px;
+    letter-spacing: -0.295px;
+    margin: 0;
+}
+.amr_CC_item_btn {
+    color: var(--style, #1E1E1E);
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: -0.21px;
+    border-radius: 29.397px;
+    background: #FFF;
+    padding: 10px 14px;
+    text-align: center;
+    text-decoration: none;
+    width: fit-content;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
