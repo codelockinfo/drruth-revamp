@@ -917,6 +917,16 @@ img.amr_person_detail_img {
 .amr_pet_consultants_header .amr_PD_btn_grup {
     margin: 40px 0px;
 }
+/* faq */
+.amr_faq_accordion {
+    position: relative;
+    padding: 60px 0px;
+}
+.amr_faq_list {
+    border-radius: 40px;
+    background: #E0ECBE;
+    padding: 40px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
