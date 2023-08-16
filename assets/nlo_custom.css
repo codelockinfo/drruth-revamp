@@ -955,7 +955,7 @@ button.amr_accordion.amr_active img {
     transform: rotate(180deg);
 }
 .amr_panel {
-    transition:.3s;
+    transition:1s;
     border-bottom: 1px solid rgba(123, 97, 255, 0.18);
 }
 @media screen and (max-width:1200px){
