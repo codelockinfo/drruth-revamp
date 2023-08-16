@@ -688,7 +688,8 @@
       "#consulting-page a.button.button--primary {background: #a6b7ff; padding-top: 5px;}",
       "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(1) {background: #f5e177;}",
       "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(2) {background: #a6b7ff;}",
-      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(3) {background: #2d4b49; color: #fff;}"
+      "#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408 .grid__item:nth-of-type(3) {background: #2d4b49; color: #fff;}",
+      "ul#Slider-template--14952470151233__c310de0e-f268-4dff-8278-ea581c28a408{max-width:1000px}"
     ]
   }
 }
