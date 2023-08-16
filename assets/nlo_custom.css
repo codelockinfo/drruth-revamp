@@ -1068,3 +1068,8 @@ img.amr_person_detail_img {
     width: 100%;
 }
 }
+@media screen and (max-width:425px){
+.amr_CC_items {
+    grid-template-columns: 1fr;
+}
+}
