@@ -876,6 +876,21 @@ img.amr_person_detail_img {
     line-height: 30px;
     text-transform: capitalize;
 }
+.amr_PP_item a {
+    border-radius: 25px;
+    background: #2D4B49;
+    width: 100%;
+    margin: 0 auto;
+    text-decoration: none;
+    padding: 5px 14px;
+    color: #A6B7FF;
+    font-family: BLT-Heirloom;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: capitalize;
+    max-width: 200px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
