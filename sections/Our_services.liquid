@@ -1,7 +1,7 @@
 <div class="amr_our_services">
   <div class="amr_container_1170">
     <div class="amr_OS_flex">
-      <div class="amr_OS_links">
+      <div class="amr_OS_links amr_OS_flex_item">
         <h2>{{ section.settings.heading }}</h2>
         {% for block in section.blocks %}
           {% if block.type == 'link' %}
@@ -9,14 +9,14 @@
           {% endif %}
         {% endfor %}
       </div>
-      <div class="amr_OS_img">
+      <div class="amr_OS_img amr_OS_flex_item">
         {% for block in section.blocks %}
           {% if block.type == 'img' %}
             <img src="{{ block.settings.main_img | img_url:'master' }}">
           {% endif %}
         {% endfor %}
       </div>
-      <div class="amr_OS_detail">
+      <div class="amr_OS_detail amr_OS_flex_item">
         {% for block in section.blocks %}
           {% if block.type == 'detail' %}
             <div>{{ block.settings.detail }}</div>

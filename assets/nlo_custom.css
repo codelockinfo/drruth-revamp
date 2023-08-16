@@ -959,6 +959,29 @@ button.amr_accordion.amr_active img {
     transition:1s;
     border-bottom: 1px solid rgba(123, 97, 255, 0.18);
 }
+/* our services */
+.amr_our_services {
+    position: relative;
+    padding: 60px 0px;
+}
+.amr_OS_flex {
+    display: flex;
+    justify-content: space-between;
+    column-gap: 40px;
+}
+.amr_OS_flex_item {
+    width: 100%;
+}
+.amr_OS_links h2 {
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 61.908px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+    margin: 0 0 60px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
