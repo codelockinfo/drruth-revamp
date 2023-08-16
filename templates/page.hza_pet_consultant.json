@@ -157,6 +157,64 @@
         "padding_bottom": 0
       }
     },
+    "43dd9016-3eb5-4a94-9f3b-f0265f70480f": {
+      "type": "Our_services",
+      "blocks": {
+        "845d34e5-ddd8-4741-a362-976266a5baa1": {
+          "type": "link",
+          "settings": {
+            "btn_txt": "Comprehensive Training",
+            "btn_url": "#"
+          }
+        },
+        "48e5eb75-f5bb-4aad-abdc-4d783fe7ae01": {
+          "type": "link",
+          "settings": {
+            "btn_txt": "Personalized Learning",
+            "btn_url": "#"
+          }
+        },
+        "0d616814-72c7-4118-beba-e41885924e3f": {
+          "type": "link",
+          "settings": {
+            "btn_txt": "One-to-One Mentorship",
+            "btn_url": "#"
+          }
+        },
+        "3744653d-a085-4b64-a48f-01d14e8410a7": {
+          "type": "link",
+          "settings": {
+            "btn_txt": "Networking Opportunities",
+            "btn_url": "#"
+          }
+        },
+        "1a2cdd71-cbc2-427f-a254-7e6253dcd7b1": {
+          "type": "img",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/our_service.png"
+          }
+        },
+        "0365add8-b5ce-4b53-a25e-97e33cba76c4": {
+          "type": "detail",
+          "settings": {
+            "detail": "<p>We help you develop the knowledge and skills you need to provide effective and compassionate care for pets.<\/p>",
+            "btn_txtm": "Apply Now",
+            "btn_urlm": "#"
+          }
+        }
+      },
+      "block_order": [
+        "845d34e5-ddd8-4741-a362-976266a5baa1",
+        "48e5eb75-f5bb-4aad-abdc-4d783fe7ae01",
+        "0d616814-72c7-4118-beba-e41885924e3f",
+        "3744653d-a085-4b64-a48f-01d14e8410a7",
+        "1a2cdd71-cbc2-427f-a254-7e6253dcd7b1",
+        "0365add8-b5ce-4b53-a25e-97e33cba76c4"
+      ],
+      "settings": {
+        "heading": "Our services"
+      }
+    },
     "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f": {
       "type": "how_it_work",
       "blocks": {
@@ -815,6 +873,7 @@
         "dd0fff3b-0f01-4482-b43a-99de79a5f33c",
         "09d5f1fc-7c17-49f3-8a81-3ff241900467"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Our Services",
         "desc": ""
@@ -878,6 +937,7 @@
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "91d75749-340e-4f9a-9bba-f82d8c67429a",
+    "43dd9016-3eb5-4a94-9f3b-f0265f70480f",
     "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f",
     "295c072c-7667-4bf1-80ae-c3bbfee4074b",
     "068f4c7f-2708-4af0-9ba4-5926ffd56208",
