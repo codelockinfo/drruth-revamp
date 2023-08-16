@@ -833,6 +833,7 @@ img.amr_person_detail_img {
     display: flex;
     align-items: center;
     justify-content: center;
+    position:relative;
 }
 .amr_PP_price_grup p {
     margin: 0;
