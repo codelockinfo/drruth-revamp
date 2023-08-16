@@ -834,14 +834,15 @@ img.amr_person_detail_img {
     align-items: center;
     justify-content: center;
     position:relative;
-    margin-bottom:80px;
+    margin-bottom:100px;
 }
 .amr_PP_price_grup:after {
-    content:'';
-    position:absolute;
-    width:100%;
-    height:1px;
-    background-color:#fff;
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    background-color: #fff;
+    bottom: -60px;
 }
 .amr_PP_price_grup p {
     margin: 0;
