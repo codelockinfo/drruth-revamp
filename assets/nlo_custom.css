@@ -914,6 +914,9 @@ img.amr_person_detail_img {
 .amr_more_resources .amr_container_1170 {
     padding: 60px;
 }
+.amr_pet_consultants_header .amr_PD_btn_grup {
+    margin: 40px 0px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
