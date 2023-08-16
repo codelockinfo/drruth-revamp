@@ -664,7 +664,7 @@
         ".button.button--primary {display: none;}",
         ".rte {font-size: 50px; font-family: \"BLT-Heirloom\"; font-weight: 300; text-align: left;}",
         ".multicolumn-list h3 {font-family: Josefin Sans; text-align: left; font-size: 18px; font-weight: 400;}",
-        ".grid__item {border-radius: 44px; padding: 212px 25px 0px;}"
+        ".grid__item {border-radius: 44px; padding: 12px 25px 0px !important;}"
       ],
       "settings": {
         "title": "Honoring a Legacy of Compassionate Care",
