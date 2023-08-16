@@ -951,6 +951,7 @@ img.amr_person_detail_img {
 }
 .amr_WL_points:after {
     right: 0;
+    display:block;
 }
 }
 @media screen and (max-width:575px){
