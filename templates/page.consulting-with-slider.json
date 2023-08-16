@@ -377,7 +377,44 @@
         "7c7a50a1-d912-4619-a969-38477ca03106"
       ],
       "custom_css": [
-        ".amr_pet_consultants_item:hover * {color:#000;}"
+        ".amr_pet_consultants_item:hover * {color: #000;}"
+      ],
+      "settings": {
+        "heading": "Connecting vulnerable animals with their forever families",
+        "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
+      }
+    },
+    "b77d842a-adca-4140-bd3d-34aecfcdd2c6": {
+      "type": "Person_Detail_Slider",
+      "blocks": {
+        "c7ad32a3-49a0-41c3-8ed4-ad677fd0d0b6": {
+          "type": "person_detail",
+          "settings": {
+            "bg_color": "#e6f972",
+            "title": "Wilma Shaw",
+            "short_detail": "<p>FNTP, BCHN, HPHC<\/p>",
+            "main_img": "shopify:\/\/shop_images\/Group_849.png",
+            "detail": "<p>After a fulfilling career as a Systems Engineer, Wilma Shaw found her true passion in helping people and pets achieve their best health. Since 2016, she has operated her Embrace Nutrition practice, providing personalized 1:1 and group classes to hundreds of individuals. With her expertise, Wilma will support your dog or cat's optimal health by helping you understand veterinary recommendations and addressing underlying causes of symptoms or dis-ease. She offers both in-person and virtual consultations for client convenience.<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "7463f4d1-0421-4cae-8c38-909954a7a1fd": {
+          "type": "person_detail",
+          "settings": {
+            "bg_color": "#e6f972",
+            "title": "Wilma Shaw 2",
+            "short_detail": "<p>FNTP, BCHN, HPHC<\/p>",
+            "main_img": "shopify:\/\/shop_images\/Group_849.png",
+            "detail": "<p>After a fulfilling career as a Systems Engineer, Wilma Shaw found her true passion in helping people and pets achieve their best health. Since 2016, she has operated her Embrace Nutrition practice, providing personalized 1:1 and group classes to hundreds of individuals. With her expertise, Wilma will support your dog or cat's optimal health by helping you understand veterinary recommendations and addressing underlying causes of symptoms or dis-ease. She offers both in-person and virtual consultations for client convenience.<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "c7ad32a3-49a0-41c3-8ed4-ad677fd0d0b6",
+        "7463f4d1-0421-4cae-8c38-909954a7a1fd"
       ],
       "settings": {
         "heading": "Connecting vulnerable animals with their forever families",
@@ -589,6 +626,7 @@
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd",
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140",
+    "b77d842a-adca-4140-bd3d-34aecfcdd2c6",
     "9f200db6-f446-4751-86a0-976599b30a1d",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
