@@ -839,7 +839,7 @@ img.amr_person_detail_img {
 .amr_PP_price_grup:after {
     content: "";
     position: absolute;
-    width: 100%;
+    width: 85%;
     height: 1px;
     background-color: #fff;
     bottom: -60px;
