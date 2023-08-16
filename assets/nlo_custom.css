@@ -940,6 +940,7 @@ button.amr_accordion span {
     font-style: normal;
     font-weight: 500;
     line-height: 35.2px;
+    text-align:left;
 }
 button.amr_accordion img {
     width: 18px;
@@ -1214,6 +1215,12 @@ button.amr_accordion span {
 }
 .amr_panel p {
     font-size: 16px;
+}
+.amr_faq_list {
+    padding: 20px;
+}
+button.amr_accordion {
+    padding: 10px 2px;
 }
 }
 @media screen and (max-width:600px){
