@@ -860,6 +860,7 @@ img.amr_person_detail_img {
 }
 .amr_PP_points ul {
     list-style-position: inside;
+    padding:0px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
