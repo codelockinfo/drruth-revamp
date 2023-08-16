@@ -686,6 +686,26 @@
         "btn_txt": "Apply Now",
         "btn_url": ""
       }
+    },
+    "0967645d-51d5-4ed7-98bb-13a79e9edfe7": {
+      "type": "What_you_will_learn",
+      "blocks": {
+        "024a2427-e055-42eb-81ad-5662bc9a068f": {
+          "type": "points",
+          "settings": {
+            "title": "Module 8",
+            "detail": ""
+          }
+        }
+      },
+      "block_order": [
+        "024a2427-e055-42eb-81ad-5662bc9a068f"
+      ],
+      "settings": {
+        "bg_color": "#2d4b49",
+        "heading": "What you will learn",
+        "desc": "<p>The program fees for our certified holistic pet health coach program may seem like a significant investment, but it's important to remember that this is an investment in your future and the health of pets. Our flexible payment options make it easier for you to get started on your career path without worrying about financial constraints. By becoming a certified holistic pet health coach, you'll be able to make a positive impact on the lives of pets and their owners, while building a fulfilling and rewarding career. Don't hesitate to invest in yourself and the future of pet health - join our program today!<\/p>"
+      }
     }
   },
   "order": [
@@ -704,6 +724,7 @@
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "652c7008-877b-454a-9171-63f8615c96e1",
-    "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f"
+    "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f",
+    "0967645d-51d5-4ed7-98bb-13a79e9edfe7"
   ]
 }
