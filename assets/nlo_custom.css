@@ -615,7 +615,7 @@ img.amr_person_detail_img {
     line-height: 26.034px;
     margin: 0;
 }
-.amr_WL_item  h3 {
+.amr_WL_item h3 {
     margin: 0;
     color: #FFF;
     text-align: center;
@@ -625,7 +625,7 @@ img.amr_person_detail_img {
     font-weight: 300;
     line-height: 32.593px;
 }
-.amr_WL_item  h3:last-child {
+.amr_WL_item h3:last-child {
     margin: 0 0 80px;
 }
 .amr_WL_item p {
