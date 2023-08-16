@@ -558,7 +558,7 @@
         "ed7e48d5-5e44-435e-b6b6-358458977a8d"
       ],
       "custom_css": [
-        ".amr_testimonial{padding-bottom:10px;}"
+        ".amr_testimonial {padding-bottom: 10px;}"
       ],
       "settings": {
         "heading": "our client’s Testimonials ",
@@ -663,7 +663,8 @@
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center; max-width: 800px;}",
         ".button.button--primary {display: none;}",
         ".rte {font-size: 50px; font-family: \"BLT-Heirloom\"; font-weight: 300; text-align: left;}",
-        ".multicolumn-list h3 {font-family: Josefin Sans; text-align: left; font-size: 18px; font-weight: 400 !important;}"
+        ".multicolumn-list h3 {font-family: Josefin Sans; text-align: left; font-size: 18px; font-weight: 400;}",
+        ".multicolumn-card__info {border-radius: 44px !important; padding: 25px 30px;}"
       ],
       "settings": {
         "title": "Honoring a Legacy of Compassionate Care",
