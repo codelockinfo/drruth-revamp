@@ -620,7 +620,7 @@ img.amr_person_detail_img {
     color: #FFF;
     text-align: center;
     font-family: BLT-Heirloom;
-    font-size: 32px;
+    font-size: 26px;
     font-style: normal;
     font-weight: 300;
     line-height: 32.593px;
@@ -637,6 +637,9 @@ img.amr_person_detail_img {
     font-weight: 500;
     line-height: 24.444px;
     margin: 0;
+}
+.amr_WL_item_inner {
+    padding: 0px 20px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
