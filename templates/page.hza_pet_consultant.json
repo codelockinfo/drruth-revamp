@@ -829,13 +829,13 @@
         "2b6855a9-d2fa-4d40-acec-c6390a5355e6": {
           "type": "plan",
           "settings": {
-            "custom_class": "",
-            "title": "",
-            "detail": "",
-            "price": "",
+            "custom_class": "PP_dark",
+            "title": "one",
+            "detail": "Advanced Payment",
+            "price": "$5000",
             "time": "",
-            "kpoints": "",
-            "btn_txt": "",
+            "kpoints": "<ul><li>Pay in full for $5000 (one-time fee). <\/li><li>You will pay $5,000 all at once, <\/li><li>No additional payments will be required.<\/li><\/ul>",
+            "btn_txt": "Apply Now",
             "btn_url": ""
           }
         },
@@ -843,12 +843,12 @@
           "type": "plan",
           "settings": {
             "custom_class": "",
-            "title": "",
-            "detail": "",
-            "price": "",
-            "time": "",
-            "kpoints": "",
-            "btn_txt": "",
+            "title": "Sixteen",
+            "detail": "Weekly Installments",
+            "price": "$367",
+            "time": "15 months",
+            "kpoints": "<ul><li>The program's total cost is $6005.<\/li><li>You will pay $500 admission fees<\/li><li>$367 per week.<\/li><\/ul>",
+            "btn_txt": "Apply Now",
             "btn_url": ""
           }
         }
