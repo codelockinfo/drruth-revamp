@@ -806,8 +806,11 @@ img.amr_person_detail_img {
     padding: 40px 15px;
     border-radius: 20px;
     background: #A6B7FF;
-    box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.05);
-    min-height:630px;
+    box-shadow: 0 4px 9px #0000000d;
+    min-height: 575px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .amr_PP_item_content h3 {
     color: #2D4B49;
