@@ -305,7 +305,7 @@
         ".multicolumn-list__item {border-radius: 25px; color: #fff; font-family: \"Josefin Sans\"; font-weight: 400;}",
         ".multicolumn-list__item:nth-of-type(1) {background-color: #2d4b49;}",
         ".multicolumn-list__item:nth-of-type(2) {background: linear-gradient(0deg, #a6b7ff 0%, #a6b7ff 100%), #e9deff;}",
-        ".button{color: #2D4B49; background: #A6B7FF; border-radius: 50px; padding: 16px 40px 11px; font-family: Josefin Sans; text-transform: uppercase; letter-spacing: 4.2px; line-height: 150%;}"
+        ".button {color: #2d4b49; background: #a6b7ff; border-radius: 50px; padding: 16px 40px 11px; font-family: Josefin Sans; text-transform: uppercase; letter-spacing: 4.2px; margin-top: 90px;}"
       ],
       "settings": {
         "title": "",
@@ -321,7 +321,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 84
       }
     },
     "0967645d-51d5-4ed7-98bb-13a79e9edfe7": {
