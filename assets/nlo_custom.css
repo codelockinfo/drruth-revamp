@@ -858,6 +858,9 @@ img.amr_person_detail_img {
 .amr_PP_price_grup .amr_PP_time {
     font-size: 24.167px;
 }
+.amr_PP_points ul {
+    list-style-position: inside;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
