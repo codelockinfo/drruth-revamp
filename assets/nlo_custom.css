@@ -696,6 +696,24 @@ img.amr_person_detail_img {
 .amr_WL_points {
     position: relative;
 }
+.amr_WL_points:before {
+    position: absolute;
+    content: '';
+    width: 2px;
+    height: 100%;
+    background-color: #FFFFFF;
+    bottom: 0;
+    left: 380px;
+}
+.amr_WL_points:after {
+    position: absolute;
+    content: '';
+    width: 2px;
+    height: 100%;
+    background-color: #FFFFFF;
+    bottom: 0;
+    right: 380px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
