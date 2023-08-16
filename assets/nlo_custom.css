@@ -770,6 +770,25 @@ img.amr_person_detail_img {
     text-decoration: none;
     width: fit-content;
 }
+.amr_CC_main_btn {
+    color: #1E1E1E;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 4.2px;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    column-gap: 35px;
+    justify-content: space-between;
+    width: fit-content;
+    padding: 10px 22px;
+    border-radius: 25px;
+    border: 2px solid #184B44;
+    margin: 0 auto;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
