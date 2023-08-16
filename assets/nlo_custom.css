@@ -1047,6 +1047,19 @@ div#footer-association-container img#footer-association-img {
     grid-row-gap: 20px;
     grid-column-gap: 20px;
 }
+.amr_PP_grup {
+    flex-direction: column;
+    row-gap: 25px;
+}
+.amr_PP_item {
+    min-height: unset;
+}
+.amr_PP_price_grup {
+    margin-bottom: 60px;
+}
+.amr_PP_price_grup:after {
+    bottom: -30px;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2,
