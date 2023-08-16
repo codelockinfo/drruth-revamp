@@ -1004,6 +1004,10 @@ button.amr_accordion.amr_active img {
     padding: 14px 0px;
     border-bottom: 1px solid #A7A7A72B;
 }
+.amr_OS_links a img {
+    width: 47px;
+    object-fit: contain;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
