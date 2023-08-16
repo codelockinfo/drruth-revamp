@@ -297,13 +297,13 @@ slider.addEventListener('wheel', function(e){
 
   //Getting alt text (name) from .active slide
   let active = this.getElementsByClassName('active'),
-      // name = active[0].getAttribute('alt');
+      name = active[0].getAttribute('alt');
 
   //Stoping latest timeout
-  window.clearTimeout(isWheel);
+  // window.clearTimeout(isWheel);
 
   //creating new timeout for current active slide
-  isWheel = window.setTimeout(function(e) { alert(name); }, 1500);
+  // isWheel = window.setTimeout(function(e) { alert(name); }, 1500);
 });
 
 //Adding swipe events to inner slider container
