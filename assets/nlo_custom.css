@@ -670,6 +670,7 @@ img.amr_person_detail_img {
     position: absolute;
     top: unset;
     right: 40%;
+    transform:rotateX(180deg);
 }
 .amr_dots_arrows .slick-prev:before {
     content: '';
