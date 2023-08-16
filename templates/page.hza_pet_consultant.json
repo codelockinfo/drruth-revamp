@@ -918,6 +918,58 @@
         "heading": "our client’s Testimonials ",
         "desc": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>"
       }
+    },
+    "9f022617-6581-4393-bae2-558209a185d9": {
+      "type": "More_Resources",
+      "blocks": {
+        "fac4d375-0ef5-48cc-8181-b1ad452aeb6e": {
+          "type": "Images",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/unsplash_cqbLg3lZEpk.png"
+          }
+        },
+        "f47dc291-f07c-4659-9f80-a7b505d775de": {
+          "type": "Images",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/unsplash_cqbLg3lZEpk.png"
+          }
+        },
+        "ff87ec09-4d69-43b9-bdf1-679474997618": {
+          "type": "Images",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/unsplash_cqbLg3lZEpk.png"
+          }
+        },
+        "5b15c045-1da5-45f0-8669-29995cf41db3": {
+          "type": "Images",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/unsplash_cqbLg3lZEpk.png"
+          }
+        },
+        "a6cedd1d-73e7-4819-be03-1eb592650289": {
+          "type": "Images",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/unsplash_cqbLg3lZEpk.png"
+          }
+        }
+      },
+      "block_order": [
+        "fac4d375-0ef5-48cc-8181-b1ad452aeb6e",
+        "f47dc291-f07c-4659-9f80-a7b505d775de",
+        "ff87ec09-4d69-43b9-bdf1-679474997618",
+        "5b15c045-1da5-45f0-8669-29995cf41db3",
+        "a6cedd1d-73e7-4819-be03-1eb592650289"
+      ],
+      "settings": {
+        "bg_color": "#2d4b49",
+        "slide_bg_color": "#f2e8e7",
+        "heading": "More Resources from Dr. Ruth Roberts Dr. Ruth Pet Wellness Courses  ",
+        "desc": "<p>Dr. Ruth Roberts is passionate about promoting holistic health and wellness for pets, and she offers a range of resources beyond the certified holistic pet health coach program. Explore her courses and discover how you can further your education and passion for pet wellness.<\/p>",
+        "btn_txt": "Enroll Now",
+        "btn_url": "",
+        "btn_txt2": "all courses",
+        "btn_url2": ""
+      }
     }
   },
   "order": [
@@ -940,6 +992,7 @@
     "0967645d-51d5-4ed7-98bb-13a79e9edfe7",
     "6062b1f4-3e8c-4f90-a072-e18850ceccfd",
     "cdb9ea8d-5b05-4219-930a-f46075180e68",
-    "feaf7099-4632-4f4a-beb7-b14a2f6dfcb7"
+    "feaf7099-4632-4f4a-beb7-b14a2f6dfcb7",
+    "9f022617-6581-4393-bae2-558209a185d9"
   ]
 }
