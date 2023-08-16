@@ -985,6 +985,25 @@ button.amr_accordion.amr_active img {
 .amr_OS_img img {
     width: 100%;
 }
+.amr_OS_links {
+    display: flex;
+    flex-direction: column;
+}
+.amr_OS_links a {
+    color: #1E1E1E;
+    font-family: BLT-Heirloom;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.593px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    padding: 14px 0px;
+    border-bottom: 1px solid #A7A7A72B;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
