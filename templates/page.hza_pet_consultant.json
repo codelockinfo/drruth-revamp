@@ -809,6 +809,59 @@
         "btn_txt_main": "Book A Consultation",
         "btn_url_main": ""
       }
+    },
+    "cdb9ea8d-5b05-4219-930a-f46075180e68": {
+      "type": "Pricing_plan",
+      "blocks": {
+        "254dd3d0-2108-4bf5-908f-d4509561a67d": {
+          "type": "plan",
+          "settings": {
+            "custom_class": "",
+            "title": "Four",
+            "detail": "<p>Monthly Installments<\/p>",
+            "price": "$1500",
+            "time": "4 months",
+            "kpoints": "<ul><li>The program's total cost $6000. <\/li><li>You will pay $1,500 admission fees <\/li><li> $1,500 per month.<\/li><\/ul>",
+            "btn_txt": "Apply Now",
+            "btn_url": ""
+          }
+        },
+        "2b6855a9-d2fa-4d40-acec-c6390a5355e6": {
+          "type": "plan",
+          "settings": {
+            "custom_class": "",
+            "title": "",
+            "detail": "",
+            "price": "",
+            "time": "",
+            "kpoints": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "df7b49a3-8db0-4fb1-930b-2baf4adf828f": {
+          "type": "plan",
+          "settings": {
+            "custom_class": "",
+            "title": "",
+            "detail": "",
+            "price": "",
+            "time": "",
+            "kpoints": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "254dd3d0-2108-4bf5-908f-d4509561a67d",
+        "2b6855a9-d2fa-4d40-acec-c6390a5355e6",
+        "df7b49a3-8db0-4fb1-930b-2baf4adf828f"
+      ],
+      "settings": {
+        "heading": "Program fees",
+        "desc": "<p>The program fees for our certified holistic pet health coach program may seem like a significant investment, but it's important to remember that this is an investment in your future and the health of pets. Our flexible payment options make it easier for you to get started on your career path without worrying about financial constraints.By becoming a certified holistic pet health coach, you'll be able to make a positive impact on the lives of pets and their owners, while building a fulfilling and rewarding career. Don't hesitate to invest in yourself and the future of pet health - join our program today!<\/p>"
+      }
     }
   },
   "order": [
@@ -829,6 +882,7 @@
     "652c7008-877b-454a-9171-63f8615c96e1",
     "9b0d08f1-a76e-458f-b2a5-8a8355d1c83f",
     "0967645d-51d5-4ed7-98bb-13a79e9edfe7",
-    "6062b1f4-3e8c-4f90-a072-e18850ceccfd"
+    "6062b1f4-3e8c-4f90-a072-e18850ceccfd",
+    "cdb9ea8d-5b05-4219-930a-f46075180e68"
   ]
 }
