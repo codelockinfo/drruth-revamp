@@ -922,6 +922,30 @@ img.amr_person_detail_img {
     position: relative;
     padding: 60px 0px;
 }
+button.amr_accordion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgba(123, 97, 255, 0.18);
+    padding: 30px 24px 30px 0;
+    column-gap:10px;
+}
+button.amr_accordion span {
+    color: #2D4B49;
+    font-family: Josefin Sans;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 35.2px;
+}
+button.amr_accordion img {
+    width: 18px;
+    height: 18px;
+    object-fit: contain;
+}
 .amr_faq_list {
     border-radius: 40px;
     background: #E0ECBE;
