@@ -904,6 +904,7 @@ img.amr_person_detail_img {
 }
 .amr_PP_item.PP_dark a {
     background-color: #A6B7FF;
+    color:#2D4B49;
 }
 
 @media screen and (max-width:1200px){
