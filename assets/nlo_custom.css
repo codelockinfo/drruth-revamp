@@ -1205,6 +1205,17 @@ div#footer-association-container img#footer-association-img {
     font-size: 48px;
     margin: 0 0 40px;
 }
+.amr_OS_flex {
+    flex-direction: column;
+    row-gap: 40px;
+}
+.amr_OS_img img {
+    max-height: 250px;
+}
+.amr_OS_detail p {
+    font-size: 18px;
+    margin: 0 0 20px;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2,
