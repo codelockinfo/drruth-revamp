@@ -7,6 +7,7 @@
     <div class="amr_WL_points">
       {% for block in section.blocks %}
         <div class="amr_WL_item">
+          <h3>{{ block.settings.point_number }}</h3>
           <h3>{{ block.settings.title }}</h3>
           <div>{{ block.settings.detail }}</div>
         </div>
@@ -38,6 +39,11 @@
       "type": "points",
       "name": "Point",
       "settings": [
+        {
+          "type": "text",
+          "id": "point_number",
+          "label":"Point Number"
+        },
         {
           "type": "text",
           "id": "title",
