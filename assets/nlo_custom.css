@@ -1072,4 +1072,12 @@ img.amr_person_detail_img {
 .amr_CC_items {
     grid-template-columns: 1fr;
 }
+.amr_CC_main_btn {
+    column-gap: 10px;
+}
+}
+@media screen and (max-width:375px){
+.amr_CC_main_btn {
+    display: none;
+}
 }
