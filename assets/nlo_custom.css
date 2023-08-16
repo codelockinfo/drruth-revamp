@@ -626,7 +626,17 @@ img.amr_person_detail_img {
     line-height: 32.593px;
 }
 .amr_WL_item  h3:last-child {
-    margin: 0 0 80px;;
+    margin: 0 0 80px;
+}
+.amr_WL_item p {
+    color: #FFF;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24.444px;
+    margin: 0;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
