@@ -30,7 +30,9 @@
         <div class="amr_MR_button" onclick="shiftLeft()"><img src="https://image.ibb.co/mRsEb7/left_arrow.png" alt=""></div>
         <div class="amr_MR_cards-wrapper">
             <ul class="amr_MR_cards__container">
+                  {% for block in section.blocks %}
                 <li class="amr_MR_box"><img src="{{ block.settings.main_img | img_url:'master' }}"></li>
+              {% endfor %}
             </ul>
         </div>
         <div class="button" onclick="shiftRight()"><img src="https://image.ibb.co/dfPSw7/right_arrow.png" alt=""></div>
