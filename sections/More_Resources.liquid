@@ -14,8 +14,8 @@
           </div>
         {% endfor %}
       </div> -->
-
-<!-- <div class="carousel">
+{% comment %}
+<div class="carousel">
   {% for block in section.blocks %}
     <div class="carousel-item{% if block.settings.custom_class != blank %} {{ block.settings.custom_class }}{% endif %}">
       <img src="{{ block.settings.main_img | img_url:'master' }}">
@@ -24,7 +24,8 @@
     <!-- Add more carousel items as needed -->
     <button class="carousel-control-prev">Prev</button>
     <button class="carousel-control-next">Next</button>
-  </div> -->
+  </div>
+  {% endcomment %}
 <!-- Slider code start -->
     <div class="amr_MR_container">
         <div class="amr_MR_button" onclick="shiftLeft()"><img src="https://image.ibb.co/mRsEb7/left_arrow.png" alt=""></div>
