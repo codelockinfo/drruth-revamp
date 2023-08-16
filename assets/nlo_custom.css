@@ -891,6 +891,21 @@ img.amr_person_detail_img {
     text-transform: capitalize;
     max-width: 200px;
 }
+.amr_PP_item.PP_dark {
+    background: #2D4B49;
+}
+.amr_PP_item.PP_dark h3,
+.amr_PP_item.PP_dark h4,
+.amr_PP_item.PP_dark .amr_PP_price_grup p{
+    color: #fff;
+}
+.amr_PP_item.PP_dark .amr_PP_points ul li {
+    color: rgba(255, 255, 255, 0.68);
+}
+.amr_PP_item.PP_dark a {
+    background-color: #A6B7FF;
+}
+
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
