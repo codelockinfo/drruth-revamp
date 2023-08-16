@@ -1077,7 +1077,7 @@ img.amr_person_detail_img {
 }
 }
 @media screen and (max-width:375px){
-.amr_CC_main_btn {
+.amr_CC_main_btn img{
     display: none;
 }
 }
