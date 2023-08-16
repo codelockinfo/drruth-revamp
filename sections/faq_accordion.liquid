@@ -1,3 +1,22 @@
+<div class="amr_faq_accordion">
+  <div class="amr_container_1170">
+    <div class="amr_pet_consultants_header">
+      {% if section.settings.heading != blank %}<h2>{{ section.settings.heading }}</h2>{% endif %}
+      {% if section.settings.desc != blank %}<div>{{ section.settings.desc }}</div>{% endif %}
+    </div>
+    <div class="amr_faq_list">
+      {% for block in section.blocks %}
+        <div class="amr_faq_item">
+          <div class="amr_faq_item_header">
+            <p>{{ block.settings.title }}</p>
+            <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Vector_002ad72b-39a6-4f7f-8764-e837678cc6ec.svg?v=1692192786">
+          </div>
+          <div class="amr_faq_detail">{{ block.settings.detail }}</div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 {% schema %}
 {
   "name": "FAQ Accordion",
