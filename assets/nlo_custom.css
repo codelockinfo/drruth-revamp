@@ -837,6 +837,13 @@ img.amr_person_detail_img {
     min-height: auto;
     max-width: 100%;
 }
+div#footer-association-container {
+    flex-wrap: wrap;
+    align-items: center;
+}
+div#footer-association-container img#footer-association-img {
+    object-fit: contain;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2 {
