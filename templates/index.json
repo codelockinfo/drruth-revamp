@@ -400,12 +400,14 @@
       "blocks": {
         "template--14898486050881__914ef044-a3b1-4773-91ae-f1b36874354b-1680276563e27fed31-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Our Store<\/p>"
           }
         },
         "bdcf6291-3b9b-482b-b151-f1a9bc86ec3c": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>We offer a range of high-quality natural supplements for dogs and cats that are designed to support their overall health and well-being<\/p>"
           }
@@ -415,6 +417,7 @@
         "template--14898486050881__914ef044-a3b1-4773-91ae-f1b36874354b-1680276563e27fed31-0",
         "bdcf6291-3b9b-482b-b151-f1a9bc86ec3c"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -510,8 +513,8 @@
         "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 8,
+        "padding_bottom": 20
       }
     },
     "df6ff21b-835d-453a-ab12-a99160479690": {
@@ -709,8 +712,8 @@
         "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 0
+        "padding_top": 4,
+        "padding_bottom": 20
       }
     },
     "40e124d8-821b-4b01-8eb8-2482449db53a": {
