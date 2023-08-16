@@ -807,6 +807,7 @@ img.amr_person_detail_img {
     border-radius: 20px;
     background: #A6B7FF;
     box-shadow: 0px 4px 9px 0px rgba(0, 0, 0, 0.05);
+    min-height:630px;
 }
 .amr_PP_item_content h3 {
     color: #2D4B49;
@@ -861,6 +862,16 @@ img.amr_person_detail_img {
 .amr_PP_points ul {
     list-style-position: inside;
     padding:0px;
+}
+.amr_PP_points ul li {
+    color: #2D4B49;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 30px;
+    text-transform: capitalize;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
