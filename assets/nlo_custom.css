@@ -22,7 +22,7 @@
     font-style: normal;
     font-weight: 300;
     text-transform: capitalize;
-    margin: 0;
+    margin: 0 0 24px;
 }
 .amr_pet_consultants_header p {
     color: #1E1E1E;
@@ -789,6 +789,12 @@ img.amr_person_detail_img {
     border-radius: 25px;
     border: 2px solid #184B44;
     margin: 0 auto;
+}
+/* pricing plan */
+.amr_pricing_plan {
+    position: relative;
+    padding: 60px 0px;
+    text-align:center;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
