@@ -125,7 +125,6 @@
     },
     "b6ca843a-115e-4556-8b3c-64c93a18553c": {
       "type": "my-story-img",
-      "disabled": true,
       "blocks": {
         "c151ca66-9153-4180-aaf1-9f693080f04a": {
           "type": "block",
@@ -165,6 +164,7 @@
         "fa45a4f4-b691-4135-8201-3db213571088",
         "28d4ecc1-a489-4180-ad3d-b1ef4d53e2c7"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -263,7 +263,6 @@
     },
     "81fb0bf7-19b9-4a02-8459-cc96b63dea4f": {
       "type": "rx-list-component",
-      "disabled": true,
       "blocks": {
         "ca8dfa28-dce9-4131-bd91-675d5427991e": {
           "type": "text",
@@ -303,6 +302,7 @@
         "d2f4f916-8c2e-4a6e-b2dc-2ddb8927dac5",
         "40f8a5be-52bb-4753-848a-d6031b4ce24b"
       ],
+      "disabled": true,
       "settings": {
       }
     },
@@ -347,7 +347,7 @@
         "rx_image_banner": "shopify:\/\/shop_images\/drruth2.jpg",
         "heading": "",
         "caption": "",
-        "content": "<p>As a veterinarian, I have always been driven by a passion for animal health and wellness. However, it became clear to me that relying solely on traditional Western Medicine was not enough to fully address all of my furry patients' health issues. This realization led me to specialize in acupuncture for pets and Eastern Veterinary Medicine. During my journey, I also created The Original CrockPET Diet™, a healthy pet food diet that I recommend to all my clients.<\/p>",
+        "content": "<p>As a veterinarian, I have always been driven by a passion for animal health and wellness. However, it became clear to me that relying solely on traditional Western Medicine was not enough to fully address all of my furry patients' health issues. This realization led me to specialize in acupuncture for pets and Eastern Veterinary Medicine. During my journey, I also created <a href=\"https:\/\/drruthroberts.com\/products\/the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts?keyword=crockpet\" target=\"_blank\" title=\"The Original CrockPET Diet Ebook and Recipe\">The Original CrockPET Diet™<\/a>, a healthy pet food diet that I recommend to all my clients.<\/p>",
         "content2": "<p>My approach to holistic veterinary care is based on natural, holistic remedies, such as acupuncture, herbal therapy, and food therapy. These alternative methods have allowed me to successfully treat a wide range of ailments and help many pets recover and maintain optimal health. While I recognize the importance of Western Medicine, I also use it only when necessary to treat infections and illnesses that cannot be resolved with natural remedies.<\/p>",
         "image_max_height": "450px",
         "layout": "text_first"
@@ -362,8 +362,8 @@
         "rx_image_banner": "shopify:\/\/shop_images\/drruth1.jpg",
         "heading": "",
         "caption": "",
-        "content": "<p>I am passionate about sharing my knowledge and experience of holistic veterinary medicine with other veterinary professionals and dogs and cats’ parents. That's why I have created courses and a coaching program to share my knowledge and experience, with the aim of reaching more people and helping more pets. The courses are designed to provide comprehensive training for veterinarians, veterinary technicians, and pet owners who want to learn about holistic veterinary medicine and how to integrate it into their pets' care.<\/p>",
-        "content2": "",
+        "content": "<p>I am passionate about sharing my knowledge and experience of holistic veterinary medicine with other veterinary professionals and dogs and cats’ parents. I take the virtual stage at various online events, notably including the <a href=\"https:\/\/civtedu.org\/faculty\/dr-ruth-roberts\" target=\"_blank\" title=\"https:\/\/civtedu.org\/faculty\/dr-ruth-roberts\">Online College of Integrative Veterinary Therapies<\/a>. Here, I actively contributing and imparting my knowledge and expertise through engaging webinars and podcasts. <\/p>",
+        "content2": "<p>Foremost, as a vehicle to reach a broader audience and making a more profound impact on the well-being of pets, I have created <a href=\"https:\/\/drruthroberts.com\/pages\/pet-wellness-course\" target=\"_blank\" title=\"Pet Wellness Course by Dr. Ruth Roberts\">Pet Wellness Courses<\/a>. The courses program that cater to veterinarians, veterinary technicians, and pet parents, providing them with in-depth training on holistic veterinary medicine and equipping them with the tools to integrate this approach into their pets' care routines.<\/p>",
         "image_max_height": "450px",
         "layout": "image_first"
       }
@@ -374,7 +374,7 @@
         "rx_image_banner": "shopify:\/\/shop_images\/drruth4_4475c1e4-4589-4d7e-9eb6-38ebc3bea3fd.jpg",
         "heading": "",
         "caption": "",
-        "content": "<p>Through my courses, I hope to empower others to take a more active role in their pets' wellness and health. By sharing my experience and expertise, I believe that we can all work together to create a happier, healthier life for our furry friends. I am proud to offer a Certified Holistic Pet Health Coaching program, which is designed to teach individuals how to become experts in holistic pet health and wellness. This program covers a range of topics, including holistic nutrition, herbal therapy, and lifestyle modifications to improve pets' health and wellness. <\/p>",
+        "content": "<p>Through my courses, I hope to empower others to take a more active role in their pets' wellness and health. By sharing my experience and expertise, I believe that we can all work together to create a happier, healthier life for our furry friends. I am proud to offer a <a href=\"https:\/\/drruthroberts.com\/pages\/holistic-pet-health-coaching-program\" target=\"_blank\" title=\"Holistic Pet Health Coach by Dr. Ruth Roberts\">Certified Holistic Pet Health Coaching Program<\/a>, which is designed to teach individuals how to become experts in holistic pet health and wellness. This program covers a range of topics, including holistic nutrition, herbal therapy, and lifestyle modifications to improve pets' health and wellness. <\/p>",
         "content2": "<p>By completing this program, graduates can become certified holistic pet health coaches and help pet parents create customized health and wellness plans for their pet pals. I am excited to continue spreading the knowledge and benefits of holistic veterinary medicine to help more pets live their best lives.<\/p>",
         "image_max_height": "450px",
         "layout": "text_first"
