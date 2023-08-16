@@ -1015,6 +1015,32 @@ button.amr_accordion.amr_active img {
     justify-content: space-between;
     padding-bottom: 25px;
 }
+.amr_OS_detail p {
+    color: #1E1E1E;
+    font-family: Josefin Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29.534px;
+    margin: 0;
+}
+.amr_OS_detail a {
+    border-radius: 25px;
+    background: #A6B7FF;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    padding: 12px 20px;
+    max-width: 250px;
+    width: 100%;
+    color: #FFF;
+    font-family: Josefin Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    letter-spacing: 4.2px;
+    text-transform: uppercase;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
