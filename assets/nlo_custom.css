@@ -982,6 +982,9 @@ button.amr_accordion.amr_active img {
     text-transform: capitalize;
     margin: 0 0 60px;
 }
+.amr_OS_img img {
+    width: 100%;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
