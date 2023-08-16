@@ -819,6 +819,25 @@
         "heading": "Our Services",
         "desc": ""
       }
+    },
+    "188b6026-4685-4149-a4b8-c350bf080da4": {
+      "type": "faq_accordion",
+      "blocks": {
+        "0d03e849-08be-4fee-9b08-57b6cae38dd0": {
+          "type": "FAQ",
+          "settings": {
+            "title": "What will I learn from this certification?",
+            "detail": ""
+          }
+        }
+      },
+      "block_order": [
+        "0d03e849-08be-4fee-9b08-57b6cae38dd0"
+      ],
+      "settings": {
+        "heading": "FAQs",
+        "desc": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>"
+      }
     }
   },
   "order": [
@@ -838,6 +857,7 @@
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "652c7008-877b-454a-9171-63f8615c96e1"
+    "652c7008-877b-454a-9171-63f8615c96e1",
+    "188b6026-4685-4149-a4b8-c350bf080da4"
   ]
 }
