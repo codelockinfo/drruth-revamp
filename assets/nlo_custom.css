@@ -945,6 +945,9 @@ img.amr_person_detail_img {
     row-gap: 24px;
 }
 }
+@media screen and (max-width:600px){
+  
+}
 @media screen and (max-width:575px){
 .amr_pet_consultants_header h2,
 .person_story h2.blog__title,
