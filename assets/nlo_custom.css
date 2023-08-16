@@ -688,6 +688,11 @@ img.amr_person_detail_img {
     display: block;
     background-size: contain;
 }
+.amr_dots_arrows ul.slick-dots {
+    width: fit-content;
+    left: 50%;
+    transform: translateX(-50%);
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
