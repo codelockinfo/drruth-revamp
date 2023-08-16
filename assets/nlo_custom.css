@@ -1009,6 +1009,12 @@ button.amr_accordion.amr_active img {
     width: 47px;
     object-fit: contain;
 }
+.amr_OS_detail {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 25px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
