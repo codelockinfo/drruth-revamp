@@ -590,6 +590,30 @@ img.amr_person_detail_img {
     position: relative;
     text-align: center;
 }
+.amr_WL_header {
+    margin-bottom: 55px;
+}
+.amr_WL_header h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: BLT-Heirloom;
+    font-size: 61.908px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+    margin: 0 0 24px;
+}
+.amr_WL_header p {
+    color: #FFF;
+    text-align: center;
+    font-family: Josefin Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26.034px;
+    margin: 0;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
