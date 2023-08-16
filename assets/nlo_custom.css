@@ -747,6 +747,12 @@ img.amr_person_detail_img {
 .amr_WL_item h3.amr_WL_item_title {
     margin: 0 0 40px;
 }
+.amr_dots_arrows button.slick-prev.slick-arrow {
+    left: 25%;
+}
+.amr_dots_arrows button.slick-next.slick-arrow {
+    right: 25%;
+}
 .amr_pet_consultants_header h2 {
     font-size: 48px;
 }
