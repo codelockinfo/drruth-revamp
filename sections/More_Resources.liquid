@@ -20,11 +20,10 @@
 
 <div id="slider" class="slider">
   <div class="slider__inner">
-    <img src="https://s1.1zoom.ru/prev2/540/Fields_Sunflowers_Closeup_539973_300x200.jpg" data-index="1" class="slider__image image--1">
-    <img src="https://vocabulary.ru/images/Hopetoun_falls.jpg"  data-index="2" class="slider__image image--2">
-    <img src="https://s1.1zoom.ru/prev2/546/Germany_Rivers_Fields_Moselle_Hill_545275_300x200.jpg" data-index="3" class="slider__image image--3">
-    <img src="https://s1.1zoom.ru/prev2/547/China_Taiwan_Mountains_Forests_Fields_Roads_Night_546672_300x200.jpg" data-index="4" class="slider__image image--4">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Quba_385.jpg/300px-Quba_385.jpg" data-index="5" class="slider__image image--5">
+    {% for block in section.blocks %}
+    <img src="{{ block.settings.main_img | img_url:'master' }}" data-index="{{ forloop.index }}" class="slider__image image--{{ forloop.index }}">
+    {% endfor %}
+    
   </div>
   <div class="slider__action">
     <div id="prev" class="slider__button slider__button--prev">
