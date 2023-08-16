@@ -724,6 +724,7 @@ img.amr_person_detail_img {
     grid-template-columns: repeat(4,1fr);
     grid-row-gap: 30px;
     grid-column-gap: 30px;
+    margin-bottom:66px;
 }
 .amr_CC_item {
     background-repeat: no-repeat;
