@@ -7,9 +7,11 @@
     <div class="amr_WL_points">
       {% for block in section.blocks %}
         <div class="amr_WL_item">
+          <div class="amr_WL_item_inner">
           <h3>{{ block.settings.point_number }}</h3>
           <h3 class="amr_WL_item_title">{{ block.settings.title }}</h3>
           <div>{{ block.settings.detail }}</div>
+          </div>
         </div>
       {% endfor %}
     </div>
