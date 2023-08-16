@@ -984,6 +984,7 @@ button.amr_accordion.amr_active img {
 }
 .amr_OS_img img {
     width: 100%;
+    border-radius:25px;
 }
 .amr_OS_links {
     display: flex;
