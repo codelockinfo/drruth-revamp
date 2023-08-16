@@ -650,8 +650,6 @@ img.amr_person_detail_img {
 }
 .amr_dots_arrows ul.slick-dots li.slick-active {
     background-color: #A6B7FF;
-    width: 16px;
-    height: 16px;
 }
 .amr_dots_arrows ul.slick-dots li button{
     width:0;
@@ -660,6 +658,34 @@ img.amr_person_detail_img {
 }
 .amr_dots_arrows ul.slick-dots li button:before{
     display:none;
+}
+.amr_dots_arrows button.slick-prev.slick-arrow {
+    bottom: -55px;
+    position: absolute;
+    top: unset;
+    left: 40%;
+}
+.amr_dots_arrows button.slick-next.slick-arrow {
+    bottom: -55px;
+    position: absolute;
+    top: unset;
+    right: 40%;
+}
+.amr_dots_arrows .slick-prev:before {
+    content: '';
+    background-image: url('https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Arrow_Left.svg?v=1692147760');
+    width: 20px;
+    height: 20px;
+    display: block;
+    background-size: contain;
+}
+.amr_dots_arrows .slick-next:before {
+    content: '';
+    background-image: url('https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Arrow_Left.svg?v=1692147760');
+    width: 20px;
+    height: 20px;
+    display: block;
+    background-size: contain;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
