@@ -585,6 +585,11 @@ img.amr_person_detail_img {
     text-transform: uppercase;
     padding: 10px 8px;
 }
+.amr_what_learn {
+    padding: 100px 0px;
+    position: relative;
+    text-align: center;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
