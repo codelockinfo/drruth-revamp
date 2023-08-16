@@ -2,20 +2,25 @@
   <div class="amr_container_1170">
     <div class="amr_OS_flex">
       <div class="amr_OS_links">
+        <h2>{{ section.settings.heading }}</h2>
         {% for block in section.blocks %}
           {% if block.type == 'link' %}
+            <a href="{{ block.settings.btn_url }}"><span>{{ block.settings.btn_txt }}</span> <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/Arrow_1.svg?v=1692215782"></a>
           {% endif %}
         {% endfor %}
       </div>
       <div class="amr_OS_img">
         {% for block in section.blocks %}
           {% if block.type == 'img' %}
+            <img src="{{ block.settings.main_img | img_url:'master' }}">
           {% endif %}
         {% endfor %}
       </div>
       <div class="amr_OS_detail">
         {% for block in section.blocks %}
           {% if block.type == 'detail' %}
+            <div>{{ block.settings.detail }}</div>
+            <a href="{{ block.settings.btn_urlm }}">{{ block.settings.btn_txtm }}</a>
           {% endif %}
         {% endfor %}
       </div>
