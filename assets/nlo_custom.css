@@ -906,7 +906,14 @@ img.amr_person_detail_img {
     background-color: #A6B7FF;
     color:#2D4B49;
 }
-
+/* More resources */
+.amr_more_resources {
+    position: relative;
+    padding: 100px 0px 0px;
+}
+.amr_more_resources .amr_container_1170 {
+    padding: 60px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
