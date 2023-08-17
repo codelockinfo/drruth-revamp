@@ -1048,6 +1048,17 @@ button.amr_accordion.amr_active img {
     width: 30px;
     object-fit: contain;
 }
+/* Our story */
+.amr_our_story_header {
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 61.908px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 65.917px;
+    text-transform: capitalize;
+    margin-bottom: 65px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
@@ -1089,9 +1100,11 @@ button.amr_accordion.amr_active img {
 }
 .amr_pet_consultants_header h2,
 .person_story h2.blog__title,
-.amr_WL_header h2{
+.amr_WL_header h2,
+.amr_our_story_header{
     font-size: 48px;
 }
+  
 .amr_pet_consultants_header p {
     font-size: 16px;
 }
@@ -1220,7 +1233,8 @@ div#footer-association-container img#footer-association-img {
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2,
 .person_story h2.blog__title,
-.amr_WL_header h2{
+.amr_WL_header h2,
+.amr_our_story_header{
     font-size: 42px;
 }
 .amr_WL_header p {
@@ -1339,7 +1353,8 @@ button.amr_accordion {
 @media screen and (max-width:575px){
 .amr_pet_consultants_header h2,
 .person_story h2.blog__title,
-.amr_WL_header h2{
+.amr_WL_header h2,
+.amr_our_story_header{
     font-size: 32px;
 }
 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
