@@ -1059,6 +1059,12 @@ button.amr_accordion.amr_active img {
     text-transform: capitalize;
     margin-bottom: 65px;
 }
+.amr_story_grup {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 40px;
+    grid-row-gap: 40px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
