@@ -1112,6 +1112,19 @@ button.amr_accordion.amr_active img {
 #Banner-template--14952187461697__f20ac99b-64d9-4f94-9722-95cf6c742a76 .rx_read_more_btn_green img {
   filter: invert(1);
 }
+.amr_person_detail_slider .amr_slider_box::after {
+    content: "";
+    background: #e6f972;
+    display: block;
+    width: 45%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    z-index: -1;
+    margin: auto;
+    left: -30px;
+    right: 0;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
