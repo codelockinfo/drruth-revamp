@@ -29,7 +29,7 @@
           "type": "button",
           "settings": {
             "button_label": "Apply Now",
-            "button_link": ""
+            "button_link": "https:\/\/drruthroberts.com\/pages\/application-form"
           }
         }
       },
@@ -82,6 +82,7 @@
         ".button.button--primary,.multicolumn-card__info .icon-wrap {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Design Your Dream Career and Lifestyle",
         "heading_size": "h0",
         "image_width": "full",
@@ -106,7 +107,7 @@
       "settings": {
         "c_head": "",
         "pro_btn1": "Check our consultants",
-        "program_link1": ""
+        "program_link1": "https:\/\/drruthroberts.com\/pages\/consulting-page#our_consultants"
       }
     },
     "91d75749-340e-4f9a-9bba-f82d8c67429a": {
@@ -314,6 +315,7 @@
         ".button.button--primary,.multicolumn-card__info .icon-wrap {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "After the program, Join our network of certified Holistic Pet Health Coaches",
         "heading_size": "h0",
         "image_width": "full",
@@ -359,7 +361,7 @@
         "template--14952470151233__068f4c7f-2708-4af0-9ba4-5926ffd56208-column-2"
       ],
       "custom_css": [
-        "h3 {color: #FFF;font-family: Montserrat;font-size: 29.533px;}",
+        "h3 {color: #fff; font-family: Montserrat; font-size: 29.533px;}",
         ".multicolumn-list__item {border-radius: 25px; color: #fff; font-family: \"Josefin Sans\"; font-weight: 400;}",
         ".multicolumn-list__item:nth-of-type(1) {background-color: #2d4b49;}",
         ".multicolumn-list__item:nth-of-type(2) {background: linear-gradient(0deg, #a6b7ff 0%, #a6b7ff 100%), #e9deff;}",
@@ -726,6 +728,7 @@
         ".grid__item:nth-of-type(3) h3 {color: #fff;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Honoring a Legacy of Compassionate Care",
         "heading_size": "h0",
         "image_width": "full",
