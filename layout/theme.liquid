@@ -522,9 +522,8 @@ $(this).next(".blogReply").toggle();
 });
 
   // Person detail Slider
-  (document).ready(function() {
-            // Initialize the Slick slider
-            $('.amr_slider_box').slick({
+  
+ $('.amr_slider_box').slick({
   infinite: true,
   slidesToShow: 1,
   slidesToScroll: 1,
@@ -535,20 +534,6 @@ $(this).next(".blogReply").toggle();
   swipeToSlide: true,
   autoplaySpeed: 8000
 });
-
-            // Find the slide index (0-based) you want to scroll to
-            const targetSlideIndex = 2; // For example, scroll to the third slide (index 2)
-
-            // Get the slider instance
-            const slider = $(".amr_slider_box").slick("getSlick");
-
-            // Set up button click event
-            $("#scrollButton").click(function() {
-                // Scroll to the target slide using Slick's slickGoTo method
-                slider.slickGoTo(targetSlideIndex);
-            });
-        });
- 
   
 // What to Learn Slider
   $('.amr_WL_points').slick({
