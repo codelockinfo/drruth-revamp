@@ -1057,7 +1057,7 @@ button.amr_accordion.amr_active img {
     font-weight: 300;
     line-height: 65.917px;
     text-transform: capitalize;
-    margin-bottom: 65px;
+    margin: 0 0 65px;
 }
 .amr_story_grup {
     display: grid;
@@ -1094,6 +1094,10 @@ button.amr_accordion.amr_active img {
     font-style: normal;
     font-weight: 500;
     line-height: 22.937px;
+}
+.amr_our_story {
+    position: relative;
+    padding: 100px 0px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
