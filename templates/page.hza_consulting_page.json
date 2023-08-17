@@ -380,7 +380,7 @@
         "7c7a50a1-d912-4619-a969-38477ca03106"
       ],
       "custom_css": [
-        ".amr_pet_consultants_item:hover * {color: #000;}"
+        ".amr_pet_consultants_item:hover *:not(a) {color: #000;}"
       ],
       "settings": {
         "heading": "Our Pet Consultants",
