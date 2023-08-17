@@ -1086,6 +1086,15 @@ button.amr_accordion.amr_active img {
     font-weight: 300;
     line-height: 30.582px;
 }
+.amr_story_item p {
+    margin: 0;
+    color: #2D4B49;
+    font-family: Josefin Sans;
+    font-size: 15.013px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22.937px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
