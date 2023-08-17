@@ -359,7 +359,7 @@
         "template--14952470151233__068f4c7f-2708-4af0-9ba4-5926ffd56208-column-2"
       ],
       "custom_css": [
-        "h3 {font-size: 36px; font-weight: 300; margin-bottom: 80px; color: #fff;}",
+        "h3 {font-size: 36px; font-weight: 300; margin-bottom: 80px; color: #fff; }",
         ".multicolumn-list__item {border-radius: 25px; color: #fff; font-family: \"Josefin Sans\"; font-weight: 400;}",
         ".multicolumn-list__item:nth-of-type(1) {background-color: #2d4b49;}",
         ".multicolumn-list__item:nth-of-type(2) {background: linear-gradient(0deg, #a6b7ff 0%, #a6b7ff 100%), #e9deff;}",
