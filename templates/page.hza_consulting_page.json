@@ -137,7 +137,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px; color: #1E1E1E;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px; color: #1e1e1e;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
       ],
@@ -217,7 +217,7 @@
       "settings": {
         "c_head": "",
         "pro_btn1": "Check our consultant",
-        "program_link1": ""
+        "program_link1": "#our_consultants"
       }
     },
     "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd": {
