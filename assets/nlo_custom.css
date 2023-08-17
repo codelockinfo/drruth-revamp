@@ -1101,6 +1101,9 @@ button.amr_accordion.amr_active img {
     max-width: 100%;
     padding: 0 20px;
 }
+.amr_story_grup {
+    grid-column-gap: 20px;
+}
 }
 @media screen and (max-width:1150px){
 .amr_WL_points:before {
@@ -1265,6 +1268,9 @@ div#footer-association-container img#footer-association-img {
     font-size: 18px;
     margin: 0 0 20px;
 }
+.amr_story_grup {
+    grid-template-columns: 1fr 1fr;
+}
 }
 @media screen and (max-width:767px){
 .amr_pet_consultants_header h2,
@@ -1375,6 +1381,9 @@ button.amr_accordion span {
 }
 button.amr_accordion {
     padding: 10px 2px;
+}
+.amr_story_grup {
+    grid-template-columns: 1fr;
 }
 }
 @media screen and (max-width:600px){
