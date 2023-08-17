@@ -9,57 +9,34 @@
       </div>
     </div>
     
-      <!-- <div class="amr_MR_images">
-        {% for block in section.blocks %}
-          <div class="amr_MR_img">
-            <img src="{{ block.settings.main_img | img_url:'master' }}">
-          </div>
-        {% endfor %}
-      </div> -->
-
-
-
-
-
     <div class="container">
-  <div class="rev_slider">
-    {% for block in section.blocks %}
-    <div class="rev_slide">
-      <div class="test"><img src="{{ block.settings.main_img | img_url:'master' }}"></div>
+      <div class="rev_slider">
+        {% for block in section.blocks %}
+        <div class="rev_slide">
+          <div class="test"><img src="{{ block.settings.main_img | img_url:'master' }}"></div>
+        </div>
+        {% endfor %} 
+      </div>
     </div>
-    {% endfor %}
-   
-  </div>
-</div>
-
-
-    
 
     </div>
    </div>
-
-
-
-
 <style>
 .amr_more_resources .container {
   width: 900px;
   margin: 0 auto;
   max-width: 80%;
 }
-
 .amr_more_resources .slick-slider {
   margin-left: -12%;
   margin-right: -12%;
 }
-
 .amr_more_resources .slick-list {
   padding-top: 10%!important;
   padding-bottom: 10%!important;
   padding-left: 15%!important;
   padding-right: 15%!important;
 }
-
 .amr_more_resources .slick-dots {
   text-align: right;
   position: absolute;
@@ -67,13 +44,11 @@
   left: 0;
   right: 0;
 }
-
 .amr_more_resources .slick-track {
   max-width: 100%!important;
   transform: translate3d(0, 0, 0)!important;
   perspective: 100px;
 }
-
 .amr_more_resources .slick-slide {
   position: absolute;
   top: 0;
@@ -86,21 +61,18 @@
   transform: translate3d(0, 0, 0);
   transition: transform 1s, opacity 1s;
 }
-
 .amr_more_resources .slick-snext,
 .amr_more_resources .slick-sprev,
 .amr_more_resources .slick-snext2,
 .amr_more_resources .slick-sprev2{
   display: block;
 }
-
 .amr_more_resources .slick-current {
   opacity: 1;
   position: relative;
   display: block;
   z-index: 2;
 }
-
 .amr_more_resources .slick-snext {
   opacity: 1;
   transform: translate3d(10%, 0, -10px);
@@ -113,17 +85,14 @@
   z-index: 0;
   perspective: 1000px;
 }
-
 .amr_more_resources .slick-sprev {
   opacity: 1;
   transform: translate3d(-10%, 0, -10px);
 }
-
 .amr_more_resources .slick-sprev2 {
   opacity: 1;
   transform: translate3d(-20%, 0, -20px);
 }
-
 .amr_more_resources .test {
   display: block;
   width: 100%;
@@ -134,7 +103,7 @@
 .amr_more_resources .test img{
   border-radius:25px;
 }
-  .amr_more_resources.amr_dots_arrows ul.slick-dots {
+.amr_more_resources.amr_dots_arrows ul.slick-dots {
     bottom: -50px;
 }
 </style>
