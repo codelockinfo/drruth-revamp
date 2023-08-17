@@ -1001,11 +1001,17 @@
           "settings": {
             "text": "<p>The most useful pet advice news.<\/p>"
           }
+        },
+        "b20df904-d941-4f21-a506-65b94005d4e8": {
+          "type": "image_picker",
+          "settings": {
+          }
         }
       },
       "block_order": [
         "template--14898486050881__35a9f240-35c6-4509-b3d7-77ac0c08d41c-1679662670bc156e16-0",
-        "4b0582b7-196c-42c7-8c5b-98627f6ca006"
+        "4b0582b7-196c-42c7-8c5b-98627f6ca006",
+        "b20df904-d941-4f21-a506-65b94005d4e8"
       ],
       "settings": {
         "desktop_content_position": "center",
