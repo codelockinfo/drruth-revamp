@@ -200,7 +200,7 @@
           "settings": {
             "detail": "<p>We help you develop the knowledge and skills you need to provide effective and compassionate care for pets.<\/p>",
             "btn_txtm": "Apply Now",
-            "btn_urlm": "#"
+            "btn_urlm": "https:\/\/drruthroberts.com\/pages\/application-form"
           }
         }
       },
@@ -290,7 +290,7 @@
         "heading": "How it Works during the program",
         "desc": "<p>From application to graduation, our program offers a comprehensive journey towards becoming a certified holistic pet health coach. In this guide, we will walk you through each step of the process and provide an overview of what you can expect as you embark on this exciting career path<\/p>",
         "btn_txt": "Apply Now",
-        "btn_url": ""
+        "btn_url": "https:\/\/drruthroberts.com\/pages\/application-form"
       }
     },
     "295c072c-7667-4bf1-80ae-c3bbfee4074b": {
@@ -376,7 +376,7 @@
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Apply Now",
-        "button_link": "#",
+        "button_link": "https:\/\/drruthroberts.com\/pages\/application-form",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -507,7 +507,7 @@
         "heading": "Our Certified Coaches",
         "desc": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>",
         "btn_txt_main": "Book A Consultation",
-        "btn_url_main": ""
+        "btn_url_main": "https:\/\/drruthroberts.com\/pages\/consulting-page#our_consultants"
       }
     },
     "cdb9ea8d-5b05-4219-930a-f46075180e68": {
