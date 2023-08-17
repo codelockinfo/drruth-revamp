@@ -1068,6 +1068,14 @@ button.amr_accordion.amr_active img {
 .amr_story_item {
     width: 100%;
 }
+.amr_story_item img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+    max-height: 232px;
+    height: 100%;
+    margin-bottom: 20px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
