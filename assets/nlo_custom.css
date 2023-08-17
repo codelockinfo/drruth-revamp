@@ -1099,6 +1099,16 @@ button.amr_accordion.amr_active img {
     position: relative;
     padding: 100px 0px;
 }
+.multicolumn-list .multicolumn-list__item  .multicolumn-card__info h3 {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 29.533px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.295px;
+    margin: 0 0 80px;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
