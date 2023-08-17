@@ -1065,6 +1065,9 @@ button.amr_accordion.amr_active img {
     grid-column-gap: 40px;
     grid-row-gap: 40px;
 }
+.amr_story_item {
+    width: 100%;
+}
 @media screen and (max-width:1200px){
 .amr_container_1170,
 .amr_container_1050{
