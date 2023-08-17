@@ -71,6 +71,9 @@ a.amr_PSND_btn {
 .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_header, .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_detail, .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_btn {
     display: none;
 } */
+  .anr_slider_box_inner.slick-slide.slick-current.slick-active{
+    background-color:{{ block.settings.bg_color }};
+  }
 @media screen and (max-width:575px){
 .anr_slider_box_inner {
     padding: 40px 25px;
@@ -86,7 +89,7 @@ a.amr_PSND_btn {
     <!-- slide grup -->
     <div class="amr_slider_box">
       {% for block in section.blocks %}
-        <div class="anr_slider_box_inner" style="background-color:{{ block.settings.bg_color }};">
+        <div class="anr_slider_box_inner">
       <div class="amr_PSND_header">
           <h2>{{ block.settings.title }}</h2>
           <div>{{ block.settings.short_detail }}</div>
