@@ -43,8 +43,42 @@
     },
     "f620a3b9-6694-48f6-93c9-f0e7af834334": {
       "type": "our_story",
+      "blocks": {
+        "b99c4d67-d1b7-4cdb-88f6-999f377c4a5b": {
+          "type": "story",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/image_7_d061c94d-3b75-4713-b3bf-30f329f2bddf.png",
+            "title": "Each consultation is tailored to your pet's unique needs.",
+            "detail": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
+            "btn_url": ""
+          }
+        },
+        "a24a4fe0-01a1-4c83-b0c7-5760a22f5777": {
+          "type": "story",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/image_7_d061c94d-3b75-4713-b3bf-30f329f2bddf.png",
+            "title": "Each consultation is tailored to your pet's unique needs.",
+            "detail": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
+            "btn_url": ""
+          }
+        },
+        "6f403d29-83a9-4344-bf99-f52d0ae7435e": {
+          "type": "story",
+          "settings": {
+            "main_img": "shopify:\/\/shop_images\/image_7_d061c94d-3b75-4713-b3bf-30f329f2bddf.png",
+            "title": "Each consultation is tailored to your pet's unique needs.",
+            "detail": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b99c4d67-d1b7-4cdb-88f6-999f377c4a5b",
+        "a24a4fe0-01a1-4c83-b0c7-5760a22f5777",
+        "6f403d29-83a9-4344-bf99-f52d0ae7435e"
+      ],
       "settings": {
-        "heading": ""
+        "heading": "Stories"
       }
     },
     "96214aaf-b822-4973-9ad0-b39a722f6e93": {
