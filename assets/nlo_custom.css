@@ -1123,7 +1123,7 @@ button.amr_accordion.amr_active img {
     z-index: -1; 
     margin: auto;
     left: 0;
-    right: -40px;
+    right: 4%;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
