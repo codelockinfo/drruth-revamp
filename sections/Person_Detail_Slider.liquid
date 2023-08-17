@@ -71,9 +71,11 @@ a.amr_PSND_btn {
 .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_header, .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_detail, .anr_slider_box_inner.slick-slide:not(.slick-current) .amr_PSND_btn {
     display: none;
 } */
+  {% for block in section.blocks %}
   .anr_slider_box_inner.slick-slide.slick-current.slick-active{
     background-color:{{ block.settings.bg_color }};
   }
+    {% endfor %}
 @media screen and (max-width:575px){
 .anr_slider_box_inner {
     padding: 40px 25px;
