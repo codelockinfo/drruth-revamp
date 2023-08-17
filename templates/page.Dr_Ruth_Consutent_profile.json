@@ -24,6 +24,7 @@
     },
     "0cbb6ce1-efe2-46d2-88c2-ebf85dcf0f72": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "custom_class": "person_story",
         "heading": "Stories",
@@ -38,6 +39,12 @@
         "show_view_all": false,
         "padding_top": 60,
         "padding_bottom": 60
+      }
+    },
+    "f620a3b9-6694-48f6-93c9-f0e7af834334": {
+      "type": "our_story",
+      "settings": {
+        "heading": ""
       }
     },
     "96214aaf-b822-4973-9ad0-b39a722f6e93": {
@@ -155,6 +162,7 @@
     "main",
     "ba85da22-4605-49c5-8217-2bd483fac09a",
     "0cbb6ce1-efe2-46d2-88c2-ebf85dcf0f72",
+    "f620a3b9-6694-48f6-93c9-f0e7af834334",
     "96214aaf-b822-4973-9ad0-b39a722f6e93",
     "80b8f9bf-2cdd-4cef-aca3-85e7ce455bbf"
   ]
