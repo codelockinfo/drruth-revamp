@@ -24,33 +24,14 @@
     <div class="container">
   <div class="rev_slider">
     <div class="rev_slide">
-      <div class="test">Some textSome text Some text Some text</div>
+       {% for block in section.blocks %}
+          <div class="amr_MR_img">
+            <img src="{{ block.settings.main_img | img_url:'master' }}">
+          </div>
+        {% endfor %}
     </div>
 
-    <div class="rev_slide">
-      <div class="test">1</div>
-    </div>
-    <div class="rev_slide">
-      <div class="test">2</div>
-    </div>
-    <div class="rev_slide">
-      <div class="test">3</div>
-    </div>
-    <div class="rev_slide">
-      <div class="test">SLIDEEEEEEEEEE!!!!!!!!</div>
-    </div>
-    <div class="rev_slide">
-      <div class="test"></div>
-    </div>
-    <div class="rev_slide">
-      <div class="test"></div>
-    </div>
-    <div class="rev_slide">
-      <div class="test"></div>
-    </div>
-    <div class="rev_slide">
-      <div class="test"></div>
-    </div>
+   
   </div>
 </div>
 
