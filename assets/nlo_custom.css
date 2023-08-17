@@ -1067,6 +1067,7 @@ button.amr_accordion.amr_active img {
 }
 .amr_story_item {
     width: 100%;
+    text-decoration:none;
 }
 .amr_story_item img {
     width: 100%;
@@ -1075,6 +1076,15 @@ button.amr_accordion.amr_active img {
     max-height: 232px;
     height: 100%;
     margin-bottom: 20px;
+}
+.amr_story_item h3 {
+    margin: 0 0 20px;
+    color: #2D4B49;
+    font-family: BLT-Heirloom;
+    font-size: 30.026px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 30.582px;
 }
 @media screen and (max-width:1200px){
 .amr_container_1170,
