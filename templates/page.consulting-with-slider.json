@@ -83,6 +83,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Why Us?",
         "heading_size": "h0",
         "image_width": "full",
@@ -141,6 +142,7 @@
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
@@ -190,6 +192,7 @@
         ".grid:last-child {margin-bottom: 0; justify-content: center;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -410,11 +413,24 @@
             "btn_txt": "Book A Consultation",
             "btn_url": ""
           }
+        },
+        "d3e54e61-f546-41ea-b59d-bd3e1ab34dc1": {
+          "type": "person_detail",
+          "settings": {
+            "bg_color": "#e6f972",
+            "title": "Wilma Shaw 3",
+            "short_detail": "<p>FNTP, BCHN, HPHC<\/p>",
+            "main_img": "shopify:\/\/shop_images\/Group_849.png",
+            "detail": "<p>FNTP, BCHN, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "#"
+          }
         }
       },
       "block_order": [
         "c7ad32a3-49a0-41c3-8ed4-ad677fd0d0b6",
-        "7463f4d1-0421-4cae-8c38-909954a7a1fd"
+        "7463f4d1-0421-4cae-8c38-909954a7a1fd",
+        "d3e54e61-f546-41ea-b59d-bd3e1ab34dc1"
       ],
       "settings": {
         "heading": "Connecting vulnerable animals with their forever families",
@@ -501,6 +517,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
         "heading_size": "h0",
         "image_width": "full",
