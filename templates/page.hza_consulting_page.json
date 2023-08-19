@@ -366,6 +366,39 @@
             "btn_txt": "Book A Consultation",
             "btn_url": "#"
           }
+        },
+        "d2f14fcc-60c1-4433-8522-982df5423ea8": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Amanda_Delgado.jpg",
+            "title": "Amanda Delgado",
+            "detail": "",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "397ec206-27de-4618-902e-de137a58334c": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Ashley_Kesheen.jpg",
+            "title": "Ashley Kesheen",
+            "detail": "",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "14bd0482-575f-46cb-9b64-cc65d000978b": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Carolyn_Elizabeth.jpg",
+            "title": "Carolyn Elizabeth",
+            "detail": "",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
         }
       },
       "block_order": [
@@ -377,7 +410,10 @@
         "7109be25-d5d3-4d59-90df-1338007acd20",
         "c8bfb29c-3d45-480d-a9b1-f156fc5111a0",
         "3d6942da-ae41-4b6d-8e77-20eca0fe0dd9",
-        "7c7a50a1-d912-4619-a969-38477ca03106"
+        "7c7a50a1-d912-4619-a969-38477ca03106",
+        "d2f14fcc-60c1-4433-8522-982df5423ea8",
+        "397ec206-27de-4618-902e-de137a58334c",
+        "14bd0482-575f-46cb-9b64-cc65d000978b"
       ],
       "custom_css": [
         ".amr_pet_consultants_item:hover *:not(a) {color: #000;}"
