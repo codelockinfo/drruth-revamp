@@ -64,7 +64,6 @@
     },
     "b13a7b3e-709c-47aa-b070-2d93f659adca": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--14909520412737__b13a7b3e-709c-47aa-b070-2d93f659adca-16813768484ef1ecab-0": {
           "type": "heading",
@@ -96,6 +95,7 @@
         "template--14909520412737__b13a7b3e-709c-47aa-b070-2d93f659adca-16813768484ef1ecab-1",
         "template--14909520412737__b13a7b3e-709c-47aa-b070-2d93f659adca-16813768484ef1ecab-2"
       ],
+      "disabled": true,
       "custom_css": [
         ".rich-text__buttons a.button.button--primary {background: transparent; border: 2px solid #184b44; border-radius: 25.5px; cursor: pointer; opacity: 1; font-family: \"Josefin Sans\"; font-style: normal; font-weight: 600; font-size: 14px; line-height: 21px; letter-spacing: 0.3em; text-transform: uppercase; color: #1e1e1e;}",
         "h2.rich-text__heading.rte.h1 span {font-family: \"BLT-Heirloom\"; font-style: normal; font-weight: 300; font-size: 30px; text-align: center; color: #1e1e1e; margin: 0;}",
@@ -208,7 +208,6 @@
     },
     "00f4763c-eed7-470b-8ccb-45e5f7d30179": {
       "type": "workcoachingmain",
-      "disabled": true,
       "blocks": {
         "3d6d8abb-f241-420e-b1d2-5d14ce3bed9c": {
           "type": "blogs",
@@ -278,6 +277,7 @@
         "5256d39b-de66-4ee4-92ea-42ca578c28d5",
         "d2374833-7a00-4a74-9aeb-5722d0d93572"
       ],
+      "disabled": true,
       "settings": {
         "workhead1": "How it Works ",
         "worksub": "During the program"
@@ -587,7 +587,7 @@
         "testhead": "Meet Our Certified Coaches",
         "testdes": "Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance.",
         "coachbtn": "Book A Consultation",
-        "coachurl": "shopify:\/\/pages\/contact-us"
+        "coachurl": "https:\/\/drruthroberts.com\/pages\/consulting-page"
       }
     },
     "6e50e8ed-d65d-4d2c-af60-4c8eaae33b05": {
@@ -843,7 +843,6 @@
     },
     "fad21f59-0695-4b4c-bb8a-ce71573b549d": {
       "type": "pet_advice",
-      "disabled": true,
       "blocks": {
         "412e195d-9ccf-45bf-8988-0f2c0db9f77b": {
           "type": "collection",
@@ -881,6 +880,7 @@
         "19ff2ae9-3bb9-423d-bf2a-5fb71f6af258",
         "03022b8b-c99f-49f5-a882-5b003c84e04b"
       ],
+      "disabled": true,
       "settings": {
         "coursehead": "Pet Advice By Dr. Ruth",
         "moreadviceid": "shopify:\/\/pages\/pet-advice-holistic-resources",
