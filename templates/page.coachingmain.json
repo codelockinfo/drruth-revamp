@@ -911,26 +911,6 @@
         "padding_bottom": 36
       }
     },
-    "053fe5bc-9a28-4717-93c7-0635073e2e49": {
-      "type": "rx-blog",
-      "custom_css": [
-        ".blog__title {font-family: Oakley Script; font-weight: 400; font-size: 64px; color: #184b44; text-align: center; width: 100%;}",
-        ".blog__button {border: 2px solid #184b44; border-radius: 25.5px; font-family: Josefin Sans; font-style: normal; font-weight: 600; font-size: 14px; line-height: 150%; letter-spacing: 0.2em; text-transform: uppercase; color: #1e1e1e; background: transparent; padding-right: 6%;}"
-      ],
-      "settings": {
-        "heading": "Pet Advice By Dr. Ruth ",
-        "heading_size": "h1",
-        "blog": "pet-blog",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "30ace1ca-bbad-44e0-a045-05023c6a4cf3": {
       "type": "Legacy",
       "blocks": {
@@ -1102,7 +1082,6 @@
     "143fd103-6dd8-40ee-a3e0-7880c57cdbec",
     "fad21f59-0695-4b4c-bb8a-ce71573b549d",
     "7e483d4c-197f-4814-84d6-92e415442a8e",
-    "053fe5bc-9a28-4717-93c7-0635073e2e49",
     "30ace1ca-bbad-44e0-a045-05023c6a4cf3",
     "f8da2a61-1c6a-43d0-8e0d-d1b351eb39db",
     "abac2943-5dc6-496b-8f08-447111465127",
