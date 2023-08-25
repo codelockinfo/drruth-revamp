@@ -28,12 +28,20 @@
             "heading": "SUPPORT",
             "menu": "footer"
           }
+        },
+        "f5e5a2ad-a38c-4121-83a4-2455eef7335f": {
+          "type": "link_list",
+          "settings": {
+            "heading": "DISCLAIMER",
+            "menu": "diclaimer-1"
+          }
         }
       },
       "block_order": [
         "61cdae29-0e27-4c99-ae13-1a4b6e4f0ed0",
         "a91f38b1-9990-48cb-b0d6-cb69bbb033ee",
-        "14974bdb-6efe-46d6-83a3-40209dd31089"
+        "14974bdb-6efe-46d6-83a3-40209dd31089",
+        "f5e5a2ad-a38c-4121-83a4-2455eef7335f"
       ],
       "custom_css": [
         ".rx-email-field input {text-transform: capitalize !important;}"
@@ -58,7 +66,6 @@
     },
     "footer": {
       "type": "footer",
-      "disabled": true,
       "blocks": {
         "image": {
           "type": "image",
@@ -104,6 +111,7 @@
         "linklist",
         "text-0"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": false,
