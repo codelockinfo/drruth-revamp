@@ -461,6 +461,7 @@
         },
         "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d": {
           "type": "consultants",
+          "disabled": true,
           "settings": {
             "bg_color": "",
             "title": "",
