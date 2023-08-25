@@ -423,6 +423,64 @@
         "desc": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>"
       }
     },
+    "ade1e20e-bc6d-40b0-88e7-8bb68187ddf7": {
+      "type": "Our_Pet_Consultants",
+      "blocks": {
+        "11f43fc0-c114-4c88-8984-a8c60e8b2515": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Kelly_Cogen.png",
+            "title": "Kelly Cogen",
+            "detail": "<p>Cert. CN, B.Sc Naturopathic Animal Science, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "mailto:kelly.cogen@gmail.com"
+          }
+        },
+        "121afa45-c0a3-4d40-8be6-5c6ef866f9a0": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Deb_Teubert.png",
+            "title": "Deb Teubert",
+            "detail": "<p>Holistic & Animal Practitioner, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "https:\/\/www.debswhisperingtails.com"
+          }
+        },
+        "bb5cf262-4e2a-44a8-bba6-5b373e1780b2": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rhiannon_Andrus.png",
+            "title": "Rhiannon Andrus",
+            "detail": "<p>Certified Holistic Human Coach, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "mailto:fireflie2629@gmail.com"
+          }
+        },
+        "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "11f43fc0-c114-4c88-8984-a8c60e8b2515",
+        "121afa45-c0a3-4d40-8be6-5c6ef866f9a0",
+        "bb5cf262-4e2a-44a8-bba6-5b373e1780b2",
+        "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d"
+      ],
+      "settings": {
+        "heading": "",
+        "desc": ""
+      }
+    },
     "9f200db6-f446-4751-86a0-976599b30a1d": {
       "type": "hza_testimonial",
       "blocks": {
@@ -629,6 +687,7 @@
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd",
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140",
+    "ade1e20e-bc6d-40b0-88e7-8bb68187ddf7",
     "9f200db6-f446-4751-86a0-976599b30a1d",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
