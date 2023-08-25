@@ -276,7 +276,7 @@
             "title": "Dlorah deVore",
             "detail": "<p>FNTP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "shopify:\/\/pages\/dr-ruth-consutent-profile"
+            "btn_url": "https:\/\/calendly.com\/nutrivorenutrition"
           }
         },
         "1f15f002-d3aa-4e97-93b1-8e5f49d89d27": {
@@ -287,16 +287,16 @@
             "title": "Jessica Fisher",
             "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/drruthroberts.com\/pages\/dr-ruth-consutent-profile"
+            "btn_url": "https:\/\/jessicalfisher.com\/"
           }
         },
         "07b2b3af-05e3-45dd-9be1-683e4e9f4622": {
           "type": "consultants",
           "settings": {
             "bg_color": "#f3ca56",
-            "bg_img": "shopify:\/\/shop_images\/Kelly_Cogen.png",
-            "title": "Kelly Cogen",
-            "detail": "<p>Cert. CN, B.S.c Naturopathic Animal Science, HPHC<\/p>",
+            "bg_img": "shopify:\/\/shop_images\/Lori_Megginson.png",
+            "title": "Lori Gammon",
+            "detail": "<p>RN, CCMT, CAAP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/drruthroberts.com\/pages\/dr-ruth-consutent-profile"
           }
@@ -309,7 +309,7 @@
             "title": "Michael Daly",
             "detail": "<p>Canine\/Equine Massage Therapist, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "#"
+            "btn_url": "mailto:michaeldalypethealthcoach@gmail.com"
           }
         },
         "e9f8a49a-1b6b-4622-9d1a-c516fe9d725b": {
@@ -320,7 +320,7 @@
             "title": "Leah Bookhamer",
             "detail": "<p>NTP, MRWP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/drruthroberts.com\/pages\/dr-ruth-consutent-profile"
+            "btn_url": "https:\/\/calendly.com\/foodienutritionaltherapyllc\/complementary-pet-consultation"
           }
         },
         "33f37d89-868f-4ade-916a-dc334b2e001d": {
@@ -331,7 +331,7 @@
             "title": "Wilma Shaw",
             "detail": "<p>FNTP, BCHN, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/drruthroberts.com\/pages\/consulting-with-slider https:\/\/drruthroberts.com\/pages\/consulting-page https:\/\/drruthroberts.com\/pages\/pet-consultant https:\/\/drruthroberts.com\/pages\/dr-ruth-consutent-profile"
+            "btn_url": "https:\/\/embracenutrition.practicebetter.io\/#\/5b31051f67c6b91bc080c341\/bookings?s=63f7cda7f97659bbfef5aa1b&step=date"
           }
         },
         "c8bfb29c-3d45-480d-a9b1-f156fc5111a0": {
@@ -342,7 +342,7 @@
             "title": "Maggie Shellhammer",
             "detail": "<p>Certified Dog Groomer, Certified Dog Trainer, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "#"
+            "btn_url": "https:\/\/calendly.com\/intunepets2023\/45-minute-pet-consultation?month=2023-08"
           }
         },
         "7c7a50a1-d912-4619-a969-38477ca03106": {
@@ -353,7 +353,7 @@
             "title": "Bea Swasey",
             "detail": "<p>MBA, NTP, RWS II, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "#"
+            "btn_url": "https:\/\/calendly.com\/beaswasey-sparkedupdogs\/30min"
           }
         },
         "3d6942da-ae41-4b6d-8e77-20eca0fe0dd9": {
@@ -364,7 +364,7 @@
             "title": "Kristy Green",
             "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "#"
+            "btn_url": "mailto:greenacreslabsmi@gmail.com"
           }
         },
         "d2f14fcc-60c1-4433-8522-982df5423ea8": {
@@ -373,9 +373,9 @@
             "bg_color": "",
             "bg_img": "shopify:\/\/shop_images\/Amanda_Delgado.png",
             "title": "Amanda Delgado",
-            "detail": "",
+            "detail": "<p>CHPHC, NNCP, FDN-P<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": ""
+            "btn_url": "https:\/\/www.amandadelgado.ca"
           }
         },
         "14bd0482-575f-46cb-9b64-cc65d000978b": {
@@ -386,7 +386,7 @@
             "title": "Laura Muzal",
             "detail": "<p>Animal Practitioner, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": ""
+            "btn_url": "mailto:lmuzal1@hotmail.com"
           }
         },
         "397ec206-27de-4618-902e-de137a58334c": {
@@ -397,7 +397,7 @@
             "title": "Paris Reed",
             "detail": "<p>FDN-P, FBCS, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": ""
+            "btn_url": "https:\/\/parisfindshealth.com\/"
           }
         }
       },
