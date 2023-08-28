@@ -80,8 +80,8 @@
         "b44f2959-4107-41c8-9924-00043d92b319": {
           "type": "text",
           "settings": {
-            "text": "",
-            "text_style": "body"
+            "text": "{{ product.metafields.my_fields._1_badge_text_4.value }}",
+            "text_style": "subtitle"
           }
         }
       },
