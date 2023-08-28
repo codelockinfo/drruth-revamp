@@ -11,7 +11,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "HPHC, NNCP, FDN-P",
+            "text": "{{ product.metafields.my_fields._1_badge_text_2.value }}",
             "text_style": "subtitle"
           }
         },
@@ -228,7 +228,7 @@
           "type": "column",
           "settings": {
             "title": "Coach Information",
-            "text": "<p>As a passionate dog mom of two beautiful souls, my life’s mission is to give them the best life possible. That’s why I studied animal nutrition and became a Certified Holistic Pet Health Coach. Now I educate and inspire other pet parents to help their animals live their best lives. By working together and harnessing the power of natural and holistic health, we can restore balance and harmony within your pet, allowing them to thrive.<\/p>",
+            "text": "<p>{{ product.metafields.my_fields._1_badge_text_1.value }}<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -237,7 +237,7 @@
           "type": "column",
           "settings": {
             "title": "Contact",
-            "text": "<ul><li><a href=\"http:\/\/www.amandadelgado.ca\" target=\"_blank\"><span style=\"text-decoration:underline\">www.amandadelgado.ca<\/span><\/a><\/li><li>(705) 826-0799<\/li><li>hello@amandadelgado.ca<\/li><\/ul>",
+            "text": "<p>{{ product.metafields.my_fields.product_direction_for_use | metafield_tag }}<\/p>",
             "link_label": "",
             "link": ""
           }
