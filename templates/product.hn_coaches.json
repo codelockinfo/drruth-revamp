@@ -58,6 +58,7 @@
         },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
           }
@@ -70,6 +71,12 @@
           }
         },
         "4e4ca8e0-c024-40a2-947e-f6be194e2e5b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Custom CTA Button<\/title>\n    <style>\n        \/* Center align the container vertically and at the top *\/\n        .button-container {\n            display: flex;\n            justify-content: center;\n            align-items: flex-start; \/* Align to the top *\/\n            min-height: 100vh; \/* Minimum full viewport height *\/\n            margin: 0;\n        }\n\n        \/* Style the CTA button *\/\n        #ctaButton {\n            font-size: 24px; \/* Double the size *\/\n            border: none;\n            padding: 15px 30px; \/* Padding for the button *\/\n            border-radius: 10px; \/* Rounded corners *\/\n            cursor: pointer;\n        }\n    <\/style>\n<\/head>\n<body>\n    <!-- Button Container -->\n    <div class=\"button-container\">\n        <!-- CTA Button -->\n        <button id=\"ctaButton\">BOOK A CONSULT<\/button>\n    <\/div>\n\n    <!-- JavaScript -->\n    <script>\n        \/\/ Function to handle button click\n        document.getElementById(\"ctaButton\").addEventListener(\"click\", function() {\n            \/\/ Check if the user's device supports phone calls\n            if ('contacts' in navigator) {\n                \/\/ Initiate a phone call\n                navigator"
+          }
+        },
+        "26792bb5-57be-4773-bdbe-8cd89fb0f3cc": {
           "type": "custom_liquid",
           "settings": {
             "custom_liquid": ""
@@ -87,7 +94,8 @@
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
         "880a5ead-be28-4912-b9d7-5a90d320fa21",
-        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b"
+        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b",
+        "26792bb5-57be-4773-bdbe-8cd89fb0f3cc"
       ],
       "custom_css": [
 
