@@ -11,7 +11,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "Canine\/Equine Massage Therapist, HPHC",
+            "text": "HPHC, NNCP, FDN-P",
             "text_style": "subtitle"
           }
         },
@@ -228,7 +228,7 @@
           "type": "column",
           "settings": {
             "title": "Coach Information",
-            "text": "{{ product.metafields.custom.coach_tab1 | metafield_tag }}",
+            "text": "<p>As a passionate dog mom of two beautiful souls, my life’s mission is to give them the best life possible. That’s why I studied animal nutrition and became a Certified Holistic Pet Health Coach. Now I educate and inspire other pet parents to help their animals live their best lives. By working together and harnessing the power of natural and holistic health, we can restore balance and harmony within your pet, allowing them to thrive.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -237,7 +237,7 @@
           "type": "column",
           "settings": {
             "title": "Contact",
-            "text": "{{ product.metafields.custom.coach_tab2 | metafield_tag }}",
+            "text": "<ul><li><a href=\"http:\/\/www.amandadelgado.ca\" target=\"_blank\"><span style=\"text-decoration:underline\">www.amandadelgado.ca<\/span><\/a><\/li><li>(705) 826-0799<\/li><li>hello@amandadelgado.ca<\/li><\/ul>",
             "link_label": "",
             "link": ""
           }
