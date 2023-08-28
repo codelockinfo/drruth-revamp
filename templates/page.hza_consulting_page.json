@@ -272,7 +272,7 @@
         "heading_size": "h1",
         "description": "<p>Discover personalized solutions for your pet's well-being with our professional and certified Holistic Pet Health Coach<\/p>",
         "show_description": false,
-        "description_style": "body",
+        "description_style": "subtitle",
         "collection": "coaches",
         "products_to_show": 4,
         "columns_desktop": 4,
@@ -462,7 +462,7 @@
             "title": "Kelly Cogen",
             "detail": "<p>Cert. CN, B.Sc Naturopathic Animal Science, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "mailto:kelly.cogen@gmail.com"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/kelly-cogen"
           }
         },
         "121afa45-c0a3-4d40-8be6-5c6ef866f9a0": {
