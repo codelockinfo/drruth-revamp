@@ -322,7 +322,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "#f3ca56",
-            "bg_img": "shopify:\/\/shop_images\/Lori_Megginson.png",
+            "bg_img": "shopify:\/\/shop_images\/Lori_Gammon.png",
             "title": "Lori Gammon",
             "detail": "<p>RN, CCMT, CAAP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
@@ -421,7 +421,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Paris_Reed.png",
+            "bg_img": "shopify:\/\/shop_images\/paris_reed_2.png",
             "title": "Paris Reed",
             "detail": "<p>FDN-P, FBCS, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
@@ -512,10 +512,22 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rinagressett_2.png",
             "title": "Rina Gressett",
             "detail": "<p>Petsitter, Dog mom, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/heartandsoulpetconnection.com\/"
+          }
+        },
+        "a841946f-5146-4281-82fa-7502e5ceb480": {
+          "type": "consultants",
+          "disabled": true,
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
           }
         }
       },
@@ -525,7 +537,8 @@
         "bb5cf262-4e2a-44a8-bba6-5b373e1780b2",
         "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d",
         "4f6339f6-41c5-4489-a449-567b15e0771f",
-        "ae5e161e-edb8-476e-aa0c-12c5df8d4a41"
+        "ae5e161e-edb8-476e-aa0c-12c5df8d4a41",
+        "a841946f-5146-4281-82fa-7502e5ceb480"
       ],
       "settings": {
         "heading": "",
