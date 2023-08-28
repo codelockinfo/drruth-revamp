@@ -507,6 +507,16 @@
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/www.spoileddogsco.com"
           }
+        },
+        "ae5e161e-edb8-476e-aa0c-12c5df8d4a41": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Rina Gressett",
+            "detail": "<p>Petsitter, Dog mom, HPHC<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "https:\/\/heartandsoulpetconnection.com\/"
+          }
         }
       },
       "block_order": [
@@ -514,7 +524,8 @@
         "121afa45-c0a3-4d40-8be6-5c6ef866f9a0",
         "bb5cf262-4e2a-44a8-bba6-5b373e1780b2",
         "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d",
-        "4f6339f6-41c5-4489-a449-567b15e0771f"
+        "4f6339f6-41c5-4489-a449-567b15e0771f",
+        "ae5e161e-edb8-476e-aa0c-12c5df8d4a41"
       ],
       "settings": {
         "heading": "",
