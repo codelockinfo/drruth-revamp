@@ -94,7 +94,7 @@
       ],
       "settings": {
         "enable_sticky_info": false,
-        "media_size": "large",
+        "media_size": "small",
         "constrain_to_viewport": false,
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
@@ -104,7 +104,7 @@
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 20,
-        "padding_bottom": 60
+        "padding_bottom": 20
       }
     },
     "related-products": {
@@ -328,6 +328,15 @@
         "padding_bottom": 36
       }
     },
+    "01b656ad-4c3f-458a-8166-7e6ac363dbd0": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">{{ product.metafields.custom.coach_video1.value }}<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "abe4a906-a16b-4d26-8f07-691acdb8382b": {
       "type": "rich-text",
       "blocks": {
@@ -359,7 +368,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 0
       }
     },
@@ -375,7 +384,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "coaches",
-        "products_to_show": 4,
+        "products_to_show": 12,
         "columns_desktop": 4,
         "full_width": true,
         "show_view_all": true,
@@ -496,7 +505,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 80,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -540,7 +549,7 @@
             "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
             "rating": 5,
             "confimed": "Mind Blowing!",
-            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help.",
+            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
             "signtext": "Missy Springer & Kenzie South Paw Aussies"
           }
         },
@@ -748,6 +757,7 @@
     "08272d4d-303d-440d-b37b-7a83170b6abe",
     "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18",
     "917f0b14-b480-4b5a-a463-55d41ed905c9",
+    "01b656ad-4c3f-458a-8166-7e6ac363dbd0",
     "abe4a906-a16b-4d26-8f07-691acdb8382b",
     "633debae-a1a7-4670-a389-c7461a3b1f94",
     "c9a77dcc-8f21-456a-80a7-66ec510e4067",

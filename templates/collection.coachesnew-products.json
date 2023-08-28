@@ -45,7 +45,7 @@
       ],
       "settings": {
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "middle-left",
         "show_text_box": true,
         "desktop_content_alignment": "left",
@@ -92,15 +92,6 @@
     "5b10af01-9fda-4f74-9dd6-340a797a06d6": {
       "type": "multicolumn",
       "blocks": {
-        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Dlorah deVore",
-            "text": "<p>FNTP, HPHC<\/p>",
-            "link_label": "Book A Consultant",
-            "link": ""
-          }
-        },
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-2": {
           "type": "column",
           "settings": {
@@ -121,11 +112,12 @@
         }
       },
       "block_order": [
-        "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-1",
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-2",
         "template--14940389605441__5b10af01-9fda-4f74-9dd6-340a797a06d6-column-3"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -147,7 +139,9 @@
       "blocks": {
         "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
+            "image": "shopify:\/\/shop_images\/WilmaSHaw.png",
             "title": "Wilma Shaw",
             "text": "<p>FNTP, BCHN, HPHC<\/p>",
             "link_label": "Book A Consultant",
@@ -178,7 +172,9 @@
         "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-2",
         "template--14940389605441__c08e6889-5b82-408c-9262-d16cee6dceb5-column-3"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -231,7 +227,9 @@
         "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-2",
         "template--14940389605441__a39cad73-abdc-4fc4-b7fe-773016710e31-column-3"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -269,6 +267,7 @@
         "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-heading-1",
         "template--14940389605441__ba04b83f-d846-4952-99a7-7ed1feec335c-text-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: BLT-Heirloom; font-weight: bold; font-size: 6rem; color: #2e484a;}",
         "p {font-size: 2rem;}"
@@ -294,8 +293,8 @@
         "products_per_page": 10,
         "columns_desktop": 3,
         "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": true,
+        "show_secondary_image": false,
+        "show_vendor": false,
         "show_rating": true,
         "enable_quick_add": false,
         "show_special_offer": false,
@@ -509,6 +508,7 @@
         "p {text-align: justify; font-size: 1.5rem; line-height: 1.8rem;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -573,8 +573,8 @@
       "blocks": {
         "b10d071f-0463-4698-be2f-20a12e0c49d7": {
           "type": "block",
+          "disabled": true,
           "settings": {
-            "mainimage": "shopify:\/\/shop_images\/Ellipse_7.png",
             "rating": 5,
             "confimed": "Mind Blowing!",
             "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",

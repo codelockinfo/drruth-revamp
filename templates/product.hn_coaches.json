@@ -3,16 +3,16 @@
     "main": {
       "type": "rx-main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "caption": {
+          "type": "text",
+          "settings": {
+            "text": "Canine\/Equine Massage Therapist, HPHC",
+            "text_style": "subtitle"
           }
         },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
@@ -22,6 +22,7 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {
             "show_add_to_cart_button": true
           }
@@ -35,19 +36,12 @@
         },
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
+          "disabled": true,
           "settings": {
             "ingredients_content": "{{ product.metafields.custom.revamp_ingredients | metafield_tag }}",
             "instructions_content": "{{ product.metafields.custom.revamp_instruction | metafield_tag }}",
             "instructions_content_image": "{{ product.metafields.custom.revamp_instruction_image.value }}",
             "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
-          }
-        },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
           }
         },
         "description": {
@@ -57,15 +51,15 @@
         },
         "c3949539-dd47-4db5-86e8-4b2143f24749": {
           "type": "variant_picker",
+          "disabled": true,
           "settings": {
             "picker_type": "dropdown"
           }
         },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
-            "show_dynamic_checkout": true
+            "show_dynamic_checkout": false
           }
         },
         "880a5ead-be28-4912-b9d7-5a90d320fa21": {
@@ -74,20 +68,26 @@
           "settings": {
             "custom_liquid": "<div class=\"product__tax caption rte\"><a href=\"\/policies\/shipping-policy\">Shipping<\/a> calculated at checkout.\n<\/div>"
           }
+        },
+        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "caption",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
         "c50958db-6d62-42c8-8a47-729c390a856f",
-        "caption",
         "description",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
-        "880a5ead-be28-4912-b9d7-5a90d320fa21"
+        "880a5ead-be28-4912-b9d7-5a90d320fa21",
+        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b"
       ],
       "custom_css": [
 
@@ -99,9 +99,9 @@
         "media_fit": "contain",
         "gallery_layout": "thumbnail_slider",
         "media_position": "left",
-        "image_zoom": "lightbox",
-        "mobile_thumbnails": "show",
-        "hide_variants": false,
+        "image_zoom": "none",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 20,
         "padding_bottom": 20
@@ -172,9 +172,10 @@
         },
         "8b817be8-031e-4529-8a82-d473f1e5b4b6": {
           "type": "icon-with-text",
+          "disabled": true,
           "settings": {
             "layout": "horizontal",
-            "icon_1": "heart",
+            "icon_1": "box",
             "heading_1": "Heading",
             "icon_2": "return",
             "heading_2": "Heading",
@@ -211,22 +212,6 @@
     },
     "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18": {
       "type": "rich-text",
-      "blocks": {
-        "template--14942166286401__4f71bb3b-ad95-478f-9d80-d3a7d8c75c18-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book a consultation",
-            "button_link": "{{ product.metafields.custom.coach_booklink.value }}",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14942166286401__4f71bb3b-ad95-478f-9d80-d3a7d8c75c18-button-1"
-      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -328,15 +313,6 @@
         "padding_bottom": 36
       }
     },
-    "01b656ad-4c3f-458a-8166-7e6ac363dbd0": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"page-width\">{{ product.metafields.custom.coach_video1.value }}<\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "abe4a906-a16b-4d26-8f07-691acdb8382b": {
       "type": "rich-text",
       "blocks": {
@@ -384,9 +360,9 @@
         "show_description": false,
         "description_style": "body",
         "collection": "coaches",
-        "products_to_show": 12,
+        "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
@@ -496,6 +472,7 @@
         "template--14942166286401__ee4bb36e-3253-45a5-a415-1cb58bcfe308-heading-1",
         "template--14942166286401__ee4bb36e-3253-45a5-a415-1cb58bcfe308-text-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 5rem; color: #2e484a;}",
         "p {font-size: 1.7rem; padding-left: 5rem; padding-right: 5rem;}"
@@ -579,6 +556,7 @@
         "a6095a36-6126-423b-89b9-afd257984192",
         "5c564c20-c62b-413d-8886-51720bb87f40"
       ],
+      "disabled": true,
       "custom_css": [
         ".customercontainer {margin: auto; margin-top: -110px; max-width: 1340px;}",
         ".customercontainer .truncate {text-align: justify; line-height: 26px;}",
@@ -757,7 +735,6 @@
     "08272d4d-303d-440d-b37b-7a83170b6abe",
     "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18",
     "917f0b14-b480-4b5a-a463-55d41ed905c9",
-    "01b656ad-4c3f-458a-8166-7e6ac363dbd0",
     "abe4a906-a16b-4d26-8f07-691acdb8382b",
     "633debae-a1a7-4670-a389-c7461a3b1f94",
     "c9a77dcc-8f21-456a-80a7-66ec510e4067",
