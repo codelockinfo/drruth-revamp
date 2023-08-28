@@ -72,8 +72,16 @@
         },
         "4e4ca8e0-c024-40a2-947e-f6be194e2e5b": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Custom CTA Button<\/title>\n    <style>\n        \/* Center align the container vertically and at the top *\/\n        .button-container {\n            display: flex;\n            justify-content: center;\n            align-items: flex-start; \/* Align to the top *\/\n            min-height: 25vh; \/* Minimum full viewport height *\/\n            margin: 0;\n            padding: 0; \/* Remove padding *\/\n        }\n\n        \/* Style the CTA button *\/\n        #ctaButton {\n            font-family: 'BLT-Heirloom', sans-serif;\n            font-weight: lighter;\n            font-size: 30pt;\n            color: white; \/* Text color is now white *\/\n            background-color: #184B44;\n            border: none;\n            padding: 15px 30px; \/* Padding for the button *\/\n            border-radius: 10px; \/* Rounded corners *\/\n            cursor: pointer;\n            margin-bottom: 0; \/* Remove margin-bottom *\/\n        }\n    <\/style>\n<\/head>\n<body>\n    <!-- Button Container -->\n    <div class=\"button-container\">\n        <!-- CTA Button -->\n        <button id=\"ctaButton\" onclick=\"redirectToLink()\">BOOK A CONSULT<\/button>\n    <\/div>\n\n    <!-- JavaScript -->\n    <script>\n        function redirectToLink() {\n            \/\/ Replace 'https:\/\/example.com' with the URL you want to redirect to\n            var redirectUrl = 'https:\/\/calendly.com\/rhiannon-andrus\/clientconsult?month=2023-03';\n\n            \/\/ Redirect to the specified URL\n            window.location.href = redirectUrl;\n\n            \/\/ You can also change the button text if needed\n            document.getElementById(\"ctaButton\").textContent = \"Redirecting...\";\n        }\n    <\/script>\n<\/body>\n<\/html>"
+          }
+        },
+        "b44f2959-4107-41c8-9924-00043d92b319": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields._1_badge_text_4.value }}",
+            "text_style": "body"
           }
         }
       },
@@ -88,7 +96,8 @@
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
         "880a5ead-be28-4912-b9d7-5a90d320fa21",
-        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b"
+        "4e4ca8e0-c024-40a2-947e-f6be194e2e5b",
+        "b44f2959-4107-41c8-9924-00043d92b319"
       ],
       "custom_css": [
 
