@@ -489,12 +489,11 @@
         },
         "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d": {
           "type": "consultants",
-          "disabled": true,
           "settings": {
             "bg_color": "",
             "bg_img": "shopify:\/\/shop_images\/Jeni_Porter.png",
             "title": "Jeni-Basden Porter",
-            "detail": "<p>IRVT, HPHC Inactive Registered Veterinary Technician<\/p>",
+            "detail": "<p>IRVT, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/drruthroberts.com\/products\/jeni-basden-porter"
           }
