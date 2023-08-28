@@ -265,6 +265,33 @@
         "desc": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>"
       }
     },
+    "b002dad2-35e0-42d4-951a-f78a0b12a200": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Pet Consultants",
+        "heading_size": "h1",
+        "description": "<p>Discover personalized solutions for your pet's well-being with our professional and certified Holistic Pet Health Coach<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "coaches",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140": {
       "type": "Our_Pet_Consultants",
       "blocks": {
@@ -415,6 +442,7 @@
         "14bd0482-575f-46cb-9b64-cc65d000978b",
         "397ec206-27de-4618-902e-de137a58334c"
       ],
+      "disabled": true,
       "custom_css": [
         ".amr_pet_consultants_item:hover *:not(a) {color: #000;}"
       ],
@@ -477,6 +505,7 @@
         "bb5cf262-4e2a-44a8-bba6-5b373e1780b2",
         "551daa1c-cb7a-41c8-b5e3-cd0009b59f8d"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "desc": ""
@@ -687,6 +716,7 @@
     "3270ceca-463c-4a94-837a-eab99dd78163",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "f7eb03ef-41f5-4e6e-b80d-3c2c124360fd",
+    "b002dad2-35e0-42d4-951a-f78a0b12a200",
     "0502099a-ae9f-4b1f-8cb4-c3872f69c140",
     "ade1e20e-bc6d-40b0-88e7-8bb68187ddf7",
     "9f200db6-f446-4751-86a0-976599b30a1d",
