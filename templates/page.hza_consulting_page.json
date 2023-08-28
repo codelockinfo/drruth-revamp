@@ -267,6 +267,7 @@
     },
     "b002dad2-35e0-42d4-951a-f78a0b12a200": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Our Pet Consultants",
         "heading_size": "h1",
@@ -303,7 +304,7 @@
             "title": "Dlorah deVore",
             "detail": "<p>FNTP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/calendly.com\/nutrivorenutrition"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/dlorah-de-vore"
           }
         },
         "1f15f002-d3aa-4e97-93b1-8e5f49d89d27": {
@@ -442,7 +443,6 @@
         "14bd0482-575f-46cb-9b64-cc65d000978b",
         "397ec206-27de-4618-902e-de137a58334c"
       ],
-      "disabled": true,
       "custom_css": [
         ".amr_pet_consultants_item:hover *:not(a) {color: #000;}"
       ],
