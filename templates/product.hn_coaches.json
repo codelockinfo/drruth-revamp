@@ -81,7 +81,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields._1_badge_text_4.value }}",
-            "text_style": "subtitle"
+            "text_style": "body"
           }
         }
       },
