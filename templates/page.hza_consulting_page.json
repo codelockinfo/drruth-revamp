@@ -513,10 +513,11 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/PattyKalvelage.png",
             "title": "Patty Kalvelage",
             "detail": "<p>Pet Store Owner, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/www.spoileddogsco.com"
+            "btn_url": "https:\/\/www.spoileddogsco.com\/consultation"
           }
         }
       },
