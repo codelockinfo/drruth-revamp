@@ -28,6 +28,17 @@
     justify-content: space-between;
   }
 
+  .rx-testimonial-item-inner {
+      padding: 0 !important;
+      overflow: hidden;
+      box-shadow: none !important;
+      border-radius: 0 !important;
+  }
+  .rx-testimonial-item-inner img {
+      width: 100%;
+      border-radius: 16px !important;
+  }
+
   @media (min-width: {{ minTabletSize }}px) and (max-width: {{ maxTabletSize }}px) {
     #shopify-section-{{ section.id }} .rx-wrapper {
       max-width: {{ section.settings.tabletMaxWidth }};
