@@ -1070,8 +1070,8 @@
         "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 92
       }
     },
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90": {
