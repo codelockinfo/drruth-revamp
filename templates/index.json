@@ -892,58 +892,6 @@
         "padding_bottom": 4
       }
     },
-    "c07243a3-5fee-499e-a09b-241b56f0595c": {
-      "type": "rx-posts",
-      "blocks": {
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
-          "type": "title",
-          "settings": {
-            "title": "Mind Blowing!",
-            "testimonial": "<p>\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine is the perfect complement to address issues beyond what functional medicine teaches (also mind-blowing!).\"<\/p>",
-            "reviewer_name": "Dlorah Devore, HPHC, FNTP",
-            "rating": "5"
-          }
-        },
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1": {
-          "type": "title",
-          "settings": {
-            "title": "Dr. Ruth is an open book",
-            "testimonial": "<p>“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looking to support their own fur babies to live a long, happy and healthy life.”<\/p>",
-            "reviewer_name": "Bea Swasey, HPH, NTP",
-            "rating": "5"
-          }
-        },
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2": {
-          "type": "title",
-          "settings": {
-            "title": "This is a Great Program!",
-            "testimonial": "<p>“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”<\/p>",
-            "reviewer_name": "Leah Bookhamer HPHC, NTP, MRWP",
-            "rating": "5"
-          }
-        }
-      },
-      "block_order": [
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0",
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1",
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktopColumns": "3",
-        "tabletColumns": "2",
-        "desktopMaxWidth": "1200px",
-        "tabletMaxWidth": "1100px",
-        "mobileMaxWidth": "100%",
-        "autoPlay": true,
-        "smoothAutoPlay": false,
-        "auto_hide_arrow": false,
-        "container_bgcolor": "#f5f8f1",
-        "card_bgcolor": "#ffffff",
-        "filled_star_color": "#184b44",
-        "empty_star_color": ""
-      }
-    },
     "d4b87d47-4683-4708-8f34-83893a2233cf": {
       "type": "star_review",
       "blocks": {
@@ -985,6 +933,57 @@
       ],
       "settings": {
         "starreviewhead": "Our happy clients say"
+      }
+    },
+    "c07243a3-5fee-499e-a09b-241b56f0595c": {
+      "type": "rx-posts",
+      "blocks": {
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
+          "type": "title",
+          "settings": {
+            "title": "Mind Blowing!",
+            "testimonial": "<p>\"As a holistic health coach for humans, I already knew some of the material. Still, Dr. Ruth blew me away with detailed but understandable information of the body systems and the foods and supplements to address insufficiencies that lead to disease for both dogs and cats. Her knowledge and teaching of Traditional Chinese Veterinary Medicine is the perfect complement to address issues beyond what functional medicine teaches (also mind-blowing!).\"<\/p>",
+            "reviewer_name": "Dlorah Devore, HPHC, FNTP",
+            "rating": "5"
+          }
+        },
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1": {
+          "type": "title",
+          "settings": {
+            "title": "Dr. Ruth is an open book",
+            "testimonial": "<p>“Dr. Ruth is an open book, she provides proven, practical advice and her guidance and continuous support throughout and after the course is invaluable. I highly recommend this Holistic Pet Health Coaching program to health practitioners looking to expand their business, pet-enthusiasts looking for a rewarding career and any animal lover looking to support their own fur babies to live a long, happy and healthy life.”<\/p>",
+            "reviewer_name": "Bea Swasey, HPH, NTP",
+            "rating": "5"
+          }
+        },
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2": {
+          "type": "title",
+          "settings": {
+            "title": "This is a Great Program!",
+            "testimonial": "<p>“If you want to help others and more importantly help your own fur family live longer, healthier and reduce your vet bills this course is for you. Not only can you begin a career in helping others but you can also apply your new knowledge to your human lifestyle for a healthier YOU!”<\/p>",
+            "reviewer_name": "Leah Bookhamer HPHC, NTP, MRWP",
+            "rating": "5"
+          }
+        }
+      },
+      "block_order": [
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0",
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1",
+        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2"
+      ],
+      "settings": {
+        "desktopColumns": "3",
+        "tabletColumns": "2",
+        "desktopMaxWidth": "1200px",
+        "tabletMaxWidth": "1100px",
+        "mobileMaxWidth": "100%",
+        "autoPlay": true,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": false,
+        "container_bgcolor": "#f5f8f1",
+        "card_bgcolor": "#ffffff",
+        "filled_star_color": "#184b44",
+        "empty_star_color": ""
       }
     },
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c": {
