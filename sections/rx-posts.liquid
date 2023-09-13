@@ -94,8 +94,7 @@
               
               {%- if block.settings.reviewer_name != blank -%}
               <div class="rx-testimonial-item-reviewer">
-                <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/review-logo.png?v=1679751875">
-                &nbsp;-<span>{{ block.settings.reviewer_name }}</span>
+                {{ block.settings.reviewer_name }}
             
               </div>
               {%- endif -%}
@@ -236,6 +235,11 @@
           "id": "reviewer_name",
           "label": "Post Date",
           "default": "Post Date"
+        },
+        {
+           "type":"image_picker",
+           "id":"post-img",
+           "label":"Post Image"
         }
       ]
     }
