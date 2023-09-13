@@ -1042,15 +1042,27 @@
       "blocks": {
         "template--14898486050881__8960ec65-5cef-4d84-b887-aa69c09a76a9-1680101985c1e6dc2c-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "<p>Our Podcast<\/p>"
+          }
+        },
+        "64cc34e2-c5f1-4bae-9401-969e0695ed68": {
+          "type": "button",
+          "settings": {
+            "button_label": "ALL BLOGS",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--14898486050881__8960ec65-5cef-4d84-b887-aa69c09a76a9-1680101985c1e6dc2c-0"
+        "template--14898486050881__8960ec65-5cef-4d84-b887-aa69c09a76a9-1680101985c1e6dc2c-0",
+        "64cc34e2-c5f1-4bae-9401-969e0695ed68"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
