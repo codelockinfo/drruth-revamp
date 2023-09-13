@@ -86,7 +86,7 @@
         {%- for block in section.blocks -%}
           <div class="rx-slider-item rx-testimonial-item" {{ block.shopify_attributes }}>
             <div class="rx-testimonial-item-inner">
-              <img src="{{ block.settings.post-img | image_url }}" loading="lazy" class="img"/>
+              <img src="{{ block.settings.post_image | image_url }}" loading="lazy" class="img"/>
               <div class="rx-container-title">
                 {%- if block.settings.title != blank -%}
                   <div class="rx-testimonial-item-title">{{ block.settings.title }}</div>
@@ -238,7 +238,7 @@
         },
         {
            "type":"image_picker",
-           "id":"post-img",
+           "id":"post_image",
            "label":"Post Image"
         }
       ]
