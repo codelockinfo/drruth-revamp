@@ -1,24 +1,44 @@
-<script>
-    (function (w, d, s, o, f, js, fjs) {
-        w['circleWidget'] = o; w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };
-        js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];
-        js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);
-    }(window, document, 'script', 'mw', 'https://courses.drruthroberts.com/external/widget.js'));
+<div class="rewardbgbottom">
+    <div class="rewordmax_container">
+        <div class="rewarddes">
+            <p>{{section.settings.rewarddes}}</p>
+        </div>
+    </div>
+</div>
+{% schema %} 
+{
+  "name": "get-reward",
+  "tag": "section",
+  "class": "get-reward",
+  "settings": [
+    
+       {
+      "type": "text",
+      "id": "rewarddes",
+      "label": "Description"
+    }
+    ],
+ "presets": [
+    {
+      "name": "get-reward"
+    }
+  ]
+}
+{% endschema %}
+<style>
+.rewardbgbottom{
+    background: #F5F8F1;
+}
+.rewarddes p {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    text-transform: uppercase;
+    color: #1E1E1E;
+    margin: 0;
+    padding: 10% 0;
+}
 
-    mw('init', {
-        community_public_uid: '23a14eb2',
-        brand_color: '#6CB177'
-    });
-
-    // Optional: pass in a default space slug and/or post slug
-    // mw('setDefaults', {
-    //   space_slug: '',
-    //   post_slug: ''
-    // });
-
-    // Add text "Pet Wellness Community" inside the widget
-    var widgetContainer = document.getElementById('mw');
-    var textElement = document.createElement('div');
-    textElement.innerText = 'Pet Wellness Community';
-    widgetContainer.appendChild(textElement);
-</script>
+</style>
