@@ -218,53 +218,6 @@
         "padding_bottom": 52
       }
     },
-    "745fe7da-4576-486b-b400-3c9f3079872e": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "c01b4b51-d767-424e-bc41-445ac521fb38": {
-          "type": "heading",
-          "settings": {
-            "heading": "Transform Your Pet's Health",
-            "font_family": "font_blt"
-          }
-        },
-        "6ebf0dcb-bf41-4a48-b22c-94f9a660ac66": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover the power of holistic pet care with our expert coaching and support<\/p>"
-          }
-        },
-        "9595813e-6667-48b4-aa12-1452080b757b": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/about-us"
-          }
-        }
-      },
-      "block_order": [
-        "c01b4b51-d767-424e-bc41-445ac521fb38",
-        "6ebf0dcb-bf41-4a48-b22c-94f9a660ac66",
-        "9595813e-6667-48b4-aa12-1452080b757b"
-      ],
-      "disabled": true,
-      "settings": {
-        "image": "shopify:\/\/shop_images\/mainpic_d587ca50-35d4-49d9-8a5a-faaf578da7ab.png",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_title_alignment": "center",
-        "desktop_content_alignment": "center",
-        "desktop_button_alignment": "center",
-        "content_layout": "overlap",
-        "grid_type": "type1",
-        "imgText-bg-color": "#f5f8f1",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "eb57d411-6ce7-4b68-9a6a-1c9252889203": {
       "type": "rx-rich-text",
       "blocks": {
@@ -1179,6 +1132,15 @@
         "stack_images_on_mobile": false,
         "show_text_below": false
       }
+    },
+    "9915c05f-f215-4ae4-a1f3-e4effa78974f": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<script>\n    (function (w, d, s, o, f, js, fjs) {\n        w['circleWidget'] = o; w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };\n        js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];\n        js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);\n    }(window, document, 'script', 'mw', 'https:\/\/courses.drruthroberts.com\/external\/widget.js'));\n\n    mw('init', {\n        community_public_uid: '23a14eb2',\n        brand_color: '#6CB177'\n    });\n\n    \/\/ Optional: pass in a default space slug and\/or post slug\n    \/\/ mw('setDefaults', {\n    \/\/   space_slug: '',\n    \/\/   post_slug: ''\n    \/\/ });\n\n    \/\/ Add text \"Pet Wellness Community\" inside the widget\n    var widgetContainer = document.getElementById('mw');\n    var textElement = document.createElement('div');\n    textElement.innerText = 'Pet Wellness Community';\n    widgetContainer.appendChild(textElement);\n\n    \/\/ Add CSS to position the widget at the top right corner\n    widgetContainer.style.position = 'fixed';\n    widgetContainer.style.top = '0';\n    widgetContainer.style.right = '0';\n<\/script>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -1186,7 +1148,6 @@
     "519a28f3-c4ef-4319-9853-c8d825c82db3",
     "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
     "e4ceee66-a8d7-4fbe-9c50-e6c58cb93d39",
-    "745fe7da-4576-486b-b400-3c9f3079872e",
     "eb57d411-6ce7-4b68-9a6a-1c9252889203",
     "b4714d06-abcd-4096-947f-125116149229",
     "914ef044-a3b1-4773-91ae-f1b36874354b",
@@ -1206,6 +1167,7 @@
     "1d7acd25-827c-4f3c-8845-e495b1105759",
     "8960ec65-5cef-4d84-b887-aa69c09a76a9",
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90",
-    "a22eed67-71d2-4d24-9266-adb3dc0550e6"
+    "a22eed67-71d2-4d24-9266-adb3dc0550e6",
+    "9915c05f-f215-4ae4-a1f3-e4effa78974f"
   ]
 }
