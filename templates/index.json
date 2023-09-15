@@ -1,5 +1,14 @@
 {
   "sections": {
+    "5d5efed8-c65f-4fe8-85f7-dc50c8241bfe": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e8ef76fe-7f25-4f27-98ea-830e37605e09": {
       "type": "rx-img-with-text-slider",
       "blocks": {
@@ -1135,6 +1144,7 @@
     }
   },
   "order": [
+    "5d5efed8-c65f-4fe8-85f7-dc50c8241bfe",
     "e8ef76fe-7f25-4f27-98ea-830e37605e09",
     "519a28f3-c4ef-4319-9853-c8d825c82db3",
     "4add22ab-e9ac-4adc-9d80-f5ec5ac0302d",
