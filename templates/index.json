@@ -3,7 +3,7 @@
     "5d5efed8-c65f-4fe8-85f7-dc50c8241bfe": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "",
+        "custom_liquid": "<script>\n    (function (w,d,s,o,f,js,fjs) {\n        w['circleWidget']=o;w[o] = w[o] || function () { (w[o].q = w[o].q || []).push(arguments) };\n        js = d.createElement(s), fjs = d.getElementsByTagName(s)[0];\n        js.id = o; js.src = f; js.async = 1; fjs.parentNode.insertBefore(js, fjs);\n    }(window, document, 'script', 'mw', 'https:\/\/courses.drruthroberts.com\/external\/widget.js'));\n\n    mw('init', {\n      community_public_uid: '23a14eb2',\n      brand_color: '#6CB177'\n    });\n\n    \/\/ Optional: pass in a default space slug and\/or post slug\n    \/\/ mw('setDefaults', {\n    \/\/   space_slug: '',\n    \/\/   post_slug: ''\n    \/\/ });\n<\/script>",
         "color_scheme": "background-1",
         "padding_top": 40,
         "padding_bottom": 52
