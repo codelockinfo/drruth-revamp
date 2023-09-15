@@ -348,6 +348,15 @@
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
     <style>
+
+      /* Position the widget to the top right corner */
+#mw {
+    position: fixed;
+    top: 20px; /* Adjust the top distance as needed */
+    right: 20px; /* Adjust the right distance as needed */
+    z-index: 9999; /* Make sure it's above other elements */
+}
+
             @media only screen and (max-width: 767px) {
         #shopify-section-template--14922497065025__main span {
           width: 100%;
