@@ -105,23 +105,12 @@
         },
         "2ea3c12d-8333-42da-a858-d8ce008e0640": {
           "type": "slider",
-          "disabled": true,
-          "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_1_6bc3463d-0180-42c2-8edf-d9cd6ea741ac_1.webp",
-            "slide_text": "Ear Support",
-            "slide_type": "Pet device System Supported",
-            "slide_val": "Ear Support",
-            "link": ""
-          }
-        },
-        "875cb5b6-fbb8-40ef-8b14-12680dfc8b0b": {
-          "type": "slider",
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_6.webp",
-            "slide_text": "Energy Support",
+            "slide_text": "Puppy Kitten Support",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Energy Support",
-            "link": "shopify:\/\/collections\/dr-ruths-daily-essentials-for-dogs"
+            "slide_val": "Puppy Kitten Support",
+            "link": "shopify:\/\/collections\/puppy-kitten-support"
           }
         },
         "fdb600d7-1608-4be9-ad50-7ccdc9d79f50": {
@@ -134,27 +123,6 @@
             "link": "shopify:\/\/collections\/cardiovascular-support-protocol"
           }
         },
-        "aa00118e-9637-4ef8-9268-93412fcb5a45": {
-          "type": "slider",
-          "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_2_c92ae324-0bc6-4097-8024-2cbff7e59ac0.webp",
-            "slide_text": "Inflammation Support",
-            "slide_type": "Pet device System Supported",
-            "slide_val": "Inflammation Support",
-            "link": ""
-          }
-        },
-        "4047f92a-42e0-4aca-a63e-87db7fc2fea4": {
-          "type": "slider",
-          "disabled": true,
-          "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
-            "slide_text": "Oral Health Support",
-            "slide_type": "Pet device System Supported",
-            "slide_val": "Oral Health Support",
-            "link": ""
-          }
-        },
         "ff179595-84cf-4dc8-86f9-19b51235a7e9": {
           "type": "slider",
           "settings": {
@@ -165,45 +133,84 @@
             "link": "shopify:\/\/collections\/respiratory-support"
           }
         },
-        "d7dc5cfb-eb13-4bb1-84ac-44c0dcff29ae": {
+        "4047f92a-42e0-4aca-a63e-87db7fc2fea4": {
           "type": "slider",
           "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_3.webp",
-            "slide_text": "Skin and Coat Support",
+            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
+            "slide_text": "Tick & Flea Prevention",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Skin and Coat Support",
-            "link": ""
+            "slide_val": "Tick & Flea Prevention",
+            "link": "shopify:\/\/collections\/tick-flea-prevention"
           }
         },
         "f9ea5ce3-9528-4111-bb47-5a6f10983b7e": {
           "type": "slider",
-          "disabled": true,
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_4.webp",
-            "slide_text": "Thyroid Support",
+            "slide_text": "Autoimmune Disease Support",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Thyroid Support",
-            "link": ""
+            "slide_val": "Autoimmune Disease Support",
+            "link": "shopify:\/\/collections\/autoimmune-disease-support"
+          }
+        },
+        "875cb5b6-fbb8-40ef-8b14-12680dfc8b0b": {
+          "type": "slider",
+          "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_4.webp",
+            "slide_text": "Standar Process Canine Collection",
+            "slide_type": "Pet device System Supported",
+            "slide_val": "Standar Process Canine Collection",
+            "link": "shopify:\/\/collections\/sp-canine-collection"
+          }
+        },
+        "aa00118e-9637-4ef8-9268-93412fcb5a45": {
+          "type": "slider",
+          "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_4.webp",
+            "slide_text": "Standar Process Feline Collection",
+            "slide_type": "Pet device System Supported",
+            "slide_val": "Standar Process Feline Collection",
+            "link": "shopify:\/\/collections\/standard-process-feline-collection"
+          }
+        },
+        "d7dc5cfb-eb13-4bb1-84ac-44c0dcff29ae": {
+          "type": "slider",
+          "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_2_c92ae324-0bc6-4097-8024-2cbff7e59ac0.webp",
+            "slide_text": "Standar Process Immune Collection",
+            "slide_type": "Pet device System Supported",
+            "slide_val": "Standar Process Immune Collection",
+            "link": "shopify:\/\/collections\/standard-process-immune-collection"
           }
         },
         "b051e3b0-d04a-46d9-b072-c397ffa0f578": {
           "type": "slider",
           "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_3.webp",
-            "slide_text": "Urinary Tract Support",
+            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
+            "slide_text": "Standar Process Liver Collection",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Urinary Tract Support",
-            "link": "shopify:\/\/collections\/kidney-support"
+            "slide_val": "Standar Process Liver Collection",
+            "link": "shopify:\/\/collections\/standard-process-liver-support-collection"
           }
         },
         "12db348e-5b71-4b4d-bcf1-fee74bd24759": {
           "type": "slider",
           "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_4.webp",
-            "slide_text": "Vaccinosis Support",
+            "allshopicon": "shopify:\/\/shop_images\/Group_6.webp",
+            "slide_text": "Standar Process Renal Collection",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Vaccinosis Support",
-            "link": "shopify:\/\/collections\/vaccine-heartworm-detox-protocol"
+            "slide_val": "Standar Process Renal Collection",
+            "link": "shopify:\/\/collections\/standard-process-renal-support-collection"
+          }
+        },
+        "eeb51a4a-42eb-45ed-9b89-dcb5f6927c35": {
+          "type": "slider",
+          "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_1_6bc3463d-0180-42c2-8edf-d9cd6ea741ac_1.webp",
+            "slide_text": "Standar Process Veterinary Collection",
+            "slide_type": "Pet device System Supported",
+            "slide_val": "Standar Process Veterinary Collection",
+            "link": "shopify:\/\/collections\/sp-veterinary-collection"
           }
         }
       },
@@ -219,15 +226,16 @@
         "01c60548-1add-47c9-bfde-ee80bbd3a247",
         "6bfbfa35-c205-4c78-897d-72bf9f7841cf",
         "2ea3c12d-8333-42da-a858-d8ce008e0640",
-        "875cb5b6-fbb8-40ef-8b14-12680dfc8b0b",
         "fdb600d7-1608-4be9-ad50-7ccdc9d79f50",
-        "aa00118e-9637-4ef8-9268-93412fcb5a45",
-        "4047f92a-42e0-4aca-a63e-87db7fc2fea4",
         "ff179595-84cf-4dc8-86f9-19b51235a7e9",
-        "d7dc5cfb-eb13-4bb1-84ac-44c0dcff29ae",
+        "4047f92a-42e0-4aca-a63e-87db7fc2fea4",
         "f9ea5ce3-9528-4111-bb47-5a6f10983b7e",
+        "875cb5b6-fbb8-40ef-8b14-12680dfc8b0b",
+        "aa00118e-9637-4ef8-9268-93412fcb5a45",
+        "d7dc5cfb-eb13-4bb1-84ac-44c0dcff29ae",
         "b051e3b0-d04a-46d9-b072-c397ffa0f578",
-        "12db348e-5b71-4b4d-bcf1-fee74bd24759"
+        "12db348e-5b71-4b4d-bcf1-fee74bd24759",
+        "eeb51a4a-42eb-45ed-9b89-dcb5f6927c35"
       ],
       "custom_css": [
         ".slidecontent {text-align: center;}",
