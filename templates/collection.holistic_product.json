@@ -107,9 +107,9 @@
           "type": "slider",
           "settings": {
             "allshopicon": "shopify:\/\/shop_images\/Group_6.webp",
-            "slide_text": "Puppy Kitten Support",
+            "slide_text": "Puppy\/Kitten Support",
             "slide_type": "Pet device System Supported",
-            "slide_val": "Puppy Kitten Support",
+            "slide_val": "Puppy\/Kitten Support",
             "link": "shopify:\/\/collections\/puppy-kitten-support"
           }
         },
