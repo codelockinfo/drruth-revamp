@@ -83,16 +83,6 @@
             "link": "shopify:\/\/collections\/liver-support"
           }
         },
-        "6bfbfa35-c205-4c78-897d-72bf9f7841cf": {
-          "type": "slider",
-          "settings": {
-            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
-            "slide_text": "Senior Pet Care",
-            "slide_type": "Pet device System Supported",
-            "slide_val": "Senior Pet Care",
-            "link": "shopify:\/\/collections\/supplements-for-senior-dog"
-          }
-        },
         "01c60548-1add-47c9-bfde-ee80bbd3a247": {
           "type": "slider",
           "settings": {
@@ -101,6 +91,16 @@
             "slide_type": "Pet device System Supported",
             "slide_val": "Post Surgery Support",
             "link": "shopify:\/\/collections\/post-surgical-care-collection"
+          }
+        },
+        "6bfbfa35-c205-4c78-897d-72bf9f7841cf": {
+          "type": "slider",
+          "settings": {
+            "allshopicon": "shopify:\/\/shop_images\/Group_5.webp",
+            "slide_text": "Senior Pet Care",
+            "slide_type": "Pet device System Supported",
+            "slide_val": "Senior Pet Care",
+            "link": "shopify:\/\/collections\/supplements-for-senior-dog"
           }
         },
         "2ea3c12d-8333-42da-a858-d8ce008e0640": {
@@ -216,8 +216,8 @@
         "c87258ea-13bf-4613-97d4-e7e257d264c7",
         "f61e2815-d780-43e1-b691-f106f89200d6",
         "7c83ab62-7769-4ff6-93df-dac21f806032",
-        "6bfbfa35-c205-4c78-897d-72bf9f7841cf",
         "01c60548-1add-47c9-bfde-ee80bbd3a247",
+        "6bfbfa35-c205-4c78-897d-72bf9f7841cf",
         "2ea3c12d-8333-42da-a858-d8ce008e0640",
         "875cb5b6-fbb8-40ef-8b14-12680dfc8b0b",
         "fdb600d7-1608-4be9-ad50-7ccdc9d79f50",
