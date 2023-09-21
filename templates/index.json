@@ -713,6 +713,35 @@
         "price_color": "#184b44"
       }
     },
+    "e08ace68-3822-43dd-8d71-0eec07090099": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "template--14921793798209__e08ace68-3822-43dd-8d71-0eec07090099-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "MORE COURSE",
+            "button_link": "shopify:\/\/pages\/pet-wellness-course",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793798209__e08ace68-3822-43dd-8d71-0eec07090099-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90": {
       "type": "rx-podcast-list",
       "blocks": {
@@ -1146,6 +1175,7 @@
     "2b1d20ae-49de-4e39-ab92-d62ff31188a4",
     "cf1b90a0-cc7f-46bb-b24e-469e6e57df56",
     "40e124d8-821b-4b01-8eb8-2482449db53a",
+    "e08ace68-3822-43dd-8d71-0eec07090099",
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90",
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c",
     "c07243a3-5fee-499e-a09b-241b56f0595c",
