@@ -696,6 +696,9 @@
         "template--14898486050881__40e124d8-821b-4b01-8eb8-2482449db53a-1679931990e32dab1a-1",
         "5fb9c748-259e-4fae-89fd-96ea2e0b57d7"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "rx-product_head": "",
         "title_font": "assistant_n4",
@@ -738,7 +741,7 @@
         "section_bg_color": "#fff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 0,
         "padding_bottom": 52
       }
     },
