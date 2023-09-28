@@ -13,15 +13,22 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 
 /* Pet Care Protocols */
 
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .color-background-1.gradient {
-    background: #f5f8f1;
-}
 #pet-care-protocols .collection-list-title {
     font-family: "BLT-Heirloom";
     text-align: center;
     font-size: 34px;
 }
+#pet-care-protocols .banner__box {
+    width: 100%;
+}
+#pet-care-protocols .banner__box .banner__text.body {
+    max-width: 500px;
+    margin: 20px auto 0;
+}
 
+#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .color-background-1.gradient {
+    background: #f5f8f1;
+}
 #shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card__inner.color-background-2.gradient.ratio {
     border-radius: 16px !important;
     overflow: hidden;
