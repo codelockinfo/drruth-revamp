@@ -45,3 +45,7 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 #shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link span {
     display: none;
 }
+#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link {
+    max-width: 120px;
+    margin: 0 auto;
+}
