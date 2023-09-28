@@ -33,7 +33,7 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
     border-radius: 16px !important;
     overflow: hidden;
 }
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card__information {
+#pet-care-protocols .card__information {
     background: #fff;
     border: 1px solid #000 !important;
     width: 85%;
@@ -41,7 +41,7 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
     border-radius: 100px;
     padding: 12px 20px !important;
 }
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 h3.card__heading {
+#pet-care-protocols h3.card__heading {
     font-size: 12px !important;
     text-transform: uppercase;
     font-family: 'Josefin Sans' !important;
@@ -49,10 +49,10 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
     text-align: center !important;
     line-height: 1.2 !important;
 }
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link span {
+#pet-care-protocols .card-wrapper a.full-unstyled-link span {
     display: none;
 }
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link {
+#pet-care-protocols .card-wrapper a.full-unstyled-link {
     max-width: 120px;
     margin: 0 auto;
 }
@@ -64,6 +64,7 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 #shopify-section-template--14921794420801__1655751929e34d4e57 .card-wrapper .card__media img {
     padding: 20px
 }
+/*
 #shopify-section-template--14921794420801__1655751929e34d4e57 .card__information {
     background: #e0ecbe;
     border: 1px solid #000!important;
@@ -83,3 +84,4 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 #shopify-section-template--14921794420801__1655751929e34d4e57 .card-wrapper a.full-unstyled-link span {
     display: none;
 }
+*/
