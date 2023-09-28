@@ -25,14 +25,6 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
     max-width: 500px;
     margin: 20px auto 0;
 }
-
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .color-background-1.gradient {
-    background: #f5f8f1;
-}
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card__inner.color-background-2.gradient.ratio {
-    border-radius: 16px !important;
-    overflow: hidden;
-}
 #pet-care-protocols .card__information {
     background: #fff;
     border: 1px solid #000 !important;
@@ -52,7 +44,15 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 #pet-care-protocols .card-wrapper a.full-unstyled-link span {
     display: none;
 }
-#pet-care-protocols .card-wrapper a.full-unstyled-link {
+
+#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .color-background-1.gradient {
+    background: #f5f8f1;
+}
+#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card__inner.color-background-2.gradient.ratio {
+    border-radius: 16px !important;
+    overflow: hidden;
+}
+#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link {
     max-width: 120px;
     margin: 0 auto;
 }
