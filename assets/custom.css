@@ -13,60 +13,7 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 
 /* Pet Care Protocols */
 
-#pet-care-protocols .collection-list-title {
-    font-family: "BLT-Heirloom";
-    text-align: center;
-    font-size: 34px;
-}
-#pet-care-protocols .banner__box {
-    width: 100%;
-}
-#pet-care-protocols .banner__box .banner__text.body {
-    max-width: 500px;
-    margin: 20px auto 0;
-}
-#pet-care-protocols .card__information {
-    background: #fff;
-    border: 1px solid #000 !important;
-    width: 85%;
-    margin: 0 auto;
-    border-radius: 100px;
-    padding: 12px 20px !important;
-}
-#pet-care-protocols h3.card__heading {
-    font-size: 12px !important;
-    text-transform: uppercase;
-    font-family: 'Josefin Sans' !important;
-    letter-spacing: 0.4px;
-    text-align: center !important;
-    line-height: 1.2 !important;
-}
-#pet-care-protocols .card-wrapper a.full-unstyled-link span {
-    display: none;
-}
 
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .color-background-1.gradient {
-    background: #f5f8f1;
-}
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card__inner.color-background-2.gradient.ratio {
-    border-radius: 16px !important;
-    overflow: hidden;
-}
-#shopify-section-template--14921794420801__a1dcd6d6-0738-402f-bfec-56f09d6583b8 .card-wrapper a.full-unstyled-link {
-    max-width: 120px;
-    margin: 0 auto;
-}
-
-#shopify-section-template--14921794420801__1655751929e34d4e57 .card-wrapper .card__media {
-    border: 1px solid #000;
-    border-radius: 30px;
-}
-#shopify-section-template--14921794420801__1655751929e34d4e57 .card-wrapper .card__media img {
-    padding: 20px
-}
-#shopify-section-template--14921794420801__1655751929e34d4e57 .card__information {
-    background: #e0ecbe;
-}
 /*
 #shopify-section-template--14921794420801__1655751929e34d4e57 h3.card__heading {
     font-size: 12px !important;
