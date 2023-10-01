@@ -104,6 +104,16 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1aZhDM9QKUxo8rZt4vV9u5yMOoWUgDhkc\/view?usp=drive_link"
           }
+        },
+        "2bb67f8a-290b-4427-9269-56923fd780e5": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/heartburn-tx-218-gms-7-6-oz\" target=\"_blank\" title=\"Shop Heartburn Tx\">Heartburn Tx<\/a>",
+            "text": "<p>Heartburn Tx Powder contains nutrients to reduce inflammation in the intestines, and the raw materials to help healthy new enterocytes (cells of the intestine) grow and restore normal gut function. <\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1CaLRBLNHzlrC9XTDrR1myYj-fUfvHfTX\/view?usp=drive_link"
+          }
         }
       },
       "block_order": [
@@ -113,7 +123,8 @@
         "86717a71-8759-4c28-b155-b142e94dd450",
         "f14841fb-3855-4714-b0c5-cd4871c62b10",
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870",
-        "d99b9371-2592-424e-8a51-1946019a8e25"
+        "d99b9371-2592-424e-8a51-1946019a8e25",
+        "2bb67f8a-290b-4427-9269-56923fd780e5"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
