@@ -60,16 +60,28 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1Gh4Xl4_zRL_IJpjPnBKbPDVXuKwm_VF7\/view?usp=drive_link"
           }
+        },
+        "86717a71-8759-4c28-b155-b142e94dd450": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Artemesia_7f9234f7-6408-4a83-816f-c34d68e4c401.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/artemesia-100-caps?_pos=1&_psq=artemisi&_ss=e&_v=1.0\" target=\"_blank\" title=\"Shop Artemisia\">Artemisia<\/a>",
+            "text": "<p>A concentrated extract of the leaves of Sweet Wormwood (<em>Artemisia annua<\/em>), an herb from the Far East, used for centuries in China. Sweet Wormwood is primarily known for its active compound called artemisinin. Artemisinin and its derivatives are used to treat fever, inflammation, and malaria, and other parasites.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1cuEeuxyGL6zlMls7HBdMKvucT2UAg_J0\/view?usp=drive_link"
+          }
         }
       },
       "block_order": [
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1",
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3"
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3",
+        "86717a71-8759-4c28-b155-b142e94dd450"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}",
-        "h1,h2,h3,h4,h5,h6 {font-family: \"BLT Heirloom Regular\", sans-serif;}"
+        "h1,h2,h3,h4,h5,h6 {font-family: \"BLT-Heirloom Regular\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
