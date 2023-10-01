@@ -105,43 +105,48 @@
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Blogs"
+            "heading": "Blogs",
+            "link": "#shopify-section-template--14921792258113__8104cc31-1a02-403b-90ea-53954e6bd34c"
           }
         },
         "a64ad7d8-1933-459e-9ba1-d8dc192ff02e": {
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Podcast"
-          }
-        },
-        "c73b44fb-9d1d-415f-9a2a-d32b3b3e9978": {
-          "type": "block",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Video"
+            "heading": "Podcast",
+            "link": "#shopify-section-template--14921792258113__3c81f4e7-9d44-4850-985b-56f21e5816e9"
           }
         },
         "f61bc112-9522-411d-82ef-394782bfaccc": {
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Webinars"
+            "heading": "Webinars",
+            "link": "#shopify-section-template--14921792258113__836a1838-39d3-4804-9b8f-570cc2fbf531"
+          }
+        },
+        "c73b44fb-9d1d-415f-9a2a-d32b3b3e9978": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
+            "heading": "Video",
+            "link": "#shopify-section-template--14921792258113__54622c8f-3f1b-48e3-a24e-b5c8cd560f29"
           }
         },
         "7abf0653-7abd-42ef-affa-1ab57d62adc8": {
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Downloadbles"
+            "heading": "Downloadbles",
+            "link": "#shopify-section-template--14921792258113__febdc93f-b5f0-4728-b425-acf1d35080a9"
           }
         }
       },
       "block_order": [
         "cdf6bc16-afca-432b-a894-37df39b0e3b8",
         "a64ad7d8-1933-459e-9ba1-d8dc192ff02e",
-        "c73b44fb-9d1d-415f-9a2a-d32b3b3e9978",
         "f61bc112-9522-411d-82ef-394782bfaccc",
+        "c73b44fb-9d1d-415f-9a2a-d32b3b3e9978",
         "7abf0653-7abd-42ef-affa-1ab57d62adc8"
       ],
       "custom_css": [
@@ -461,8 +466,8 @@
         "autoPlay": false,
         "smoothAutoPlay": false,
         "auto_hide_arrow": true,
-        "container_bgcolor": "#fff",
-        "card_bgcolor": "#fff",
+        "container_bgcolor": "#ffffff",
+        "card_bgcolor": "#ffffff",
         "filled_star_color": "",
         "empty_star_color": ""
       }
