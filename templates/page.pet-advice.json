@@ -409,11 +409,62 @@
       "type": "pet_downloadables",
       "settings": {
         "labelourb": "Downloadables",
-        "petblogimg": "shopify:\/\/shop_images\/PattyKalvelage.png",
+        "petblogimg": "shopify:\/\/shop_images\/ruth_roberts_5726763e-4b14-40d3-a412-9ae13a4dbae2.jpg",
         "prtbllink": "#",
         "prtblsubdes": "Lorem ipsum dolor sit amet consectetur",
         "prtblogdate": "",
         "prtblogdes": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
+      }
+    },
+    "da2492a7-bf99-487e-a228-ecd20eb7cfc6": {
+      "type": "rx-posts",
+      "blocks": {
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date",
+            "post_link": "",
+            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+          }
+        },
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date",
+            "post_link": "",
+            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+          }
+        },
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date",
+            "post_link": "",
+            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3"
+      ],
+      "settings": {
+        "desktopColumns": "3",
+        "tabletColumns": "2",
+        "desktopMaxWidth": "1200px",
+        "tabletMaxWidth": "100%",
+        "mobileMaxWidth": "100%",
+        "autoPlay": false,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": false,
+        "container_bgcolor": "#fff",
+        "card_bgcolor": "#fff",
+        "filled_star_color": "",
+        "empty_star_color": ""
       }
     }
   },
@@ -428,6 +479,7 @@
     "3c81f4e7-9d44-4850-985b-56f21e5816e9",
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
     "54622c8f-3f1b-48e3-a24e-b5c8cd560f29",
-    "febdc93f-b5f0-4728-b425-acf1d35080a9"
+    "febdc93f-b5f0-4728-b425-acf1d35080a9",
+    "da2492a7-bf99-487e-a228-ecd20eb7cfc6"
   ]
 }
