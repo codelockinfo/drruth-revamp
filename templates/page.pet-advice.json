@@ -201,7 +201,7 @@
       ],
       "settings": {
         "desktopColumns": "3",
-        "tabletColumns": "3",
+        "tabletColumns": "2",
         "desktopMaxWidth": "1200px",
         "tabletMaxWidth": "100%",
         "mobileMaxWidth": "100%",
