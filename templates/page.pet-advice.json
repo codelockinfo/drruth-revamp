@@ -163,27 +163,58 @@
         "prtblogdes": "Your older dog needs more care and consideration for the highest quality of life. What they can accomplish and how frequently they might need to visit your family veterinarian will depend on whether or not they have certain medical concerns—spending time with your dog\/cat benefits social contact and mental stimulation."
       }
     },
-    "b776f135-5555-4110-baf1-a19a930b1410": {
-      "type": "pet-blog",
-      "custom_css": [
-        "p {display: none;}",
-        ".card__information {display: flex; flex-direction: column;}",
-        "h3.card__heading.h2 {order: 2; position: absolute; font-family: \"Josefin Sans\"; font-weight: 500; font-size: 18px; text-align: center; letter-spacing: 0.04em; color: #1e1e1e;}",
-        ".article-card__info {font-family: \"Josefin Sans\"; font-size: 16px; font-weight: 500; text-align: center; color: #939393; background: #fff; bottom: 34px; position: absolute; border-radius: 24px 24px 0px 0px; left: 8px; right: 8px;}",
-        ".card__inner .card__content {display: none;}"
+    "d8b0d8a6-2ea9-47ad-830f-ab794905af56": {
+      "type": "rx-posts",
+      "blocks": {
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date",
+            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+          }
+        },
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-2": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date"
+          }
+        },
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-3": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date"
+          }
+        },
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-4": {
+          "type": "title",
+          "settings": {
+            "title": "Best Product",
+            "reviewer_name": "Post Date"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-1",
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-2",
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-3",
+        "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-4"
       ],
       "settings": {
-        "heading": "",
-        "blog": "news",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": true,
-        "show_author": true,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktopColumns": "2",
+        "tabletColumns": "2",
+        "desktopMaxWidth": "100%",
+        "tabletMaxWidth": "100%",
+        "mobileMaxWidth": "100%",
+        "autoPlay": false,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": false,
+        "container_bgcolor": "#fff",
+        "card_bgcolor": "#fff",
+        "filled_star_color": "",
+        "empty_star_color": ""
       }
     },
     "3c81f4e7-9d44-4850-985b-56f21e5816e9": {
@@ -253,7 +284,7 @@
           "type": "block",
           "settings": {
             "webinarvurl": "https:\/\/www.youtube.com\/embed\/D0UnqGm_miA",
-            "petviid": "March 6, <br>2023",
+            "petviid": "March 6, 2023",
             "webinartitle": "Lorem ipsum dolor sit amet consectetur",
             "webinardesc": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit.",
             "petvideobtn": "watch video",
@@ -371,7 +402,7 @@
     "1655751929e34d4e57",
     "1408af62-d6c1-4a8b-924e-373937384510",
     "8104cc31-1a02-403b-90ea-53954e6bd34c",
-    "b776f135-5555-4110-baf1-a19a930b1410",
+    "d8b0d8a6-2ea9-47ad-830f-ab794905af56",
     "3c81f4e7-9d44-4850-985b-56f21e5816e9",
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
     "54622c8f-3f1b-48e3-a24e-b5c8cd560f29"
