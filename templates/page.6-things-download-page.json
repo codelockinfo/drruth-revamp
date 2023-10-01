@@ -114,6 +114,16 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1CaLRBLNHzlrC9XTDrR1myYj-fUfvHfTX\/view?usp=drive_link"
           }
+        },
+        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/turmeric-with-bioperine%C2%AE-organic-coconut-oil-for-cats-dogs-60-chews?_pos=1&_psq=turmeric&_ss=e&_v=1.0\" target=\"_blank\" title=\"Shop Turmeric with Bioperine and Coconut\">Turmeric with Bioperine®<\/a>",
+            "text": "<p>Turmeric have potent antioxidant properties to help protect your pet's cells and tissues from damage, and may also help relieve joint aches and pains. Bioperine keeps the GI tract healthy and Coconut oil increases energy levels, improves digestion, skin, and coat, and reduces allergic reactions<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1PJCol9VsX4PSkxgzKKRJIutO3qz27_a_\/view?usp=drive_link"
+          }
         }
       },
       "block_order": [
@@ -124,7 +134,8 @@
         "f14841fb-3855-4714-b0c5-cd4871c62b10",
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870",
         "d99b9371-2592-424e-8a51-1946019a8e25",
-        "2bb67f8a-290b-4427-9269-56923fd780e5"
+        "2bb67f8a-290b-4427-9269-56923fd780e5",
+        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
