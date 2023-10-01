@@ -466,6 +466,15 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "5b6a95e7-7095-4def-81d5-7f0546063d53": {
+      "type": "Certified_Coaches",
+      "settings": {
+        "testhead": "",
+        "testdes": "",
+        "coachbtn": "Downloadables",
+        "coachurl": ""
+      }
     }
   },
   "order": [
@@ -480,6 +489,7 @@
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
     "54622c8f-3f1b-48e3-a24e-b5c8cd560f29",
     "febdc93f-b5f0-4728-b425-acf1d35080a9",
-    "da2492a7-bf99-487e-a228-ecd20eb7cfc6"
+    "da2492a7-bf99-487e-a228-ecd20eb7cfc6",
+    "5b6a95e7-7095-4def-81d5-7f0546063d53"
   ]
 }
