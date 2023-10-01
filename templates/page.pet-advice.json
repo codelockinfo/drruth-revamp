@@ -202,7 +202,7 @@
       "settings": {
         "desktopColumns": "3",
         "tabletColumns": "3",
-        "desktopMaxWidth": "100%",
+        "desktopMaxWidth": "1100px",
         "tabletMaxWidth": "100%",
         "mobileMaxWidth": "100%",
         "autoPlay": false,
