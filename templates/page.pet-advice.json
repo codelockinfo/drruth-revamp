@@ -278,6 +278,7 @@
       ],
       "custom_css": [
         ".pet_audio {border-top: 1px solid #f5f8f1;}",
+        ".petadvicevideo.slick-slide {padding: 0 15px;}",
         "h2.petvheadd {margin: 50px 0;}"
       ],
       "settings": {
