@@ -404,6 +404,17 @@
       "settings": {
         "petvhead": "Videos"
       }
+    },
+    "febdc93f-b5f0-4728-b425-acf1d35080a9": {
+      "type": "pet_downloadables",
+      "settings": {
+        "labelourb": "",
+        "petblogimg": "shopify:\/\/shop_images\/PattyKalvelage.png",
+        "prtbllink": "#",
+        "prtblsubdes": "Lorem ipsum dolor sit amet consectetur",
+        "prtblogdate": "",
+        "prtblogdes": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
+      }
     }
   },
   "order": [
@@ -416,6 +427,7 @@
     "a2bf1391-0e8f-4918-8758-a17303b1c55e",
     "3c81f4e7-9d44-4850-985b-56f21e5816e9",
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
-    "54622c8f-3f1b-48e3-a24e-b5c8cd560f29"
+    "54622c8f-3f1b-48e3-a24e-b5c8cd560f29",
+    "febdc93f-b5f0-4728-b425-acf1d35080a9"
   ]
 }
