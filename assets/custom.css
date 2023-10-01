@@ -5,6 +5,10 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
     margin-bottom: 90px !important;
 }
 
+.rx-testimonial-item-inner a {
+    text-decoration: none;
+}
+
 /* Homepage */
 
 #shopify-section-template--14921793798209__40e124d8-821b-4b01-8eb8-2482449db53a .rx-product-list-container {
