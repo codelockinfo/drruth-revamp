@@ -67,16 +67,20 @@
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3"
       ],
+      "custom_css": [
+        "p {font-family: \"Josefin Sans\", sans-serif;}",
+        "h1,h2,h3,h4,h5,h6 {font-family: \"BLT Heirloom Regular\", sans-serif;}"
+      ],
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
         "heading_size": "h1",
         "text_style": "body",
-        "button_style": "secondary",
+        "button_style": "primary",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "accent-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
