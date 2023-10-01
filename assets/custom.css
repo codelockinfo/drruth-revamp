@@ -67,16 +67,9 @@ button.needsclick.kl-teaser-VBv2Nx.undefined.kl-private-reset-css-Xuajs1 {
 #shopify-section-template--14921794420801__1655751929e34d4e57 .card__information {
     background: #e0ecbe;
 }
-/*
-#shopify-section-template--14921794420801__1655751929e34d4e57 h3.card__heading {
-    font-size: 12px !important;
-    text-transform: uppercase;
-    font-family: 'Josefin Sans' !important;
-    letter-spacing: 0.4px;
-    text-align: center !important;
-    line-height: 1.2 !important;
+
+/* Pet Advice */
+
+.rewordmax_container {
+    max-width: 1200px;
 }
-#shopify-section-template--14921794420801__1655751929e34d4e57 .card-wrapper a.full-unstyled-link span {
-    display: none;
-}
-*/
