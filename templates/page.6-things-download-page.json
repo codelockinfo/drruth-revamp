@@ -92,8 +92,7 @@
         "f14841fb-3855-4714-b0c5-cd4871c62b10"
       ],
       "custom_css": [
-        "p {font-family: \"Josefin Sans\", sans-serif;}",
-        "h1,h2,h3,h4,h5,h6 {font-family: \"BLT-Heirloom Regular\", sans-serif;}"
+        "p {font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
