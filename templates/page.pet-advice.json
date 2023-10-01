@@ -460,7 +460,7 @@
         "mobileMaxWidth": "100%",
         "autoPlay": false,
         "smoothAutoPlay": false,
-        "auto_hide_arrow": false,
+        "auto_hide_arrow": true,
         "container_bgcolor": "#fff",
         "card_bgcolor": "#fff",
         "filled_star_color": "",
