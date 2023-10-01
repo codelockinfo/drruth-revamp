@@ -216,6 +216,9 @@
     },
     "a2bf1391-0e8f-4918-8758-a17303b1c55e": {
       "type": "Certified_Coaches",
+      "custom_css": [
+        ".blogbodr2 {padding: 10px 0 70px;}"
+      ],
       "settings": {
         "testhead": "",
         "testdes": "",
@@ -275,7 +278,8 @@
       ],
       "custom_css": [
         ".pet_audio {border-top: 1px solid #f5f8f1;}",
-        ".petadvicevideo.slick-slide {margin: 0 10px;}"
+        ".petadvicevideo.slick-slide {margin: 0 10px;}",
+        "h2.petvheadd {margin: 50px 0;}"
       ],
       "settings": {
         "petvhead": "Our podcast",
