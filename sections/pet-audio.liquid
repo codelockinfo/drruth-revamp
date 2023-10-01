@@ -221,9 +221,7 @@ h3.petaudiottdess {
    slidesToScroll: 1,
    asNavFor: '.audio-for',
    dots: false,
-   arrows:true,
-     nextArrow:"<button type='button' class='drag petvideo2  slick-next pull-right'><svg xmlns='http://www.w3.org/2000/svg' width='18' height='46' viewBox='0 0 18 46' fill='none'><path d='M1 1L16.5 23L1 45' stroke='#184B44' stroke-width='2' stroke-linecap='round'/></svg></button>",
-       
+   arrows:false,
    focusOnSelect: true,
    responsive: [
     {
@@ -237,7 +235,10 @@ h3.petaudiottdess {
       breakpoint: 620,
       settings: {
         slidesToShow: 1,
-        slidesToScroll: 1
+        slidesToScroll: 1,
+       arrows:true,
+       prevArrow:"<button type='button' class='drag petvideo slick-prev pull-left'><svg xmlns='http://www.w3.org/2000/svg' width='19' height='46' viewBox='0 0 19 46' fill='none'><path d='M17.5 1L2 23L17.5 45' stroke='#184B44' stroke-width='2' stroke-linecap='round'/></svg></button>",
+       nextArrow:"<button type='button' class='drag petvideo2  slick-next pull-right'><svg xmlns='http://www.w3.org/2000/svg' width='18' height='46' viewBox='0 0 18 46' fill='none'><path d='M1 1L16.5 23L1 45' stroke='#184B44' stroke-width='2' stroke-linecap='round'/></svg></button>",
       }
     }
    
