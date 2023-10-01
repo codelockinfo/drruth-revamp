@@ -28,28 +28,6 @@
     "2267ea56-2668-4f99-82d1-3f190c5d2561": {
       "type": "multirow",
       "blocks": {
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Liposomal_Gluthathione_4c9d2c42-80c9-401f-9caf-c666f6aac16f.png",
-            "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/liposomal-glutathione-4-oz\" target=\"_blank\" title=\"Shop Liposomal Glutathione\">Liposomal Glutathione<\/a>",
-            "text": "<p>Liposomal Glutathione is the biologically active form of Glutathione, the master antioxidant of the body. When the liver is not functioning properly, adding Glutathione helps the liver clear away the backlog of detoxification the liver has been struggling to keep up with.<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": "https:\/\/drive.google.com\/file\/d\/1McZig1n-9i0Ki7Lcp_wT2o9-wZMoPsyx\/view?usp=drive_link"
-          }
-        },
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Fidospore_1.png",
-            "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/fidospore-by-microlabs-digestive-probiotic-for-pets\" target=\"_blank\" title=\"Shop Fidospore\">Fidospore<\/a>",
-            "text": "<p>Fidospore by Microlabs is digestive probiotic designed to support digestive health and reduce leaky gut in dogs. This probiotic can restore the balance of healthy gut bacteria in your pet’s digestive system.<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": "https:\/\/drive.google.com\/file\/d\/1dsMV7zyR2kqUb55fK_Vp6fDyzEEtzBwt\/view?usp=drive_link"
-          }
-        },
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3": {
           "type": "row",
           "settings": {
@@ -94,6 +72,17 @@
             "button_link": "https:\/\/drive.google.com\/file\/d\/1KXv5eT4hPccnZ7G71iQEglx0INEQgExz\/view?usp=drive_link"
           }
         },
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fidospore_1.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/fidospore-by-microlabs-digestive-probiotic-for-pets\" target=\"_blank\" title=\"Shop Fidospore\">Fidospore<\/a>",
+            "text": "<p>Fidospore by Microlabs is digestive probiotic designed to support digestive health and reduce leaky gut in dogs. This probiotic can restore the balance of healthy gut bacteria in your pet’s digestive system.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1dsMV7zyR2kqUb55fK_Vp6fDyzEEtzBwt\/view?usp=drive_link"
+          }
+        },
         "d99b9371-2592-424e-8a51-1946019a8e25": {
           "type": "row",
           "settings": {
@@ -134,19 +123,41 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/18zKyrxy_-zegP2kTi3I6lQj2Geeu_bzx\/view?usp=drive_link"
           }
+        },
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Liposomal_Gluthathione_4c9d2c42-80c9-401f-9caf-c666f6aac16f.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/liposomal-glutathione-4-oz\" target=\"_blank\" title=\"Shop Liposomal Glutathione\">Liposomal Glutathione<\/a>",
+            "text": "<p>Liposomal Glutathione is the biologically active form of Glutathione, the master antioxidant of the body. When the liver is not functioning properly, adding Glutathione helps the liver clear away the backlog of detoxification the liver has been struggling to keep up with.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1McZig1n-9i0Ki7Lcp_wT2o9-wZMoPsyx\/view?usp=drive_link"
+          }
+        },
+        "d61e894d-f651-4647-b20e-8046c2f1281f": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/holistic-total-body-support-for-cats-and-dogs-glandular-supplements\" target=\"_blank\" title=\"Shop Holistic Total Body Support\">Holistic Total Body Support<\/a>",
+            "text": "<p>Holistic Total Body Support for Cats & Dogs is a premium pet multivitamins designed to support your pet's overall health and wellness. <\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/17VQuB5zwVWFdoLAaqUxTUY8R04TrqV18\/view?usp=drive_link"
+          }
         }
       },
       "block_order": [
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1",
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3",
         "86717a71-8759-4c28-b155-b142e94dd450",
         "f14841fb-3855-4714-b0c5-cd4871c62b10",
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870",
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
         "d99b9371-2592-424e-8a51-1946019a8e25",
         "2bb67f8a-290b-4427-9269-56923fd780e5",
         "a3179aae-9c9e-4edd-85ef-c1484a2a2b27",
-        "33395312-b509-4c26-9a36-934a4a39f592"
+        "33395312-b509-4c26-9a36-934a4a39f592",
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1",
+        "d61e894d-f651-4647-b20e-8046c2f1281f"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
