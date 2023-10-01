@@ -145,20 +145,22 @@
         {%- for block in section.blocks -%}
           <div class="rx-slider-item rx-testimonial-item" {{ block.shopify_attributes }}>
             <div class="rx-testimonial-item-inner">
-              <img src="{{ block.settings.post_image | img_url: 'master' }}" loading="lazy" class="img"/>
-              <div class="rx-post-content">
-                
-                {%- if block.settings.reviewer_name != blank -%}
-                <div class="rx-testimonial-item-reviewer">
-                  {{ block.settings.reviewer_name }}
-                </div>
-                {%- endif -%}
-                <div class="rx-container-title">
-                  {%- if block.settings.title != blank -%}
-                    <div class="rx-testimonial-item-title">{{ block.settings.title }}</div>
+              <a href="{{ block.settings.post_link }}" target="_blank">
+                <img src="{{ block.settings.post_image | img_url: 'master' }}" loading="lazy" class="img"/>
+                <div class="rx-post-content">
+                  
+                  {%- if block.settings.reviewer_name != blank -%}
+                  <div class="rx-testimonial-item-reviewer">
+                    {{ block.settings.reviewer_name }}
+                  </div>
                   {%- endif -%}
+                  <div class="rx-container-title">
+                    {%- if block.settings.title != blank -%}
+                      <div class="rx-testimonial-item-title">{{ block.settings.title }}</div>
+                    {%- endif -%}
+                  </div>
                 </div>
-              </div>
+              </a>
             </div>
           </div>
         {%- endfor -%}
@@ -296,6 +298,12 @@
           "id": "reviewer_name",
           "label": "Post Date",
           "default": "Post Date"
+        },
+        {
+          "type": "text",
+          "id": "post_link",
+          "label": "Post Link",
+          "default": "#"
         },
         {
            "type":"image_picker",
