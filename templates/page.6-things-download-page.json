@@ -24,10 +24,67 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "2267ea56-2668-4f99-82d1-3f190c5d2561": {
+      "type": "multirow",
+      "blocks": {
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Liposomal_Gluthathione_4c9d2c42-80c9-401f-9caf-c666f6aac16f.png",
+            "caption": "Product Dosing",
+            "heading": "Liposomal Glutathione",
+            "text": "<p>Liposomal Glutathione is the biologically active form of Glutathione, the master antioxidant of the body. When the liver is not functioning properly, adding Glutathione helps the liver clear away the backlog of detoxification the liver has been struggling to keep up with.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/1McZig1n-9i0Ki7Lcp_wT2o9-wZMoPsyx\/view?usp=drive_link"
+          }
+        },
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1",
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "16626709144c8e7699"
+    "16626709144c8e7699",
+    "2267ea56-2668-4f99-82d1-3f190c5d2561"
   ]
 }
