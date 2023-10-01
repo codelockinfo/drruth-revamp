@@ -124,6 +124,16 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1PJCol9VsX4PSkxgzKKRJIutO3qz27_a_\/view?usp=drive_link"
           }
+        },
+        "33395312-b509-4c26-9a36-934a4a39f592": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/herbal-allergy-supplement-for-cats-and-dogs\" target=\"_blank\" title=\"Shop Hista Paws\">Hista Paws<\/a>",
+            "text": "<p>Hista Paws with Quercetin and Nettles is allergy supplement is specially formulated for cats and dogs, and contains a powerful blend of natural ingredients that work together to soothe and relieve allergy symptoms.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": "https:\/\/drive.google.com\/file\/d\/18zKyrxy_-zegP2kTi3I6lQj2Geeu_bzx\/view?usp=drive_link"
+          }
         }
       },
       "block_order": [
@@ -135,7 +145,8 @@
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870",
         "d99b9371-2592-424e-8a51-1946019a8e25",
         "2bb67f8a-290b-4427-9269-56923fd780e5",
-        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27"
+        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27",
+        "33395312-b509-4c26-9a36-934a4a39f592"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
