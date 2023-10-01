@@ -82,6 +82,17 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1hhJF4YjindWYmNnrBca5AGO6mFtVFLAm\/view?usp=drive_link"
           }
+        },
+        "f7f58cd8-2273-4f21-a8d5-e3f9d730c870": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Activated_Charcoal.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/activated-charcoal-560-mg-100-caps\" target=\"_blank\" title=\"Shop Activated Charcoal\">Activated Charcoal<\/a>",
+            "text": "<p>Activated charcoal, also known as activated carbon, is a form of carbon that has been processed to have a large surface area and numerous pores. Activated charcoal is used in veterinary medicine to mitigate gastrointestinal (GI) tract toxins in cats and dogs.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -89,10 +100,12 @@
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3",
         "86717a71-8759-4c28-b155-b142e94dd450",
-        "f14841fb-3855-4714-b0c5-cd4871c62b10"
+        "f14841fb-3855-4714-b0c5-cd4871c62b10",
+        "f7f58cd8-2273-4f21-a8d5-e3f9d730c870"
       ],
       "custom_css": [
-        "p {font-family: \"Josefin Sans\", sans-serif;}"
+        "p {font-family: \"Josefin Sans\", sans-serif;}",
+        ".button {font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
@@ -106,8 +119,8 @@
         "section_color_scheme": "accent-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     }
   },
