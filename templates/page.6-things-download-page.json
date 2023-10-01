@@ -104,8 +104,7 @@
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870"
       ],
       "custom_css": [
-        "p {font-family: \"Josefin Sans\", sans-serif;}",
-        ".button {font-family: \"Josefin Sans\", sans-serif;}"
+        "p {font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
@@ -118,7 +117,7 @@
         "image_layout": "alternate-right",
         "section_color_scheme": "accent-1",
         "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 32,
         "padding_bottom": 32
       }
