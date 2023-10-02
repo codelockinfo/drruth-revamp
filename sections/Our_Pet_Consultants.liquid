@@ -7,6 +7,7 @@
     <div class="amr_pet_consultants_list amr_pet_consultants_list_desktp">
       {% for block in section.blocks %}
         <div class="amr_pet_consultants_item amr_pet_consultants_item_{{ forloop.index }}" style="{% if block.settings.bg_color != blank %}background-color:{{ block.settings.bg_color }};{% endif %} background-image:url('{{ block.settings.bg_img | img_url:'master' }}');">
+          <div class="pc-img" style="background-image:url('{{ block.settings.bg_img | img_url:'master' }}');"></div>
           <div class="amr_pet_consultants_item_upper">
             {% if block.settings.title != blank %}<h3>{{ block.settings.title }}</h3>{% endif %}
             {% if block.settings.detail != blank %}<div>{{ block.settings.detail }}</div>{% endif %}
