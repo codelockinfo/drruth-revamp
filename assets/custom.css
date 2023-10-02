@@ -117,3 +117,33 @@ section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c
 section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c742a76 {
     margin-top: 20px;
 }
+
+.list-numbers ul ol {
+   list-style: none;
+   counter-reset: item;
+   padding: 0;
+   margin-top: -20px;
+   font-family: 'Josefin Sans';
+   letter-spacing: 0;
+   color: #000;
+   font-size: 18px;
+ }
+.list-numbers ul ol li {
+   counter-increment: item;
+   margin-bottom: 5px;
+   font-weight: normal;
+   margin-left: 40px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   border-bottom: 1px solid #184B44;
+   position: relative;
+ }
+.list-numbers ul ol li:before {
+   content: counter(item);
+   color: #184B44;
+   position: absolute;
+   left: -40px;
+   top: -10px;
+   font-family: 'Oakley Script';
+   font-size: 50px;
+ }
