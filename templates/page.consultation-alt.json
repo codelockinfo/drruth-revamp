@@ -286,34 +286,14 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "badce5a2-f3cf-49a4-b984-cadc261208b1": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "2ddfbbaf-e3ed-40e8-871c-1a239387a173": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Experience the power of collaboration as we work together to enhance your pet's well-being.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b",
-        "badce5a2-f3cf-49a4-b984-cadc261208b1",
-        "2ddfbbaf-e3ed-40e8-871c-1a239387a173"
+        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
@@ -335,7 +315,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 48,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -355,6 +335,7 @@
       "block_order": [
         "ecd00adf-9645-4a9e-9b34-afa80daf4ab8"
       ],
+      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
@@ -572,6 +553,83 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7": {
+      "type": "Our_Pet_Consultants",
+      "blocks": {
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "f19fa966-9d30-44e4-98e1-fa9c62889672": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "a0675608-47c8-45c6-9152-614b3b86964f": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        },
+        "0d977f26-6907-4961-a6fb-f1564c7b6048": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "",
+            "detail": "",
+            "btn_txt": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c",
+        "f19fa966-9d30-44e4-98e1-fa9c62889672",
+        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd",
+        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6",
+        "a0675608-47c8-45c6-9152-614b3b86964f",
+        "0d977f26-6907-4961-a6fb-f1564c7b6048"
+      ],
+      "settings": {
+        "heading": "",
+        "desc": ""
+      }
     }
   },
   "order": [
@@ -586,6 +644,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
+    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7"
   ]
 }
