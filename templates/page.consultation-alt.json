@@ -2,9 +2,42 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "daacd88c-ddba-4cad-b437-2603ffe776e0": {
+      "type": "rx-img-with-text-slider",
+      "blocks": {
+        "template--14969681084481__daacd88c-ddba-4cad-b437-2603ffe776e0-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Consultations.png",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "center",
+            "desktop_content_alignment": "center",
+            "desktop_button_alignment": "center",
+            "content_layout": "overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "no",
+            "mobile_content_alignment": "center",
+            "heading": "Discover Personalized Solutions for Your Pet's Well-being with our Professional  Pet Consultants",
+            "description": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>",
+            "button_label": "BOOK NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14969681084481__daacd88c-ddba-4cad-b437-2603ffe776e0-slide-1"
+      ],
+      "settings": {
+        "desktopMaxWidth": "100%",
+        "auto_play": false
       }
     },
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7": {
@@ -84,6 +117,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Why Us?",
         "heading_size": "h0",
         "image_width": "full",
@@ -143,6 +177,7 @@
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
@@ -193,6 +228,7 @@
         ".grid:last-child {margin-bottom: 0; justify-content: center;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -244,6 +280,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Collaboration Approach ",
         "heading_size": "h0",
         "image_width": "full",
@@ -284,6 +321,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Pet Consultants",
         "heading_size": "h0",
         "image_width": "full",
@@ -324,6 +362,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Client’s Testimonials ",
         "heading_size": "h0",
         "image_width": "full",
@@ -358,6 +397,7 @@
       ],
       "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
@@ -399,6 +439,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
         "heading_size": "h0",
         "image_width": "full",
@@ -581,6 +622,7 @@
   },
   "order": [
     "main",
+    "daacd88c-ddba-4cad-b437-2603ffe776e0",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
