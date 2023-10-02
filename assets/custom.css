@@ -88,3 +88,21 @@ section#shopify-section-template--14921792258113__5b6a95e7-7095-4def-81d5-7f0546
     padding-top: 0;
     padding-bottom: 100px;
 }
+.slick-slide h3.petvaudiott,
+.slick-slide h3.webinartitle,
+.slick-slide h3.petvideott {
+    font-size: 18px !important;
+    text-transform: uppercase;
+    font-family: 'Josefin Sans' !important;
+    letter-spacing: 0.4px;
+    line-height: 1.4 !important;
+    margin-top: 25px;
+}
+.slick-slide h3.webinartitle,
+.slick-slide h3.petvideott  {
+    margin-top: 20px;
+    line-height: 1.8 !important;
+}
+.slick-slide h3.petvideott  {
+    text-align: center;
+}
