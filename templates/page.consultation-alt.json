@@ -254,7 +254,8 @@
         "a01b409b-4d42-4ee3-beb9-b7ca182daec9"
       ],
       "custom_css": [
-
+        ".multicolumn-list {justify-content: center;}",
+        ".multicolumn-list h3 {font-family: 'Josefin Sans'; text-transform: uppercase; letter-spacing: 0;}"
       ],
       "settings": {
         "custom_class": "",
