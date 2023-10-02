@@ -256,7 +256,9 @@
       "custom_css": [
         ".multicolumn-list {justify-content: center;}",
         ".multicolumn-list h3 {font-family: \"Josefin Sans\"; text-transform: uppercase; letter-spacing: 0;}",
-        ".multicolumn .button {background: transparent; border: 2px solid #184b44; border-radius: 25.5px; color: #184b44; text-transform: uppercase; font-family: \"Josefin Sans\"; font-size: 14px; padding: 15px 20px 12px; margin-top: 2.5rem;}"
+        ".multicolumn .button {background: transparent; border: 2px solid #184b44; border-radius: 25.5px; color: #184b44; text-transform: uppercase; font-family: \"Josefin Sans\"; font-size: 14px; padding: 15px 20px 12px; margin-top: 2.5rem;}",
+        ".multicolumn .media {padding-bottom: 0 !important;}",
+        ".multicolumn .media img {transform: none !important; position: unset !important; height: 86px !important; margin: 0 auto;}"
       ],
       "settings": {
         "custom_class": "",
