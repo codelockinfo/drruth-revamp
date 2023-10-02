@@ -8,6 +8,52 @@
         "padding_bottom": 36
       }
     },
+    "88dc8e05-4d1f-46d6-914e-3350b2d40130": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover Personalized Solutions for Your Pet's Well-being with our Professional  Pet Consultants",
+            "font_family": "font_blt"
+          }
+        },
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service<\/p>"
+          }
+        },
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "BOOK NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-heading-1",
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-text-1",
+        "template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Consultations.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_title_alignment": "center",
+        "desktop_content_alignment": "center",
+        "desktop_button_alignment": "center",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "#ffffff",
+        "show_arrow_mobile": "no",
+        "mobile_content_alignment": "center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "daacd88c-ddba-4cad-b437-2603ffe776e0": {
       "type": "rx-img-with-text-slider",
       "blocks": {
@@ -622,6 +668,7 @@
   },
   "order": [
     "main",
+    "88dc8e05-4d1f-46d6-914e-3350b2d40130",
     "daacd88c-ddba-4cad-b437-2603ffe776e0",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
