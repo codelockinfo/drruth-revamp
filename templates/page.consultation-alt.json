@@ -152,46 +152,6 @@
         "padding_bottom": 36
       }
     },
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Why Us?",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -278,69 +238,6 @@
         "padding_bottom": 72
       }
     },
-    "3270ceca-463c-4a94-837a-eab99dd78163": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Comprehensive Services",
-            "text": "<p>Our pet consultants can assist you with various aspects of pet health, including nutrition advice, behavior modification, exercise plans, and preventive care strategies. Whatever your pet's needs may be, we're here to help.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Practical Recommendations",
-            "text": "<p>You'll receive clear and actionable recommendations to address your pet's health concerns, enhance their behavior, or improve their overall quality of life.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 6rem 4rem;}",
-        ".grid:last-child {margin-bottom: 0; justify-content: center;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "fadcc9ee-5901-42d9-8139-51be2d304bad": {
-      "type": "coachingmainblog",
-      "disabled": true,
-      "custom_css": [
-        "svg {display: none;}"
-      ],
-      "settings": {
-        "c_head": "",
-        "pro_btn1": "Check our consultant",
-        "program_link1": ""
-      }
-    },
     "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
       "type": "multicolumn",
       "blocks": {
@@ -348,7 +245,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
+            "text": "<ol><li><strong>Select a Pet Consultant<\/strong><br\/>Browse through our team of dedicated petconsultants and select the one who best fits your needs. Each consultant brings a unique skill set, experience, and specialization in holistic pet care. Take into account their expertise and areas of focus to find the perfect match for your pet's specific requirements.<\/li><li><strong>Book Our Pet Consultant<\/strong><br\/>Once you've chosen your preferred consultant, it's time to book a consultation. Utilize our convenient booking system or contact our team directly to schedule an appointment with your selected consultant. This step ensures that you have dedicated time to discuss your pet's situation and work collaboratively towards their well-being.<\/li><li><strong>Assess Your Pet's Situation<\/strong><br\/>During the consultation, your chosen pet consultant will conduct a thorough assessment of your dog’s or cat’s situation. They will actively listen to your concerns, ask relevant questions, and gather information about your pet's health, behavior, and lifestyle. This comprehensive evaluation forms the basis for creating a personalized care plan.<\/li><li><strong>Receive a Personalized Care Plan<\/strong><br\/>Based on the assessment, your consultant will develop a personalized care plan tailored to your pet's specific needs. The care plan will encompass recommendations and interventions designed to address your dog’s or cat’s health concerns and enhance their overall well-being.<\/li><li><strong>Implement the Care Plan<\/strong><br\/>With the personalized care plan in hand, it's time to put it into action. Your consultant will guide you through the implementation process, providing clear instructions and practical guidance. They will help you make necessary adjustments to your pet's diet, exercise routine, and other aspects of their care. This collaborative effort ensures a seamless integration of the care plan into your pet's daily life.<\/li><li><strong>Get Ongoing Support<\/strong><br\/>We understand that ongoing support is crucial for the success of your pet's well-being. Your consultant will be available to provide continuous support and guidance. They will address any questions, concerns, or challenges you may have along the way. Regular check-ins and follow-up consultations will allow for monitoring progress, making adjustments to the pet care plan, and providing ongoing support.<\/li><\/ol>",
             "link_label": "",
             "link": ""
           }
@@ -357,7 +254,6 @@
       "block_order": [
         "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
       ],
-      "disabled": true,
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
@@ -370,7 +266,7 @@
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
-        "column_alignment": "center",
+        "column_alignment": "left",
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
@@ -663,10 +559,7 @@
     "88dc8e05-4d1f-46d6-914e-3350b2d40130",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
-    "3270ceca-463c-4a94-837a-eab99dd78163",
-    "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
