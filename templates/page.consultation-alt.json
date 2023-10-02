@@ -54,6 +54,50 @@
         "padding_bottom": 36
       }
     },
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76": {
+      "type": "rx-image-banner-v2",
+      "blocks": {
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Why Us?"
+          }
+        },
+        "d6fa0458-c3a0-4bbf-a363-3c9a6c9034f6": {
+          "type": "text",
+          "settings": {
+            "text": "Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. "
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1",
+        "d6fa0458-c3a0-4bbf-a363-3c9a6c9034f6"
+      ],
+      "custom_css": [
+        ".banner__media.media {padding: 0;}",
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".banner__media.media {padding: 0;}",
+        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
+        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
+        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/banner.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "container_bg": "rgba(0,0,0,0)",
+        "desktop_content_alignment": "center",
+        "heading_color": "#ffffff",
+        "text_color": "#ffffff",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7": {
       "type": "image-with-text",
       "blocks": {
@@ -525,52 +569,6 @@
         "padding_bottom": 36
       }
     },
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76": {
-      "type": "rx-image-banner-v2",
-      "blocks": {
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "The opportunity to become a professional pet Pet Health Coach has come very close to you"
-          }
-        },
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "APPLY TO THE PROGRAM",
-            "button_link_1": "#"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1",
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
-        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
-      ],
-      "settings": {
-        "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "container_bg": "rgba(0,0,0,0)",
-        "desktop_content_alignment": "left",
-        "heading_color": "#ffffff",
-        "text_color": "#ffffff",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "4f906579-b062-4ab8-babd-9cc9b73db3d9": {
       "type": "rx-testimonial",
       "blocks": {
@@ -637,6 +635,7 @@
   "order": [
     "main",
     "88dc8e05-4d1f-46d6-914e-3350b2d40130",
+    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
@@ -648,7 +647,6 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "4f906579-b062-4ab8-babd-9cc9b73db3d9"
   ]
 }
