@@ -150,3 +150,26 @@ section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c
    font-family: 'Oakley Script';
    font-size: 50px;
  }
+
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
+    display: grid;
+    grid-template-columns: repeat(3, calc(33.33% - 7.5px));
+    grid-gap: 10px;
+    width: 100%;
+}
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > * {
+    grid-column-start: unset !important;
+    grid-column-end: unset !important;
+}
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > *:nth-child(1) {
+    grid-row: 1 / 3;
+    grid-column: 1 / 2;
+}
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > *:nth-child(6) {
+    grid-row: 3 / 5;
+    grid-column: 1 / 2;
+}
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > *:nth-child(11) {
+    grid-row: 5 / 7;
+    grid-column: 1 / 2;
+}
