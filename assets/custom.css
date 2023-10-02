@@ -106,3 +106,14 @@ section#shopify-section-template--14921792258113__5b6a95e7-7095-4def-81d5-7f0546
 .slick-slide h3.petvideott  {
     text-align: center;
 }
+
+/* Consultation Page */
+
+section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c742a76 .banner__media img {
+    object-position: 50% 40%;
+    width: 100%;
+    height: 100%;
+}
+section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c742a76 {
+    margin-top: 20px;
+}
