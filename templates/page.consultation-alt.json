@@ -208,6 +208,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Image_3_79467cfa-61cf-47ff-9378-ad6cc996b933.png",
             "title": "2. Holistic Approach",
             "text": "<p>We believe in treating pets as whole beings, considering their physical, emotional, and nutritional needs. Our coaches specialize in holistic approaches that emphasize natural remedies and balanced lifestyles.<\/p>",
             "link_label": "",
@@ -217,6 +218,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Image_4_b8ab86f7-f535-40b0-9509-c54d8672a704.png",
             "title": "3. Personalized Care",
             "text": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
             "link_label": "",
@@ -226,8 +228,9 @@
         "a586b105-e86e-4cc2-a807-cae11ef2f45b": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Image_5_698150cc-d6df-49ed-b5bc-b36b4fafc844.png",
+            "title": "4. Comprehensive Services",
+            "text": "<p>Our pet consultants can assist you with various aspects of pet health, including nutrition advice, behavior modification, exercise plans, and preventive care strategies. Whatever your pet's needs may be, we're here to help.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -235,8 +238,9 @@
         "a01b409b-4d42-4ee3-beb9-b7ca182daec9": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/Image_6_4f8013b2-c8b2-4249-b6fb-911b69d4b938.png",
+            "title": "5. Practical Recommendations",
+            "text": "<p>You'll receive clear and actionable recommendations to address your pet's health concerns, enhance their behavior, or improve their overall quality of life.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -261,7 +265,7 @@
         "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "Check Our Consultants",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
@@ -296,6 +300,7 @@
         "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
         "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
       ],
+      "disabled": true,
       "custom_css": [
         "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
