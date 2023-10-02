@@ -255,7 +255,7 @@
       ],
       "custom_css": [
         ".multicolumn-list {justify-content: center;}",
-        ".multicolumn-list h3 {font-family: 'Josefin Sans'; text-transform: uppercase; letter-spacing: 0;}"
+        ".multicolumn-list h3 {font-family: \"Josefin Sans\"; text-transform: uppercase; letter-spacing: 0;}"
       ],
       "settings": {
         "custom_class": "",
@@ -267,7 +267,7 @@
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Check Our Consultants",
-        "button_link": "",
+        "button_link": "#",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
