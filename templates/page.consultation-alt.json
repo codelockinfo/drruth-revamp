@@ -255,13 +255,14 @@
         "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
       ],
       "custom_css": [
+        ".abc.multicolumn.color-background-1.gradient.background-primary {background: #f6f8f1;}",
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"Oakley Script\"; color: #2d4b49; font-weight: 300; font-size: 64px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
-        "custom_class": "",
+        "custom_class": "list-numbers",
         "title": "Our Collaboration Approach ",
         "heading_size": "h0",
         "image_width": "full",
