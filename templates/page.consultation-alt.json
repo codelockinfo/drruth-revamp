@@ -198,7 +198,8 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1": {
           "type": "column",
           "settings": {
-            "title": "Expertise",
+            "image": "shopify:\/\/shop_images\/Image_2_0b6efdba-4141-4ad8-8d40-6456beb00467.png",
+            "title": "1. Expertise",
             "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
             "link_label": "",
             "link": ""
@@ -207,7 +208,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
           "type": "column",
           "settings": {
-            "title": "Holistic Approach",
+            "title": "2. Holistic Approach",
             "text": "<p>We believe in treating pets as whole beings, considering their physical, emotional, and nutritional needs. Our coaches specialize in holistic approaches that emphasize natural remedies and balanced lifestyles.<\/p>",
             "link_label": "",
             "link": ""
@@ -216,8 +217,26 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
           "settings": {
-            "title": "Personalized Care",
+            "title": "3. Personalized Care",
             "text": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a586b105-e86e-4cc2-a807-cae11ef2f45b": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a01b409b-4d42-4ee3-beb9-b7ca182daec9": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -226,19 +245,18 @@
       "block_order": [
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3",
+        "a586b105-e86e-4cc2-a807-cae11ef2f45b",
+        "a01b409b-4d42-4ee3-beb9-b7ca182daec9"
       ],
-      "disabled": true,
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
+
       ],
       "settings": {
         "custom_class": "",
         "title": "",
         "heading_size": "h0",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
@@ -278,7 +296,6 @@
         "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
         "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
       ],
-      "disabled": true,
       "custom_css": [
         "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
