@@ -138,7 +138,7 @@ section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c
    border-bottom: 1px solid #184B44;
    position: relative;
  }
-.list-numbers ul ol li {
+.list-numbers ul ol li strong {
   text-transform: uppercase;
 }
 .list-numbers ul ol li:before {
