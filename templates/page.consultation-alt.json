@@ -686,7 +686,7 @@
         "smoothAutoPlay": false,
         "auto_hide_arrow": false,
         "container_bgcolor": "#f5f8f1",
-        "card_bgcolor": "#fff",
+        "card_bgcolor": "#ffffff",
         "filled_star_color": "#2d4b49",
         "empty_star_color": ""
       }
@@ -738,7 +738,7 @@
         "container_bg": "rgba(0,0,0,0)",
         "desktop_content_alignment": "left",
         "heading_color": "#ffffff",
-        "text_color": "#fff",
+        "text_color": "#ffffff",
         "show_arrow_mobile": "yes",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
