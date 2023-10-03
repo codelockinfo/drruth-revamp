@@ -727,7 +727,7 @@
         "0af9b1f4-9270-4c3a-be12-49abcd4fb707"
       ],
       "custom_css": [
-        ".banner {width: 100%; max-width: 100%; padding: 0;}",
+        ".banner, .banner__media {width: 100%; max-width: 100%; padding: 0;}",
         ".custom-box {width: 100% !important; max-width: 1200px !important;}",
         ".banner__media img {object-position: 50% 50% !important; height: 100% !important;}"
       ],
