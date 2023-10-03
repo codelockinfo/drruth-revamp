@@ -88,7 +88,10 @@
             <div class="rx-testimonial-item-inner">
               <div class="rx-container-title">
                 {%- if block.settings.title != blank -%}
-                  <div class="rx-testimonial-item-title">{{ block.settings.title }}</div>
+                  <div class="rx-testimonial-item-title">
+                    <h3>{{ block.settings.title }}</h3>
+                    <h4>{{ block.settings.title-desig }}</h4>
+                  </div>
                 {%- endif -%}
                 <div class="rx-testimonial-rating">
                   <div class="rx-testimonial-item-star-list rx-testimonial-item-star-list--empty">
@@ -319,8 +322,14 @@
         {
           "type": "text",
           "id": "title",
-          "label": "Title",
-          "default": "Best Product"
+          "label": "Consultant Name",
+          "default": "Consultant Name"
+        },
+        {
+          "type": "text",
+          "id": "title-desig",
+          "label": "Consultant Designation",
+          "default": "Consultant Designation"
         },
         {
           "type": "richtext",
