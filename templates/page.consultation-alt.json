@@ -679,7 +679,7 @@
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
-        "desktopMaxWidth": "100%",
+        "desktopMaxWidth": "1200px",
         "tabletMaxWidth": "100%",
         "mobileMaxWidth": "100%",
         "autoPlay": false,
@@ -687,7 +687,7 @@
         "auto_hide_arrow": false,
         "container_bgcolor": "#f5f8f1",
         "card_bgcolor": "#fff",
-        "filled_star_color": "",
+        "filled_star_color": "#2d4b49",
         "empty_star_color": ""
       }
     }
