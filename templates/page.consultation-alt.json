@@ -676,6 +676,12 @@
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4"
       ],
+      "custom_css": [
+        ".rx-review-container {padding-top: 70px;}",
+        ".rx-container-title {gap: 20px; justify-content: flex-start; align-items: center;}",
+        "h3 {margin: 0; font-family: 'BLT-Heirloom'; font-size: 24px;}",
+        "h4 {margin: 0; font-family: 'BLT-Heirloom'; font-size: 18px;}"
+      ],
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
@@ -730,7 +736,7 @@
         ".banner,.banner__media {width: 100%; max-width: 100%; padding: 0;}",
         ".custom-box {width: 100% !important; max-width: 1200px !important;}",
         ".banner__media img {object-position: 50% 50% !important; height: 100% !important;}",
-        ".rx_banner__heading{max-width: 50%;}",
+        ".rx_banner__heading {max-width: 50%;}",
         ".rx_banner__text {max-width: 50%; margin-bottom: 30px !important;}",
         ".rx_banner__text:last-child {font-family: \"Oakley Script\"; font-size: 64px; margin-top: 50px; margin-bottom: 20px !important;}",
         "@media screen and (max-width: 767px) {.rx_banner__text, .rx_banner__heading {max-width: 100%; }}"
