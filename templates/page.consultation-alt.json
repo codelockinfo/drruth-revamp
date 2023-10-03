@@ -727,9 +727,13 @@
         "0af9b1f4-9270-4c3a-be12-49abcd4fb707"
       ],
       "custom_css": [
-        ".banner, .banner__media {width: 100%; max-width: 100%; padding: 0;}",
+        ".banner,.banner__media {width: 100%; max-width: 100%; padding: 0;}",
         ".custom-box {width: 100% !important; max-width: 1200px !important;}",
-        ".banner__media img {object-position: 50% 50% !important; height: 100% !important;}"
+        ".banner__media img {object-position: 50% 50% !important; height: 100% !important;}",
+        ".rx_banner__heading{max-width: 50%;}",
+        ".rx_banner__text {max-width: 50%; margin-bottom: 30px !important;}",
+        ".rx_banner__text:last-child {font-family: \"Oakley Script\"; font-size: 64px; margin-top: 50px; margin-bottom: 20px !important;}",
+        "@media screen and (max-width: 767px) {.rx_banner__text, .rx_banner__heading {max-width: 100%; }}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/cta.png",
