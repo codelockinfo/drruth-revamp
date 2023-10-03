@@ -319,6 +319,140 @@
         "padding_bottom": 36
       }
     },
+    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7": {
+      "type": "Our_Pet_Consultants",
+      "blocks": {
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p><p>Dlorah deVore, a Functional Nutritional Therapy Practitioner (FNTP), discovered the path of holistic healing through her own health journey and her dog Hazel's. Transitioning from a career in marketing and graphic design, she graduated  from the Nutritional Therapy Association in 2018. As part of Dr. Ruth's team of certified Pet Health Coaches (HPHC), Dlorah is honored to work with you in pursuit of your pet's optimal health.<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "f19fa966-9d30-44e4-98e1-fa9c62889672": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "a0675608-47c8-45c6-9152-614b3b86964f": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "0d977f26-6907-4961-a6fb-f1564c7b6048": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "0dce4194-92b4-410c-8da5-46d90aa82d30": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "cccff466-28bf-4cf3-9d2d-389355829f3a": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "2461caae-9520-48d4-9ef4-2690dd29defa": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        },
+        "7cc2fec6-d703-42a8-a762-e0099a922482": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c",
+        "f19fa966-9d30-44e4-98e1-fa9c62889672",
+        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd",
+        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6",
+        "a0675608-47c8-45c6-9152-614b3b86964f",
+        "0d977f26-6907-4961-a6fb-f1564c7b6048",
+        "0dce4194-92b4-410c-8da5-46d90aa82d30",
+        "cccff466-28bf-4cf3-9d2d-389355829f3a",
+        "2461caae-9520-48d4-9ef4-2690dd29defa",
+        "7cc2fec6-d703-42a8-a762-e0099a922482"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading": "",
+        "desc": ""
+      }
+    },
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
       "type": "multicolumn",
       "blocks": {
@@ -538,7 +672,6 @@
         "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3",
         "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4"
       ],
-      "disabled": true,
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
@@ -553,140 +686,6 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
-    },
-    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7": {
-      "type": "Our_Pet_Consultants",
-      "blocks": {
-        "b9981614-69c3-4713-a81c-17e5e2fb1d3c": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p><p>Dlorah deVore, a Functional Nutritional Therapy Practitioner (FNTP), discovered the path of holistic healing through her own health journey and her dog Hazel's. Transitioning from a career in marketing and graphic design, she graduated  from the Nutritional Therapy Association in 2018. As part of Dr. Ruth's team of certified Pet Health Coaches (HPHC), Dlorah is honored to work with you in pursuit of your pet's optimal health.<\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "f19fa966-9d30-44e4-98e1-fa9c62889672": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "a0675608-47c8-45c6-9152-614b3b86964f": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "0d977f26-6907-4961-a6fb-f1564c7b6048": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "0dce4194-92b4-410c-8da5-46d90aa82d30": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "cccff466-28bf-4cf3-9d2d-389355829f3a": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "2461caae-9520-48d4-9ef4-2690dd29defa": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        },
-        "7cc2fec6-d703-42a8-a762-e0099a922482": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": ""
-          }
-        }
-      },
-      "block_order": [
-        "b9981614-69c3-4713-a81c-17e5e2fb1d3c",
-        "f19fa966-9d30-44e4-98e1-fa9c62889672",
-        "6ad00ef3-388d-44dc-abe1-ea95410b2dfd",
-        "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6",
-        "a0675608-47c8-45c6-9152-614b3b86964f",
-        "0d977f26-6907-4961-a6fb-f1564c7b6048",
-        "0dce4194-92b4-410c-8da5-46d90aa82d30",
-        "cccff466-28bf-4cf3-9d2d-389355829f3a",
-        "2461caae-9520-48d4-9ef4-2690dd29defa",
-        "7cc2fec6-d703-42a8-a762-e0099a922482"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "heading": "",
-        "desc": ""
-      }
     }
   },
   "order": [
@@ -697,11 +696,11 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
+    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
-    "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7"
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
   ]
 }
