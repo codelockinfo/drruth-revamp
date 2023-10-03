@@ -151,6 +151,12 @@ section#shopify-section-template--14969681084481__f20ac99b-64d9-4f94-9722-95cf6c
    font-size: 50px;
 }
 
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 > div {
+    padding-top: 0;
+}
+div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7  .amr_pet_consultants_header {
+    display: none;
+}
 div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > * {
     border: 2px solid #184B44;
     background-image: none !important;
