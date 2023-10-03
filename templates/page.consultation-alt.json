@@ -690,6 +690,50 @@
         "filled_star_color": "#2d4b49",
         "empty_star_color": ""
       }
+    },
+    "fb7f463b-0835-4876-941d-2251ce392137": {
+      "type": "rx-image-banner-v2",
+      "blocks": {
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-heading-1",
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-text-1",
+        "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-buttons-1"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/cta.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "container_bg": "rgba(0,0,0,0)",
+        "desktop_content_alignment": "left",
+        "heading_color": "#ffffff",
+        "text_color": "#fff",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -705,6 +749,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "7c824f73-1291-494a-89ba-8520efb97ca2"
+    "7c824f73-1291-494a-89ba-8520efb97ca2",
+    "fb7f463b-0835-4876-941d-2251ce392137"
   ]
 }
