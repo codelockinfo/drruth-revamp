@@ -87,6 +87,7 @@
           <div class="rx-slider-item rx-testimonial-item" {{ block.shopify_attributes }}>
             <div class="rx-testimonial-item-inner">
               <div class="rx-container-title">
+                <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/review-logo.png?v=1679751875">
                 {%- if block.settings.title != blank -%}
                   <div class="rx-testimonial-item-title">
                     <h3>{{ block.settings.title }}</h3>
@@ -188,8 +189,7 @@
               
               {%- if block.settings.reviewer_name != blank -%}
               <div class="rx-testimonial-item-reviewer">
-                <img src="https://cdn.shopify.com/s/files/1/0017/5443/1553/files/review-logo.png?v=1679751875">
-                &nbsp;-<span>{{ block.settings.reviewer_name }}</span>
+                <span>{{ block.settings.reviewer_name }}</span>
             
               </div>
               {%- endif -%}
