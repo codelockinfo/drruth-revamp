@@ -204,7 +204,7 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     border-radius: 0 0 24px 24px;
 }
 
-@media only screen and (min-width: 576px) { {
+@media only screen and (min-width: 576px) {
    div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list.amr_pet_consultants_list_desktp {
       display: grid;
       grid-template-columns: repeat(3, calc(33.33% - 7.5px));
