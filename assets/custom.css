@@ -279,3 +279,22 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
       border: none !important;
   }
 }
+
+/* Responsiveness */
+
+@media screen and (max-width: 520px) {
+    #shopify-section-template--14969681084481__872df224-c2bf-4a52-9d67-ad2d05e43f28 .multicolumn .title {
+        font-size: 44px;
+        text-align: center;
+        line-height: 1;
+    }
+    .list-numbers ul ol li {
+        margin-left: 30px;
+    }
+    
+    .list-numbers ul ol li:before {
+        font-size: 44px;
+        top: -5px;
+        left: -30px;
+    }
+}
