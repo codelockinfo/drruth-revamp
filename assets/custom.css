@@ -248,3 +248,28 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     border-radius: 10px;
   }
 }
+@media only screen and (min-width: 575px) {
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item {
+      background-image: none !important;
+      padding: 0;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper {
+      padding: 0;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper > div:last-child {
+      padding-left: 20px;
+      padding-right: 20px;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper > div:last-child p:last-child {
+      display: none;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper > div:last-child p:first-child {
+      display: block;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > button {
+      display: none;
+  }
+  div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list > ul.slick-dots {
+      border: none !important;
+  }
+}
