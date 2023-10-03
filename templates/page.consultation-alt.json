@@ -727,8 +727,7 @@
         "0af9b1f4-9270-4c3a-be12-49abcd4fb707"
       ],
       "custom_css": [
-        ".custom-box {width: 100% !important; max-width: 1200px !important;}",
-        ".banner__media img {object-position: 50% 50% !important; height: 100% !IMPORTANT;}"
+        ".banner__media img {object-position: 50% 50% !important; height: 100% !important;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/cta.png",
