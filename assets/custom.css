@@ -248,7 +248,7 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     border-radius: 10px;
   }
 }
-@media only screen and (min-width: 575px) {
+@media only screen and (max-width: 575px) {
   div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item {
       background-image: none !important;
       padding: 0;
