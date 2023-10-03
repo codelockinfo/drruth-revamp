@@ -726,6 +726,10 @@
         "template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137-buttons-1",
         "0af9b1f4-9270-4c3a-be12-49abcd4fb707"
       ],
+      "custom_css": [
+        ".custom-box {width: 100% !important; max-width: 1200px !important;}",
+        ".banner__media img {object-position: 50% 50% !important; height: 100% !IMPORTANT;}"
+      ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/cta.png",
         "image_overlay_opacity": 0,
