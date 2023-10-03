@@ -679,12 +679,12 @@
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
         ".rx-container-title {gap: 20px; justify-content: flex-start; align-items: center;}",
-        "h3 {margin: 0; font-family: 'BLT-Heirloom'; font-size: 24px;}",
-        "h4 {margin: 0; font-family: 'BLT-Heirloom'; font-size: 18px;}"
+        "h3 {margin: 0; font-family: \"BLT-Heirloom\"; font-size: 24px;}",
+        "h4 {margin: 0; font-family: \"BLT-Heirloom\"; font-size: 18px;}"
       ],
       "settings": {
         "desktopColumns": "2",
-        "tabletColumns": "2",
+        "tabletColumns": "1",
         "desktopMaxWidth": "1200px",
         "tabletMaxWidth": "100%",
         "mobileMaxWidth": "100%",
