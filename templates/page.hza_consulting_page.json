@@ -311,9 +311,9 @@
           "type": "consultants",
           "settings": {
             "bg_color": "#b4a8e1",
-            "bg_img": "shopify:\/\/shop_images\/Jessica_Fischer.png",
+            "bg_img": "shopify:\/\/shop_images\/Jessica_Fisher.png",
             "title": "Jessica Fisher",
-            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
+            "detail": "<p>Canine Nutritionist, HPHC, R+ Dog Trainer<\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/jessicalfisher.com\/product\/holistic-pet-health-coaching-consultation\/"
           }
