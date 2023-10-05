@@ -186,7 +186,8 @@
         "305da33d-fb55-4e35-9d7b-6745b60e60c4"
       ],
       "custom_css": [
-        "p {font-family: \"Josefin Sans\", sans-serif;}"
+        "p {font-family: \"Josefin Sans\", sans-serif;}",
+        ".button{font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
