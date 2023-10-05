@@ -31,49 +31,49 @@
         "39aa68b0-9225-4f7c-9df5-770495dbbb09": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Liposomal Glutathione",
+            "text": "<p>Liposomal Glutathione represents the active form of Glutathione, the body's primary antioxidant. Glutathione supplementation can aid the liver in efficiently managing detoxification, particularly when the liver's natural processes may be challenged.<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
         "02f2763d-d012-49d5-811c-4054ebe84b49": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Marine Collagen",
+            "text": "<p>Marine Collagen from Vital Nutrients is is collagen protein powder supports skin health, hair, skin, and nail growth, as well as joint function and bone strength. It is sourced from wild-caught fish<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
         "dffaa7e0-953a-4668-a91e-d4e1bddef13b": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Mega Mucosa",
+            "text": "<p>MegaMucosa is an advanced gut health supplement promoting a strong  mucosal barrier. It features dairy-free immunoglobulins, clinically proven to enhance mucosal immune defenses<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
         "d028bd99-e2d4-4280-b1fb-c03201e8be38": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "MegaSporeBiotic™",
+            "text": "<p>MegaSporeBiotic™ offers an optimal solution for pet owners seeking to <br\/>enhance their pet's digestive well-being. This potent probiotic supplement, based on resilient spores, is expertly designed to address concerns like bloating, diarrhea, and other digestive discomforts<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
         "443fea7c-caf1-4399-b8dc-a0200dfb1fa4": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\">Omega Pawz<\/a>",
+            "text": "<p>\"Omega Pawz by Dr. Ruth Roberts is our premium fish oil supplement, rich in omega-3 fatty acids, EPA, and DHA. It supports healthy skin, a glossy coat, optimal joint function, enhanced memory, cardiovascular health, and more<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -187,7 +187,8 @@
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}",
-        ".button{font-family: \"Josefin Sans\", sans-serif;}"
+        "h2 {font-family: \"Josefin Sans\", sans-serif;}",
+        ".button {font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
