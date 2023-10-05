@@ -91,10 +91,10 @@
         "e0962bdd-849a-41a8-8245-2d06639d3f30": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/shen-ling-spleen-support-2-oz?\" target=\"_blank\" title=\"Shop Shen Ling Spleen \">Shen Ling Spleen<\/a>",
+            "text": "<p>Shen Ling Spleen Support uses a classical Traditional Chinese Veterinary<br\/>Medicine formula to support the Spleen– the organ associated with digestion. This formula helps dry up damp, reducing diarrhea, and improving the efficiency of the entire GI Tract. <\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
