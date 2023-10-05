@@ -213,6 +213,76 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1BjNrMh7WjWQnSqufI2lQXBbkuhJJavVA\/view?usp=drive_link"
           }
+        },
+        "fcdff573-a7aa-4b98-9c04-6a1375a4691b": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Pinellia Dispersing Formula",
+            "text": "<p>Kan Traditional's Pinellia Dispersing Formula is a Chinese herbal remedy<br\/> designed to address Phlegm Heat patterns characterized by dense, <br\/>viscous mucus that is hard to clear. <\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
+        "d075321d-6b80-4ced-ba04-973cdabcdac4": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "19daed71-8e7a-4e05-86e0-f5ade0c6480f": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "60e27f02-7e70-4737-a5fc-4d3c3451240e": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "f807578c-5625-4074-91d2-0a8ff454ec1e": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "305da33d-fb55-4e35-9d7b-6745b60e60c4": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "39aa68b0-9225-4f7c-9df5-770495dbbb09": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -233,7 +303,14 @@
         "d61e894d-f651-4647-b20e-8046c2f1281f",
         "9e362630-e458-4103-a1a5-3a6f800aa0c4",
         "084a727d-5387-4028-961e-9e348cf22c89",
-        "9a750eda-a171-4fe7-9e37-769a27b9dbc4"
+        "9a750eda-a171-4fe7-9e37-769a27b9dbc4",
+        "fcdff573-a7aa-4b98-9c04-6a1375a4691b",
+        "d075321d-6b80-4ced-ba04-973cdabcdac4",
+        "19daed71-8e7a-4e05-86e0-f5ade0c6480f",
+        "60e27f02-7e70-4737-a5fc-4d3c3451240e",
+        "f807578c-5625-4074-91d2-0a8ff454ec1e",
+        "305da33d-fb55-4e35-9d7b-6745b60e60c4",
+        "39aa68b0-9225-4f7c-9df5-770495dbbb09"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
