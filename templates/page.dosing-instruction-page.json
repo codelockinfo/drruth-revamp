@@ -227,9 +227,9 @@
         "d075321d-6b80-4ced-ba04-973cdabcdac4": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "caption": "",
+            "heading": "Quercetin with Bromelain",
+            "text": "<p>NOW's Quercetin and Bromelain supplement combines quercetin, a natural bioflavonoid that promotes healthy histamine levels for proper immune function, with bromelain, an enzyme from pineapple stems that supports a healthy inflammatory response.<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -237,10 +237,10 @@
         "19daed71-8e7a-4e05-86e0-f5ade0c6480f": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Super Ubiquinol CoQ10",
+            "text": "<p>Super Ubiquinol CoQ10, also known as coenzyme Q10, is a supplement that <br\/>provides advanced support for mitochondrial function. It aids in the <br\/>production of energy, making it particularly beneficial for high-energy-demanding organs like the heart, brain, liver, and kidneys.<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
