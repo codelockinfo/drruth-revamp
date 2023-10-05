@@ -204,6 +204,26 @@
             "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
+        },
+        "775028c6-b366-4ab2-8907-60b8db801a97": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Finest Pure Fish Oil",
+            "text": "<p>Finest Pure Fish Oil is a distinctive combination of sardine and anchovy oils designed to specifically promote cognitive health and brain function, as well as sustain overall cardiovascular well-being<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
+        "2b689d5c-005f-4160-bc12-cbd1b2f403a4": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
@@ -223,7 +243,9 @@
         "f028387c-1b80-4f6c-b534-be378c70ba6c",
         "23299a20-f14b-497b-9ad1-641e47273907",
         "b2eb6001-565a-42e5-b87e-b67be845f193",
-        "749b3a70-a57a-4cfa-b978-ef621235b177"
+        "749b3a70-a57a-4cfa-b978-ef621235b177",
+        "775028c6-b366-4ab2-8907-60b8db801a97",
+        "2b689d5c-005f-4160-bc12-cbd1b2f403a4"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
