@@ -179,8 +179,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "Curcuma NF-KB - Gaia Turmeric Supreme",
-            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of <br\/>a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful <br\/>anti-inflammatory properties, is also rich in antioxidants that support <br\/>the body's natural detoxification process<\/p>",
+            "heading": "Gaia Turmeric Supreme - Curcuma NF-KB",
+            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful anti-inflammatory properties, is also rich in antioxidants that support the body's natural detoxification proces<\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
@@ -198,10 +198,10 @@
         "749b3a70-a57a-4cfa-b978-ef621235b177": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Eicosamax TG Liquid",
+            "text": "<p>Eicosamax TG Liquid offers concentrated omega-3 EPA and DHA in triglyceride form from fish oil. It aids in maintaining a balanced  inflammatory response, supports healthy triglyceride metabolism, and promotes overall heart, joint, skin, brain, and nerve function.<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         }
