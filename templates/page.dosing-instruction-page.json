@@ -81,10 +81,10 @@
         "0e1d3508-38f0-4c8e-ad18-082dbe05b4d5": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/rhubarb-2-oz-herbal-extract-for-pet\" target=\"_blank\" title=\"Shop Chinese Rhubarb\">Chinese Rhubarb<\/a>",
+            "text": "<p>Chinese Rhubarb by Wise Woman Herbals is a herbal extracts from Chinese rhubarb (root) aim to support your pet's digestive system and promote healthy kidney function.<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
