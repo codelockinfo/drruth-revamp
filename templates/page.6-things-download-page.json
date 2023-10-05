@@ -72,6 +72,36 @@
             "button_link": "https:\/\/drive.google.com\/file\/d\/1KXv5eT4hPccnZ7G71iQEglx0INEQgExz\/view?usp=drive_link"
           }
         },
+        "f028387c-1b80-4f6c-b534-be378c70ba6c": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Coriolus",
+            "text": "<p>Coriolus by MycoHerb is a supplement made from Coriolus or Turkey Tail. It serves as a potent tonic for the immune system, respiratory system, and supports liver function and vitality<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
+        "b2eb6001-565a-42e5-b87e-b67be845f193": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Digestive Enzymes Klaire Labs",
+            "text": "<p>Digestive enzymes by Klaire Labs aid in digesting a wide variety of foods, including protein, fats, carbs, sugar, and fiber†. They can boost nutrient absorption, and relieve occasional indigestion, gas, bloating, and fullness.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
+        "749b3a70-a57a-4cfa-b978-ef621235b177": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Eicosamax TG Liquid",
+            "text": "<p>Eicosamax TG Liquid offers concentrated omega-3 EPA and DHA in triglyceride form from fish oil. It aids in maintaining a balanced  inflammatory response, supports healthy triglyceride metabolism, and promotes overall heart, joint, skin, brain, and nerve function.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2": {
           "type": "row",
           "settings": {
@@ -81,6 +111,16 @@
             "text": "<p>Fidospore by Microlabs is digestive probiotic designed to support digestive health and reduce leaky gut in dogs. This probiotic can restore the balance of healthy gut bacteria in your pet’s digestive system.<\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1dsMV7zyR2kqUb55fK_Vp6fDyzEEtzBwt\/view?usp=drive_link"
+          }
+        },
+        "775028c6-b366-4ab2-8907-60b8db801a97": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Finest Pure Fish Oil",
+            "text": "<p>Finest Pure Fish Oil is a distinctive combination of sardine and anchovy oils designed to specifically promote cognitive health and brain function, as well as sustain overall cardiovascular well-being<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
           }
         },
         "d99b9371-2592-424e-8a51-1946019a8e25": {
@@ -94,6 +134,26 @@
             "button_link": "https:\/\/drive.google.com\/file\/d\/1aZhDM9QKUxo8rZt4vV9u5yMOoWUgDhkc\/view?usp=drive_link"
           }
         },
+        "2b689d5c-005f-4160-bc12-cbd1b2f403a4": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Gaia Milk Thistle",
+            "text": "<p>Gaia Milk Thistle offers daily support with a specialized blend of Milk Thistle, Turmeric, Schisandra, and Licorice root, working synergistically to help maintain a healthy liver and promote general well-being<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
+        "23299a20-f14b-497b-9ad1-641e47273907": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Gaia Turmeric Supreme - Curcuma NF-KB",
+            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful anti-inflammatory properties, is also rich in antioxidants that support the body's natural detoxification proces<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
+          }
+        },
         "2bb67f8a-290b-4427-9269-56923fd780e5": {
           "type": "row",
           "settings": {
@@ -102,16 +162,6 @@
             "text": "<p>Heartburn Tx Powder contains nutrients to reduce inflammation in the intestines, and the raw materials to help healthy new enterocytes (cells of the intestine) grow and restore normal gut function. <\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1CaLRBLNHzlrC9XTDrR1myYj-fUfvHfTX\/view?usp=drive_link"
-          }
-        },
-        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/turmeric-with-bioperine%C2%AE-organic-coconut-oil-for-cats-dogs-60-chews?_pos=1&_psq=turmeric&_ss=e&_v=1.0\" target=\"_blank\" title=\"Shop Turmeric with Bioperine and Coconut\">Turmeric with Bioperine®<\/a>",
-            "text": "<p>Turmeric have potent antioxidant properties to help protect your pet's cells and tissues from damage, and may also help relieve joint aches and pains. Bioperine keeps the GI tract healthy and Coconut oil increases energy levels, improves digestion, skin, and coat, and reduces allergic reactions<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": "https:\/\/drive.google.com\/file\/d\/1PJCol9VsX4PSkxgzKKRJIutO3qz27_a_\/view?usp=drive_link"
           }
         },
         "33395312-b509-4c26-9a36-934a4a39f592": {
@@ -134,15 +184,24 @@
             "button_link": "https:\/\/drive.google.com\/file\/d\/17VQuB5zwVWFdoLAaqUxTUY8R04TrqV18\/view?usp=drive_link"
           }
         },
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1": {
+        "9e362630-e458-4103-a1a5-3a6f800aa0c4": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Liposomal_Gluthathione_4c9d2c42-80c9-401f-9caf-c666f6aac16f.png",
             "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/liposomal-glutathione-4-oz\" target=\"_blank\" title=\"Shop Liposomal Glutathione\">Liposomal Glutathione<\/a>",
-            "text": "<p>Liposomal Glutathione is the biologically active form of Glutathione, the master antioxidant of the body. When the liver is not functioning properly, adding Glutathione helps the liver clear away the backlog of detoxification the liver has been struggling to keep up with.<\/p>",
+            "heading": "Iceland Pure Sardine Anchovy Oil",
+            "text": "<p>Iceland Pure offers Sardine Anchovy Oil, a wild-caught fish oil for dogs<br\/> and cats. It is rich in Omega-3 fatty acids and is BPA-Free.<\/p>",
             "button_label": "Download Dosing Instruction",
-            "button_link": "https:\/\/drive.google.com\/file\/d\/1McZig1n-9i0Ki7Lcp_wT2o9-wZMoPsyx\/view?usp=drive_link"
+            "button_link": ""
+          }
+        },
+        "084a727d-5387-4028-961e-9e348cf22c89": {
+          "type": "row",
+          "settings": {
+            "caption": "",
+            "heading": "Invigorate the Collaterals - Kan Traditional",
+            "text": "<p>Kan Traditional's 'Invigorate the Collaterals' is a Chinese herbal <br\/>remedy aim to address a wide range of conditions, from chronic and acute pain disorders to traumatic injuries, providing relief across the body.<\/p>",
+            "button_label": "Download Dosing Instruction",
+            "button_link": ""
           }
         },
         "9a750eda-a171-4fe7-9e37-769a27b9dbc4": {
@@ -154,76 +213,6 @@
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1BjNrMh7WjWQnSqufI2lQXBbkuhJJavVA\/view?usp=drive_link"
           }
-        },
-        "91eef4c8-de8e-4737-a741-3cd9d7b4b7c0": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/megamucosa\" target=\"_blank\" title=\"Shop MegaMucosa\">MegaMucosa<\/a>",
-            "text": "<p>MegaMucosa is an innovative gut health supplement designed to support a healthy mucosal barrier. This unique formula contains dairy-free immunoglobulins that have been clinically shown to boost the immune system<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": "https:\/\/drive.google.com\/file\/d\/1SmPWAo8EqzKziqQj3AtRY1TnWuyK3Lo5\/view?usp=drive_link"
-          }
-        },
-        "f028387c-1b80-4f6c-b534-be378c70ba6c": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Coriolus",
-            "text": "<p>Coriolus by MycoHerb is a supplement made from Coriolus or Turkey Tail. It serves as a potent tonic for the immune system, respiratory system, and supports liver function and vitality<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
-        },
-        "23299a20-f14b-497b-9ad1-641e47273907": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Gaia Turmeric Supreme - Curcuma NF-KB",
-            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful anti-inflammatory properties, is also rich in antioxidants that support the body's natural detoxification proces<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
-        },
-        "b2eb6001-565a-42e5-b87e-b67be845f193": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Digestive Enzymes Klaire Labs",
-            "text": "<p>Digestive enzymes supplement by Klaire Labs aid in digesting a wide variety of foods, including protein, fats, carbs, sugar, and fiber†. They can boost nutrient absorption, and relieve occasional indigestion, gas, bloating, and fullness.<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
-        },
-        "749b3a70-a57a-4cfa-b978-ef621235b177": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Eicosamax TG Liquid",
-            "text": "<p>Eicosamax TG Liquid offers concentrated omega-3 EPA and DHA in triglyceride form from fish oil. It aids in maintaining a balanced  inflammatory response, supports healthy triglyceride metabolism, and promotes overall heart, joint, skin, brain, and nerve function.<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
-        },
-        "775028c6-b366-4ab2-8907-60b8db801a97": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Finest Pure Fish Oil",
-            "text": "<p>Finest Pure Fish Oil is a distinctive combination of sardine and anchovy oils designed to specifically promote cognitive health and brain function, as well as sustain overall cardiovascular well-being<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
-        },
-        "2b689d5c-005f-4160-bc12-cbd1b2f403a4": {
-          "type": "row",
-          "settings": {
-            "caption": "",
-            "heading": "Gaia Milk Thistle",
-            "text": "<p>Gaia Milk Thistle offers daily support with a specialized blend of Milk Thistle, Turmeric, Schisandra, and Licorice root, working synergistically to help maintain a healthy liver and promote general well-being<\/p>",
-            "button_label": "Download Dosing Instruction",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
@@ -231,21 +220,20 @@
         "86717a71-8759-4c28-b155-b142e94dd450",
         "f14841fb-3855-4714-b0c5-cd4871c62b10",
         "f7f58cd8-2273-4f21-a8d5-e3f9d730c870",
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
-        "d99b9371-2592-424e-8a51-1946019a8e25",
-        "2bb67f8a-290b-4427-9269-56923fd780e5",
-        "a3179aae-9c9e-4edd-85ef-c1484a2a2b27",
-        "33395312-b509-4c26-9a36-934a4a39f592",
-        "d61e894d-f651-4647-b20e-8046c2f1281f",
-        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-1",
-        "9a750eda-a171-4fe7-9e37-769a27b9dbc4",
-        "91eef4c8-de8e-4737-a741-3cd9d7b4b7c0",
         "f028387c-1b80-4f6c-b534-be378c70ba6c",
-        "23299a20-f14b-497b-9ad1-641e47273907",
         "b2eb6001-565a-42e5-b87e-b67be845f193",
         "749b3a70-a57a-4cfa-b978-ef621235b177",
+        "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2",
         "775028c6-b366-4ab2-8907-60b8db801a97",
-        "2b689d5c-005f-4160-bc12-cbd1b2f403a4"
+        "d99b9371-2592-424e-8a51-1946019a8e25",
+        "2b689d5c-005f-4160-bc12-cbd1b2f403a4",
+        "23299a20-f14b-497b-9ad1-641e47273907",
+        "2bb67f8a-290b-4427-9269-56923fd780e5",
+        "33395312-b509-4c26-9a36-934a4a39f592",
+        "d61e894d-f651-4647-b20e-8046c2f1281f",
+        "9e362630-e458-4103-a1a5-3a6f800aa0c4",
+        "084a727d-5387-4028-961e-9e348cf22c89",
+        "9a750eda-a171-4fe7-9e37-769a27b9dbc4"
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}"
