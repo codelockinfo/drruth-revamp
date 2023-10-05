@@ -149,8 +149,8 @@
           "type": "row",
           "settings": {
             "caption": "",
-            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/milk-thistle-150-mg-200-caps\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/products\/milk-thistle-150-mg-200-caps\">Milk Thistle<\/a>",
-            "text": "<p>Milk Thistle is known to help support the liver from previous damage and can protect against toxins. Studies have shown Milk Thistle reduces liver inflammation and liver damage in patients with liver diseases. <\/p>",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/milk-thistle-150-mg-200-caps\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/products\/milk-thistle-150-mg-200-caps\">Jarrow Milk Thistle<\/a>",
+            "text": "<p>Jarrow Milk Thistle is known to help support the liver from previous damage and can protect against toxins. Studies have shown Milk Thistle reduces liver inflammation and liver damage in patients with liver diseases. <\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": "https:\/\/drive.google.com\/file\/d\/1BjNrMh7WjWQnSqufI2lQXBbkuhJJavVA\/view?usp=drive_link"
           }
@@ -218,10 +218,10 @@
         "2b689d5c-005f-4160-bc12-cbd1b2f403a4": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Gaia Milk Thistle",
+            "text": "<p>Gaia Milk Thistle offers daily support with a specialized blend of Milk Thistle, Turmeric, Schisandra, and Licorice root, working synergistically to help maintain a healthy liver and promote general well-being<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         }
