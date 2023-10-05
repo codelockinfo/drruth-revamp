@@ -253,11 +253,26 @@
         "padding_top": 32,
         "padding_bottom": 32
       }
+    },
+    "7bd3b5ca-4625-4542-aa63-6018b322dac6": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".pagination {font-family: 'Josefin Sans', sans-serif; text-align: center;}",
+        ".pagination a {color: #006400; font-size: 16px; \/* Adjust font size as needed *\/ margin: 0 5px; \/* Add margin for spacing *\/ text-decoration: none;}",
+        ".pagination a:hover {text-decoration: underline;}"
+      ],
+      "settings": {
+        "custom_liquid": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Pagination Style<\/title>\n    <link href=\"https:\/\/fonts.googleapis.com\/css2?family=Josefin+Sans&display=swap\" rel=\"stylesheet\">\n    <style>\n        body {\n            font-family: 'Josefin Sans', sans-serif;\n        }\n        .pagination {\n            text-align: center;\n        }\n        .page-link {\n            display: inline-block;\n            padding: 5px 10px;\n            margin: 0 5px;\n            background-color: #f1f1f1;\n            text-decoration: none;\n            border-radius: 5px;\n        }\n        .page-link:hover {\n            background-color: #ddd;\n        }\n    <\/style>\n<\/head>\n<body>\n    <div class=\"pagination\">\n        <a href=\"\/product-dosing?page=1\" class=\"page-link\">1<\/a>\n        <a href=\"\/product-dosing?page=2\" class=\"page-link\">2<\/a>\n        <!-- Add more page links as needed -->\n    <\/div>\n<\/body>\n<\/html>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
     "16626709144c8e7699",
-    "2267ea56-2668-4f99-82d1-3f190c5d2561"
+    "2267ea56-2668-4f99-82d1-3f190c5d2561",
+    "7bd3b5ca-4625-4542-aa63-6018b322dac6"
   ]
 }
