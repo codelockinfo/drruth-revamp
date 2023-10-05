@@ -71,10 +71,10 @@
         "f807578c-5625-4074-91d2-0a8ff454ec1e": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "caption": "",
+            "heading": "Ther Biotic Synbiotic",
+            "text": "<p>Ther-Biotic® Synbiotic is meticulously designed to cater to specific gastrointestinal needs, providing complete support for the microbiome, <br\/>respiratory system, and immune function<\/p>",
+            "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
         },
