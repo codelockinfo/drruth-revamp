@@ -46,13 +46,6 @@
         <li class="active">{{ part.title | link_to: part.url }}</li>
         {% endif %}
       {% endif %}
-    {% endfor %}     
-  {% if paginate.next.is_link %}
-    <li aria-hidden="true">
-      <button class="btn btn--tertiary btn--narrow" disabled>
-       Next
-      </button>
-    </li>
-  {% endif %}
+    {% endfor %} 
 {% endif %}
 </ul>
