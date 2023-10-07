@@ -33,3 +33,26 @@
     </nav>
   </div>
 {%- endif -%}
+
+<ul class="list--inline pagination text-left">
+{% if paginate.pages > 1 %}
+    {% for part in paginate.parts %}
+      {% if part.is_link %}
+        <li>{{ part.title | link_to: part.url }}</li>
+      {% else %}
+        {% if part.title == '&hellip;' %}
+        <li class="ellipsis disabled"><a href="#" onclick="return false;">{{ part.title }}</a></li>
+        {% else %}
+        <li class="active">{{ part.title | link_to: part.url }}</li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}     
+  {% if paginate.next.is_link %}
+    <li aria-hidden="true">
+      <button class="btn btn--tertiary btn--narrow" disabled>
+       Next
+      </button>
+    </li>
+  {% endif %}
+{% endif %}
+</ul>
