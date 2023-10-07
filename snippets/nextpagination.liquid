@@ -14,6 +14,7 @@
 <link rel="stylesheet" href="{{ 'component-pagination.css' | asset_url }}" media="print" onload="this.media='all'">
 <noscript>{{ 'component-pagination.css' | asset_url | stylesheet_tag }}</noscript>
 
+<!--
 {%- if paginate.parts.size > 0 -%}
   <div class="pagination-wrapper">
     <nav class="pagination" role="navigation" aria-label="{{ 'general.pagination.label' | t }}">
@@ -34,6 +35,8 @@
   </div>
 {%- endif -%}
 
+-->
+
 <ul class="list--inline pagination text-left">
 {% if paginate.pages > 1 %}
     {% for part in paginate.parts %}
@@ -49,3 +52,36 @@
     {% endfor %} 
 {% endif %}
 </ul>
+
+<style>
+
+  ul.list--inline.pagination.text-left {
+      display: flex;
+      list-style: none;
+      justify-content: center;
+      align-items: center;
+      gap: 5px;
+  }
+  ul.list--inline.pagination.text-left a {
+      text-decoration: none;
+      width: 30px;
+      height: 30px;
+      line-height: 30px;
+      background: #f6f8f1;
+      color: #000;
+      border-radius: 100%;
+      display: block;
+      text-align: center;
+      font-size: 12px;
+      box-shadow: 0 0 3px rgba(0,0,0,0.1);
+  }
+  ul.list--inline.pagination.text-left .active a {
+      background: #303b43;
+      color: #fff;
+  }
+  ul.list--inline.pagination.text-left .ellipsis a {
+      background: transparent;
+      box-shadow: none;
+  }
+  
+</style>
