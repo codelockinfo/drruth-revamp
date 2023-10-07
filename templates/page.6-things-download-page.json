@@ -25,6 +25,32 @@
         "include_margins": true
       }
     },
+    "1a3fa3d5-2689-4501-a83e-ccb21f1aca50": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921793437761__1a3fa3d5-2689-4501-a83e-ccb21f1aca50-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>DOSING INSTRUCTION<\/h1>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793437761__1a3fa3d5-2689-4501-a83e-ccb21f1aca50-heading-1"
+      ],
+      "custom_css": [
+        "h1 {font-family: 'BLT-Heirloom', sans-serif;"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 8
+      }
+    },
     "2267ea56-2668-4f99-82d1-3f190c5d2561": {
       "type": "multirow",
       "blocks": {
@@ -254,7 +280,7 @@
         "section_color_scheme": "accent-1",
         "row_color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "padding_top": 32,
+        "padding_top": 16,
         "padding_bottom": 32
       }
     },
@@ -276,6 +302,7 @@
   "order": [
     "main",
     "16626709144c8e7699",
+    "1a3fa3d5-2689-4501-a83e-ccb21f1aca50",
     "2267ea56-2668-4f99-82d1-3f190c5d2561",
     "7bd3b5ca-4625-4542-aa63-6018b322dac6"
   ]
