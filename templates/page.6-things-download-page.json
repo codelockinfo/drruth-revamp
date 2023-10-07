@@ -31,7 +31,7 @@
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-3": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Alpha-lipoic_acid.png",
+            "image": "shopify:\/\/shop_images\/Alpha_Lipoic_Acid.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/alpha-lipoic-acid-150-mg\" target=\"_blank\" title=\"Shop Alpha-Lipoic Acid\">Alpha-Lipoic Acid<\/a>",
             "text": "<p>Alpha-Lipoic Acid is vitamin-like nutrient helps neutralize free radicals by restoring the activity of other antioxidants, such as vitamins C and E, and glutathione.<\/p>",
@@ -42,7 +42,7 @@
         "86717a71-8759-4c28-b155-b142e94dd450": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Artemesia_7f9234f7-6408-4a83-816f-c34d68e4c401.png",
+            "image": "shopify:\/\/shop_images\/Artemisia.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/artemesia-100-caps?_pos=1&_psq=artemisi&_ss=e&_v=1.0\" target=\"_blank\" title=\"Shop Artemisia\">Artemisia<\/a>",
             "text": "<p>A concentrated extract of the leaves of Sweet Wormwood (<em>Artemisia annua<\/em>), an herb from the Far East, used for centuries in China. Sweet Wormwood is primarily known for its active compound called artemisinin. Artemisinin and its derivatives are used to treat fever, inflammation, and malaria, and other parasites.<\/p>",
@@ -167,6 +167,7 @@
         "33395312-b509-4c26-9a36-934a4a39f592": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Hista_Pawz.jpg",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/herbal-allergy-supplement-for-cats-and-dogs\" target=\"_blank\" title=\"Shop Hista Paws\">Hista Paws<\/a>",
             "text": "<p>Hista Paws with Quercetin and Nettles is allergy supplement is specially formulated for cats and dogs, and contains a powerful blend of natural ingredients that work together to soothe and relieve allergy symptoms.<\/p>",
@@ -237,7 +238,7 @@
       ],
       "custom_css": [
         "p {font-family: \"Josefin Sans\", sans-serif;}",
-        "h2{font-family: \"Josefin Sans\", sans-serif;}"
+        "h2 {font-family: \"Josefin Sans\", sans-serif;}"
       ],
       "settings": {
         "image_height": "medium",
