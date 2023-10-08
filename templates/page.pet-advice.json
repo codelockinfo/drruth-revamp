@@ -161,11 +161,11 @@
       "type": "pet_ourblog",
       "settings": {
         "labelourb": "Our blogs",
-        "petblogimg": "shopify:\/\/shop_images\/Image_11_494e7369-274b-4bd2-8036-6679fe3ddf19.png",
-        "prtbllink": "#",
-        "prtblsubdes": "The Best Supplement For Your Aging Cat Or Dog",
-        "prtblogdate": "Dr. Ruth | March 6, 2023",
-        "prtblogdes": "Your older dog needs more care and consideration for the highest quality of life. What they can accomplish and how frequently they might need to visit your family veterinarian will depend on whether or not they have certain medical concerns—spending time with your dog\/cat benefits social contact and mental stimulation."
+        "petblogimg": "shopify:\/\/shop_images\/Emergency_Kit_for_Your_Cats_and_Dogs.jpg",
+        "prtbllink": "https:\/\/blog.drruthroberts.com\/emergency-kit-for-pet\/",
+        "prtblsubdes": "Are You Pet-prepared?",
+        "prtblogdate": "",
+        "prtblogdes": "As a pet owner, it's essential to have Dr. Ruth Roberts' recommended pet emergency kit on hand at home. Familiarize yourself with situations where you can provide at-home treatment, sparing the need for an emergency vet visit. Be ready for unforeseen health issues to ensure your pet's safety."
       }
     },
     "d8b0d8a6-2ea9-47ad-830f-ab794905af56": {
@@ -174,28 +174,28 @@
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-1": {
           "type": "title",
           "settings": {
-            "title": "7 Natural Remedies For Kidney Disease",
-            "reviewer_name": "Dr. Ruth | March 6, 2023",
-            "post_link": "",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+            "title": "Can dogs have vegetable broth?",
+            "reviewer_name": "Dr. Ruth Roberts | Sept 27, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/can-dogs-have-vegetable-broth\/",
+            "post_image": "shopify:\/\/shop_images\/BLOG_THUMBNAILS_2.png"
           }
         },
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-2": {
           "type": "title",
           "settings": {
-            "title": "7 Natural Remedies For Kidney Disease",
-            "reviewer_name": "Dr. Ruth | March 6, 2023",
-            "post_link": "",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+            "title": "Natural Pain Relief For Cats",
+            "reviewer_name": "Dr. Ruth | July 22, 2021",
+            "post_link": "https:\/\/blog.drruthroberts.com\/natural-pain-relief-for-cats\/",
+            "post_image": "shopify:\/\/shop_images\/natural_pain_relief_for_cats.png"
           }
         },
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-3": {
           "type": "title",
           "settings": {
-            "title": "7 Natural Remedies For Kidney Disease",
-            "reviewer_name": "Post Date",
+            "title": "DOG GROOMING: FREQUENCY, ITCHING RELIEF AND ESSENTIAL VACCINE",
+            "reviewer_name": "Dr. Ruth Roberts | Sept 23, 2023",
             "post_link": "Dr. Ruth | March 6, 2023",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
+            "post_image": "shopify:\/\/shop_images\/how_to_relieve_dog_itching_after_grooming.png"
           }
         }
       },
@@ -228,7 +228,7 @@
         "testhead": "",
         "testdes": "",
         "coachbtn": "All Blogs",
-        "coachurl": "https:\/\/blog.drruthroberts.com\/holistic-pet-health-blog\/?_gl=1*1naseb8*_ga*NTU5MzczODc4LjE2OTMwNDQ3OTg.*_ga_TL61H2B15E*MTY5NjE1ODYxNC4zMC4xLjE2OTYxNTg5MjAuNTQuMC4w"
+        "coachurl": "https:\/\/blog.drruthroberts.com\/"
       }
     },
     "3c81f4e7-9d44-4850-985b-56f21e5816e9": {
