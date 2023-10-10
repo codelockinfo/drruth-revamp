@@ -152,6 +152,7 @@
         "60e27f02-7e70-4737-a5fc-4d3c3451240e": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ther_biotic_complete_powder.png",
             "caption": "",
             "heading": "Ther Biotic Complete Powder",
             "text": "<p>Ther-Biotic® Complete Powder by Klaire Labs is an hypoallergenic blend of 12 probiotic species that supports both innate and acquired immunity. This high-potency probiotic also aids in reinforcing the integrity of the intestinal epithelial barrier.<\/p>",
@@ -162,6 +163,7 @@
         "f807578c-5625-4074-91d2-0a8ff454ec1e": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/ther_biotic_synbiotic.png",
             "caption": "",
             "heading": "Ther Biotic Synbiotic",
             "text": "<p>Ther-Biotic® Synbiotic is meticulously designed to cater to specific gastrointestinal needs, providing complete support for the microbiome, <br\/>respiratory system, and immune function<\/p>",
@@ -172,6 +174,7 @@
         "305da33d-fb55-4e35-9d7b-6745b60e60c4": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/two_per_day_1.png",
             "caption": "",
             "heading": "Two Per Day Multivitamin",
             "text": "<p>Two-Per-Day multivitamin capsules provide essential vitamins, minerals, <br\/>and nutrients for comprehensive health and well-being. It containssuper omega-3 EPA\/DHA fish oil, sesame lignans, olive extract, and more!<\/p>",
