@@ -58,7 +58,6 @@
         },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
           }
@@ -79,6 +78,7 @@
         },
         "c95c2990-6b4e-4a02-b770-9ceae8953b52": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.my_fields._2_image_with_text_top_title.value }}",
             "text_style": "body"
