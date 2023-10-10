@@ -123,6 +123,7 @@
         "749b3a70-a57a-4cfa-b978-ef621235b177": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/eicosamax_tg_liquid.png",
             "caption": "",
             "heading": "Eicosamax TG Liquid",
             "text": "<p>Eicosamax TG Liquid offers concentrated omega-3 EPA and DHA in triglyceride form from fish oil. It aids in maintaining a balanced  inflammatory response, supports healthy triglyceride metabolism, and promotes overall heart, joint, skin, brain, and nerve function.<\/p>",
@@ -133,7 +134,7 @@
         "template--14921793437761__2267ea56-2668-4f99-82d1-3f190c5d2561-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fidospore_1.png",
+            "image": "shopify:\/\/shop_images\/EICOSAMAX_TG_LIQUID_2.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/fidospore-by-microlabs-digestive-probiotic-for-pets\" target=\"_blank\" title=\"Shop Fidospore\">Fidospore<\/a>",
             "text": "<p>Fidospore by Microlabs is digestive probiotic designed to support digestive health and reduce leaky gut in dogs. This probiotic can restore the balance of healthy gut bacteria in your pet’s digestive system.<\/p>",
@@ -144,6 +145,7 @@
         "775028c6-b366-4ab2-8907-60b8db801a97": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/FINEST_PURE_FISH_OIL.png",
             "caption": "",
             "heading": "Finest Pure Fish Oil",
             "text": "<p>Finest Pure Fish Oil is a distinctive combination of sardine and anchovy oils designed to specifically promote cognitive health and brain function, as well as sustain overall cardiovascular well-being<\/p>",
@@ -154,7 +156,7 @@
         "d99b9371-2592-424e-8a51-1946019a8e25": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Free_and_Easy_Wanderer.png",
+            "image": "shopify:\/\/shop_images\/Free_and_Easy_Wanderer_96382f29-9fcb-4ce4-b1ef-1af2e1d0db0d.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/free-and-easy-wanderer-2-oz\" target=\"_blank\" title=\"Shop Free and Easy Wanderer\">Free and Easy Wanderer<\/a>",
             "text": "<p>Free and Easy Wanderer is the classic formula to help support the Liver in Traditional Chinese Medicine. It helps to course the Liver, reducing irascibility, smoothing the flow of Qi and Blood in the body. <\/p>",
@@ -165,6 +167,7 @@
         "2b689d5c-005f-4160-bc12-cbd1b2f403a4": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Gaia_Milk_Thistle.png",
             "caption": "",
             "heading": "Gaia Milk Thistle",
             "text": "<p>Gaia Milk Thistle offers daily support with Organic Milk Thistle (Silybum marianum) seed extract to help maintain a healthy liver and promote general well-being<\/p>",
@@ -175,9 +178,10 @@
         "23299a20-f14b-497b-9ad1-641e47273907": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Gaia_Turmeric_Supreme_-_Curcuma_NF-KB.png",
             "caption": "",
             "heading": "Gaia Turmeric Supreme - Curcuma NF-KB",
-            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful anti-inflammatory properties, is also rich in antioxidants that support the body's natural detoxification proces<\/p>",
+            "text": "<p>GAIA's Supreme Turmeric Supplement consists of a proprietary blend of a powerful whole plant profile of Turmeric’s valuable properties. Curcumin, known for its powerful anti-inflammatory properties and antioxidant.<\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
@@ -185,6 +189,7 @@
         "2bb67f8a-290b-4427-9269-56923fd780e5": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Heartburn_Tx.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/heartburn-tx-218-gms-7-6-oz\" target=\"_blank\" title=\"Shop Heartburn Tx\">Heartburn Tx<\/a>",
             "text": "<p>Heartburn Tx Powder contains nutrients to reduce inflammation in the intestines, and the raw materials to help healthy new enterocytes (cells of the intestine) grow and restore normal gut function. <\/p>",
@@ -206,6 +211,7 @@
         "d61e894d-f651-4647-b20e-8046c2f1281f": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Holistic_Total_Body_Support.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/products\/holistic-total-body-support-for-cats-and-dogs-glandular-supplements\" target=\"_blank\" title=\"Shop Holistic Total Body Support\">Holistic Total Body Support<\/a>",
             "text": "<p>Holistic Total Body Support for Cats & Dogs is a premium pet multivitamins designed to support your pet's overall health and wellness. <\/p>",
@@ -216,9 +222,10 @@
         "9e362630-e458-4103-a1a5-3a6f800aa0c4": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Iceland_Pure_fish_oil.png",
             "caption": "",
             "heading": "Iceland Pure Sardine Anchovy Oil",
-            "text": "<p>Iceland Pure offers Sardine Anchovy Oil, a wild-caught fish oil for dogs<br\/> and cats. It is rich in Omega-3 fatty acids and is BPA-Free.<\/p>",
+            "text": "<p>Iceland Pure offers Sardine, Anchovy, Salmon Oil, a wild-caught fish oil for dogs and cats. It is rich in Omega-3 fatty acids and is BPA-Free.<\/p>",
             "button_label": "Download Dosing Instruction",
             "button_link": ""
           }
