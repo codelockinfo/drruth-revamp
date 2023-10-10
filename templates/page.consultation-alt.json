@@ -326,120 +326,176 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/DlorahDevore_3.png",
+            "bg_img": "shopify:\/\/shop_images\/3_c6374565-c132-4c8a-9083-6a4796a45437.png",
             "title": "Dlorah deVore",
-            "detail": "<p>FNTP, HPHC<\/p><p>Dlorah deVore, a Functional Nutritional Therapy Practitioner (FNTP)in 2018. As part of Dr. Ruth's team of certified Pet Health Coaches (HPHC), Dlorah is honored to work with you in pursuit of your pet's optimal health.<\/p>",
+            "detail": "<p>FNTP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/calendly.com\/nutrivorenutrition"
+            "btn_url": "shopify:\/\/products\/bookaconsultdlorahdevore"
           }
         },
         "f19fa966-9d30-44e4-98e1-fa9c62889672": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Jessica_Fisher.png",
+            "bg_img": "shopify:\/\/shop_images\/4_1d1301d1-ca7a-4671-b739-f368326b5c23.png",
             "title": "Jessica Fisher",
             "detail": "<p>Canine Nutritionist, HPHC, R+ Dog Trainer<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/jessicalfisher.com\/product\/holistic-pet-health-coaching-consultation\/"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/jessica-fisher"
           }
         },
         "6ad00ef3-388d-44dc-abe1-ea95410b2dfd": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/michaelDaly_2.png",
+            "bg_img": "shopify:\/\/shop_images\/7_699cf92d-a05f-460f-b24e-606a291b04e1.png",
             "title": "Michael Daly",
             "detail": "<p>Canine\/Equine Massage Therapist, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/www.pawsitive-wellness.com"
+            "btn_url": ""
           }
         },
         "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/LeahBookhammer.png",
+            "bg_img": "shopify:\/\/shop_images\/20_ae8214e6-f236-496a-91d1-890add26ceaf.png",
             "title": "Leah Bookhamer",
             "detail": "<p>NTP, MRWP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/calendly.com\/foodienutritionaltherapyllc\/complementary-pet-consultation"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/leah-bookhamer"
           }
         },
         "a0675608-47c8-45c6-9152-614b3b86964f": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/MaggieShalmer.png",
+            "bg_img": "shopify:\/\/shop_images\/21.png",
             "title": "Maggie Shellhammer",
             "detail": "<p>Certified Dog Groomer, Certified Dog Trainer, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/embracenutrition.practicebetter.io\/#\/5b31051f67c6b91bc080c341\/bookings?s=63f7cda7f97659bbfef5aa1b&step=date"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/maggie-shellhammer"
           }
         },
         "0d977f26-6907-4961-a6fb-f1564c7b6048": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/WilmaSHaw.png",
+            "bg_img": "shopify:\/\/shop_images\/24.png",
             "title": "Wilma Shaw",
             "detail": "<p>FNTP, BCHN, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/embracenutrition.practicebetter.io\/#\/5b31051f67c6b91bc080c341\/bookings?s=63f7cda7f97659bbfef5aa1b&step=date"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/wilma-shaw"
           }
         },
         "0dce4194-92b4-410c-8da5-46d90aa82d30": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/LoriGammon.png",
+            "bg_img": "shopify:\/\/shop_images\/9_ccb7701c-2cb2-44fa-b042-17de53b59a6d.png",
             "title": "Lori Gammon",
             "detail": "<p>RN, CCMT, CAAP, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/www.thepeacefulpaw.com\/"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/lori-gammon"
           }
         },
         "cccff466-28bf-4cf3-9d2d-389355829f3a": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/Rectangle_3_d08885c6-8f8b-497a-9683-21159fb1d0fd.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p>",
+            "bg_img": "shopify:\/\/shop_images\/19_e28f9e3d-24d6-44de-b462-da34e285f0ef.png",
+            "title": "Kristy Green",
+            "detail": "<p>Certified Dog Trainer, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": ""
+            "btn_url": "https:\/\/drruthroberts.com\/products\/kristy-green"
           }
         },
         "2461caae-9520-48d4-9ef4-2690dd29defa": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/ParisReed.png",
+            "bg_img": "shopify:\/\/shop_images\/6_f799242e-25c6-4072-b8aa-8762df4cf156.png",
             "title": "Paris Reed",
             "detail": "<p>FDN-P, CHPHC, FBCS, HHP<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": ""
+            "btn_url": "https:\/\/drruthroberts.com\/products\/paris-reed"
           }
         },
         "7cc2fec6-d703-42a8-a762-e0099a922482": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/BeaSwasey.png",
+            "bg_img": "shopify:\/\/shop_images\/17.png",
             "title": "Bea Swasey",
             "detail": "<p>MBA, NTP, RWS II, HPHC<\/p>",
             "btn_txt": "Book A Consultation",
-            "btn_url": "https:\/\/calendly.com\/beaswasey-sparkedupdogs\/30min?month=2023-10"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/bea-swasey"
           }
         },
         "0a8b9450-2a0d-47d3-a7b3-d15e6fb19b9d": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "title": "",
-            "detail": "",
-            "btn_txt": "",
+            "bg_img": "shopify:\/\/shop_images\/10_901c5b10-dd68-494f-8067-4a9be860a371.png",
+            "title": "Amanda Delgado",
+            "detail": "<p>CHPHC, NNCP, FDN-P<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/amanda-delgado"
+          }
+        },
+        "b96f1129-785a-40f5-a606-0db226134a1d": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/18.png",
+            "title": "Laura Muzal",
+            "detail": "<p>Intuitive Animal Practitioner<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/laura-muzal"
+          }
+        },
+        "d903e999-b054-45e6-80e2-b14285c3b142": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/15.png",
+            "title": "Deb Teubert",
+            "detail": "<p>Holistic & Animal Practitioner, HPHC<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/deb-teubert"
+          }
+        },
+        "8c135360-aaf4-4822-8380-001ab86501b0": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/5_5cb7016c-a663-463c-9858-59f2c8bd142e.png",
+            "title": "Patty Kalvelage",
+            "detail": "<p>Pet Store Owner, HPHC<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/patty-kalvelage"
+          }
+        },
+        "39738d21-58f4-4eae-b441-23f13cdcdf6f": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/8_7ec9a741-5d28-4b3d-a47f-404d802636fa.png",
+            "title": "Rina Gressett",
+            "detail": "<p>Pet sitter, HPHC<\/p>",
+            "btn_txt": "BOOK A CONSULT",
             "btn_url": ""
+          }
+        },
+        "e0d4698d-5adb-486d-b075-4e9809d78b12": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/12_55f8c69c-9de3-43b1-b317-14e4890c4a9b.png",
+            "title": "Kelly Cogen",
+            "detail": "<p>Cert. CN, B.Sc. Naturopathic Animal Science, HPHC<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/kelly-cogen"
           }
         }
       },
@@ -454,7 +510,12 @@
         "cccff466-28bf-4cf3-9d2d-389355829f3a",
         "2461caae-9520-48d4-9ef4-2690dd29defa",
         "7cc2fec6-d703-42a8-a762-e0099a922482",
-        "0a8b9450-2a0d-47d3-a7b3-d15e6fb19b9d"
+        "0a8b9450-2a0d-47d3-a7b3-d15e6fb19b9d",
+        "b96f1129-785a-40f5-a606-0db226134a1d",
+        "d903e999-b054-45e6-80e2-b14285c3b142",
+        "8c135360-aaf4-4822-8380-001ab86501b0",
+        "39738d21-58f4-4eae-b441-23f13cdcdf6f",
+        "e0d4698d-5adb-486d-b075-4e9809d78b12"
       ],
       "custom_css": [
 
@@ -549,7 +610,7 @@
             "title": "",
             "text": "<p>Are you passionate about the well-being of animals? Do you believe in the power of holistic approaches to pet health? If so, we invite you to join our team as a Certified Holistic Pet Health Coach. By becoming a part of our dedicated group of professionals, you can make a significant impact in the lives of pets and their owners, helping them achieve optimal health and happiness.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "https:\/\/www.holisticpethealthcoach.com\/hphcp_optin_sws-page-5804"
           }
         }
       },
@@ -640,52 +701,52 @@
     "7c824f73-1291-494a-89ba-8520efb97ca2": {
       "type": "consultation-testimonials",
       "blocks": {
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1": {
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4": {
           "type": "title",
           "settings": {
-            "title": "Consultant Name",
-            "title-desig": "Consultant Designation",
-            "testimonial": "<p><strong>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/strong><\/p>",
-            "reviewer_name": "Reviewer Name",
+            "title": "Dlorah Devore",
+            "title-desig": "FNTP, HPHC",
+            "testimonial": "<p>I really enjoyed connecting with the Dlorah. It was great to connect with someone who has a similar educational background and experiences. It was also very inspiring to hear how the program allowed her to help dogs improve their health and get better through food and movement. It was also reassuring to learn the is the ongoing support from Dr. Roberts and the rest of the team. Well, after the course is over, I am super excited to dive in and learn all I can to help dogs thrive and live their best life. Thanks.<\/p>",
+            "reviewer_name": "Amanda Delgado",
             "rating": "5"
           }
         },
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2": {
           "type": "title",
           "settings": {
-            "title": "Consultant Name",
-            "title-desig": "Consultant Designation",
-            "testimonial": "<p><strong>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. <\/strong><\/p>",
-            "reviewer_name": "Reviewer Name",
+            "title": "Lori Megginson",
+            "title-desig": "RN, CCMT, CAAP, HPHC",
+            "testimonial": "<p>Blue, a 4-year-old Dalmatian, faced urinary issues with crystals and stones. Under a Holistic Pet Health Coach's guidance, a dietary shift to the CP Diet and the introduction of holistic remedies led to remarkable results. Stones vanished, urine cleared up, and Blue's weight is now ideal. Blue's owner, appreciates the transformative journey and holistic approach that made it possible.<\/p>",
+            "reviewer_name": "Consult Patient",
+            "rating": "5"
+          }
+        },
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Michael Daly",
+            "title-desig": "CANINE\/EQUINE MASSAGE THERAPIST, HPHC",
+            "testimonial": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help.<\/p><p>Missy Springer SouthPaw Aussies<\/p>",
+            "reviewer_name": "Missy Springer, SouthPaw Aussies",
             "rating": "5"
           }
         },
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3": {
           "type": "title",
           "settings": {
-            "title": "Consultant Name",
-            "title-desig": "Consultant Designation",
-            "testimonial": "<p><strong>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/strong><\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        },
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4": {
-          "type": "title",
-          "settings": {
-            "title": "Consultant Name",
-            "title-desig": "Consultant Designation",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
+            "title": "Dlorah de Vore",
+            "title-desig": "FNTP, HPHC",
+            "testimonial": "<p>Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.<\/p>",
+            "reviewer_name": "Consult Patient",
             "rating": "5"
           }
         }
       },
       "block_order": [
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2",
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4"
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
@@ -727,7 +788,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "LEARN MORE",
-            "button_link_1": ""
+            "button_link_1": "https:\/\/www.holisticpethealthcoach.com\/hphcp_optin_sws-page-5804"
           }
         },
         "0af9b1f4-9270-4c3a-be12-49abcd4fb707": {
