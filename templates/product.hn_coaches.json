@@ -72,6 +72,7 @@
         },
         "4e4ca8e0-c024-40a2-947e-f6be194e2e5b": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Custom CTA Button<\/title>\n    <style>\n        \/* Center align the container vertically and at the top *\/\n        .button-container {\n            display: flex;\n            justify-content: center;\n            align-items: flex-start; \/* Align to the top *\/\n            min-height: 25vh; \/* Minimum full viewport height *\/\n            margin: 0;\n            padding: 0; \/* Remove padding *\/\n        }\n\n        \/* Style the CTA button *\/\n        #ctaButton {\n            font-family: 'BLT-Heirloom', sans-serif;\n            font-weight: lighter;\n            font-size: 30pt;\n            color: white; \/* Text color is now white *\/\n            background-color: #184B44;\n            border: none;\n            padding: 15px 30px; \/* Padding for the button *\/\n            border-radius: 10px; \/* Rounded corners *\/\n            cursor: pointer;\n            margin-bottom: 0; \/* Remove margin-bottom *\/\n        }\n    <\/style>\n<\/head>\n<body>\n    <!-- Button Container -->\n    <div class=\"button-container\">\n        <!-- CTA Button -->\n        <button id=\"ctaButton\" onclick=\"redirectToLink()\">BOOK A CONSULT<\/button>\n    <\/div>\n\n    <!-- JavaScript -->\n    <script>\n        function redirectToLink() {\n            \/\/ Retrieve the metafield value for the button redirect\n            var metafieldValue = \"{{ product.metafields.Consult-button.redirect }}\"; \/\/ Use Shopify Liquid syntax to retrieve the metafield value\n\n            \/\/ Redirect to the specified URL from the metafield\n            window.location.href = metafieldValue;\n\n            \/\/ You can also change the button text if needed\n            document.getElementById(\"ctaButton\").textContent = \"Redirecting...\";\n        }\n    <\/script>\n<\/body>\n<\/html>"
           }
@@ -81,6 +82,13 @@
           "settings": {
             "text": "",
             "text_style": "subtitle"
+          }
+        },
+        "c95c2990-6b4e-4a02-b770-9ceae8953b52": {
+          "type": "text",
+          "settings": {
+            "text": "Text block",
+            "text_style": "body"
           }
         }
       },
@@ -96,7 +104,8 @@
         "87b6800d-0639-4f48-b6fd-18848b047f30",
         "880a5ead-be28-4912-b9d7-5a90d320fa21",
         "4e4ca8e0-c024-40a2-947e-f6be194e2e5b",
-        "cf44e064-b62d-4cdb-b8d7-bb3f068d1a09"
+        "cf44e064-b62d-4cdb-b8d7-bb3f068d1a09",
+        "c95c2990-6b4e-4a02-b770-9ceae8953b52"
       ],
       "custom_css": [
 
