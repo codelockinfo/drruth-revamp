@@ -6,14 +6,14 @@
         "164436159488e9de81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Itchy & Irritated Pet Support",
-            "heading_size": "h1"
+            "heading": "Itch and Allergy Relief for Your Pet",
+            "heading_size": "h2"
           }
         },
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If your pet has severe allergies and is itchy, try this effective protocol to reduce circulating histamines. Quercetin paired with nettles, powerful herbal antihistamines, and Omega 3 Fatty Acids (O3FA) have been shown to stabilize the itch-inducing histamine molecule, helping to improve your pet’s comfort.<\/p>",
+            "text": "<p>If your pet is suffering from severe allergies and experiencing itchiness, consider implementing this effective support protocol to reduce circulating histamines and enhance your pet’s comfort. Providing relief for your furry friend often requires a comprehensive approach. Incorporating natural supplements such as Hista Pawz, Omega 3 fatty acids, C60, and CBD oil, along with specialized therapies like PEMF and probiotics, can greatly enhance your pet's well-being. Additionally, bolstering their overall health with immune support supplements will better prepare them to tackle allergens.<\/p>",
             "text_style": "body"
           }
         },
@@ -30,15 +30,21 @@
         "164436159488e9de81-1",
         "164436159488e9de81-2"
       ],
+      "custom_css": [
+        "h2 {color: #efe6c5; margin-left: 110px; margin-top: 20px; font-size: 30px; text-align: center; }",
+        "p {color: white; text-align: justify; margin-left: 30px; margin-right: 30px;}",
+        ".button {margin: auto; padding: 10px 20px;}",
+        "div {padding: 10px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/3_460808f2-0175-4325-9466-ed0dd936c712.png",
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
+        "height": "medium",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -118,7 +124,6 @@
     },
     "1631859338560c9b4a": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1631859338560c9b4a-0": {
           "type": "featured_collection",
@@ -144,6 +149,7 @@
         "1631859338560c9b4a-1",
         "1631859338560c9b4a-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "SHOP MORE",
         "heading_size": "h1",
@@ -202,7 +208,6 @@
     },
     "1644346673ab5cde9c": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1644346673215909db-0": {
           "type": "column",
@@ -257,7 +262,9 @@
         "7e2f260b-9426-4f80-b237-654daa7af150",
         "851298dd-4488-4c37-bd0a-47c632e1f888"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "While this is not a one-size-fits-all list, it does address some of the most common holistic pet care needs. ",
         "heading_size": "h1",
         "image_width": "full",
@@ -276,7 +283,6 @@
     },
     "1644362911e27a17cd": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1644362911ff49262e-0": {
           "type": "column",
@@ -335,7 +341,9 @@
         "c8e6142f-83cd-40f6-bb7b-2ad9fdf00bd2",
         "b5900dc0-f343-402a-9fe7-0eb98426b80b"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "Holistic Veterinary Care Packages",
         "heading_size": "h1",
         "image_width": "full",
@@ -354,7 +362,6 @@
     },
     "16451372445fbe7db4": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "1645137244617a2009-0": {
           "type": "heading",
@@ -380,8 +387,9 @@
         "1645137244617a2009-1",
         "1645137244617a2009-2"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "background-1",
+        "bg_color": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
