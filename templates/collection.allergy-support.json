@@ -154,21 +154,26 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 0px;}",
+        ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px;}",
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 2px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
+      ],
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 10,
         "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "show_special_offer": false,
         "enable_filtering": true,
         "filter_type": "vertical",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 36,
-        "padding_bottom": 36,
+        "padding_bottom": 28,
         "rating": 5
       }
     },
