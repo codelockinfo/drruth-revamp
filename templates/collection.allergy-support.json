@@ -198,11 +198,11 @@
         "1644345560ae71793c-2"
       ],
       "custom_css": [
-
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "center",
+        "content_alignment": "left",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
