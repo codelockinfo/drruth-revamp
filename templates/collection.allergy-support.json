@@ -412,12 +412,6 @@
             "heading_size": "h2"
           }
         },
-        "1644363585f56cc491-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/p>"
-          }
-        },
         "1644363585f56cc491-2": {
           "type": "button",
           "settings": {
@@ -428,23 +422,30 @@
             "button_link_2": "shopify:\/\/pages\/contact-us",
             "button_style_secondary_2": false
           }
+        },
+        "1644363585f56cc491-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/p>"
+          }
         }
       },
       "block_order": [
         "1644363585f56cc491-0",
-        "1644363585f56cc491-1",
-        "1644363585f56cc491-2"
+        "1644363585f56cc491-2",
+        "1644363585f56cc491-1"
       ],
       "custom_css": [
-        ".button {padding: 20px; margin: 5px; align-content: center;}"
+        "div{padding-top: 25px; margin: auto text-align: center; font-family: josefin sans;}",
+        ".button {padding: 5px; margin: 5px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 100,
+        "padding_bottom": 36
       }
     }
   },
