@@ -160,7 +160,7 @@
         ".quick-add {padding-top: 0px; margin-top: 0px; border: 2px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
       ],
       "settings": {
-        "products_per_page": 10,
+        "products_per_page": 9,
         "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": true,
