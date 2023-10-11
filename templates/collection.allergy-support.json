@@ -157,7 +157,7 @@
       "custom_css": [
         ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 10px;}",
         ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px;}",
-        ".quick-add {padding-top: 0px; margin-top: 0px; border: 2px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 3px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
       ],
       "settings": {
         "products_per_page": 12,
