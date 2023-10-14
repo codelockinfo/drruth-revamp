@@ -530,7 +530,7 @@
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2"
       ],
       "custom_css": [
-
+        ".amr_pet_consultants_item_1 {height: 680px;}"
       ],
       "settings": {
         "heading": "",
@@ -729,7 +729,7 @@
             "title": "Lori Megginson",
             "title-desig": "RN, CCMT, CAAP, HPHC",
             "testimonial": "<p>Blue, a 4-year-old Dalmatian, faced urinary issues with crystals and stones. Under a Holistic Pet Health Coach's guidance, a dietary shift to the CP Diet and the introduction of holistic remedies led to remarkable results. Stones vanished, urine cleared up, and Blue's weight is now ideal. Blue's owner, appreciates the transformative journey and holistic approach that made it possible.<\/p>",
-            "reviewer_name": "Consult Patient",
+            "reviewer_name": "Consultant' Patient",
             "rating": "5"
           }
         },
@@ -749,7 +749,7 @@
             "title": "Dlorah de Vore",
             "title-desig": "FNTP, HPHC",
             "testimonial": "<p>Dlorah was very helpful and I am happy to have her as my mentor. She walked me through the homework, answered my questions, shared her screen to show me how to get to the information that I had not been able to find. The pet consultation was informative and she had good suggestions on additional things to do for my dog. It was interesting to learn that he is a metal type dog, I looked up information on a metal dog and it fits his personality well.<\/p>",
-            "reviewer_name": "Consult Patient",
+            "reviewer_name": "Consultant' Patient",
             "rating": "5"
           }
         }
