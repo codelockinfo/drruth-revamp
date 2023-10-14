@@ -322,17 +322,6 @@
     "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7": {
       "type": "Our_Pet_Consultants",
       "blocks": {
-        "b9981614-69c3-4713-a81c-17e5e2fb1d3c": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/3_c6374565-c132-4c8a-9083-6a4796a45437.png",
-            "title": "Dlorah deVore",
-            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p><p>Dlorah deVore transitioned from human health coaching to become one of the first graduates of Dr. Roberts' Certified Holistic Pet Health Coach program. Now, as a course mentor and pet health coach practitioner, she's dedicated to advancing her knowledge in pet health while building on her background in human health coaching.<\/p>",
-            "btn_txt": "Book A Consultation",
-            "btn_url": "shopify:\/\/products\/bookaconsultdlorahdevore"
-          }
-        },
         "f19fa966-9d30-44e4-98e1-fa9c62889672": {
           "type": "consultants",
           "settings": {
@@ -342,6 +331,17 @@
             "detail": "<p><strong>Canine Nutritionist, HPHC, R+ Dog Trainer<\/strong><\/p><p>After earning a BS from ODU and becoming a positive reinforcement dog trainer, she embraced the power of food therapy and integrated nutrition into her training program. She's now certified as a Holistic Pet Health Coach and a Professional Canine Nutritionist, while also hosting a podcast.<\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/drruthroberts.com\/products\/jessica-fisher"
+          }
+        },
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/3_c6374565-c132-4c8a-9083-6a4796a45437.png",
+            "title": "Dlorah deVore",
+            "detail": "<p><strong>FNTP, HPHC<\/strong><\/p><p>Dlorah deVore transitioned from human health coaching to become one of the first graduates of Dr. Roberts' Certified Holistic Pet Health Coach program. Now, as a course mentor and pet health coach practitioner, she's dedicated to advancing her knowledge in pet health while building on her background in human health coaching.<\/p>",
+            "btn_txt": "Book A Consultation",
+            "btn_url": "shopify:\/\/products\/bookaconsultdlorahdevore"
           }
         },
         "6ad00ef3-388d-44dc-abe1-ea95410b2dfd": {
@@ -511,8 +511,8 @@
         }
       },
       "block_order": [
-        "b9981614-69c3-4713-a81c-17e5e2fb1d3c",
         "f19fa966-9d30-44e4-98e1-fa9c62889672",
+        "b9981614-69c3-4713-a81c-17e5e2fb1d3c",
         "6ad00ef3-388d-44dc-abe1-ea95410b2dfd",
         "c6c0fe23-a73a-4a2d-979a-f6fca90df1f6",
         "a0675608-47c8-45c6-9152-614b3b86964f",
@@ -530,7 +530,9 @@
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2"
       ],
       "custom_css": [
-
+        ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
+        ".amr_pet_consultants_item_6 {grid-row-start: unset !important; grid-column-end: unset !important;}",
+        ".amr_pet_consultants_item_11 {grid-row-start: unset !important; grid-column-end: unset !important;}"
       ],
       "settings": {
         "heading": "",
