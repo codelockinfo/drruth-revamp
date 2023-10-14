@@ -169,6 +169,40 @@
         "padding_bottom": 36
       }
     },
+    "59d8225f-2459-499f-8e21-5dae35622363": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921792520257__59d8225f-2459-499f-8e21-5dae35622363-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Anxiety and Stress in Pet<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921792520257__59d8225f-2459-499f-8e21-5dae35622363-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Anxiety and stress in pets can be pretty complex. They can feel a whole  range of emotions, like fear, unease, and tension. Knowing the ins and  outs of how anxiety and stress affect our furry friends is super  important. Sometimes, It's not always easy to spot, but it's there, and it can really affect their day-to-day life. They might seem jittery, avoid certain situations, or even act out a bit.Understanding this is like getting a peek into their world. It helps us support them better and make sure they're feeling their best. So, let's dig a bit deeper into what might be going on and how we can help them out<\/p><h2><strong>Causes of Anxiety and Stress in Pets:<\/strong><\/h2><p>🐱 <strong>Separation Anxiety<\/strong>: One of the most common forms of anxiety in pets, separation anxiety occurs when an animal becomes distressed upon being separated from their owner or primary caregiver. This can lead to destructive behavior, excessive vocalization, and other signs of distress.<\/p><p>🐱 <strong>Environmental Changes<\/strong>: Alterations in a pet's environment, such as moving to a new home or changes in routine, can be a significant source of stress. Pets are creatures of habit, and disruptions in their familiar surroundings can lead to anxiety.<\/p><p>🐱 <strong>Past Trauma or Abuse<\/strong>: Pets with a history of trauma or abuse may carry emotional scars that manifest as anxiety. These animals may have triggers that evoke fearful responses, even in seemingly benign situations.<\/p><p>🐱 <strong>Lack of Socialization<\/strong>: Pets that have not been adequately socialized with other animals or people may struggle with new experiences and environments, leading to anxiety when faced with unfamiliar situations.<\/p><p>🐱 <strong>Noise Phobia<\/strong>: Loud noises like thunderstorms, fireworks, or even construction can be incredibly distressing for pets. This type of anxiety often leads to behaviors like hiding, trembling, or attempting to flee.<\/p><h2><strong>Common Symptoms of Stress and Anxiety in Pets<\/strong><\/h2><p>Identifying anxiety in pets requires a keen observant eye. Some common signs include:<\/p><p>🐶 <strong>Behavioral Changes<\/strong>: This can encompass a wide range of actions, from excessive barking, whining, or meowing to destructive behaviors like chewing or scratching furniture.<\/p><p>🐶 <strong>Changes in Appetite or Grooming Habits<\/strong>: Anxiety can affect an animal's appetite, leading to overeating or loss of appetite. Additionally, pets may neglect their grooming routine when feeling stressed.<\/p><p>🐶 <strong>Restlessness or Agitation<\/strong>: Pets experiencing anxiety may exhibit restlessness, pacing, or an inability to settle down.<\/p><p>🐶 <strong>Avoidance Behaviors<\/strong>: They might attempt to avoid certain places, situations, or even people or animals.<\/p><p>🐶 <strong>Excessive Vocalization or Panting<\/strong>: Anxious pets may become more vocal or show signs of heavy panting, even when not physically exerting themselves.<\/p><h2><strong>Relief and Support<\/strong><\/h2><p>Helping pets manage anxiety involves a combination of patience, understanding, and sometimes professional guidance. Some approaches include:<\/p><p><strong>Natural Supplements<\/strong>: Certain herbal remedies, CBD products, or pheromone diffusers can help calm anxious pets.<\/p><p><strong>Behavioral Training<\/strong>: Gradual exposure to anxiety-inducing situations, positive reinforcement, and desensitization techniques can be effective in reducing anxiety.<\/p><p><strong>Creating a Safe Environment<\/strong>: Providing a secure and comfortable space for your pet, along with a consistent routine, can go a long way in reducing anxiety.<\/p><p><strong>Seeking Professional Advice<\/strong>: Consulting with a veterinarian or animal behaviorist can provide tailored strategies and, in some cases, medication options for severe cases of anxiety.<\/p><p><strong>Engaging Activities<\/strong>: Interactive toys, puzzle feeders, and regular exercise can help redirect anxious energy and provide mental stimulation.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792520257__59d8225f-2459-499f-8e21-5dae35622363-heading-1",
+        "template--14921792520257__59d8225f-2459-499f-8e21-5dae35622363-text-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 52
+      }
+    },
     "164434556097d46afd": {
       "type": "rich-text",
       "blocks": {
@@ -270,6 +304,7 @@
         "7e2f260b-9426-4f80-b237-654daa7af150",
         "851298dd-4488-4c37-bd0a-47c632e1f888"
       ],
+      "disabled": true,
       "settings": {
         "custom_class": "",
         "title": "While this is not a one-size-fits-all list, it does address some of the most common holistic pet care needs. ",
@@ -485,24 +520,11 @@
           "settings": {
             "text": "<p><strong>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/strong><\/p>"
           }
-        },
-        "164514111261d9da74-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "164514111261d9da74-0",
-        "164514111261d9da74-1",
-        "164514111261d9da74-2"
+        "164514111261d9da74-1"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -520,6 +542,7 @@
     "893a1553-5449-4e0a-8d9d-1a85eadb4ef1",
     "product-grid",
     "1631859338560c9b4a",
+    "59d8225f-2459-499f-8e21-5dae35622363",
     "164434556097d46afd",
     "1644346673ab5cde9c",
     "16443635858774eb64",
