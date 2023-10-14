@@ -63,7 +63,7 @@
         "164522826959604e49-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Introducing 'Chill the Itch' - the ultimate relief bundle for pets with <br\/>itchy skin and allergies! Our curated selection of supplements, including Hista Paws with Quercetin and Nettle Extract, Omega Pawz with 90% natural TG bound omega-3 oils, and Vitality featuring powerful extracts like Turkey Tail, Reishi, Shiitake, and more, work together to naturally calm the fire of irritation. Give your furry friend the  comfort they deserve with 'Chill the Itch'!<\/p>",
+            "text": "<p>Introducing 'Chill the Itch' - the ultimate relief bundle for pets with itchy skin and allergies! Our curated selection of supplements, including Hista Paws with Quercetin and Nettle Extract, Omega Pawz with 90% natural TG bound omega-3 oils, and Vitality featuring powerful extracts like Turkey Tail, Reishi, Shiitake, and more, work together to naturally calm the fire of irritation. Give your furry friend the  comfort they deserve with 'Chill the Itch'!<\/p>",
             "text_style": "body"
           }
         },
@@ -146,6 +146,7 @@
     },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
