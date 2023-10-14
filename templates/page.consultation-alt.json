@@ -215,7 +215,7 @@
       ],
       "custom_css": [
         ".multicolumn-list {justify-content: center;}",
-        ".multicolumn-list h3 {font-family: \"Josefin Sans\"; text-transform: uppercase; letter-spacing: 0;}",
+        ".multicolumn-list h3 {font-family: \"Josefin Sans\"; text-transform: uppercase;}",
         ".multicolumn .button {background: transparent; border: 2px solid #184b44; border-radius: 25.5px; color: #184b44; text-transform: uppercase; font-family: \"Josefin Sans\"; font-size: 14px; padding: 15px 20px 12px; margin-top: 2.5rem;}",
         ".multicolumn .media {padding-bottom: 0 !important;}",
         ".multicolumn .media img {transform: none !important; position: unset !important; height: 86px !important; margin: 0 auto;}"
@@ -297,7 +297,8 @@
       ],
       "custom_css": [
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
+        ".multicolumn .title {font-family: \"Oakley Script\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
+        ".multicolumn-card__info {font-family: Josefin Sans; }",
         ".button.button--primary {display: none;}",
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
