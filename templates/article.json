@@ -23,45 +23,8 @@
         },
         "share": {
           "type": "share",
-          "disabled": true,
           "settings": {
             "share_label": "Share"
-          }
-        },
-        "abeda9dd-2a8d-4e2b-b8ac-ce9af66db802": {
-          "type": "reproduct",
-          "disabled": true,
-          "settings": {
-            "product": "10-day-sp-detox-balance™-program",
-            "proquee": "What’s In Our Pet Multivitamins?",
-            "proanss": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat.Holistic Total Body Support for Cats and Dogs is an all-natural, glandular-based multivitamin designed around what a pet’s natural diet should be.."
-          }
-        },
-        "0a424a45-5bb5-4731-ab58-1149c220d04c": {
-          "type": "reproduct",
-          "disabled": true,
-          "settings": {
-            "product": "standardprocess-sp-detox-balance-10-day-program-kit-15010",
-            "proquee": "What’s In Our Pet Multivitamins?",
-            "proanss": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat.Holistic Total Body Support for Cats and Dogs is an all-natural, glandular-based multivitamin designed around what a pet’s natural diet should be.."
-          }
-        },
-        "6d9415f6-7005-4474-9cb6-4e5e3736b4cd": {
-          "type": "reproduct",
-          "disabled": true,
-          "settings": {
-            "product": "standardprocess-sp-detox-balance-28-day-program-kit-15028",
-            "proquee": "What’s In Our Pet Multivitamins?",
-            "proanss": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat.Holistic Total Body Support for Cats and Dogs is an all-natural, glandular-based multivitamin designed around what a pet’s natural diet should be.."
-          }
-        },
-        "6b471024-6bb0-4422-8923-20987eaf8130": {
-          "type": "reproduct",
-          "disabled": true,
-          "settings": {
-            "product": "standardprocess-a-c-carbamide-0625",
-            "proquee": "What’s In Our Pet Multivitamins?",
-            "proanss": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat.Holistic Total Body Support for Cats and Dogs is an all-natural, glandular-based multivitamin designed around what a pet’s natural diet should be.."
           }
         }
       },
@@ -69,11 +32,7 @@
         "featured_image",
         "title",
         "content",
-        "share",
-        "abeda9dd-2a8d-4e2b-b8ac-ce9af66db802",
-        "0a424a45-5bb5-4731-ab58-1149c220d04c",
-        "6d9415f6-7005-4474-9cb6-4e5e3736b4cd",
-        "6b471024-6bb0-4422-8923-20987eaf8130"
+        "share"
       ],
       "custom_css": [
         ".article-template {max-width: 1100px; margin: 0 auto; padding: 0 15px;}",
@@ -86,12 +45,11 @@
       ],
       "settings": {
         "reccheaddd": "Activated Charcoal for Dogs and Where to Buy It ",
-        "difftext": "Activated Charcoal for Dogs and Cats",
+        "difftext": "",
         "discdiffcont": "",
         "spancente": "",
         "discdiffcont2": "",
         "articlehead": "",
-        "articleimg": "shopify:\/\/shop_images\/Activated_Charcoal_2.png",
         "custbtnn": "",
         "custbtnurl": "",
         "right_image_text": "Become A Holistic Pet Health Coach",
@@ -159,19 +117,11 @@
       "settings": {
         "reccheaddd1": "Top Recommended Supplements"
       }
-    },
-    "35039b4a-05bf-4fdf-9407-0a835a0dc2dd": {
-      "type": "main-blog-custom",
-      "settings": {
-        "blogtext": "",
-        "blogdes": ""
-      }
     }
   },
   "order": [
     "main",
     "newsletter",
-    "58c31b65-2904-4c31-82b8-3b156b1d58af",
-    "35039b4a-05bf-4fdf-9407-0a835a0dc2dd"
+    "58c31b65-2904-4c31-82b8-3b156b1d58af"
   ]
 }
