@@ -74,7 +74,7 @@
                 {% assign share_url = request.origin | append: article.url %}
                 {% render 'share-button', block: block, share_link: share_url %}
               </div>
-            
+            {% section 'collection-list' %}
            
           {%- endcase -%}
         {%- endfor -%}
