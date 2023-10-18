@@ -510,6 +510,16 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/melissa-zollars"
           }
+        },
+        "c7ffa173-eccf-4efb-be1c-187483bbde38": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Wendy Mills",
+            "detail": "<p>FNTP, HPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
+          }
         }
       },
       "block_order": [
@@ -529,7 +539,8 @@
         "8c135360-aaf4-4822-8380-001ab86501b0",
         "39738d21-58f4-4eae-b441-23f13cdcdf6f",
         "e0d4698d-5adb-486d-b075-4e9809d78b12",
-        "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2"
+        "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2",
+        "c7ffa173-eccf-4efb-be1c-187483bbde38"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
