@@ -62,39 +62,40 @@
         "blog_title_": "Recommended  Blog"
       }
     },
-    "newsletter": {
-      "type": "newsletter",
+    "a0372baf-6321-47ea-a483-637e6102d590": {
+      "type": "collection-list",
       "blocks": {
-        "heading": {
-          "type": "heading",
+        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-1": {
+          "type": "featured_collection",
           "settings": {
-            "heading": "Subscribe to our emails",
-            "heading_size": "h1"
+            "collection": "general-detox-protocol"
           }
         },
-        "paragraph": {
-          "type": "paragraph",
+        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-2": {
+          "type": "featured_collection",
           "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
+            "collection": "gastrointestinal-support"
           }
         }
       },
       "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
+        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-1",
+        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-2"
       ],
-      "disabled": true,
+      "custom_css": [
+
+      ],
       "settings": {
-        "bg_color": "",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
+        "title": "",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 24
       }
     },
     "808ccf8c-f690-47bb-ba48-08c43c939891": {
@@ -165,11 +166,47 @@
         "padding_top": 16,
         "padding_bottom": 28
       }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "disabled": true,
+      "settings": {
+        "bg_color": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "newsletter",
-    "808ccf8c-f690-47bb-ba48-08c43c939891"
+    "a0372baf-6321-47ea-a483-637e6102d590",
+    "808ccf8c-f690-47bb-ba48-08c43c939891",
+    "newsletter"
   ]
 }
