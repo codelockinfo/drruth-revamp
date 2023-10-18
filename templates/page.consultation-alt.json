@@ -429,7 +429,7 @@
             "bg_color": "",
             "bg_img": "shopify:\/\/shop_images\/17.png",
             "title": "Bea Swasey",
-            "detail": "<p><strong>MBA, NTP, RWS II, HPHC<\/strong><\/p><p>A Nutritional Therapy Practitioner with a passion for caring for dogs. Believing in the transformative power of gut healing and a whole foods diet, she takes an individualized approach to guide her clients towards better health and wellness.<\/p>",
+            "detail": "<p><strong>MBA, NTP, RWS II, HPHC<\/strong><\/p><p><em>A Nutritional Therapy Practitioner and a Holistic Pet Health Coach with a passion for caring for dogs. Believing in the transformative power of gut healing and a whole foods diet, she provides actionable steps to guide her clients towards better health and wellness – by honoring each dog’s unique needs. Bea specializes in working with small breed dogs.<\/em><\/p><p><\/p>",
             "btn_txt": "Book A Consultation",
             "btn_url": "https:\/\/drruthroberts.com\/products\/bea-swasey"
           }
@@ -767,6 +767,16 @@
             "rating": "5"
           }
         },
+        "a24bf2da-026c-4e3f-b4ef-787a6ed66825": {
+          "type": "title",
+          "settings": {
+            "title": "Bea Swasey",
+            "title-desig": "MBA. NTP, RWS II, HPHC",
+            "testimonial": "<p><em>I highly recommend Bea for her holistic pet coaching. She definitely over delivered during our sessions. Even though I had researched a LOT on how to improve my dog's health, Bea was able to highlight certain things I didn't even think of. It was a blessing having this support from her. The report she provided was extremely detailed, showing that Bea had put in a lot of effort into her work since my dog has a lot of health issues. I highly appreciate her help.<\/em><\/p>",
+            "reviewer_name": "Queen S. ",
+            "rating": "5"
+          }
+        },
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1": {
           "type": "title",
           "settings": {
@@ -816,6 +826,26 @@
             "reviewer_name": "Reviewer Name",
             "rating": "5"
           }
+        },
+        "67e94b91-4414-4ce1-b82d-d52d57e4967f": {
+          "type": "title",
+          "settings": {
+            "title": "Bea Swasey",
+            "title-desig": "MBA. NTP, RWS II, HPHC",
+            "testimonial": "<p><em>I've had a Holistic Pet Health Coach consultation about my Shih Tzu's chronic skin condition.<\/em><\/p><p><em>Bea was so friendly and informative and gave me a detailed account of the pros and cons of the current food, shampoo and medications I've been using.<\/em><\/p><p><em>I've come away with a variety of natural food recipes and vitamins specific to my dog's health issues that will allow me to stop using the harmful medications that the Vet had prescribed.<\/em><\/p><p><em>I'm so thankful to Bea and highly recommend her Holistic Pet health coaching sessions.<\/em><\/p>",
+            "reviewer_name": "Reviewer Name",
+            "rating": "5"
+          }
+        },
+        "3e0b0aa2-7f42-4770-b9fe-ce851d41dc6b": {
+          "type": "title",
+          "settings": {
+            "title": "Bea Swasey",
+            "title-desig": "MBA. NTP, RWS II, HPHC",
+            "testimonial": "<p><em>I am thrilled to recommend Bea for her outstanding expertise in dog nutrition and health advice. She has deep knowledge in this field. She has given me a comprehensive outline on what my dog needs for his unique body type and personality. With her guidance, I have gained valuable insights into providing optimal nutrition for my dog’s well-being. I am so grateful and highly recommend Bea!<\/em><\/p><p><\/p>",
+            "reviewer_name": "Meg B.",
+            "rating": "5"
+          }
         }
       },
       "block_order": [
@@ -824,11 +854,14 @@
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2",
         "6f029f60-3adc-46c6-bf4c-05338206bd52",
         "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
+        "a24bf2da-026c-4e3f-b4ef-787a6ed66825",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
         "27d51795-b09d-4514-975c-57962fa67783",
         "dc1ffabe-8081-4f99-bf0c-ac13f7349d37",
-        "d6432beb-6629-4793-a311-9b76bcf69daa"
+        "d6432beb-6629-4793-a311-9b76bcf69daa",
+        "67e94b91-4414-4ce1-b82d-d52d57e4967f",
+        "3e0b0aa2-7f42-4770-b9fe-ce851d41dc6b"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
