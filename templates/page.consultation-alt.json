@@ -747,6 +747,16 @@
             "rating": "5"
           }
         },
+        "6f029f60-3adc-46c6-bf4c-05338206bd52": {
+          "type": "title",
+          "settings": {
+            "title": "Wilma Shaw",
+            "title-desig": "FNTP, BCHN, HPHC",
+            "testimonial": "<p>I was shocked to really understand what was in the prescription pet food I was feeding Toby.  It was recommended after all by his vet.  He is so much more full of life than he has been in a couple years.  We are both doing so much better because while Wilma was helping me help him...I got a lot of help as well.  Thank you!<\/p>",
+            "reviewer_name": "Cindy & Toby",
+            "rating": "5"
+          }
+        },
         "709c9d8b-78c9-4547-87f1-7530b25c8ad3": {
           "type": "title",
           "settings": {
@@ -797,13 +807,13 @@
             "rating": "5"
           }
         },
-        "6f029f60-3adc-46c6-bf4c-05338206bd52": {
+        "d6432beb-6629-4793-a311-9b76bcf69daa": {
           "type": "title",
           "settings": {
             "title": "Wilma Shaw",
             "title-desig": "FNTP, BCHN, HPHC",
-            "testimonial": "<p>I was shocked to really understand what was in the prescription pet food I was feeding Toby.  It was recommended after all by his vet.  He is so much more full of life than he has been in a couple years.  We are both doing so much better because while Wilma was helping me help him...I got a lot of help as well.  Thank you!<\/p>",
-            "reviewer_name": "Cindy & Toby",
+            "testimonial": "<p><strong>No more flea medicine..\"<\/strong><\/p><p>I had no idea what chemicals were actually in the drops I was putting on fluffy's fur each summer. It was recommended so I trusted it.  I'm so happy that I have other solutions now thanks to Wilma.  It's kind of scary to think I might have continued those treatments for years.<\/p><p> <strong>- Shirley, Atlanta<\/strong><\/p>",
+            "reviewer_name": "Reviewer Name",
             "rating": "5"
           }
         }
@@ -812,12 +822,13 @@
         "cfe3813e-837c-42a1-949a-b51a4e622117",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2",
+        "6f029f60-3adc-46c6-bf4c-05338206bd52",
         "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
         "27d51795-b09d-4514-975c-57962fa67783",
         "dc1ffabe-8081-4f99-bf0c-ac13f7349d37",
-        "6f029f60-3adc-46c6-bf4c-05338206bd52"
+        "d6432beb-6629-4793-a311-9b76bcf69daa"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
