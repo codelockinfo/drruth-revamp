@@ -776,6 +776,16 @@
             "reviewer_name": "Rhiannon Cote",
             "rating": "5"
           }
+        },
+        "27d51795-b09d-4514-975c-57962fa67783": {
+          "type": "title",
+          "settings": {
+            "title": "Laura Muzal",
+            "title-desig": "Intuitive Animal Practitioner, HPHC",
+            "testimonial": "<p>\"Laura has worked with my 15 year old cat, Sheba, several times and has been so helpful in so many ways. My cat is a Siamese and has some behavioral issues on top of being a rescue. Laura has helped her calm down and get balanced. She had digestive issues that Laura cleared, and she continues to help Sheba so, so much. She is 15 years old, so change and my traveling have been a lot for Sheba. I can't imagine what I would do without Laura.\"<br\/><\/p>",
+            "reviewer_name": "Olga Saburov",
+            "rating": "5"
+          }
         }
       },
       "block_order": [
@@ -784,7 +794,8 @@
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
         "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
-        "cfe3813e-837c-42a1-949a-b51a4e622117"
+        "cfe3813e-837c-42a1-949a-b51a4e622117",
+        "27d51795-b09d-4514-975c-57962fa67783"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
