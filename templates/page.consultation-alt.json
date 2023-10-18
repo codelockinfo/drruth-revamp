@@ -717,6 +717,16 @@
     "7c824f73-1291-494a-89ba-8520efb97ca2": {
       "type": "consultation-testimonials",
       "blocks": {
+        "cfe3813e-837c-42a1-949a-b51a4e622117": {
+          "type": "title",
+          "settings": {
+            "title": "Laura Muzal",
+            "title-desig": "Intuitive Animal Practitioner, HPHC",
+            "testimonial": "<p>“Laura has made such a huge difference in my dog’s life. I have eternal gratitude for her. My dog Brynn has a platelet condition that was causing her some issues, so I called Laura and she did Quantum Healing with her. A few days later we go her blood tested and her platelet production was through the roof! It has since stayed that way and her tests have continued to be normal! We are so grateful for her and definitely recommend her.” <br\/><\/p>",
+            "reviewer_name": "Rhiannon Cote",
+            "rating": "5"
+          }
+        },
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4": {
           "type": "title",
           "settings": {
@@ -734,6 +744,16 @@
             "title-desig": "RN, CCMT, CAAP, HPHC",
             "testimonial": "<p>Blue, a 4-year-old Dalmatian, faced urinary issues with crystals and stones. Under a Holistic Pet Health Coach's guidance, a dietary shift to the CP Diet and the introduction of holistic remedies led to remarkable results. Stones vanished, urine cleared up, and Blue's weight is now ideal. Blue's owner, appreciates the transformative journey and holistic approach that made it possible.<\/p>",
             "reviewer_name": "Consultant' Patient",
+            "rating": "5"
+          }
+        },
+        "709c9d8b-78c9-4547-87f1-7530b25c8ad3": {
+          "type": "title",
+          "settings": {
+            "title": "Laura Muzal",
+            "title-desig": "Intuitive Animal Practitioner, HPHC",
+            "testimonial": "<p>Laura was amazing, very intuitive and knowledgeable.  I have 3 rescue dogs and 3 cats who are also rescues. Within 10 minutes Laura exceeded my expectations.  She was able see what their challenges were and restore balance to all of my animals as well as myself. Everything she said made perfect sense. During the session all of them were calmer than usual and the results are incredible! They are all much more relaxed as well as wanting to walk longer, 2 of them are over 10 years old and back to acting like younger animals while outside running and playing with each other. As for my experience after the session, I've been feeling much calmer yet energetic and centered. Thank you, Laura, for all you do and your perfect love for all animals. Much appreciated. I will be connecting again. I highly recommend Laura! We will book Laura again! <\/p>",
+            "reviewer_name": "Pete Socco",
             "rating": "5"
           }
         },
@@ -757,26 +777,6 @@
             "rating": "5"
           }
         },
-        "709c9d8b-78c9-4547-87f1-7530b25c8ad3": {
-          "type": "title",
-          "settings": {
-            "title": "Laura Muzal",
-            "title-desig": "Intuitive Animal Practitioner, HPHC",
-            "testimonial": "<p>Laura was amazing, very intuitive and knowledgeable.  I have 3 rescue dogs and 3 cats who are also rescues. Within 10 minutes Laura exceeded my expectations.  She was able see what their challenges were and restore balance to all of my animals as well as myself. Everything she said made perfect sense. During the session all of them were calmer than usual and the results are incredible! They are all much more relaxed as well as wanting to walk longer, 2 of them are over 10 years old and back to acting like younger animals while outside running and playing with each other. As for my experience after the session, I've been feeling much calmer yet energetic and centered. Thank you, Laura, for all you do and your perfect love for all animals. Much appreciated. I will be connecting again. I highly recommend Laura! We will book Laura again! <\/p>",
-            "reviewer_name": "Pete Socco",
-            "rating": "5"
-          }
-        },
-        "cfe3813e-837c-42a1-949a-b51a4e622117": {
-          "type": "title",
-          "settings": {
-            "title": "Laura Muzal",
-            "title-desig": "Intuitive Animal Practitioner, HPHC",
-            "testimonial": "<p>“Laura has made such a huge difference in my dog’s life. I have eternal gratitude for her. My dog Brynn has a platelet condition that was causing her some issues, so I called Laura and she did Quantum Healing with her. A few days later we go her blood tested and her platelet production was through the roof! It has since stayed that way and her tests have continued to be normal! We are so grateful for her and definitely recommend her.” <br\/><\/p>",
-            "reviewer_name": "Rhiannon Cote",
-            "rating": "5"
-          }
-        },
         "27d51795-b09d-4514-975c-57962fa67783": {
           "type": "title",
           "settings": {
@@ -786,16 +786,38 @@
             "reviewer_name": "Olga Saburov",
             "rating": "5"
           }
+        },
+        "dc1ffabe-8081-4f99-bf0c-ac13f7349d37": {
+          "type": "title",
+          "settings": {
+            "title": "Wilma Shaw",
+            "title-desig": "FNTP, BCHN, HPHC",
+            "testimonial": "<p>We went to many vets and tried many allergy medicines to calm Ginger's itchiness.  We are so grateful to Wilma for helping us get to the root of what was causing the skin sensitivity.  Now we know what to feed and what not to feed.  We are off all allergy meds and Ginger is doing great!  Thank you <\/p>",
+            "reviewer_name": "Susan T, Renton",
+            "rating": "5"
+          }
+        },
+        "6f029f60-3adc-46c6-bf4c-05338206bd52": {
+          "type": "title",
+          "settings": {
+            "title": "Wilma Shaw",
+            "title-desig": "FNTP, BCHN, HPHC",
+            "testimonial": "<p>I was shocked to really understand what was in the prescription pet food I was feeding Toby.  It was recommended after all by his vet.  He is so much more full of life than he has been in a couple years.  We are both doing so much better because while Wilma was helping me help him...I got a lot of help as well.  Thank you!<\/p>",
+            "reviewer_name": "Cindy & Toby",
+            "rating": "5"
+          }
         }
       },
       "block_order": [
+        "cfe3813e-837c-42a1-949a-b51a4e622117",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2",
+        "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
-        "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
-        "cfe3813e-837c-42a1-949a-b51a4e622117",
-        "27d51795-b09d-4514-975c-57962fa67783"
+        "27d51795-b09d-4514-975c-57962fa67783",
+        "dc1ffabe-8081-4f99-bf0c-ac13f7349d37",
+        "6f029f60-3adc-46c6-bf4c-05338206bd52"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
