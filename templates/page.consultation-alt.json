@@ -215,7 +215,7 @@
       ],
       "custom_css": [
         ".multicolumn-list {justify-content: center;}",
-        ".multicolumn-list h3, p {font-family: \"BLT-Heirloom\";}",
+        ".multicolumn-list h3,p {font-family: \"BLT-Heirloom\";}",
         ".multicolumn-list h3 {text-transform: uppercase;}",
         ".multicolumn .button {background: transparent; border: 2px solid #184b44; border-radius: 25px; color: #184b44; text-transform: uppercase; font-family: \"Josefin Sans\"; font-size: 14px; padding: 15px 20px 12px; margin-top: 2.5rem;}",
         ".multicolumn .media {padding-bottom: 0 !important;}",
@@ -756,13 +756,35 @@
             "reviewer_name": "Consultant' Patient",
             "rating": "5"
           }
+        },
+        "709c9d8b-78c9-4547-87f1-7530b25c8ad3": {
+          "type": "title",
+          "settings": {
+            "title": "Laura Muzal",
+            "title-desig": "Intuitive Animal Practitioner, HPHC",
+            "testimonial": "<p>Laura was amazing, very intuitive and knowledgeable.  I have 3 rescue dogs and 3 cats who are also rescues. Within 10 minutes Laura exceeded my expectations.  She was able see what their challenges were and restore balance to all of my animals as well as myself. Everything she said made perfect sense. During the session all of them were calmer than usual and the results are incredible! They are all much more relaxed as well as wanting to walk longer, 2 of them are over 10 years old and back to acting like younger animals while outside running and playing with each other. As for my experience after the session, I've been feeling much calmer yet energetic and centered. Thank you, Laura, for all you do and your perfect love for all animals. Much appreciated. I will be connecting again. I highly recommend Laura! We will book Laura again! <\/p>",
+            "reviewer_name": "Pete Socco",
+            "rating": "5"
+          }
+        },
+        "cfe3813e-837c-42a1-949a-b51a4e622117": {
+          "type": "title",
+          "settings": {
+            "title": "Laura Muzal",
+            "title-desig": "Intuitive Animal Practitioner, HPHC",
+            "testimonial": "<p>“Laura has made such a huge difference in my dog’s life. I have eternal gratitude for her. My dog Brynn has a platelet condition that was causing her some issues, so I called Laura and she did Quantum Healing with her. A few days later we go her blood tested and her platelet production was through the roof! It has since stayed that way and her tests have continued to be normal! We are so grateful for her and definitely recommend her.” <br\/><\/p>",
+            "reviewer_name": "Rhiannon Cote",
+            "rating": "5"
+          }
         }
       },
       "block_order": [
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-4",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-2",
         "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-1",
-        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3"
+        "template--14969681084481__7c824f73-1291-494a-89ba-8520efb97ca2-title-3",
+        "709c9d8b-78c9-4547-87f1-7530b25c8ad3",
+        "cfe3813e-837c-42a1-949a-b51a4e622117"
       ],
       "custom_css": [
         ".rx-review-container {padding-top: 70px;}",
