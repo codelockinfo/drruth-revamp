@@ -97,31 +97,79 @@
         "padding_bottom": 52
       }
     },
-    "58c31b65-2904-4c31-82b8-3b156b1d58af": {
-      "type": "recommended_slider",
+    "808ccf8c-f690-47bb-ba48-08c43c939891": {
+      "type": "featured-product",
       "blocks": {
-        "486420a4-3758-41e0-a549-8a6f78d5f378": {
-          "type": "collection",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-text-1": {
+          "type": "text",
           "settings": {
-            "product": "10-day-sp-detox-balance™-program",
-            "productcus": "activated-charcoal-560-mg-100-caps",
-            "proquee1": "What’s In Our Pet Multivitamins?",
-            "proanss1": "The Holistic Total Body Support formula focuses on high-quality ingredients without a bunch of additives and fillers.We’ve carefully created a densely nutritious supplement that caters to all the health needs of a dog or cat."
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
           }
         }
       },
       "block_order": [
-        "486420a4-3758-41e0-a549-8a6f78d5f378"
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-text-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-title-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-price-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-variant_picker-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-quantity_selector-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-buy_buttons-1",
+        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-share-1"
       ],
-      "disabled": true,
       "settings": {
-        "reccheaddd1": "Top Recommended Supplements"
+        "product": "activated-charcoal-560-mg-100-caps",
+        "color_scheme": "accent-1",
+        "secondary_background": true,
+        "media_size": "small",
+        "constrain_to_viewport": false,
+        "media_fit": "contain",
+        "media_position": "right",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 16,
+        "padding_bottom": 28
       }
     }
   },
   "order": [
     "main",
     "newsletter",
-    "58c31b65-2904-4c31-82b8-3b156b1d58af"
+    "808ccf8c-f690-47bb-ba48-08c43c939891"
   ]
 }
