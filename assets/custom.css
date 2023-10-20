@@ -298,6 +298,9 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     .rx-testimonial-item-reviewer {
         position: unset;
     }
+    div#RX_ImageWithText--template--14969681084481__88dc8e05-4d1f-46d6-914e-3350b2d40130 {
+        padding-bottom: 40px;
+    }
 }
 
 @media screen and (max-width: 575px) {
