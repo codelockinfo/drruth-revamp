@@ -290,6 +290,16 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
 
 /* Responsiveness */
 
+@media screen and (max-width: 991px) {
+    #MainContent .rx-review-container .rx-slider-item.rx-testimonial-item, #MainContent .rx-review-container .rx-testimonial-item-inner {
+        max-height: unset !important;
+        min-height: unset !important;
+    }
+    .rx-testimonial-item-reviewer {
+        position: unset;
+    }
+}
+
 @media screen and (max-width: 575px) {
     div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper>div:last-child p:last-child {
         display: block !important;
