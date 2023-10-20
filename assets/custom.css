@@ -290,6 +290,12 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
 
 /* Responsiveness */
 
+@media screen and (max-width: 575px) {
+    div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_item_upper>div:last-child p:last-child {
+        display: block !important;
+    }
+}
+
 @media screen and (max-width: 520px) {
     #shopify-section-template--14969681084481__872df224-c2bf-4a52-9d67-ad2d05e43f28 .multicolumn .title {
         font-size: 44px;
