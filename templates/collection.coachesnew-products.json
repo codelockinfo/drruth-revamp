@@ -291,7 +291,7 @@
         "show_description": false,
         "description_style": "subtitle",
         "collection": "coaches",
-        "products_to_show": 12,
+        "products_to_show": 25,
         "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
