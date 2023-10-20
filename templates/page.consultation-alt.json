@@ -489,17 +489,6 @@
             "btn_url": "shopify:\/\/products\/rina-gressett"
           }
         },
-        "e0d4698d-5adb-486d-b075-4e9809d78b12": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/12_55f8c69c-9de3-43b1-b317-14e4890c4a9b.png",
-            "title": "Kelly Cogen",
-            "detail": "<p><strong>Cert. CN, B.Sc. Naturopathic Animal Science, HPHC<\/strong><\/p><p>Kelly Cogen is a certified clinical and orthomolecular nutritionist and holistic health coach for dogs and cats. With a background in Western medicine for animal health, she launched her practice in 2020, dedicated to improving the well-being of pets through nutrition and natural support. <\/p>",
-            "btn_txt": "BOOK A CONSULTATION",
-            "btn_url": "https:\/\/drruthroberts.com\/products\/kelly-cogen"
-          }
-        },
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2": {
           "type": "consultants",
           "settings": {
@@ -520,6 +509,17 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
           }
+        },
+        "784f00a7-570e-4cca-a74b-b5f7062b5eba": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/DanaBrigman.jpg",
+            "title": "Dana Brigman",
+            "detail": "<p><strong>HPHC, Cert. CN<\/strong><\/p><p>I'm Dana Brigman for the last 11 years I have been training dogs with an emphasis on complex behavioral issues. I am certified in animal aromatherapy, reiki, nutrition, and homeopathy, and I describe myself as a learning junkie regarding natural wellness.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/dana-brigman"
+          }
         }
       },
       "block_order": [
@@ -538,9 +538,9 @@
         "d903e999-b054-45e6-80e2-b14285c3b142",
         "8c135360-aaf4-4822-8380-001ab86501b0",
         "39738d21-58f4-4eae-b441-23f13cdcdf6f",
-        "e0d4698d-5adb-486d-b075-4e9809d78b12",
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2",
-        "c7ffa173-eccf-4efb-be1c-187483bbde38"
+        "c7ffa173-eccf-4efb-be1c-187483bbde38",
+        "784f00a7-570e-4cca-a74b-b5f7062b5eba"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
