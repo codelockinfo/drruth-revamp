@@ -309,8 +309,8 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
         padding: 30px !important;
     }
     .rx-testimonial-item-testimonial {
-        font-size: 16px;
-        line-height: 1.5;
+        font-size: 16px !important;
+        line-height: 1.5 !important;
     }
     .rx-container-title img {
         margin: 0 auto;
