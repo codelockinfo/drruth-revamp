@@ -16,7 +16,7 @@
           "type": "heading",
           "settings": {
             "heading": "We are experts in enhancing your pet's well-being from nose to tail.",
-            "heading_size": "h2"
+            "heading_size": "h1"
           }
         },
         "b1a1bd7d-4684-4962-9a30-44fb4cadcdcd": {
@@ -44,8 +44,9 @@
         "4cb8a473-a13b-40c0-b678-2f4f9681467f"
       ],
       "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "adapt",
+        "image": "shopify:\/\/shop_images\/pet-and-owner-on-fall-walk.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "left",
