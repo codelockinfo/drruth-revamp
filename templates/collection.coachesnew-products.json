@@ -62,8 +62,8 @@
         "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p><strong>Featured Pet Consultants<\/strong><\/p>",
-            "heading_size": "h1"
+            "heading": "<p><strong>Our Featured Pet Coaches<\/strong><\/p>",
+            "heading_size": "h2"
           }
         },
         "template--14940389605441__ca075de0-606f-4393-99bb-5311518b5033-text-1": {
@@ -424,6 +424,7 @@
         "810072af-55bf-476e-ad03-28f283912f4d",
         "598e83b9-dabd-4c31-8f78-7029a352e249"
       ],
+      "disabled": true,
       "custom_css": [
         "div {border-radius: 30px;}",
         ".cmax_container {padding-top: 60px;}"
