@@ -1,7 +1,56 @@
 {
   "sections": {
+    "8519c13e-f76e-4138-8e2e-7be289b7b7da": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Spooktacular Treat",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "Potion for Every Pup: From allergy relief, joint support, or tail-wagging goodies, we've got the magic mix!",
+            "text_style": "body"
+          }
+        },
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1",
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1",
+        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/halloween-dog-with-jack-o-lantern.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "medium",
+        "desktop_content_position": "middle-left",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
@@ -26,90 +75,6 @@
         "padding_top": 36,
         "padding_bottom": 36,
         "rating": 5
-      }
-    },
-    "1631859338560c9b4a": {
-      "type": "collection-list",
-      "blocks": {
-        "1631859338560c9b4a-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "bars"
-          }
-        },
-        "1631859338560c9b4a-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "boards"
-          }
-        },
-        "1631859338560c9b4a-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "core-kites"
-          }
-        }
-      },
-      "block_order": [
-        "1631859338560c9b4a-0",
-        "1631859338560c9b4a-1",
-        "1631859338560c9b4a-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "SHOP MORE",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "164434556097d46afd": {
-      "type": "rich-text",
-      "blocks": {
-        "1644345560ae71793c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "1644345560ae71793c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Support Your Pet to Keep Cancer Under Control.<br\/><\/strong>The Cancer Support Protocol Reduce Inflammation, Blood Vessel Growth Into The Tumor, And Support Immune System Destruction of Cancer Cells.<\/p>"
-          }
-        },
-        "1644345560ae71793c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Book now!",
-            "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package\/",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644345560ae71793c-0",
-        "1644345560ae71793c-1",
-        "1644345560ae71793c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "1644346673ab5cde9c": {
@@ -185,159 +150,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "1644362911e27a17cd": {
-      "type": "multicolumn",
-      "blocks": {
-        "1644362911ff49262e-0": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644362911ff49262e-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644362911ff49262e-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c8e6142f-83cd-40f6-bb7b-2ad9fdf00bd2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b5900dc0-f343-402a-9fe7-0eb98426b80b": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1644362911ff49262e-0",
-        "1644362911ff49262e-1",
-        "1644362911ff49262e-2",
-        "c8e6142f-83cd-40f6-bb7b-2ad9fdf00bd2",
-        "b5900dc0-f343-402a-9fe7-0eb98426b80b"
-      ],
-      "disabled": true,
-      "settings": {
-        "custom_class": "",
-        "title": "Holistic Veterinary Care Packages",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "16443635858774eb64": {
-      "type": "rich-text",
-      "blocks": {
-        "1644363585f56cc491-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>I'm Your Pet's Ally - A trusted source of information for you & your pet.<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1644363585f56cc491-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You might question whether a holistic veterinary care approach is the right one or if it’ll even work. Yet, you can’t shake that feeling in the pit of your stomach that there might just be a better, safer way to care for your animal.<\/p><p>In my practice, I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.<\/p><p>I combine scientific facts, decades of clinical work, and a holistic, integrative approach to help you find solutions that’ll nurture your furry friend back to optimum health.<\/p>"
-          }
-        },
-        "1644363585f56cc491-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Read more",
-            "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644363585f56cc491-0",
-        "1644363585f56cc491-1",
-        "1644363585f56cc491-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16451372445fbe7db4": {
-      "type": "newsletter",
-      "blocks": {
-        "1645137244617a2009-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Be one of our VIP Clients",
-            "heading_size": "h1"
-          }
-        },
-        "1645137244617a2009-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
-          }
-        },
-        "1645137244617a2009-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "1645137244617a2009-0",
-        "1645137244617a2009-1",
-        "1645137244617a2009-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "bg_color": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "1645140795e31deed7": {
@@ -485,67 +297,14 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "8519c13e-f76e-4138-8e2e-7be289b7b7da": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Spooktacular Treat",
-            "heading_size": "h1"
-          }
-        },
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "Potion for Every Pup: From allergy relief, joint support, or tail-wagging goodies, we've got the magic mix!",
-            "text_style": "body"
-          }
-        },
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1",
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1",
-        "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/halloween-dog-with-jack-o-lantern.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
+    "8519c13e-f76e-4138-8e2e-7be289b7b7da",
     "banner",
     "product-grid",
-    "1631859338560c9b4a",
-    "164434556097d46afd",
     "1644346673ab5cde9c",
-    "1644362911e27a17cd",
-    "16443635858774eb64",
-    "16451372445fbe7db4",
     "1645140795e31deed7",
-    "164514111230637097",
-    "8519c13e-f76e-4138-8e2e-7be289b7b7da"
+    "164514111230637097"
   ]
 }
