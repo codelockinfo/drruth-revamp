@@ -446,13 +446,13 @@
         "title": "Are you looking for supplements for a specific need? Check it out on our other collections:",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 2,
         "color_scheme": "background-1",
         "show_view_all": true,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 16
       }
     },
     "9932b040-fcb0-4cbe-8184-157034272a49": {
@@ -520,7 +520,7 @@
           "settings": {
             "heading": "Causes of Bone and Joint Issues",
             "icon": "clipboard",
-            "row_content": "<p>🐶 <strong>Age and Wear and Tear:<\/strong> As pets age, their bones and joints naturally experience wear and tear. This can lead to conditions like arthritis and degenerative joint disease.<\/p><p>🐶 <strong>Genetics:<\/strong> Certain breeds are predisposed to specific bone and joint conditions. For example, larger breeds are more prone to hip dysplasia, while smaller breeds may face luxating patella issues.<\/p><p>🐶 <strong>Injuries:<\/strong> Traumatic incidents, such as fractures, dislocations, or ligament tears, can result in lasting bone and joint problems.<\/p><p>🐶 <strong>Obesity:<\/strong> Excess weight puts added strain on bones and joints, potentially leading to various musculoskeletal issues.<\/p><p>🐶<strong>Nutritional Deficiencies:<\/strong> Inadequate nutrition, especially during crucial growth stages, can impair bone development and joint health.<\/p>",
+            "row_content": "<p>🐶 <strong>Age and Wear and Tear<\/strong><\/p><p> As pets age, their bones and joints naturally experience wear and tear. This can lead to conditions like arthritis and degenerative joint disease.<\/p><p>🐶 <strong>Genetics<\/strong><\/p><p>Certain breeds are predisposed to specific bone and joint conditions. For example, larger breeds are more prone to hip dysplasia, while smaller breeds may face luxating patella issues.<\/p><p>🐶 <strong>Injuries<\/strong><\/p><p> Traumatic incidents, such as fractures, dislocations, or ligament tears, can result in lasting bone and joint problems.<\/p><p>🐶 <strong>Obesity<\/strong><\/p><p>Excess weight puts added strain on bones and joints, potentially leading to various musculoskeletal issues.<\/p><p>🐶<strong>Nutritional Deficiencies<\/strong><\/p><p>Inadequate nutrition, especially during crucial growth stages, can impair bone development and joint health.<\/p>",
             "page": ""
           }
         },
@@ -529,7 +529,7 @@
           "settings": {
             "heading": "Common Symptoms of Bone and Joint Issues",
             "icon": "clipboard",
-            "row_content": "<p>🐱 <strong>Limping or Favoring a Limb:<\/strong> Pets may exhibit a noticeable change in gait, often favoring one limb or showing signs of discomfort.<\/p><p>🐱 <strong>Stiffness:<\/strong> Difficulty in moving, particularly after periods of rest, is a classic sign of joint problems.<\/p><p>🐱 <strong>Decreased Activity Levels:<\/strong> Pets with bone and joint issues may become less active or avoid activities they once enjoyed.<\/p><p>🐱 <strong>Pain or Sensitivity to Touch:<\/strong> Pets may display signs of pain, which can include vocalizing, flinching, or becoming irritable when touched in certain areas.<\/p><p>🐱 <strong>Muscle Atrophy:<\/strong> Weakness or wasting of muscles around affected joints may become apparent.<\/p>",
+            "row_content": "<p>🐱 <strong>Limping or Favoring a Limb<\/strong><\/p><p>Pets may exhibit a noticeable change in gait, often favoring one limb or showing signs of discomfort.<\/p><p>🐱 <strong>Stiffness<\/strong><\/p><p>Difficulty in moving, particularly after periods of rest, is a classic sign of joint problems.<\/p><p>🐱 <strong>Decreased Activity Levels<\/strong><\/p><p>Pets with bone and joint issues may become less active or avoid activities they once enjoyed.<\/p><p>🐱 <strong>Pain or Sensitivity to Touch<\/strong><\/p><p>Pets may display signs of pain, which can include vocalizing, flinching, or becoming irritable when touched in certain areas.<\/p><p>🐱 <strong>Muscle Atrophy<\/strong><\/p><p>Weakness or wasting of muscles around affected joints may become apparent.<\/p>",
             "page": ""
           }
         },
@@ -550,9 +550,9 @@
         "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-3"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
-        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 30;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 18;}"
       ],
       "settings": {
         "caption": "",
@@ -575,7 +575,7 @@
         "164514111261d9da74-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Contact Us!<\/p>",
+            "heading": "<h2>Contact Us!<\/h2>",
             "heading_size": "h2"
           }
         },
@@ -602,6 +602,10 @@
         "164514111261d9da74-0",
         "164514111261d9da74-1",
         "164514111261d9da74-2"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
       ],
       "settings": {
         "desktop_content_position": "center",
