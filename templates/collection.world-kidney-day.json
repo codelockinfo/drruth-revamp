@@ -242,6 +242,7 @@
         "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65",
         "30ace9bc-a71f-4064-b63a-5467239cc6b6"
       ],
+      "disabled": true,
       "settings": {
         "title": "Are you looking for supplements for a specific need? Check it out on our other collections:",
         "heading_size": "h1",
