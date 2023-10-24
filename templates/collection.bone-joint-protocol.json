@@ -22,15 +22,15 @@
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>If your pet is dealing with joint-related health conditions, the best way we can do is to reduce joint inflammation, strengthen joints, and relieve pain .Here are my best tips to help your pet naturally. <\/p><p>These supplements are whole-food-based nutrition that supports easy, safe, and healthy removal of toxins.<\/p>",
+            "text": "<p>If your pet is dealing with joint-related health conditions, the best way we can do is to reduce joint inflammation, strengthen joints, and relieve pain. Dr. Ruth Roberts create specialized Support Protocols tailored to pets grappling with Bone and Joint Issues.<br\/><br\/>These supplements are meticulously crafted from whole-food sources, ensuring they facilitate the gentle, secure, and healthful elimination of toxins from your pet's system. This holistic approach prioritizes your pet's well-being, offering comprehensive support for their bone and joint health.<\/p>",
             "text_style": "body"
           }
         },
         "164436159488e9de81-2": {
           "type": "button",
           "settings": {
-            "button_label": "Download Stiff & Sore Pet Brochure",
-            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/%5BBone%5D+Supplement+Brochure.pdf"
+            "button_label": "Download Support Protocol",
+            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/Bone+%26+Joint+Support+Program.pdf"
           }
         }
       },
@@ -441,6 +441,7 @@
         "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65",
         "30ace9bc-a71f-4064-b63a-5467239cc6b6"
       ],
+      "disabled": true,
       "settings": {
         "title": "Are you looking for supplements for a specific need? Check it out on our other collections:",
         "heading_size": "h2",
@@ -496,6 +497,114 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "9932b040-fcb0-4cbe-8184-157034272a49": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h1>Bone and Joint Issues in Pet<\/h1>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our furry companions rely on their bones and joints for every leap, run, and playful romp. When these vital components face health challenges, it can significantly impact their quality of life. Let's delve into the causes, common symptoms, and ways to provide relief and support for bone and joint issues in cats and dogs.<\/p><h2><strong>Causes of Bone and Joint Issues<\/strong><\/h2><p><strong>Age and Wear and Tear:<\/strong> As pets age, their bones and joints naturally experience wear and tear. This can lead to conditions like arthritis and degenerative joint disease.<\/p><p><strong>Genetics:<\/strong> Certain breeds are predisposed to specific bone and joint conditions. For example, larger breeds are more prone to hip dysplasia, while smaller breeds may face luxating patella issues.<\/p><p><strong>Injuries:<\/strong> Traumatic incidents, such as fractures, dislocations, or ligament tears, can result in lasting bone and joint problems.<\/p><p><strong>Obesity:<\/strong> Excess weight puts added strain on bones and joints, potentially leading to various musculoskeletal issues.<\/p><p><strong>Nutritional Deficiencies:<\/strong> Inadequate nutrition, especially during crucial growth stages, can impair bone development and joint health.<\/p><h2><strong>Common Symptoms of Bone and Joint Issues<\/strong><\/h2><p><strong>Limping or Favoring a Limb:<\/strong> Pets may exhibit a noticeable change in gait, often favoring one limb or showing signs of discomfort.<\/p><p><strong>Stiffness:<\/strong> Difficulty in moving, particularly after periods of rest, is a classic sign of joint problems.<\/p><p><strong>Decreased Activity Levels:<\/strong> Pets with bone and joint issues may become less active or avoid activities they once enjoyed.<\/p><p><strong>Pain or Sensitivity to Touch:<\/strong> Pets may display signs of pain, which can include vocalizing, flinching, or becoming irritable when touched in certain areas.<\/p><p><strong>Muscle Atrophy:<\/strong> Weakness or wasting of muscles around affected joints may become apparent.<\/p><h2><strong>Relief and Support for Bone and Joint Issues<\/strong><\/h2><p><strong>Weight Management:<\/strong> Maintaining a healthy weight through balanced nutrition and regular exercise can reduce stress on bones and joints.<\/p><p><strong>Supplements:<\/strong> Glucosamine, chondroitin, and Omega-3 fatty acids can help support joint health and reduce inflammation.<\/p><p><strong>Low-Impact Exercise:<\/strong> Activities like swimming or gentle walks can help maintain mobility without putting excessive strain on joints.<\/p><p><strong>Warmth and Comfort:<\/strong> Providing warm bedding and avoiding cold, hard surfaces can alleviate discomfort.<\/p><p><strong>Medical Treatment:<\/strong> Consult a veterinarian for a tailored treatment plan, which may include pain relief medication, physical therapy, or surgical intervention.<\/p><p><strong>Holistic Approaches:<\/strong> Acupuncture, massage therapy, and alternative treatments may offer additional relief for some pets.<\/p><p>Remember, early detection and intervention are crucial in managing bone and joint issues. Regular veterinary check-ups and open communication with your veterinarian can ensure your furry friend enjoys a comfortable and active life. By understanding the causes, recognizing symptoms, and offering appropriate relief and support, we can help our pets thrive, even when facing bone and joint challenges.<\/p>"
+          }
+        },
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-heading-1",
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-text-1",
+        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-button-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-1",
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-2",
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-3",
+        "template--14921794977857__bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2-collapsible_row-4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Collapsible content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -508,6 +617,8 @@
     "16443635858774eb64",
     "16451372445fbe7db4",
     "1645140795e31deed7",
-    "164514111230637097"
+    "164514111230637097",
+    "9932b040-fcb0-4cbe-8184-157034272a49",
+    "bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2"
   ]
 }
