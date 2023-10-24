@@ -22,7 +22,7 @@
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Gut health is the basis of all health! The gut produces 75% of the Immune system function and 90% of Neurotransmitters in the body. If your pet has always had a sensitive tummy, or a recent major episode, Start Here!<\/p>",
+            "text": "<p>Maintaining good gut health, also known as gastrointestinal (GI) or digestive health, is crucial. The gut produces 75% of the Immune system function and 90% of Neurotransmitters in the body. It's the basis of all health.<br\/><br\/>If your pet has always had a sensitive tummy or experienced occasional digestive discomfort, Dr. Ruth Roberts has crafted this specialized support protocol. It's designed to provide the nurturing and fortification needed to promote a healthy and resilient digestive system for your furry friend.<\/p>",
             "text_style": "body"
           }
         },
@@ -30,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "Download Support Protocol",
-            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/%5BGut%5D+Supplement+Brochure.pdf"
+            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/Gut+Support+Program.pdf"
           }
         }
       },
