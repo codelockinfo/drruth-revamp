@@ -33,7 +33,7 @@
 
 
 .rx-product-list-item-inner .rx-product-description {
-  text-align: left;
+  text-align: center;
   transform: translateY(-30px);
 }
 
@@ -41,7 +41,7 @@
 
 .rx-product-list-item-reviewer{
   margin-top:20px;
-  text-align: left;
+  text-align: center;
   display: flex;
   align-items: center;
 }
