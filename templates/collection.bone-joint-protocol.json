@@ -132,8 +132,8 @@
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
-        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 30;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 18;}"
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 16px;}"
       ],
       "settings": {
         "caption": "",
@@ -222,7 +222,7 @@
         "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1"
       ],
       "custom_css": [
-        ".button{font-family: BLT-Heirloom;}"
+        ".button {font-family: BLT-Heirloom;}"
       ],
       "settings": {
         "desktop_content_position": "right",
