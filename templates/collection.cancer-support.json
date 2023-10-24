@@ -59,86 +59,13 @@
         "padding_bottom": 0
       }
     },
-    "1645229268be7cf115": {
-      "type": "featured-product",
-      "blocks": {
-        "16452292688412faa2-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "16452292688412faa2-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "16452292688412faa2-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "16452292688412faa2-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "16452292688412faa2-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "16452292688412faa2-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "16452292688412faa2-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "16452292688412faa2-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "16452292688412faa2-0",
-        "16452292688412faa2-1",
-        "16452292688412faa2-2",
-        "16452292688412faa2-3",
-        "16452292688412faa2-4",
-        "16452292688412faa2-5",
-        "16452292688412faa2-6",
-        "16452292688412faa2-7"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "vitality-mushroom-drops-for-dog-with-adaptogen-tincture",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 10px;}",
+        ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px; font-size: 12px; padding-bottom: 0px;}",
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 3px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
+      ],
       "settings": {
         "products_per_page": 8,
         "columns_desktop": 4,
@@ -146,7 +73,7 @@
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "show_special_offer": false,
         "enable_filtering": true,
         "filter_type": "drawer",
@@ -311,6 +238,84 @@
         "full_width": true,
         "padding_top": 88,
         "padding_bottom": 52
+      }
+    },
+    "1645229268be7cf115": {
+      "type": "featured-product",
+      "blocks": {
+        "16452292688412faa2-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16452292688412faa2-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "16452292688412faa2-2": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
+            "text_style": "subtitle"
+          }
+        },
+        "16452292688412faa2-3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "16452292688412faa2-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16452292688412faa2-5": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "16452292688412faa2-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16452292688412faa2-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "16452292688412faa2-0",
+        "16452292688412faa2-1",
+        "16452292688412faa2-2",
+        "16452292688412faa2-3",
+        "16452292688412faa2-4",
+        "16452292688412faa2-5",
+        "16452292688412faa2-6",
+        "16452292688412faa2-7"
+      ],
+      "disabled": true,
+      "settings": {
+        "product": "vitality-mushroom-drops-for-dog-with-adaptogen-tincture",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "1631859338560c9b4a": {
@@ -630,11 +635,11 @@
   "order": [
     "banner",
     "1644361594fa530990",
-    "1645229268be7cf115",
     "product-grid",
     "89327290-610f-4d8b-9cdd-f6844f3b1edf",
     "1645140795e31deed7",
     "d89d35f9-5cb5-4348-939d-229fdd49da21",
+    "1645229268be7cf115",
     "1631859338560c9b4a",
     "1644346673ab5cde9c",
     "1644362911e27a17cd",
