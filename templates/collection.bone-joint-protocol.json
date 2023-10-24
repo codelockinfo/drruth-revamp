@@ -203,6 +203,36 @@
         "padding_bottom": 16
       }
     },
+    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "https:\/\/drruthroberts.com\/pages\/pet-care-protocols",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1"
+      ],
+      "custom_css": [
+        ".button{font-family: BLT-Heirloom;}"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 88,
+        "padding_bottom": 52
+      }
+    },
     "1644346673ab5cde9c": {
       "type": "multicolumn",
       "blocks": {
@@ -478,36 +508,6 @@
         "padding_top": 28,
         "padding_bottom": 32
       }
-    },
-    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "View All",
-            "button_link": "https:\/\/drruthroberts.com\/pages\/pet-care-protocols",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "right",
-        "content_alignment": "right",
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 88,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -516,11 +516,11 @@
     "product-grid",
     "bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2",
     "1645140795e31deed7",
+    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c",
     "1644346673ab5cde9c",
     "1644362911e27a17cd",
     "16443635858774eb64",
     "16451372445fbe7db4",
-    "164514111230637097",
-    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c"
+    "164514111230637097"
   ]
 }
