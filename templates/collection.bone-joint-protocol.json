@@ -84,50 +84,6 @@
         "rating": 5
       }
     },
-    "164434556097d46afd": {
-      "type": "rich-text",
-      "blocks": {
-        "1644345560ae71793c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Nutrition and Supplements for Holistic Veterinary Care<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1644345560ae71793c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>While it’s natural to view your pet as a member of your family, do you view their health needs in the same manner you view yours?<\/p><p>As a human dedicated to a healthier lifestyle, you take a daily vitamin and may supplement that routine with different additions, be it fish oil or Vitamin C. <\/p><p>In this regard, your pet is no different from you. To ensure that your beloved animal is getting the nutrients and she needs, here are five supplements you can consider adding to your pet’s routine. <\/p>"
-          }
-        },
-        "1644345560ae71793c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Book now!",
-            "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package\/",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644345560ae71793c-0",
-        "1644345560ae71793c-1",
-        "1644345560ae71793c-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2": {
       "type": "collapsible-content",
       "blocks": {
@@ -240,7 +196,7 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "background-1",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
@@ -475,54 +431,6 @@
         "padding_bottom": 52
       }
     },
-    "9932b040-fcb0-4cbe-8184-157034272a49": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1>Bone and Joint Issues in Pet<\/h1>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our furry companions rely on their bones and joints for every leap, run, and playful romp. When these vital components face health challenges, it can significantly impact their quality of life. Let's delve into the causes, common symptoms, and ways to provide relief and support for bone and joint issues in cats and dogs.<\/p><h2><strong>Causes of Bone and Joint Issues<\/strong><\/h2><p><strong>Age and Wear and Tear:<\/strong> As pets age, their bones and joints naturally experience wear and tear. This can lead to conditions like arthritis and degenerative joint disease.<\/p><p><strong>Genetics:<\/strong> Certain breeds are predisposed to specific bone and joint conditions. For example, larger breeds are more prone to hip dysplasia, while smaller breeds may face luxating patella issues.<\/p><p><strong>Injuries:<\/strong> Traumatic incidents, such as fractures, dislocations, or ligament tears, can result in lasting bone and joint problems.<\/p><p><strong>Obesity:<\/strong> Excess weight puts added strain on bones and joints, potentially leading to various musculoskeletal issues.<\/p><p><strong>Nutritional Deficiencies:<\/strong> Inadequate nutrition, especially during crucial growth stages, can impair bone development and joint health.<\/p><h2><strong>Common Symptoms of Bone and Joint Issues<\/strong><\/h2><p><strong>Limping or Favoring a Limb:<\/strong> Pets may exhibit a noticeable change in gait, often favoring one limb or showing signs of discomfort.<\/p><p><strong>Stiffness:<\/strong> Difficulty in moving, particularly after periods of rest, is a classic sign of joint problems.<\/p><p><strong>Decreased Activity Levels:<\/strong> Pets with bone and joint issues may become less active or avoid activities they once enjoyed.<\/p><p><strong>Pain or Sensitivity to Touch:<\/strong> Pets may display signs of pain, which can include vocalizing, flinching, or becoming irritable when touched in certain areas.<\/p><p><strong>Muscle Atrophy:<\/strong> Weakness or wasting of muscles around affected joints may become apparent.<\/p><h2><strong>Relief and Support for Bone and Joint Issues<\/strong><\/h2><p><strong>Weight Management:<\/strong> Maintaining a healthy weight through balanced nutrition and regular exercise can reduce stress on bones and joints.<\/p><p><strong>Supplements:<\/strong> Glucosamine, chondroitin, and Omega-3 fatty acids can help support joint health and reduce inflammation.<\/p><p><strong>Low-Impact Exercise:<\/strong> Activities like swimming or gentle walks can help maintain mobility without putting excessive strain on joints.<\/p><p><strong>Warmth and Comfort:<\/strong> Providing warm bedding and avoiding cold, hard surfaces can alleviate discomfort.<\/p><p><strong>Medical Treatment:<\/strong> Consult a veterinarian for a tailored treatment plan, which may include pain relief medication, physical therapy, or surgical intervention.<\/p><p><strong>Holistic Approaches:<\/strong> Acupuncture, massage therapy, and alternative treatments may offer additional relief for some pets.<\/p><p>Remember, early detection and intervention are crucial in managing bone and joint issues. Regular veterinary check-ups and open communication with your veterinarian can ensure your furry friend enjoys a comfortable and active life. By understanding the causes, recognizing symptoms, and offering appropriate relief and support, we can help our pets thrive, even when facing bone and joint challenges.<\/p>"
-          }
-        },
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-heading-1",
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-text-1",
-        "template--14921794977857__9932b040-fcb0-4cbe-8184-157034272a49-button-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "164514111230637097": {
       "type": "rich-text",
       "blocks": {
@@ -570,20 +478,49 @@
         "padding_top": 28,
         "padding_bottom": 32
       }
+    },
+    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "https:\/\/drruthroberts.com\/pages\/pet-care-protocols",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794977857__2933e5d9-2249-45f6-93d7-cf68f1d6ac7c-button-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 88,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "banner",
     "1644361594fa530990",
     "product-grid",
-    "164434556097d46afd",
     "bbe5d0a6-ffc0-45fa-a9e8-dbcb44ce66b2",
     "1645140795e31deed7",
     "1644346673ab5cde9c",
     "1644362911e27a17cd",
     "16443635858774eb64",
     "16451372445fbe7db4",
-    "9932b040-fcb0-4cbe-8184-157034272a49",
-    "164514111230637097"
+    "164514111230637097",
+    "2933e5d9-2249-45f6-93d7-cf68f1d6ac7c"
   ]
 }
