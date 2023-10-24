@@ -15,14 +15,14 @@
         "164436159488e9de81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Cancer Support",
+            "heading": "Cancer Support Protocol For Pet",
             "heading_size": "h1"
           }
         },
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The most dreaded diagnosis pet owners face is Cancer. We are facing an epidemic of cancer in our Dogs & Cats, and natural options are rarely suggested by conventional vets.<br\/><br\/>I use the products below for all my consulting clients, to get fantastic health outcomes. I've recommended them for years, and use them for my own pets to keep their health and immune function top notch.<\/p>",
+            "text": "<p>The most dreaded diagnosis pet owners face is Cancer. We are facing an epidemic of cancer in our Dogs & Cats, and sadly conventional vets often don't mention natural ways to help. <br\/><br\/>Dr. Ruth Roberts has put together this support protocol that she uses for her consulting clients and even for her own pet. She's been suggesting these supplements for years to help pets stay healthy and keep their immune system strong while dealing with cancer.<\/p>",
             "text_style": "body"
           }
         },
@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/5_91810d9a-a6fc-42f8-9c0d-c62c64f0d07a.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
@@ -121,6 +121,7 @@
         "16452292688412faa2-6",
         "16452292688412faa2-7"
       ],
+      "disabled": true,
       "settings": {
         "product": "vitality-mushroom-drops-for-dog-with-adaptogen-tincture",
         "color_scheme": "background-1",
@@ -139,8 +140,8 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 3,
+        "products_per_page": 8,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
@@ -148,55 +149,12 @@
         "enable_quick_add": false,
         "show_special_offer": false,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 36,
         "padding_bottom": 36,
         "rating": 5
-      }
-    },
-    "164434556097d46afd": {
-      "type": "rich-text",
-      "blocks": {
-        "1644345560ae71793c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Support Your Pet to Keep Cancer Under Control.<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1644345560ae71793c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The Cancer Support Protocol Reduce Inflammation, Blood Vessel Growth Into The Tumor, And Support Immune System Destruction of Cancer Cells.<br\/><\/p>"
-          }
-        },
-        "1644345560ae71793c-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Book now!",
-            "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package\/",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644345560ae71793c-0",
-        "1644345560ae71793c-1",
-        "1644345560ae71793c-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "1631859338560c9b4a": {
@@ -471,36 +429,6 @@
     "1645140795e31deed7": {
       "type": "collection-list",
       "blocks": {
-        "1645140795cfde58e6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "allergy-support-supplement"
-          }
-        },
-        "1645140795cfde58e6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "anxiety-support-protocol"
-          }
-        },
-        "1645140795cfde58e6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "assisi-loop-calmer-canine®"
-          }
-        },
-        "0574c7aa-73e1-4698-bf97-1ee564ef6732": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cancer-support"
-          }
-        },
-        "be130b3e-47c3-4b08-802f-4115a3ccdb14": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gastrointestinal-support"
-          }
-        },
         "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3": {
           "type": "featured_collection",
           "settings": {
@@ -530,41 +458,28 @@
           "settings": {
             "collection": "post-surgical-care-collection"
           }
-        },
-        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "vaccine-heartworm-detox-protocol"
-          }
-        },
-        "30ace9bc-a71f-4064-b63a-5467239cc6b6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dr-ruth-roberts-supplements"
-          }
         }
       },
       "block_order": [
-        "1645140795cfde58e6-0",
-        "1645140795cfde58e6-1",
-        "1645140795cfde58e6-2",
-        "0574c7aa-73e1-4698-bf97-1ee564ef6732",
-        "be130b3e-47c3-4b08-802f-4115a3ccdb14",
         "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3",
         "a569004b-959f-4f42-a602-2283001e3d5d",
         "99543df5-f1be-456d-bfb0-730b21137132",
         "1853a121-95ff-45ab-9f71-39eaebc3baf3",
-        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250",
-        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65",
-        "30ace9bc-a71f-4064-b63a-5467239cc6b6"
+        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 25px; padding-top: 30px;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; text-color: black; padding-top: 15px;}",
+        ".button {font-family: \"BLT-heirloom\", sans-serif; text-color: white;}",
+        "img {border-radius: 30px;}"
       ],
       "settings": {
-        "title": "Are you looking for supplements for a specific need? Check it out on our other collections:",
+        "title": "See More Pet Protocols",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
         "color_scheme": "background-1",
-        "show_view_all": true,
+        "show_view_all": false,
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
@@ -591,7 +506,7 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Button label",
+            "button_label": "View All",
             "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -605,12 +520,43 @@
         "164514111261d9da74-1",
         "164514111261d9da74-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "d89d35f9-5cb5-4348-939d-229fdd49da21": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921793601601__d89d35f9-5cb5-4348-939d-229fdd49da21-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All",
+            "button_link": "https:\/\/drruthroberts.com\/pages\/pet-care-protocols",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793601601__d89d35f9-5cb5-4348-939d-229fdd49da21-button-1"
+      ],
+      "custom_css": [
+        ".button {font-family: BLT-Heirloom;}"
+      ],
+      "settings": {
+        "desktop_content_position": "right",
+        "content_alignment": "right",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 88,
         "padding_bottom": 52
       }
     }
@@ -620,13 +566,13 @@
     "1644361594fa530990",
     "1645229268be7cf115",
     "product-grid",
-    "164434556097d46afd",
     "1631859338560c9b4a",
     "1644346673ab5cde9c",
     "1644362911e27a17cd",
     "16443635858774eb64",
     "16451372445fbe7db4",
     "1645140795e31deed7",
-    "164514111230637097"
+    "164514111230637097",
+    "d89d35f9-5cb5-4348-939d-229fdd49da21"
   ]
 }
