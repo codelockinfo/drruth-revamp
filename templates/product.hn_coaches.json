@@ -487,6 +487,49 @@
         "padding_bottom": 48
       }
     },
+    "6c4498fe-ac4d-48ca-b9bd-fb242626d0cd": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Transform the Health of Your Beloved Pets:",
+            "heading_size": "h1"
+          }
+        },
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "VIEW MORE COACHES",
+            "button_link": "shopify:\/\/collections\/coaches"
+          }
+        }
+      },
+      "block_order": [
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-heading-1",
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-text-1",
+        "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-button-1"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308": {
       "type": "rich-text",
       "blocks": {
@@ -629,6 +672,7 @@
         "50343c4b-24ae-4259-a2d7-349ecf662bd7",
         "a02377b2-5215-41a6-bc48-d4afcccc8c69"
       ],
+      "disabled": true,
       "custom_css": [
         "h3 {font-size: 2rem;}"
       ],
@@ -707,56 +751,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "c9a89d44-e537-4d12-98c2-00d5cf2cb1b6": {
-      "type": "image-banner",
-      "blocks": {
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-heading-1": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-text-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-buttons-1": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-heading-1",
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-text-1",
-        "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-buttons-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
@@ -769,11 +763,11 @@
     "1b807219-da09-4a27-a62e-92485e0d5783",
     "633debae-a1a7-4670-a389-c7461a3b1f94",
     "c9a77dcc-8f21-456a-80a7-66ec510e4067",
+    "6c4498fe-ac4d-48ca-b9bd-fb242626d0cd",
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308",
     "d23ab1ba-25cd-4e5c-b53d-83583af5eeee",
     "5fb17d23-c495-41f2-8b33-acb8352081bd",
     "ae7e2baf-a177-490c-b4e0-b7818383f201",
-    "b63e6af2-2ca9-4b92-85c2-46a029e1ed88",
-    "c9a89d44-e537-4d12-98c2-00d5cf2cb1b6"
+    "b63e6af2-2ca9-4b92-85c2-46a029e1ed88"
   ]
 }
