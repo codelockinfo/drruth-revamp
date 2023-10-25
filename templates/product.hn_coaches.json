@@ -315,178 +315,6 @@
         "padding_bottom": 0
       }
     },
-    "abe4a906-a16b-4d26-8f07-691acdb8382b": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Our Certified Coaches<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-heading-1",
-        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-text-1"
-      ],
-      "custom_css": [
-        "div {}",
-        "h2 {padding-top: 50px; padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
-        "p {font-size: 1.7rem;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "1b807219-da09-4a27-a62e-92485e0d5783": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Why us?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1",
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1"
-      ],
-      "custom_css": [
-        "h2 {padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
-        "p {font-size: 1.7rem;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "633debae-a1a7-4670-a389-c7461a3b1f94": {
-      "type": "featured-collection",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "coaches",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 12,
-        "padding_bottom": 12
-      }
-    },
-    "c9a77dcc-8f21-456a-80a7-66ec510e4067": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067-column-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Component_5.png",
-            "title": "",
-            "text": "",
-            "link_label": "View Profile",
-            "link": "#"
-          }
-        },
-        "24217276-263c-450c-88f9-143a1370a99b": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Component_5.png",
-            "title": "",
-            "text": "",
-            "link_label": "View Profile",
-            "link": "#"
-          }
-        },
-        "a2b77a17-6495-43c5-be4f-f3bec6cd5d30": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Component_5.png",
-            "title": "",
-            "text": "",
-            "link_label": "View Profile",
-            "link": "#"
-          }
-        },
-        "1a61ff9f-050c-461a-9801-21edc2e284e5": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Component_5.png",
-            "title": "",
-            "text": "",
-            "link_label": "View Profile",
-            "link": "#"
-          }
-        }
-      },
-      "block_order": [
-        "template--14942166286401__c9a77dcc-8f21-456a-80a7-66ec510e4067-column-1",
-        "24217276-263c-450c-88f9-143a1370a99b",
-        "a2b77a17-6495-43c5-be4f-f3bec6cd5d30",
-        "1a61ff9f-050c-461a-9801-21edc2e284e5"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "div {background-color: #e6f0e7;}",
-        ".multicolumn-card__info {margin-top: -30px; text-align: center;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 4,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 48
-      }
-    },
     "6c4498fe-ac4d-48ca-b9bd-fb242626d0cd": {
       "type": "image-with-text",
       "blocks": {
@@ -521,14 +349,165 @@
         "image": "shopify:\/\/shop_images\/brown-dog-looks-up-to-small-kitten-in-a-persons-hands.jpg",
         "height": "small",
         "desktop_image_width": "medium",
-        "layout": "image_first",
+        "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 16,
-        "padding_bottom": 8
+        "padding_bottom": 40
+      }
+    },
+    "abe4a906-a16b-4d26-8f07-691acdb8382b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Certified Coaches<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-heading-1",
+        "template--14942166286401__abe4a906-a16b-4d26-8f07-691acdb8382b-text-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "div {}",
+        "h2 {padding-top: 50px; padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
+        "p {font-size: 1.7rem;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "c9a77dcc-8f21-456a-80a7-66ec510e4067": {
+      "type": "multicolumn",
+      "blocks": {
+        "1a61ff9f-050c-461a-9801-21edc2e284e5": {
+          "type": "column",
+          "settings": {
+            "title": "Our Certified Coaches",
+            "text": "<p>Many Certified Holistic Pet Health Coaches work as independent contractors or run their own businesses, allowing them to set their own schedules and work from home. This flexibility can be particularly appealing for individuals who are looking for a career that offers work-life balance. <\/p>",
+            "link_label": "",
+            "link": "#"
+          }
+        },
+        "509d71b0-3f8b-4a0d-b787-713839f212c1": {
+          "type": "column",
+          "settings": {
+            "title": "Why us?",
+            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1a61ff9f-050c-461a-9801-21edc2e284e5",
+        "509d71b0-3f8b-4a0d-b787-713839f212c1"
+      ],
+      "custom_css": [
+        "div {background-color: #e6f0e7;}",
+        ".multicolumn-card__info {margin-top: -30px; text-align: center;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "1b807219-da09-4a27-a62e-92485e0d5783": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Why us?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1",
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "h2 {padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
+        "p {font-size: 1.7rem;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "633debae-a1a7-4670-a389-c7461a3b1f94": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "coaches",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 12,
+        "padding_bottom": 12
       }
     },
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308": {
@@ -760,11 +739,11 @@
     "08272d4d-303d-440d-b37b-7a83170b6abe",
     "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18",
     "917f0b14-b480-4b5a-a463-55d41ed905c9",
+    "6c4498fe-ac4d-48ca-b9bd-fb242626d0cd",
     "abe4a906-a16b-4d26-8f07-691acdb8382b",
+    "c9a77dcc-8f21-456a-80a7-66ec510e4067",
     "1b807219-da09-4a27-a62e-92485e0d5783",
     "633debae-a1a7-4670-a389-c7461a3b1f94",
-    "c9a77dcc-8f21-456a-80a7-66ec510e4067",
-    "6c4498fe-ac4d-48ca-b9bd-fb242626d0cd",
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308",
     "d23ab1ba-25cd-4e5c-b53d-83583af5eeee",
     "5fb17d23-c495-41f2-8b33-acb8352081bd",
