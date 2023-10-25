@@ -350,6 +350,40 @@
         "padding_bottom": 0
       }
     },
+    "1b807219-da09-4a27-a62e-92485e0d5783": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Why us?<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1",
+        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1"
+      ],
+      "custom_css": [
+        "h2 {padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
+        "p {font-size: 1.7rem;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "633debae-a1a7-4670-a389-c7461a3b1f94": {
       "type": "featured-collection",
       "custom_css": [
@@ -539,40 +573,6 @@
         "starreviewhead": ""
       }
     },
-    "1b807219-da09-4a27-a62e-92485e0d5783": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Why us?<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-heading-1",
-        "template--14942166286401__1b807219-da09-4a27-a62e-92485e0d5783-text-1"
-      ],
-      "custom_css": [
-        "h2 {padding-bottom: 0; color: #2d4b49; font-family: BLT-Heirloom; font-size: 6rem;}",
-        "p {font-size: 1.7rem;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "5fb17d23-c495-41f2-8b33-acb8352081bd": {
       "type": "multicolumn",
       "blocks": {
@@ -745,6 +745,7 @@
         "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-text-1",
         "template--14958249115713__c9a89d44-e537-4d12-98c2-00d5cf2cb1b6-buttons-1"
       ],
+      "disabled": true,
       "settings": {
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -765,11 +766,11 @@
     "4f71bb3b-ad95-478f-9d80-d3a7d8c75c18",
     "917f0b14-b480-4b5a-a463-55d41ed905c9",
     "abe4a906-a16b-4d26-8f07-691acdb8382b",
+    "1b807219-da09-4a27-a62e-92485e0d5783",
     "633debae-a1a7-4670-a389-c7461a3b1f94",
     "c9a77dcc-8f21-456a-80a7-66ec510e4067",
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308",
     "d23ab1ba-25cd-4e5c-b53d-83583af5eeee",
-    "1b807219-da09-4a27-a62e-92485e0d5783",
     "5fb17d23-c495-41f2-8b33-acb8352081bd",
     "ae7e2baf-a177-490c-b4e0-b7818383f201",
     "b63e6af2-2ca9-4b92-85c2-46a029e1ed88",
