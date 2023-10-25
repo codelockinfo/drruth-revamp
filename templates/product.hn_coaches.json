@@ -518,16 +518,17 @@
         "template--14958249115713__6c4498fe-ac4d-48ca-b9bd-fb242626d0cd-button-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/brown-dog-looks-up-to-small-kitten-in-a-persons-hands.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "padding_top": 16,
+        "padding_bottom": 8
       }
     },
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308": {
