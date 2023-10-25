@@ -577,6 +577,7 @@
         "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-heading-1",
         "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-text-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 5rem; color: #2e484a;}",
         "p {font-size: 1.8rem; padding-left: 5rem; padding-right: 5rem;}"
@@ -592,6 +593,7 @@
     },
     "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
       "type": "Custom-rating",
+      "disabled": true,
       "custom_css": [
         ".container-content {width: 67%;}"
       ],
@@ -638,6 +640,7 @@
         "375e34dc-c0c2-4c56-a135-0c0aa37c83bc",
         "a8457623-efb4-431b-80d7-6f544e870a15"
       ],
+      "disabled": true,
       "custom_css": [
         ".customercontainer {margin: auto; margin-top: -110px; max-width: 1340px;}",
         ".customercontainer .truncate {text-align: justify; line-height: 26px;}",
