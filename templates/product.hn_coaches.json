@@ -58,13 +58,13 @@
         },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false
           }
         },
         "4e4ca8e0-c024-40a2-947e-f6be194e2e5b": {
           "type": "custom_liquid",
+          "disabled": true,
           "settings": {
             "custom_liquid": "<!DOCTYPE html>\n<html>\n<head>\n    <title>Custom CTA Button<\/title>\n    <style>\n        \/* Center align the container vertically and at the top *\/\n        .button-container {\n            display: flex;\n            justify-content: center;\n            align-items: flex-start; \/* Align to the top *\/\n            min-height: 25vh; \/* Minimum full viewport height *\/\n            margin: 0;\n            padding: 0; \/* Remove padding *\/\n        }\n        \/* Style the CTA button *\/\n        #ctaButton {\n            font-family: 'BLT-Heirloom', sans-serif;\n            font-weight: lighter;\n            font-size: 30pt;\n            color: white; \/* Text color is now white *\/\n            background-color: #184B44;\n            border: none;\n            padding: 15px 30px; \/* Padding for the button *\/\n            border-radius: 10px; \/* Rounded corners *\/\n            cursor: pointer;\n            margin-bottom: 0; \/* Remove margin-bottom *\/\n        }\n    <\/style>\n<\/head>\n<body>\n    <!-- Button Container -->\n    <div class=\"button-container\">\n        <!-- CTA Button -->\n        <button id=\"ctaButton\" onclick=\"changeText()\">BOOK A CONSULT<\/button>\n    <\/div>\n    <!-- JavaScript -->\n    <script>\n        function changeText() {\n            \/\/ Retrieve the metafield value for the button redirect\n            var metafieldValue = \"{{ product.metafields.Consult-button.redirect }}\"; \/\/ Use Shopify Liquid syntax to retrieve the metafield value\n            \/\/ Check if the user's device supports phone calls\n            if ('contacts' in navigator) {\n                \/\/ Initiate a phone call\n                navigator.contacts.select(['phoneNumbers'], function(contacts) {\n                    var phoneNumbers = contacts[0].phoneNumbers;\n                    if (phoneNumbers.length > 0) {\n                        var phoneNumber = phoneNumbers[0].value;\n                        window.location.href = 'tel:' + phoneNumber;\n                        \/\/ Change the button text to display the phone number\n                        document.getElementById(\"ctaButton\").textContent = phoneNumber;\n                    } else {\n                        alert(\"Phone number not available.\");\n                    }\n                }, function(error) {\n                    alert(\"Error: \" + error);\n                });\n            } else {\n                \/\/ Redirect to the URL specified in the metafield\n                window.location.href = metafieldValue;\n                \/\/ Change the button text to display the URL from the metafield\n                document.getElementById(\"ctaButton\").textContent = metafieldValue;\n            }\n        }\n    <\/script>\n<\/body>\n<\/html>"
           }
@@ -488,37 +488,6 @@
         "padding_bottom": 20
       }
     },
-    "265f2342-4de6-43b2-b80e-755f956e15b4": {
-      "type": "custom-reviews",
-      "blocks": {
-        "57ba1cf9-efe3-4bd7-bfc5-8be4b5520b41": {
-          "type": "block",
-          "settings": {
-            "rating": 5,
-            "confimed": "",
-            "confimedp": "",
-            "signtext": ""
-          }
-        },
-        "ddf8c68f-0fa8-4a09-9134-18dff7a7b2e5": {
-          "type": "block",
-          "settings": {
-            "rating": 5,
-            "confimed": "Mind Blowing!",
-            "confimedp": "Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies",
-            "signtext": ""
-          }
-        }
-      },
-      "block_order": [
-        "57ba1cf9-efe3-4bd7-bfc5-8be4b5520b41",
-        "ddf8c68f-0fa8-4a09-9134-18dff7a7b2e5"
-      ],
-      "disabled": true,
-      "settings": {
-        "starreviewhead": ""
-      }
-    },
     "d23ab1ba-25cd-4e5c-b53d-83583af5eeee": {
       "type": "custom-reviews",
       "blocks": {
@@ -741,7 +710,6 @@
     "633debae-a1a7-4670-a389-c7461a3b1f94",
     "c9a77dcc-8f21-456a-80a7-66ec510e4067",
     "ee4bb36e-3253-45a5-a415-1cb58bcfe308",
-    "265f2342-4de6-43b2-b80e-755f956e15b4",
     "d23ab1ba-25cd-4e5c-b53d-83583af5eeee",
     "1b807219-da09-4a27-a62e-92485e0d5783",
     "5fb17d23-c495-41f2-8b33-acb8352081bd",
