@@ -373,15 +373,6 @@
             "page": ""
           }
         },
-        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Types of Kidney Disease in Pets",
-            "icon": "paw_print",
-            "row_content": "<p><strong>Acute Kidney Disease (AKD):<\/strong> This type of kidney disease occurs suddenly and often as a result of a specific event or condition, such as ingestion of toxic substances, severe dehydration, or certain infections. With prompt and appropriate treatment, some cases of AKD can be reversible.<\/p><p><strong>Chronic Kidney Disease (CKD):<\/strong> This form of kidney disease develops over a longer period, often due to age-related wear and tear on the kidneys. It can also result from underlying conditions like high blood pressure, diabetes, or certain genetic factors. CKD is a progressive condition that requires ongoing management.<\/p>",
-            "page": ""
-          }
-        },
         "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
@@ -397,6 +388,15 @@
             "heading": "Common Symptoms to Watch For",
             "icon": "paw_print",
             "row_content": "<p>🐶 <strong>Increased Thirst and Urination: <\/strong>Excessive drinking and urination are early signs of kidney dysfunction.<\/p><p>🐶<strong> Loss of Appetite and Weight: <\/strong>Kidney disease can lead to a decreased appetite and subsequent weight loss.<\/p><p>🐶 <strong>Lethargy and Weakness:<\/strong> Pets with kidney issues may exhibit reduced energy levels and overall weakness.<\/p><p>🐶 <strong>Vomiting and Diarrhea: <\/strong>Gastrointestinal disturbances are common in pets with kidney disease.<\/p><p>🐶 <strong>Changes in Urine Color and Frequency:<\/strong> Look for alterations in urine color, consistency, and frequency of urination.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Types of Kidney Disease in Pets",
+            "icon": "paw_print",
+            "row_content": "<p><strong>Acute Kidney Disease (AKD):<\/strong> This type of kidney disease occurs suddenly and often as a result of a specific event or condition, such as ingestion of toxic substances, severe dehydration, or certain infections. With prompt and appropriate treatment, some cases of AKD can be reversible.<\/p><p><strong>Chronic Kidney Disease (CKD):<\/strong> This form of kidney disease develops over a longer period, often due to age-related wear and tear on the kidneys. It can also result from underlying conditions like high blood pressure, diabetes, or certain genetic factors. CKD is a progressive condition that requires ongoing management.<\/p>",
             "page": ""
           }
         },
@@ -421,9 +421,9 @@
       },
       "block_order": [
         "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-1",
-        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2",
         "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-3",
         "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-4",
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2",
         "d80e92c5-536f-44f7-9c77-e1ab38a643ac",
         "eea68e09-2b3d-410b-9c76-6754788aae15"
       ],
