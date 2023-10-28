@@ -489,12 +489,13 @@
         "bf8dd978-99ce-4e32-ac72-6161a1d6a060"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
-        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 16px;}"
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 25px; padding-top: 30px;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; text-color: black; padding-top: 15px;}",
+        ".button {font-family: \"BLT-heirloom\", sans-serif; text-color: white;}",
+        "img {border-radius: 30px;}"
       ],
       "settings": {
-        "title": "Check Out More Pet Protocols",
+        "title": "See More Pet Protocols",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 5,
