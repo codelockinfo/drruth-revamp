@@ -92,7 +92,7 @@
           "settings": {
             "heading": "",
             "icon": "none",
-            "row_content": "<p>Cancer, a term that strikes fear into the hearts of pet owners, is a profoundly serious issue that can impact our cherished cats and dogs. It's an illness that knows no bounds, affecting animals of all shapes and sizes. We'll explore what leads to its development, the telltale signs that might indicate its presence, and most importantly, how we can offer comfort and assistance to our furry companions in their battle against this formidable adversary.<br\/><br\/>By understanding the causes and recognizing the symptoms of cancer in our pets, we empower ourselves to be more vigilant and proactive in their care. <\/p>",
+            "row_content": "<p>Cancer in pets, similar to cancer in humans, refers to the abnormal and uncontrolled growth of cells in the body. These cells can form tumors, which may be benign (non-cancerous) or malignant (cancerous). Cancer can affect various tissues and organs in a pet's body, leading to a range of health issues.<\/p><p>Just like in humans, the exact cause of cancer in pets can be complex and multifaceted. It can arise from a combination of genetic predisposition, environmental factors, exposure to carcinogens, and sometimes, it may occur spontaneously.<\/p>",
             "page": ""
           }
         },
@@ -100,7 +100,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Common Causes of Cancer in Cats and Dogs",
-            "icon": "clipboard",
+            "icon": "paw_print",
             "row_content": "<p>🐶 <strong>Genetics<\/strong><\/p><p>Certain breeds have a higher predisposition to specific types of cancer. Genetic factors can play a significant role in the development of tumors.<\/p><p>🐶 <strong>Environmental Factors<\/strong><\/p><p>Exposure to carcinogens, such as tobacco smoke, certain chemicals, and environmental pollutants, can increase the risk of cancer in pets.<\/p><p>🐶 <strong>Age<\/strong><\/p><p>As pets grow older, their risk of developing cancer increases. This is especially true for dogs, where age is a significant factor.<\/p><p>🐶 <strong>Diet and Nutrition<\/strong><\/p><p>Poor diet and inadequate nutrition may contribute to the development of certain cancers. Conversely, a balanced and nutritious diet can help support a pet's overall health.<\/p><p>🐶 <strong>Exposure to Ultraviolet (UV) Light<\/strong><\/p><p>Cats that spend a lot of time outdoors, especially with light-colored fur, have an increased risk of skin cancer due to UV exposure.<\/p>",
             "page": ""
           }
@@ -109,8 +109,17 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Common Symptoms of Cancer in Cats and Dogs",
-            "icon": "clipboard",
+            "icon": "paw_print",
             "row_content": "<p> 🐱 <strong>Unusual Lumps or Bumps<\/strong><\/p><p>Palpable masses or growths that appear on the body can be an early sign of cancer.<\/p><p> 🐱 <strong>Changes in Appetite and Weight Loss<\/strong><\/p><p>A sudden loss of appetite or unexplained weight loss can indicate an underlying health issue, including cancer.<\/p><p> 🐱 <strong>Persistent Lethargy<\/strong><\/p><p>If a normally active pet becomes unusually lethargic and lacks energy, it may be a cause for concern.<\/p><p> 🐱 <strong>Difficulty Breathing<\/strong><\/p><p>Respiratory problems, including persistent coughing or labored breathing, may be indicative of certain types of cancer.<\/p><p><strong>Changes in Behavior<\/strong><\/p><p>Altered behavior, including irritability, aggression, or withdrawal, can be a response to pain or discomfort associated with cancer.<\/p>",
+            "page": ""
+          }
+        },
+        "1c35b613-9359-4a7e-ae60-1ddab3fbeb90": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Common Types of Cancer in Pets",
+            "icon": "paw_print",
+            "row_content": "<p>🐶 <strong>Lymphoma:<\/strong> A cancer of the lymphatic system, which is part of the immune system.<\/p><p>🐶 <strong>Mammary Gland Tumors:<\/strong> These can occur in both male and female pets, but are more common in female dogs.<\/p><p>🐶 <strong>Skin Tumors:<\/strong> Including both benign growths like lipomas and malignant tumors like melanomas.<\/p><p>🐶 <strong>Osteosarcoma:<\/strong> A type of bone cancer that is more prevalent in larger dog breeds.<\/p><p>🐶 <strong>Hemangiosarcoma:<\/strong> A cancer of the blood vessels that can affect organs like the spleen, heart, or liver.<\/p><p>🐶 <strong>Mast Cell Tumors:<\/strong> These tumors arise from a type of immune cell called mast cells and can occur in the skin or internal organs.<\/p>",
             "page": ""
           }
         },
@@ -128,6 +137,7 @@
         "template--14921793601601__89327290-610f-4d8b-9cdd-f6844f3b1edf-collapsible_row-1",
         "template--14921793601601__89327290-610f-4d8b-9cdd-f6844f3b1edf-collapsible_row-2",
         "template--14921793601601__89327290-610f-4d8b-9cdd-f6844f3b1edf-collapsible_row-3",
+        "1c35b613-9359-4a7e-ae60-1ddab3fbeb90",
         "template--14921793601601__89327290-610f-4d8b-9cdd-f6844f3b1edf-collapsible_row-4"
       ],
       "custom_css": [
