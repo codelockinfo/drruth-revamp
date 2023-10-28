@@ -179,7 +179,7 @@
           "settings": {
             "heading": "Common Causes of Liver Disease In Pets",
             "icon": "paw_print",
-            "row_content": "<p><strong>Infections<\/strong>: Both bacterial and viral infections, such as feline infectious peritonitis (FIP) in cats or infectious canine hepatitis in dogs, can lead to liver inflammation.<\/p><p><strong>Toxins<\/strong>: Ingestion of certain medications, chemicals, plants, or exposure to harmful substances like xylitol, found in some sugar-free products, can cause liver damage.<\/p><p><strong>Dietary Factors<\/strong>: Poor nutrition, especially in cats, can lead to hepatic lipidosis (fatty liver disease), a condition where excess fat accumulates in liver cells.<\/p><p><strong>Metabolic Disorders<\/strong>: Conditions like diabetes, obesity, or Cushing's disease can contribute to liver dysfunction.<\/p><p><strong>Genetic Predispositions<\/strong>: Some breeds are more susceptible to specific liver conditions due to genetic factors.<\/p><p><strong>Autoimmune Disorders<\/strong>: The immune system may erroneously target and damage liver tissue.<\/p>",
+            "row_content": "<p>🐶 <strong>Infections<\/strong>: Both bacterial and viral infections, such as feline infectious peritonitis (FIP) in cats or infectious canine hepatitis in dogs, can lead to liver inflammation.<\/p><p>🐶 <strong>Toxins<\/strong>: Ingestion of certain medications, chemicals, plants, or exposure to harmful substances like xylitol, found in some sugar-free products, can cause liver damage.<\/p><p>🐶 <strong>Dietary Factors<\/strong>: Poor nutrition, especially in cats, can lead to hepatic lipidosis (fatty liver disease), a condition where excess fat accumulates in liver cells.<\/p><p>🐶 <strong>Metabolic Disorders<\/strong>: Conditions like diabetes, obesity, or Cushing's disease can contribute to liver dysfunction.<\/p><p>🐶 <strong>Genetic Predispositions<\/strong>: Some breeds are more susceptible to specific liver conditions due to genetic factors.<\/p><p>🐶 <strong>Autoimmune Disorders<\/strong>: The immune system may erroneously target and damage liver tissue.<\/p>",
             "page": ""
           }
         },
@@ -188,7 +188,7 @@
           "settings": {
             "heading": "Common Symptoms Of Liver Disease In Pets",
             "icon": "paw_print",
-            "row_content": "<p><strong>Loss of Appetite and Weight Loss<\/strong>: Cats and dogs with liver disease often exhibit reduced interest in food, leading to weight loss.<\/p><p><strong>Jaundice (Yellowing of Skin and Eyes)<\/strong>: Elevated bilirubin levels in the blood can cause yellowing of mucous membranes and skin.<\/p><p><strong>Vomiting and Diarrhea<\/strong>: Gastrointestinal symptoms can occur due to impaired digestion and absorption.<\/p><p><strong>Increased Thirst and Urination<\/strong>: Changes in fluid balance may lead to increased drinking and urination.<\/p><p><strong>Lethargy and Weakness<\/strong>: Reduced energy levels are common due to the body's struggle to metabolize nutrients.<\/p><p><strong>Abdominal Pain or Swelling<\/strong>: Enlargement of the liver or the accumulation of fluid in the abdomen (ascites) can cause discomfort.<\/p>",
+            "row_content": "<p>🐱 <strong>Loss of Appetite and Weight Loss<\/strong>: Cats and dogs with liver disease often exhibit reduced interest in food, leading to weight loss.<\/p><p>🐱 <strong>Jaundice (Yellowing of Skin and Eyes)<\/strong>: Elevated bilirubin levels in the blood can cause yellowing of mucous membranes and skin.<\/p><p>🐱 <strong>Vomiting and Diarrhea<\/strong>: Gastrointestinal symptoms can occur due to impaired digestion and absorption.<\/p><p>🐱 <strong>Increased Thirst and Urination<\/strong>: Changes in fluid balance may lead to increased drinking and urination.<\/p><p>🐱 <strong>Lethargy and Weakness<\/strong>: Reduced energy levels are common due to the body's struggle to metabolize nutrients.<\/p><p>🐱 <strong>Abdominal Pain or Swelling<\/strong>: Enlargement of the liver or the accumulation of fluid in the abdomen (ascites) can cause discomfort.<\/p>",
             "page": ""
           }
         },
@@ -197,7 +197,7 @@
           "settings": {
             "heading": "Types of Liver Disease In Pets",
             "icon": "paw_print",
-            "row_content": "<p><strong>Hepatitis<\/strong>: Inflammation of the liver, which can be caused by infections, toxins, or autoimmune processes.<\/p><p><strong>Chronic Liver Disease<\/strong>: A progressive condition where ongoing damage leads to impaired liver function.<\/p><p><strong>Cirrhosis<\/strong>: Late-stage scarring of the liver tissue, often a result of chronic liver disease.<\/p><p><strong>Portosystemic Shunts<\/strong>: Abnormal blood vessels bypass the liver, preventing proper toxin filtration.<\/p>",
+            "row_content": "<p>🐶 <strong>Hepatitis<\/strong>: Inflammation of the liver, which can be caused by infections, toxins, or autoimmune processes.<\/p><p>🐶 <strong>Chronic Liver Disease<\/strong>: A progressive condition where ongoing damage leads to impaired liver function.<\/p><p>🐶 <strong>Cirrhosis<\/strong>: Late-stage scarring of the liver tissue, often a result of chronic liver disease.<\/p><p>🐶 <strong>Portosystemic Shunts<\/strong>: Abnormal blood vessels bypass the liver, preventing proper toxin filtration.<\/p>",
             "page": ""
           }
         },
@@ -221,7 +221,7 @@
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
         "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 16px;}"
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}"
       ],
       "settings": {
         "caption": "LET'S LEARN MORE ABOUT",
