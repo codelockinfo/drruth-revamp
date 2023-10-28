@@ -246,91 +246,6 @@
         "padding_bottom": 52
       }
     },
-    "1644346673ab5cde9c": {
-      "type": "multicolumn",
-      "blocks": {
-        "1644346673215909db-0": {
-          "type": "column",
-          "settings": {
-            "title": "1. Improve Quality of Nutrition",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644346673215909db-1": {
-          "type": "column",
-          "settings": {
-            "title": "2. Increase Water Consumption",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644346673215909db-2": {
-          "type": "column",
-          "settings": {
-            "title": "3. Decrease Inflammation",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "7e2f260b-9426-4f80-b237-654daa7af150": {
-          "type": "column",
-          "settings": {
-            "title": "4. Improve Kidney Function",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "851298dd-4488-4c37-bd0a-47c632e1f888": {
-          "type": "column",
-          "settings": {
-            "title": "5. Improve Gut Health",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b51b8c07-4289-434b-bea6-97e457119a93": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1644346673215909db-0",
-        "1644346673215909db-1",
-        "1644346673215909db-2",
-        "7e2f260b-9426-4f80-b237-654daa7af150",
-        "851298dd-4488-4c37-bd0a-47c632e1f888",
-        "b51b8c07-4289-434b-bea6-97e457119a93"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "If you are searching for solutions to ease your pet's kidney disease symptoms, look no further. Use my 5-Step Comprehensive Kidney Health Program.",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1644362911e27a17cd": {
       "type": "multicolumn",
       "blocks": {
@@ -411,48 +326,6 @@
         "padding_bottom": 36
       }
     },
-    "16443635858774eb64": {
-      "type": "rich-text",
-      "blocks": {
-        "1644363585f56cc491-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>IRIS Treatment Recommendations for CKD<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "1644363585f56cc491-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>All chronic kidney disease (CKD) treatments must be personalized for each patient. For the majority of animals at each stage, the following suggestions are good places to start. Serial monitoring of these individuals is ideal, and treatment should be tailored to the patient's reaction.<\/p><p>I use the products above for all my consulting clients, to get fantastic health outcomes. I've recommended them for years, and use them for my own pets to keep their health and immune function top notch. <\/p>"
-          }
-        },
-        "1644363585f56cc491-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book A Holistic Consultation",
-            "button_link": "shopify:\/\/products\/holistic-wellness-package-advanced-care-1",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644363585f56cc491-0",
-        "1644363585f56cc491-1",
-        "1644363585f56cc491-2"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "16451372445fbe7db4": {
       "type": "newsletter",
       "blocks": {
@@ -487,6 +360,92 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "1c30c43d-90bc-4707-a817-43fbb7821950": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Kidney disease in pets, also known as renal disease or renal failure, refers to a condition where the kidneys are unable to adequately perform their essential functions. The kidneys play a critical role in maintaining a pet's overall health by filtering waste products, regulating electrolyte balance, managing blood pressure, and producing essential hormones. When the kidneys are compromised, these functions are impaired, which can lead to a range of health issues.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Types of Kidney Disease in Pets",
+            "icon": "paw_print",
+            "row_content": "<p><strong>Acute Kidney Disease (AKD):<\/strong> This type of kidney disease occurs suddenly and often as a result of a specific event or condition, such as ingestion of toxic substances, severe dehydration, or certain infections. With prompt and appropriate treatment, some cases of AKD can be reversible.<\/p><p><strong>Chronic Kidney Disease (CKD):<\/strong> This form of kidney disease develops over a longer period, often due to age-related wear and tear on the kidneys. It can also result from underlying conditions like high blood pressure, diabetes, or certain genetic factors. CKD is a progressive condition that requires ongoing management.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Common Causes of Kidney Disease in Pets",
+            "icon": "paw_print",
+            "row_content": "<p>🐱 <strong>Aging: <\/strong>As pets grow older, their kidneys naturally undergo wear and tear, making them more susceptible to kidney-related issues.<\/p><p>🐱 <strong>Genetic Predisposition: <\/strong>Certain breeds may have a higher predisposition to kidney disease due to inherited factors.<\/p><p>🐱 <strong>Toxins: <\/strong>Exposure to harmful substances like certain plants, chemicals, and medications can lead to kidney damage.<\/p><p>🐱 <strong>Infections: <\/strong>Bacterial or viral infections can directly affect the kidneys or lead to secondary complications.<\/p><p>🐱 <strong>High Blood Pressure:<\/strong> Elevated blood pressure levels can strain the kidneys over time, contributing to kidney disease.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Common Symptoms to Watch For",
+            "icon": "paw_print",
+            "row_content": "<p>🐶 <strong>Increased Thirst and Urination: <\/strong>Excessive drinking and urination are early signs of kidney dysfunction.<\/p><p>🐶<strong> Loss of Appetite and Weight: <\/strong>Kidney disease can lead to a decreased appetite and subsequent weight loss.<\/p><p>🐶 <strong>Lethargy and Weakness:<\/strong> Pets with kidney issues may exhibit reduced energy levels and overall weakness.<\/p><p>🐶 <strong>Vomiting and Diarrhea: <\/strong>Gastrointestinal disturbances are common in pets with kidney disease.<\/p><p>🐶 <strong>Changes in Urine Color and Frequency:<\/strong> Look for alterations in urine color, consistency, and frequency of urination.<\/p>",
+            "page": ""
+          }
+        },
+        "d80e92c5-536f-44f7-9c77-e1ab38a643ac": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Supportive Relief For Pets With Kidney Disease",
+            "icon": "clipboard",
+            "row_content": "<p>✅ Provide a balanced, renal-friendly diet for vital nutrition.<\/p><p>✅ Encourage hydration with accessible, clean water sources.<\/p><p>✅ Combat inflammation with Omega-3 fatty acids from fish oil.<\/p><p>✅ Support kidney function with supplements tailored to your pet's needs.<\/p><p>✅ Promote gut health with probiotics, prebiotics, and fiber-rich foods<\/p>",
+            "page": ""
+          }
+        },
+        "eea68e09-2b3d-410b-9c76-6754788aae15": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "IRIS Treatment Recommendations for Chronic Kidney Disease (CKD)",
+            "icon": "clipboard",
+            "row_content": "<p>All chronic kidney disease (CKD) treatments must be personalized for each patient. For the majority of animals at each stage, the following suggestions are good places to start. Serial monitoring of these individuals is ideal, and treatment should be tailored to the patient's reaction.<\/p><p>I use the products above for all my consulting clients, to get fantastic health outcomes. I've recommended them for years, and use them for my own pets to keep their health and immune function top notch. <\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-1",
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-2",
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-3",
+        "template--14921795305537__1c30c43d-90bc-4707-a817-43fbb7821950-collapsible_row-4",
+        "d80e92c5-536f-44f7-9c77-e1ab38a643ac",
+        "eea68e09-2b3d-410b-9c76-6754788aae15"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 16px;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Kidney Disease in Pets",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -496,9 +455,8 @@
     "product-grid",
     "1631859338560c9b4a",
     "164434556097d46afd",
-    "1644346673ab5cde9c",
     "1644362911e27a17cd",
-    "16443635858774eb64",
-    "16451372445fbe7db4"
+    "16451372445fbe7db4",
+    "1c30c43d-90bc-4707-a817-43fbb7821950"
   ]
 }
