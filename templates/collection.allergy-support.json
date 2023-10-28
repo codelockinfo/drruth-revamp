@@ -170,7 +170,7 @@
         "enable_quick_add": true,
         "show_special_offer": false,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 36,
@@ -178,92 +178,70 @@
         "rating": 5
       }
     },
-    "1631859338560c9b4a": {
-      "type": "collection-list",
+    "9c7cefbb-6aab-488a-b734-f59e08f7b6fd": {
+      "type": "collapsible-content",
       "blocks": {
-        "1631859338560c9b4a-0": {
-          "type": "featured_collection",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-1": {
+          "type": "collapsible_row",
           "settings": {
-            "collection": "bars"
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Much like us, our canine and feline companions are not immune to the discomforting effects of allergies and persistent itchiness. These conditions can significantly diminish their quality of life, causing them considerable distress and unease.  When exposed to these allergens, their immune systems response by releasing histamines, leading to a cascade of uncomfortable symptoms. Identifying the precise allergens at play and instituting effective management strategies, becomes paramount. Here’s what you need to know and what you can do to support you pet experiencing itch and allergy:<\/p>",
+            "page": ""
           }
         },
-        "1631859338560c9b4a-1": {
-          "type": "featured_collection",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-2": {
+          "type": "collapsible_row",
           "settings": {
-            "collection": "boards"
+            "heading": "Common Causes of Itch and Allergies",
+            "icon": "paw_print",
+            "row_content": "<p>🐶 <strong>Environmental Allergies: <\/strong>Pets can be allergic to pollen, dust mites, mold spores, and grass. Exposure can lead to skin reactions, causing itching and redness.<\/p><p>🐶 <strong>Food Allergies<\/strong>: Dogs and cats may develop allergies to specific ingredients in their diet, like proteins (beef, chicken) and grains (wheat, corn).<\/p><p>🐶 <strong>Flea Allergy Dermatitis: <\/strong>Even a single flea bite can cause severe itching, leading to flea allergy dermatitis in sensitive pets.<\/p><p>🐶<strong> Contact Dermatitis: <\/strong>Some pets may develop skin irritation when exposed to certain substances like cleaning products, plants, or fabrics.<\/p>",
+            "page": ""
           }
         },
-        "1631859338560c9b4a-2": {
-          "type": "featured_collection",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-3": {
+          "type": "collapsible_row",
           "settings": {
-            "collection": "core-kites"
+            "heading": "Symptoms of Itch and Allergies",
+            "icon": "paw_print",
+            "row_content": "<p>🐱 <strong>Itching (Pruritus):<\/strong> Persistent scratching, biting, or licking of the skin.<\/p><p>🐱 <strong>Redness and Inflammation:<\/strong> Visible signs of irritation, especially in areas where the pet has been scratching.<\/p><p>🐱 <strong>Hair Loss:<\/strong> Continuous itching can lead to patches of hair loss.<\/p><p>🐱 <strong>Skin Infections:<\/strong> Scratching can create openings in the skin, making it susceptible to bacterial or fungal infections.<\/p><h2><\/h2>",
+            "page": ""
+          }
+        },
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Relief Options",
+            "icon": "clipboard",
+            "row_content": "<p>🧪 ALLERGY AND FOOD SENSITIVITY TESTING<\/p><p>Identifying the specific allergens causing the reaction can be crucial in developing an effective treatment plan. This can be done through allergy tests or blood tests.<\/p><p>💊 SUPPLEMENTATION<\/p><p>Incorporating targeted supplements like omega-3 fatty acids, which have anti-inflammatory properties, can further support skin health and mitigate allergic reactions. Additionally, natural remedies such as quercetin, known for its antihistamine properties, can be introduced to help modulate the immune response. These supplements, when integrated into a comprehensive treatment plan, complement the aforementioned strategies, enhancing the overall well-being of our furry companions suffering from allergies and itchiness.<\/p><p>🥗 ALLERGY-FRIENDLY DIETS<\/p><p>Switching to hypoallergenic or limited-ingredient diets can be effective for pets with food allergies. These diets contain novel protein and carbohydrate sources that the pet hasn't been exposed to before. <br\/>Specialized diets like those from <a href=\"https:\/\/drruthroberts.com\/products\/the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts\" target=\"_blank\" title=\"Try CrockPet Diet\">The CrockPet Diet<\/a>, can offer a range of hypoallergenic and limited-ingredient options.<\/p><p>🦠 IMPROVE GUT HEALTH<\/p><p>While it might not initially seem intuitive to focus on enhancing gut function to mitigate allergic diseases, it's important to note that about 70% of the immune system resides in the gut. If your pet has undergone treatment with antibiotics, steroids, or other potent anti-allergy medications, it's likely that the normal microbiome has been disrupted.<\/p><p>Initiating the restoration of the gut is the first step. As you<a href=\"https:\/\/drruthroberts.com\/products\/gut-instincts-natural-digestion-gi-health\" target=\"_blank\" title=\"Learn more about gut health\"> improve the gut health<\/a>, you lower the likelihood of your pet absorbing allergens from her food, during grooming, or through other means of ingestion. <\/p><p>🦟 FLEA CONTROL<\/p><p>Implementing a regular flea prevention program is crucial in managing flea allergy dermatitis. This may include topical treatments, oral medications, or collars.<\/p><p>🌳 ENVIRONMENTAL MANAGEMENT<\/p><p>Minimizing exposure to known allergens, such as keeping pets indoors during high pollen seasons or using hypoallergenic bedding, can help reduce symptoms.<\/p><p>Seeking the guidance of a holistic veterinarian or a<a href=\"https:\/\/drruthroberts.com\/pages\/consulting-page\"> <span style=\"text-decoration:underline\">certified holistic pet health coach<\/span><\/a>  is crucial to help you formulate a tailored plan to restore comfort and well-being to our cherished furry friends.🐱<\/p>",
+            "page": ""
           }
         }
       },
       "block_order": [
-        "1631859338560c9b4a-0",
-        "1631859338560c9b4a-1",
-        "1631859338560c9b4a-2"
-      ],
-      "disabled": true,
-      "settings": {
-        "title": "SHOP MORE",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "164434556097d46afd": {
-      "type": "rich-text",
-      "blocks": {
-        "1644345560ae71793c-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p><strong>Itch and Allergy Relief for Dogs and Cats<\/strong><\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "1644345560ae71793c-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Much like us, our canine and feline companions are not immune to the discomforting effects of allergies and persistent itchiness. These conditions can significantly diminish their quality of life, causing them considerable distress and unease.  When exposed to these allergens, their immune systems response by releasing histamines, leading to a cascade of uncomfortable symptoms. Identifying the precise allergens at play and instituting effective management strategies, becomes paramount. Here’s what you need to know and what you can do to support you pet experiencing itch and allergy:<\/p><h2><strong>Common Causes of Itch and Allergies<\/strong><\/h2><p>🐶 <strong>Environmental Allergies: <\/strong>Pets can be allergic to pollen, dust mites, mold spores, and grass. Exposure can lead to skin reactions, causing itching and redness.<\/p><p>🐶 <strong>Food Allergies<\/strong>: Dogs and cats may develop allergies to specific ingredients in their diet, like proteins (beef, chicken) and grains (wheat, corn).<\/p><p>🐶 <strong>Flea Allergy Dermatitis: <\/strong>Even a single flea bite can cause severe itching, leading to flea allergy dermatitis in sensitive pets.<\/p><p>🐶<strong> Contact Dermatitis: <\/strong>Some pets may develop skin irritation when exposed to certain substances like cleaning products, plants, or fabrics.<\/p><h2><strong>Symptoms of Itch and Allergies<\/strong><\/h2><p>🐱 <strong>Itching (Pruritus):<\/strong> Persistent scratching, biting, or licking of the skin.<\/p><p>🐱 <strong>Redness and Inflammation:<\/strong> Visible signs of irritation, especially in areas where the pet has been scratching.<\/p><p>🐱 <strong>Hair Loss:<\/strong> Continuous itching can lead to patches of hair loss.<\/p><p>🐱 <strong>Skin Infections:<\/strong> Scratching can create openings in the skin, making it susceptible to bacterial or fungal infections.<\/p><h2><strong>Relief Options <\/strong><\/h2><p>🧪 ALLERGY AND FOOD SENSITIVITY TESTING<\/p><p>Identifying the specific allergens causing the reaction can be crucial in developing an effective treatment plan. This can be done through allergy tests or blood tests.<\/p><p>💊 SUPPLEMENTATION<\/p><p>Incorporating targeted supplements like omega-3 fatty acids, which have anti-inflammatory properties, can further support skin health and mitigate allergic reactions. Additionally, natural remedies such as quercetin, known for its antihistamine properties, can be introduced to help modulate the immune response. These supplements, when integrated into a comprehensive treatment plan, complement the aforementioned strategies, enhancing the overall well-being of our furry companions suffering from allergies and itchiness.<\/p><p>🥗 ALLERGY-FRIENDLY DIETS<\/p><p>Switching to hypoallergenic or limited-ingredient diets can be effective for pets with food allergies. These diets contain novel protein and carbohydrate sources that the pet hasn't been exposed to before. <br\/>Specialized diets like those from <a href=\"https:\/\/drruthroberts.com\/products\/the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts\" target=\"_blank\" title=\"Try CrockPet Diet\">The CrockPet Diet<\/a>, can offer a range of hypoallergenic and limited-ingredient options.<\/p><p>🦠 IMPROVE GUT HEALTH<\/p><p>While it might not initially seem intuitive to focus on enhancing gut function to mitigate allergic diseases, it's important to note that about 70% of the immune system resides in the gut. If your pet has undergone treatment with antibiotics, steroids, or other potent anti-allergy medications, it's likely that the normal microbiome has been disrupted.<\/p><p>Initiating the restoration of the gut is the first step. As you<a href=\"https:\/\/drruthroberts.com\/products\/gut-instincts-natural-digestion-gi-health\" target=\"_blank\" title=\"Learn more about gut health\"> improve the gut health<\/a>, you lower the likelihood of your pet absorbing allergens from her food, during grooming, or through other means of ingestion. <\/p><p>🦟 FLEA CONTROL<\/p><p>Implementing a regular flea prevention program is crucial in managing flea allergy dermatitis. This may include topical treatments, oral medications, or collars.<\/p><p>🌳 ENVIRONMENTAL MANAGEMENT<\/p><p>Minimizing exposure to known allergens, such as keeping pets indoors during high pollen seasons or using hypoallergenic bedding, can help reduce symptoms.<\/p><p>Seeking the guidance of a holistic veterinarian or a<a href=\"https:\/\/drruthroberts.com\/pages\/consulting-page\"> <span style=\"text-decoration:underline\">certified holistic pet health coach<\/span><\/a>  is crucial to help you formulate a tailored plan to restore comfort and well-being to our cherished furry friends.🐱<\/p>"
-          }
-        },
-        "40580565-6e9e-4a41-96d1-8d75d455214f": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1644345560ae71793c-0",
-        "1644345560ae71793c-1",
-        "40580565-6e9e-4a41-96d1-8d75d455214f"
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-1",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-2",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-3",
+        "template--14921794682945__9c7cefbb-6aab-488a-b734-f59e08f7b6fd-collapsible_row-4"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 20;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black;}"
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "caption": "LET'S LEARN MORE ABOUT",
+        "heading": "Itch and Allergy Relief for Dogs and Cats",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
         "color_scheme": "accent-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1644346673ab5cde9c": {
@@ -341,85 +319,6 @@
         "padding_bottom": 36
       }
     },
-    "1644362911e27a17cd": {
-      "type": "multicolumn",
-      "blocks": {
-        "1644362911ff49262e-0": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644362911ff49262e-1": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "1644362911ff49262e-2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "c8e6142f-83cd-40f6-bb7b-2ad9fdf00bd2": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "b5900dc0-f343-402a-9fe7-0eb98426b80b": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "1644362911ff49262e-0",
-        "1644362911ff49262e-1",
-        "1644362911ff49262e-2",
-        "c8e6142f-83cd-40f6-bb7b-2ad9fdf00bd2",
-        "b5900dc0-f343-402a-9fe7-0eb98426b80b"
-      ],
-      "disabled": true,
-      "settings": {
-        "custom_class": "",
-        "title": "Holistic Veterinary Care Packages",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16451372445fbe7db4": {
       "type": "newsletter",
       "blocks": {
@@ -488,6 +387,7 @@
         "1644363585f56cc491-2",
         "1644363585f56cc491-1"
       ],
+      "disabled": true,
       "custom_css": [
         "div{padding-top: 25px; margin: auto text-align: center; font-family: josefin sans;}",
         ".button {padding: 5px; margin: 5px;}"
@@ -508,10 +408,8 @@
     "dd6b0952-2642-48b9-9005-7498d802d890",
     "banner",
     "product-grid",
-    "1631859338560c9b4a",
-    "164434556097d46afd",
+    "9c7cefbb-6aab-488a-b734-f59e08f7b6fd",
     "1644346673ab5cde9c",
-    "1644362911e27a17cd",
     "16451372445fbe7db4",
     "16443635858774eb64"
   ]
