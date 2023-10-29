@@ -121,7 +121,7 @@
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Webinars",
+            "heading": "Product Review",
             "link": "#shopify-section-template--14921792258113__836a1838-39d3-4804-9b8f-570cc2fbf531"
           }
         },
@@ -129,7 +129,7 @@
           "type": "block",
           "settings": {
             "image": "shopify:\/\/shop_images\/Vector_8_c699c455-4fb3-48db-8945-48f5c2c139e8.png",
-            "heading": "Video",
+            "heading": "Video\/Webinars",
             "link": "#shopify-section-template--14921792258113__54622c8f-3f1b-48e3-a24e-b5c8cd560f29"
           }
         },
@@ -165,7 +165,7 @@
         "prtbllink": "https:\/\/blog.drruthroberts.com\/emergency-kit-for-pet\/",
         "prtblsubdes": "Are You Pet-prepared?",
         "prtblogdate": "",
-        "prtblogdes": "As a pet owner, it's essential to have Dr. Ruth Roberts' recommended pet emergency kit on hand at home. Familiarize yourself with situations where you can provide at-home treatment, sparing the need for an emergency vet visit. Be ready for unforeseen health issues to ensure your pet's safety."
+        "prtblogdes": "As a pet owner, it's essential to have Dr. Ruth Roberts' recommended pet emergency kit on hand at home. Familiarize yourself with situations where you can provide at-home treatment, sparing the need for an emergency vet visit."
       }
     },
     "d8b0d8a6-2ea9-47ad-830f-ab794905af56": {
@@ -204,6 +204,9 @@
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-2",
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-3"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "desktopColumns": "3",
         "tabletColumns": "2",
@@ -231,65 +234,88 @@
         "coachurl": "https:\/\/blog.drruthroberts.com\/"
       }
     },
-    "3c81f4e7-9d44-4850-985b-56f21e5816e9": {
-      "type": "pet-audio",
+    "ec5b2465-cee1-43bc-88cc-42159f61d062": {
+      "type": "pet_ourblog",
+      "settings": {
+        "labelourb": "Our Podcast",
+        "petblogimg": "shopify:\/\/shop_images\/Traditional_Chinese_Veterinary_Medicine.png",
+        "prtbllink": "https:\/\/blog.drruthroberts.com\/podcasts\/",
+        "prtblsubdes": "Traditional Chinese Veterinary Medicine",
+        "prtblogdate": "",
+        "prtblogdes": "This is an episode of Your Natural Dog podcast with Angela Ardolino, packed with valuable insights on traditional veterinary medicine including the use of herbs and food therapy for optimal pet health."
+      }
+    },
+    "da2492a7-bf99-487e-a228-ecd20eb7cfc6": {
+      "type": "rx-posts",
       "blocks": {
-        "e5427fea-f2b0-4c4b-b4a6-d147d587a028": {
-          "type": "block",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1": {
+          "type": "title",
           "settings": {
-            "petvideourl": "http:\/\/pd.npr.org\/anon.npr-mp3\/npr\/codeswitch\/2016\/08\/20160803_codeswitch_11b.mp3",
-            "audiobanner": "shopify:\/\/shop_images\/Image_12_afcd795f-463b-48a1-9c36-fdf4ade9af10.png",
-            "petviid": "March 6, 2023",
-            "petvideocontent": "Lorem ipsum dolor sit amet consectetur",
-            "petvideocontentdesss": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
+            "title": "Traditional Chinese Veterinary Medicine and Food Therapy For Pet",
+            "reviewer_name": "Dr. Ruth Roberts | October 25, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/podcast\/tcvm-and-herbal-remedies-for-dogs-and-cats",
+            "post_image": "shopify:\/\/shop_images\/Traditional_Chinese_Veterinary_Medicine.png"
           }
         },
-        "fb6144e7-5270-43b7-8ac5-d7ef7f18a6ac": {
-          "type": "block",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2": {
+          "type": "title",
           "settings": {
-            "petvideourl": "http:\/\/pd.npr.org\/anon.npr-mp3\/npr\/codeswitch\/2016\/08\/20160803_codeswitch_11b.mp3",
-            "audiobanner": "shopify:\/\/shop_images\/Image_12_afcd795f-463b-48a1-9c36-fdf4ade9af10.png",
-            "petviid": "March 7, 2023",
-            "petvideocontent": "Lorem ipsum dolor sit amet consectetur77",
-            "petvideocontentdesss": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit.77"
+            "title": "What Vaccines Do Dogs Need?",
+            "reviewer_name": "Dr. Ruth Roberts | October 18, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/podcast\/what-vaccines-do-dogs-need",
+            "post_image": "shopify:\/\/shop_images\/Longevity_Tips_For_Animals_Part_II_67447d13-40f1-4d8c-81dc-9b3b9cde44ce.png"
           }
         },
-        "869eb4e5-6416-48c4-971f-1b68977171c3": {
-          "type": "block",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3": {
+          "type": "title",
           "settings": {
-            "petvideourl": "http:\/\/pd.npr.org\/anon.npr-mp3\/npr\/codeswitch\/2016\/08\/20160803_codeswitch_11b.mp3",
-            "audiobanner": "shopify:\/\/shop_images\/Image_12_afcd795f-463b-48a1-9c36-fdf4ade9af10.png",
-            "petviid": "March 6, 2023",
-            "petvideocontent": "Lorem ipsum dolor sit amet consectetur",
-            "petvideocontentdesss": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
-          }
-        },
-        "786b22a0-7bd5-4b43-b30b-214744b43a61": {
-          "type": "block",
-          "settings": {
-            "petvideourl": "http:\/\/pd.npr.org\/anon.npr-mp3\/npr\/codeswitch\/2016\/08\/20160803_codeswitch_11b.mp3",
-            "audiobanner": "shopify:\/\/shop_images\/Image_12_afcd795f-463b-48a1-9c36-fdf4ade9af10.png",
-            "petviid": "March 6, 2023",
-            "petvideocontent": "Lorem ipsum dolor sit amet consectetur",
-            "petvideocontentdesss": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
+            "title": "Ways To Prolonged Your Pet's Longevity",
+            "reviewer_name": "Dr. Ruth Roberts | October 8, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/podcast\/ways-to-prolong-your-pets-longevity",
+            "post_image": "shopify:\/\/shop_images\/Longevity_Tips_For_Animals_Part_1_32ca83b6-737b-4aaf-af8d-a5ac0acb9cab.png"
           }
         }
       },
       "block_order": [
-        "e5427fea-f2b0-4c4b-b4a6-d147d587a028",
-        "fb6144e7-5270-43b7-8ac5-d7ef7f18a6ac",
-        "869eb4e5-6416-48c4-971f-1b68977171c3",
-        "786b22a0-7bd5-4b43-b30b-214744b43a61"
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2",
+        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3"
       ],
       "custom_css": [
-        ".pet_audio {border-top: 1px solid #f5f8f1;}",
-        ".petadvicevideo.slick-slide {padding: 0 15px;}",
-        "h2.petvheadd {margin: 50px 0;}"
+
       ],
       "settings": {
-        "petvhead": "Our podcast",
-        "petaudiobtn": "all podcast",
-        "petaudiurl": ""
+        "desktopColumns": "3",
+        "tabletColumns": "2",
+        "desktopMaxWidth": "1200px",
+        "tabletMaxWidth": "100%",
+        "mobileMaxWidth": "100%",
+        "autoPlay": false,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": true,
+        "container_bgcolor": "#ffffff",
+        "card_bgcolor": "#ffffff",
+        "filled_star_color": "",
+        "empty_star_color": ""
+      }
+    },
+    "5c5f1a66-4165-4964-8e7d-8eb9555d865e": {
+      "type": "Certified_Coaches",
+      "disabled": true,
+      "settings": {
+        "testhead": "",
+        "testdes": "",
+        "coachbtn": "All Podcast",
+        "coachurl": ""
+      }
+    },
+    "5b6a95e7-7095-4def-81d5-7f0546063d53": {
+      "type": "Certified_Coaches",
+      "settings": {
+        "testhead": "",
+        "testdes": "",
+        "coachbtn": "All Podcast",
+        "coachurl": "https:\/\/blog.drruthroberts.com\/podcasts"
       }
     },
     "836a1838-39d3-4804-9b8f-570cc2fbf531": {
@@ -346,6 +372,7 @@
         "4f66d978-c74d-4cbf-9827-76e65b784f02",
         "f04c347a-abce-4d4f-bc71-62e1b38240e9"
       ],
+      "disabled": true,
       "settings": {
         "petvhead": "Webinars",
         "wevinarbtn": "all webinars",
@@ -406,12 +433,14 @@
         "1c348941-662e-4410-8246-4b175e5cc5c1",
         "1f91b1ad-94c8-45fb-a588-7b44448fbff5"
       ],
+      "disabled": true,
       "settings": {
         "petvhead": "Videos"
       }
     },
     "febdc93f-b5f0-4728-b425-acf1d35080a9": {
       "type": "pet_downloadables",
+      "disabled": true,
       "settings": {
         "labelourb": "Downloadables",
         "petblogimg": "shopify:\/\/shop_images\/ruth_roberts_5726763e-4b14-40d3-a412-9ae13a4dbae2.jpg",
@@ -421,63 +450,13 @@
         "prtblogdes": "Lorem ipsum dolor sit amet consectetur. Eu cursus aliquet diam eu pellentesque. Iaculis mattis metus pharetra ut duis vel turpis et sem. Eu malesuada velit."
       }
     },
-    "da2492a7-bf99-487e-a228-ecd20eb7cfc6": {
-      "type": "rx-posts",
-      "blocks": {
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "reviewer_name": "Post Date",
-            "post_link": "",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
-          }
-        },
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "reviewer_name": "Post Date",
-            "post_link": "",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
-          }
-        },
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "reviewer_name": "Post Date",
-            "post_link": "",
-            "post_image": "shopify:\/\/shop_images\/Image_56c32b21-49fe-4829-85e7-99e7f5833936.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-1",
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-2",
-        "template--14921792258113__da2492a7-bf99-487e-a228-ecd20eb7cfc6-title-3"
-      ],
-      "settings": {
-        "desktopColumns": "3",
-        "tabletColumns": "2",
-        "desktopMaxWidth": "1200px",
-        "tabletMaxWidth": "100%",
-        "mobileMaxWidth": "100%",
-        "autoPlay": false,
-        "smoothAutoPlay": false,
-        "auto_hide_arrow": true,
-        "container_bgcolor": "#ffffff",
-        "card_bgcolor": "#ffffff",
-        "filled_star_color": "",
-        "empty_star_color": ""
-      }
-    },
-    "5b6a95e7-7095-4def-81d5-7f0546063d53": {
+    "4dac0fe1-ce41-47f7-8e86-27d409ee6496": {
       "type": "Certified_Coaches",
+      "disabled": true,
       "settings": {
         "testhead": "",
         "testdes": "",
-        "coachbtn": "Downloadables",
+        "coachbtn": "All Downloadable",
         "coachurl": ""
       }
     }
@@ -490,11 +469,13 @@
     "8104cc31-1a02-403b-90ea-53954e6bd34c",
     "d8b0d8a6-2ea9-47ad-830f-ab794905af56",
     "a2bf1391-0e8f-4918-8758-a17303b1c55e",
-    "3c81f4e7-9d44-4850-985b-56f21e5816e9",
+    "ec5b2465-cee1-43bc-88cc-42159f61d062",
+    "da2492a7-bf99-487e-a228-ecd20eb7cfc6",
+    "5c5f1a66-4165-4964-8e7d-8eb9555d865e",
+    "5b6a95e7-7095-4def-81d5-7f0546063d53",
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
     "54622c8f-3f1b-48e3-a24e-b5c8cd560f29",
     "febdc93f-b5f0-4728-b425-acf1d35080a9",
-    "da2492a7-bf99-487e-a228-ecd20eb7cfc6",
-    "5b6a95e7-7095-4def-81d5-7f0546063d53"
+    "4dac0fe1-ce41-47f7-8e86-27d409ee6496"
   ]
 }
