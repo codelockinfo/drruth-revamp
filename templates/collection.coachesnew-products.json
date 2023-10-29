@@ -538,7 +538,7 @@
         "7572deba-4700-4b6f-97c7-8c914f40aba9"
       ],
       "custom_css": [
-        "p {text-align: justify; font-size: 1.5rem; line-height: 1.8rem; font-family: 'Josefin Sans';}"
+        "p {text-align: justify; line-height: 1.9rem; font-family: \"Josefin Sans\";}"
       ],
       "settings": {
         "custom_class": "",
