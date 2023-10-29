@@ -286,6 +286,11 @@
     },
     "a5f089ba-3650-4246-ae3f-4ccdabd7ea10": {
       "type": "featured-collection",
+      "custom_css": [
+        ".grid {row-gap: 30px;}",
+        ".card--card:after {display: none;}",
+        ".slider__slide {border-radius: 16px; box-shadow: 0 3px 6px rgba(0,0,0,0.07); overflow: HIDDEN;}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -460,7 +465,7 @@
       ],
       "custom_css": [
         "h2 {font-size: 6rem; color: #2e484a;}",
-        "h2.rich-text__heading.rte.h1 {font-family: 'Oakley Script' !important;}",
+        "h2.rich-text__heading.rte.h1 {font-family: \"Oakley Script\" !important;}",
         "h2.rich-text__heading.rte.h1 span {font-weight: normal;}",
         "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem;}"
       ],
