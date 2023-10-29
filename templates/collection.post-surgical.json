@@ -284,6 +284,52 @@
         "padding_bottom": 52
       }
     },
+    "d36431d9-41fb-4bc6-bd0d-880ac2c2a58d": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Post-surgery support for pets refers to the care and measures taken  after a surgical procedure to ensure the well-being, comfort, and successful recovery of the animal. This phase is crucial in the overall treatment process and involves a combination of medical care, monitoring, and attentive management to help the pet heal effectively.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Steps To Help Your Pet Recover After Surgery",
+            "icon": "paw_print",
+            "row_content": "<p>✅ <strong>Nutritious Diet for Healing:<\/strong><br\/>Providing a well-balanced, nutritious diet is crucial for your pet's recovery. Nutrients like high-quality proteins, essential vitamins, and minerals are essential for tissue repair and overall healing. Additionally, antioxidants found in fruits and vegetables can help combat inflammation, supporting the body's natural healing processes.<br\/><br\/>✅ <strong>Managing Inflammation:<\/strong><br\/>Inflammation is a natural response of the body to injury or surgery, but excessive or prolonged inflammation can impede the healing process. By carefully selecting foods that are known for their anti-inflammatory properties, you can help reduce inflammation and promote a smoother recovery.<\/p><p><a href=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\">Omega-3 fatty acids<\/a>, commonly found in fish oil, have been shown to have anti-inflammatory properties. By incorporating Omega-3 supplements into your pet's post-surgical regimen, you can further help reduce inflammation and support the healing process.<br\/><br\/>✅ <strong>Enhancing Microbiome Function:<\/strong><br\/>The gut microbiome plays a crucial role in overall health, including immune function. Probiotics, which are beneficial bacteria, can help restore and maintain a healthy balance in the gut. This supports the immune system and aids in efficient nutrient absorption, contributing to a faster recovery.<br\/><br\/>✅ <strong>Medicinal Mushrooms and Immune Support:<\/strong><br\/>Certain types of medicinal mushrooms, such as reishi and shiitake, are known for their immune-boosting properties. Including these in your pet's recovery plan may enhance the body's ability to fight off infections and promote tissue regeneration after surgery. Additionally, providing immune support supplements can further strengthen your pet's immune system during this critical period.<br\/><br\/>✅ <strong>Consulting with Holistic Vet :<\/strong><br\/>It's important to consult with your veterinarian before making significant changes to your pet's diet or supplementation regimen, especially after surgery. You can also do online <a href=\"https:\/\/drruthroberts.com\/pages\/consultation\" target=\"_blank\" title=\"Book A Consultation\">consultation with a certified Holistic Pet Health Coach<\/a>, they can provide personalized advice based on your pet's specific needs.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-1",
+        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-2"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}"
+      ],
+      "settings": {
+        "caption": "LET'S LEARN MORE ABOUT",
+        "heading": "Post-surgery Support",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1645140795e31deed7": {
       "type": "collection-list",
       "blocks": {
@@ -387,52 +433,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "d36431d9-41fb-4bc6-bd0d-880ac2c2a58d": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-1": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "",
-            "icon": "none",
-            "row_content": "<p>Post-surgery support for pets refers to the care and measures taken  after a surgical procedure to ensure the well-being, comfort, and successful recovery of the animal. This phase is crucial in the overall treatment process and involves a combination of medical care, monitoring, and attentive management to help the pet heal effectively.<\/p>",
-            "page": ""
-          }
-        },
-        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Steps To Help Your Pet Recover After Surgery",
-            "icon": "paw_print",
-            "row_content": "<p>✅ <strong>Nutritious Diet for Healing:<\/strong><br\/>Providing a well-balanced, nutritious diet is crucial for your pet's recovery. Nutrients like high-quality proteins, essential vitamins, and minerals are essential for tissue repair and overall healing. Additionally, antioxidants found in fruits and vegetables can help combat inflammation, supporting the body's natural healing processes.<br\/><br\/>✅ <strong>Managing Inflammation:<\/strong><br\/>Inflammation is a natural response of the body to injury or surgery, but excessive or prolonged inflammation can impede the healing process. By carefully selecting foods that are known for their anti-inflammatory properties, you can help reduce inflammation and promote a smoother recovery.<\/p><p><a href=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster\">Omega-3 fatty acids<\/a>, commonly found in fish oil, have been shown to have anti-inflammatory properties. By incorporating Omega-3 supplements into your pet's post-surgical regimen, you can further help reduce inflammation and support the healing process.<br\/><br\/>✅ <strong>Enhancing Microbiome Function:<\/strong><br\/>The gut microbiome plays a crucial role in overall health, including immune function. Probiotics, which are beneficial bacteria, can help restore and maintain a healthy balance in the gut. This supports the immune system and aids in efficient nutrient absorption, contributing to a faster recovery.<br\/><br\/>✅ <strong>Medicinal Mushrooms and Immune Support:<\/strong><br\/>Certain types of medicinal mushrooms, such as reishi and shiitake, are known for their immune-boosting properties. Including these in your pet's recovery plan may enhance the body's ability to fight off infections and promote tissue regeneration after surgery. Additionally, providing immune support supplements can further strengthen your pet's immune system during this critical period.<br\/><br\/>✅ <strong>Consulting with Holistic Vet :<\/strong><br\/>It's important to consult with your veterinarian before making significant changes to your pet's diet or supplementation regimen, especially after surgery. You can also do online <a href=\"https:\/\/drruthroberts.com\/pages\/consultation\" target=\"_blank\" title=\"Book A Consultation\">consultation with a certified Holistic Pet Health Coach<\/a>, they can provide personalized advice based on your pet's specific needs.<\/p>",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-1",
-        "template--14921794224193__d36431d9-41fb-4bc6-bd0d-880ac2c2a58d-collapsible_row-2"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
-        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}"
-      ],
-      "settings": {
-        "caption": "LET'S LEARN MORE ABOUT",
-        "heading": "Post-surgery Support",
-        "heading_size": "h1",
-        "heading_alignment": "center",
-        "layout": "section",
-        "color_scheme": "background-1",
-        "container_color_scheme": "accent-1",
-        "open_first_collapsible_row": true,
-        "image_ratio": "adapt",
-        "desktop_layout": "image_second",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -443,8 +443,8 @@
     "1631859338560c9b4a",
     "1644346673ab5cde9c",
     "16451372445fbe7db4",
+    "d36431d9-41fb-4bc6-bd0d-880ac2c2a58d",
     "1645140795e31deed7",
-    "164514111230637097",
-    "d36431d9-41fb-4bc6-bd0d-880ac2c2a58d"
+    "164514111230637097"
   ]
 }
