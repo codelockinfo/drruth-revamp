@@ -229,13 +229,20 @@
           "settings": {
             "collection": "liver-support"
           }
+        },
+        "01e14f5b-b6a4-4974-951e-534be3e0d71f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cardiovascular-support-protocol"
+          }
         }
       },
       "block_order": [
         "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3",
         "a569004b-959f-4f42-a602-2283001e3d5d",
         "99543df5-f1be-456d-bfb0-730b21137132",
-        "1853a121-95ff-45ab-9f71-39eaebc3baf3"
+        "1853a121-95ff-45ab-9f71-39eaebc3baf3",
+        "01e14f5b-b6a4-4974-951e-534be3e0d71f"
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 25px; padding-top: 30px;}",
@@ -244,10 +251,10 @@
         "img {border-radius: 30px;}"
       ],
       "settings": {
-        "title": "Check Out More Pet Protocols",
+        "title": "See More Pet Protocols",
         "heading_size": "h2",
         "image_ratio": "square",
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "2",
