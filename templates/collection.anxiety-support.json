@@ -197,22 +197,16 @@
     "1645140795e31deed7": {
       "type": "collection-list",
       "blocks": {
+        "3fbd7ffb-f5df-416d-ad62-66f153c8526f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bone-and-joint-health-protocol"
+          }
+        },
         "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3": {
           "type": "featured_collection",
           "settings": {
             "collection": "general-detox-protocol"
-          }
-        },
-        "a569004b-959f-4f42-a602-2283001e3d5d": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "keep-my-pet-healthy-protocol-1"
-          }
-        },
-        "99543df5-f1be-456d-bfb0-730b21137132": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kidney-support"
           }
         },
         "1853a121-95ff-45ab-9f71-39eaebc3baf3": {
@@ -226,14 +220,20 @@
           "settings": {
             "collection": "cardiovascular-support-protocol"
           }
+        },
+        "acd17412-5fb2-4a80-b738-5abc92707bfb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cancer-support"
+          }
         }
       },
       "block_order": [
+        "3fbd7ffb-f5df-416d-ad62-66f153c8526f",
         "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3",
-        "a569004b-959f-4f42-a602-2283001e3d5d",
-        "99543df5-f1be-456d-bfb0-730b21137132",
         "1853a121-95ff-45ab-9f71-39eaebc3baf3",
-        "01e14f5b-b6a4-4974-951e-534be3e0d71f"
+        "01e14f5b-b6a4-4974-951e-534be3e0d71f",
+        "acd17412-5fb2-4a80-b738-5abc92707bfb"
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 25px; padding-top: 30px;}",
