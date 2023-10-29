@@ -743,13 +743,17 @@
       "block_order": [
         "template--14969681084481__79c998c5-068f-4b26-8de9-0d335a608ace-button-1"
       ],
+      "custom_css": [
+        "a.button.button--secondary {border: 2px solid #184b44; color: #184b44; border-radius: 50px; text-transform: uppercase; font-family: \"Josefin Sans\"; gap: 15px;}",
+        ".isolate .rich-text__buttons {margin: 0 !important; text-align: center !important; width: 100% !important; max-width: 100%;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 100,
-        "padding_bottom": 0
+        "padding_top": 0,
+        "padding_bottom": 52
       }
     },
     "7c824f73-1291-494a-89ba-8520efb97ca2": {
