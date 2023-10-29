@@ -79,7 +79,7 @@
       ],
       "custom_css": [
         "h2 {padding-top: 50px; padding-bottom: 0;}",
-        "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem; font-family: 'Josefin Sans';}",
+        "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem; font-family: \"Josefin Sans\";}",
         ".rich-text__heading span {font-family: \"Oakley Script\" !important;}",
         ".rich-text__heading span strong {font-weight: normal !important;}"
       ],
@@ -538,7 +538,7 @@
         "7572deba-4700-4b6f-97c7-8c914f40aba9"
       ],
       "custom_css": [
-        "p {text-align: justify; font-size: 1.5rem; line-height: 1.8rem;}"
+        "p {text-align: justify; font-size: 1.5rem; line-height: 1.8rem; font-family: 'Josefin Sans';}"
       ],
       "settings": {
         "custom_class": "",
