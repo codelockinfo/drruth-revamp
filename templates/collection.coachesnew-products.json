@@ -79,7 +79,9 @@
       ],
       "custom_css": [
         "h2 {padding-top: 50px; padding-bottom: 0;}",
-        "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem;}"
+        "p {font-size: 2rem; padding-left: 5rem; padding-right: 5rem; font-family: 'Josefin Sans';}",
+        ".rich-text__heading span {font-family: \"Oakley Script\" !important;}",
+        ".rich-text__heading span strong {font-weight: normal !important;}"
       ],
       "settings": {
         "desktop_content_position": "center",
