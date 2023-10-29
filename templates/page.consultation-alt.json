@@ -725,6 +725,33 @@
         "padding_bottom": 36
       }
     },
+    "79c998c5-068f-4b26-8de9-0d335a608ace": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14969681084481__79c998c5-068f-4b26-8de9-0d335a608ace-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "view all pet coaches",
+            "button_link": "https:\/\/drruthroberts.com\/collections\/coaches",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14969681084481__79c998c5-068f-4b26-8de9-0d335a608ace-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 100,
+        "padding_bottom": 0
+      }
+    },
     "7c824f73-1291-494a-89ba-8520efb97ca2": {
       "type": "consultation-testimonials",
       "blocks": {
@@ -969,6 +996,7 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
+    "79c998c5-068f-4b26-8de9-0d335a608ace",
     "7c824f73-1291-494a-89ba-8520efb97ca2",
     "fb7f463b-0835-4876-941d-2251ce392137"
   ]
