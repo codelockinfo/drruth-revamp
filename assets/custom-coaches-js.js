@@ -57,4 +57,10 @@ window.addEventListener("load", (event) => {
 
   
 });
+
+$(document).ready(function () {
+       if(window.location.href.indexOf("page") > -1) {
+       alert("your url contains the added-to-cart=555");
+      }
+    });
  
