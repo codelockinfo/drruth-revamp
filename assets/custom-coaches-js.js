@@ -1,8 +1,10 @@
 $(document).ready(function () {
-       if(window.location.href.indexOf("page") > -1) {
+   if(window.location.href.indexOf("page") > -1) {
+     if($('body').is('#holistic-pet-health-coach-consultation')) {
        alert("your url contains the added-to-cart=555");
-      }
-    });
+     }
+    }
+});
 
 var $j = jQuery.noConflict();
 
