@@ -29,6 +29,11 @@
   }
 }
 </style>
+<script>
+  if (window.location.href.indexOf("?page") > -1) {
+      alert("found it");
+  }
+</script>
 {% endif %}
 {%- style -%}
   .section-{{ section.id }}-padding {
