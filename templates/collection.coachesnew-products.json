@@ -286,6 +286,7 @@
     },
     "a5f089ba-3650-4246-ae3f-4ccdabd7ea10": {
       "type": "featured-collection",
+      "disabled": true,
       "custom_css": [
         ".grid {row-gap: 30px;}",
         ".card--card:after {display: none;}",
@@ -303,7 +304,7 @@
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "color_scheme": "accent-2",
         "image_ratio": "adapt",
         "show_secondary_image": false,
@@ -318,7 +319,6 @@
     },
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
-      "disabled": true,
       "custom_css": [
         ".grid {row-gap: 30px;}",
         ".card--card:after {display: none;}",
@@ -331,7 +331,7 @@
         ".price {width: 100%;}"
       ],
       "settings": {
-        "products_per_page": 24,
+        "products_per_page": 12,
         "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": false,
