@@ -4,7 +4,6 @@ $(document).ready(function () {
        $('html,body').animate({
         scrollTop: $("#shopify-section-template--14940389605441__main-collection-product-grid").offset().top},
         'slow');
-       alert("your url contains the added-to-cart=555");
      }
     }
 });
