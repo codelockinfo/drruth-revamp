@@ -13,7 +13,6 @@
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -39,8 +38,9 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "background-2",
+        "bg_color": "",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
@@ -48,7 +48,6 @@
     },
     "1655751929e34d4e57": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "16557519296bd204f0-0": {
           "type": "featured_collection",
@@ -95,6 +94,7 @@
         "c56b4d3d-e5ba-4cab-8c1a-269a1bd2d7f8",
         "57ac96c7-6522-49c4-beac-4bbc21fe8795"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -110,7 +110,6 @@
     },
     "1684272298d585cb7f": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "db2a1af8-ac62-4337-9bd8-6cca37487096": {
           "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
@@ -122,6 +121,7 @@
       "block_order": [
         "db2a1af8-ac62-4337-9bd8-6cca37487096"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -293,7 +293,7 @@
         "f124a283-f045-4f8e-a4a3-d962cca9debc": {
           "type": "collection",
           "settings": {
-            "product": "1986957",
+            "product": "the-crockpet-diet-natural-pet-food-ebook",
             "btnlink": "shopify:\/\/products\/1986957",
             "outlinkbtn": "Course Outlines"
           }
