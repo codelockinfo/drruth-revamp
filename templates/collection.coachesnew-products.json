@@ -610,7 +610,7 @@
       "custom_css": [
         ".container-content {width: 67%;}",
         ".sub_container {background: #f5f8f1;}",
-        ".Maincontainer {max-width: 1090px;}"
+        ".Maincontainer {max-width: 1090px; margin-bottom: 15px;}"
       ],
       "settings": {
         "starreviewhead": "asdsad"
