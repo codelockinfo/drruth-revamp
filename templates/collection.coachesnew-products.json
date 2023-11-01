@@ -758,7 +758,10 @@
         "4977b87f-59e8-43e9-a1f0-dad4628f1fa1"
       ],
       "custom_css": [
-        ".rx-testimonial-item-inner {background: #f4f8f1;}"
+        ".rx-testimonial-item-inner {background: #f4f8f1;}",
+        ".rx-container-title {justify-content: flex-start; gap: 20px; align-items: center;}",
+        ".rx-testimonial-item-title h3 {margin: 0 0 5px;}",
+        ".rx-testimonial-item-title h4 {margin: 0;}"
       ],
       "settings": {
         "desktopColumns": "2",
