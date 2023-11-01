@@ -592,7 +592,7 @@
         "template--14940389605441__8969544c-04f4-43a5-8d9a-50ad67e04785-text-1"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-weight: bold !important; font-size: 5rem; color: #2e484a;}",
+        "h2 {font-family: 'Oakley Script' !important; font-weight: normal !important; font-size: 5rem; color: #2e484a;}",
         "p {font-size: 1.8rem; padding-left: 5rem; padding-right: 5rem;}"
       ],
       "settings": {
@@ -607,7 +607,8 @@
     "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
       "type": "Custom-rating",
       "custom_css": [
-        ".container-content {width: 67%;}"
+        ".container-content {width: 67%;}",
+        ".sub_container {background: #f5f8f1;}"
       ],
       "settings": {
         "starreviewhead": "asdsad"
