@@ -595,7 +595,7 @@
       "custom_css": [
         ".rich-text {padding-top: 0;}",
         "h2 {font-family: \"Oakley Script\" !important; font-weight: normal !important; font-size: 5rem; color: #2e484a;}",
-        "p {font-size: 1.8rem; padding-left: 5rem; padding-right: 5rem;}"
+        "p {font-size: 1.8rem; max-width: 650px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
