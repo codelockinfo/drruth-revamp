@@ -259,8 +259,8 @@
         "51b806fc-692d-48fd-a415-71655d1e5799": {
           "type": "collection",
           "settings": {
-            "product": "the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts",
-            "btnlink": "shopify:\/\/products\/the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts",
+            "product": "the-original-crockpet-diet™-recipes-and-course",
+            "btnlink": "https:\/\/drruthroberts.com\/products\/the-original-crockpet-diet%E2%84%A2-recipes-and-course",
             "outlinkbtn": "Course Outlines"
           }
         },
@@ -284,7 +284,7 @@
         ".crockpettitle {text-transform: capitalize;}"
       ],
       "settings": {
-        "tabiingid": "The Original Crockpet Diet"
+        "tabiingid": "The Original Crockpet Diet Course"
       }
     },
     "ce0edac7-24b9-4237-811e-e0bf9b32ee17": {
