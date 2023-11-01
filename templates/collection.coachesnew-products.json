@@ -752,7 +752,7 @@
       "settings": {
         "desktopColumns": "2",
         "tabletColumns": "2",
-        "desktopMaxWidth": "100%",
+        "desktopMaxWidth": "67%",
         "tabletMaxWidth": "100%",
         "mobileMaxWidth": "100%",
         "autoPlay": false,
