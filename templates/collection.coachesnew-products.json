@@ -550,7 +550,8 @@
         "7572deba-4700-4b6f-97c7-8c914f40aba9"
       ],
       "custom_css": [
-        "p {text-align: justify; line-height: 1.9rem; font-family: \"Josefin Sans\";}"
+        "p {text-align: justify; line-height: 1.9rem; font-family: \"Josefin Sans\";}",
+        "@media screen and (max-width: 989px) {.grid--1-col-tablet-down .grid__item {background: #f6f8f1 !important; }}"
       ],
       "settings": {
         "custom_class": "",
@@ -610,7 +611,8 @@
       "custom_css": [
         ".container-content {width: 67%;}",
         ".sub_container {background: #f5f8f1;}",
-        ".Maincontainer {max-width: 1090px; margin-bottom: 15px;}"
+        ".Maincontainer {max-width: 1090px; margin-bottom: 15px;}",
+        "@media screen and (max-width: 989px) {img {width: 100% !important; max-width: 100%; } .container-content {width: 100% !important; max-width: 100% !important; } .block_container {width: calc(100% - 40px); padding: 0; } .containerimg {margin: 0; width: 100%; float: none; }}"
       ],
       "settings": {
         "starreviewhead": "asdsad"
