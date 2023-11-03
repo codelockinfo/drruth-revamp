@@ -346,7 +346,7 @@
         "template--14921793044545__90968f18-4cc6-48af-b4e7-d2b13dbae01d-collapsible_row-3": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "How to Maintain Your Senior Pet's Health",
+            "heading": "How to maintain your senior pet's health",
             "icon": "paw_print",
             "row_content": "<p>✅ Tailoring Exercise Routines<\/p><p>Senior pets may not have the same vigor as their younger selves, but they still benefit greatly from regular exercise. Adjusting their routine to include shorter, gentle walks and incorporating mental stimulation activities can help keep them engaged and happy.<\/p><p>✅ Balanced diet<\/p><p>A balanced diet is a cornerstone of senior pet health. Consult with a veterinarian to determine the right diet for your aging companion, taking into account factors like weight management, joint support, and any specific dietary restrictions.<\/p><p>✅ Maintaining a Healthy Weight<\/p><p>Weight management is crucial for senior pets. Obesity can exacerbate existing health conditions and strain joints, while being underweight may signal underlying issues. Regular vet check-ups can help monitor and adjust your pet's weight as needed.<\/p><p>✅ Prioritizing Dental Health<\/p><p>Dental issues are common in senior pets and can lead to discomfort and even systemic health problems. Regular dental check-ups and at-home care can prevent dental disease and maintain overall well-being.<\/p><p>✅ Addressing Joint Health<\/p><p>Arthritis and joint problems are prevalent in senior pets. Provide comfortable bedding, low-impact exercise, and consider joint supplements or medications under the guidance of a veterinarian to improve their quality of life.<\/p><p>✅ Managing Cognitive Health<\/p><p>Cognitive Dysfunction Syndrome (CDS) is a condition that can affect senior pets, leading to disorientation and changes in behavior. Environmental enrichment, mental stimulation, and specialized diets or supplements can help manage CDS.<\/p><p>✅ Nurturing Emotional Well-being<\/p><p>Changes in routine, environment, or the loss of companions can affect a senior pet's emotional well-being. Provide a stable and loving environment, along with regular social interactions and mental stimulation, to help them navigate these changes with ease.<\/p>",
             "page": ""
@@ -365,7 +365,7 @@
       ],
       "settings": {
         "caption": "Let's Learn More About",
-        "heading": "Seniot Pet Health",
+        "heading": "Senior Pet Health",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "section",
