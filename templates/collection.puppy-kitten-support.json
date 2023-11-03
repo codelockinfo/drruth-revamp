@@ -326,7 +326,7 @@
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
         "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
         "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}",
-        "li {font-family: \"BLT-Heirloom\";}"
+        "li {font-family: \"BLT-Heirloom\"; text-align: justify;}"
       ],
       "settings": {
         "caption": "Let's learn more about",
