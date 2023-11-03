@@ -13,7 +13,7 @@
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Since heart illness can be congenital (existing at birth) or acquired (develop over time), even pups and younger dogs may have cardiac problems. <\/p><p>Heart disease signs in our pets may take time to appear.<\/p><p>Real preventive care starts with preventing disease.<\/p>",
+            "text": "<p>Heart illness, also known as cardiac disease or heart disease, can affect our beloved furry companions just like it can affect humans. It's crucial for pet owners to be aware of the signs, risk factors, and potential treatment options for heart-related conditions in both cats and dogs. <\/p><p>Since heart illness can be congenital (existing at birth) or acquired (develop over time), even pups and younger dogs may have cardiac problems. Dr. Ruth Roberts created a support protocol to help your pet, providing valuable insights into managing and supporting pets with cardiac issues. <br\/><\/p>",
             "text_style": "body"
           }
         },
@@ -30,15 +30,21 @@
         "164436159488e9de81-1",
         "164436159488e9de81-2"
       ],
+      "custom_css": [
+        "h2 {color: #efe6c5; font-size: 30px; margin: auto; padding-top: 20px;}",
+        "p {color: white; text-align: justify; margin: 0 px auto;}",
+        ".button {margin: auto; padding: 10px 20px;}",
+        "div {padding: 10px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/collection_covers_170_x_170_px.webp",
         "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -55,17 +61,22 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "custom_css": [
+        ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 10px;}",
+        ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px; font-size: 14px;}",
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 3px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
+      ],
       "settings": {
-        "products_per_page": 16,
-        "columns_desktop": 3,
+        "products_per_page": 8,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "show_special_offer": false,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 36,
@@ -118,7 +129,6 @@
     },
     "1631859338560c9b4a": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "1631859338560c9b4a-0": {
           "type": "featured_collection",
@@ -144,6 +154,7 @@
         "1631859338560c9b4a-1",
         "1631859338560c9b4a-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "SHOP MORE",
         "heading_size": "h1",
@@ -218,7 +229,9 @@
         "7e2f260b-9426-4f80-b237-654daa7af150",
         "851298dd-4488-4c37-bd0a-47c632e1f888"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "While this is not a one-size-fits-all list, it does address some of the most common holistic pet care needs. ",
         "heading_size": "h2",
         "image_width": "half",
@@ -237,7 +250,6 @@
     },
     "16451372445fbe7db4": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "1645137244617a2009-0": {
           "type": "heading",
@@ -263,11 +275,89 @@
         "1645137244617a2009-1",
         "1645137244617a2009-2"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "background-1",
+        "bg_color": "",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "",
+            "icon": "none",
+            "row_content": "<p>Heart disease, also known as cardiac disease, can affect our beloved furry companions just like it can affect humans. It's crucial for pet owners to be aware of the signs, risk factors, and potential treatment options for heart-related conditions in both cats and dogs. In this article, we'll explore common types of heart diseases,their symptoms, and how to support pets with cardiac issues for a <br\/>healthier and happier life.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Common Cause of Heart Disease in Pet",
+            "icon": "paw_print",
+            "row_content": "<p><strong>Age:<\/strong> Older pets are more susceptible to developing cardiac issues.<\/p><p><strong>Breed: <\/strong>Some breeds are genetically predisposed to specific heart conditions.<\/p><p><strong>Obesity:<\/strong> Excess weight can put strain on the heart.<\/p><p><strong>Lack of Exercise<\/strong>: Insufficient physical activity can lead to weakened heart muscles.<\/p><p><strong>Dental Health: <\/strong>Poor dental hygiene has been linked to heart disease in pets.<\/p>",
+            "page": ""
+          }
+        },
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Common Symtoms of Heart Disease in Pet",
+            "icon": "paw_print",
+            "row_content": "<p>The signs of heart illness can vary depending on the specific condition and the severity of the disease. Common symptoms in both cats and dogs may include:<\/p><ul><li>Coughing, especially at night or after exercise<\/li><li>Labored breathing or rapid breathing<\/li><li>Fatigue and reduced exercise tolerance<\/li><li>Swollen abdomen (ascites) in severe cases<\/li><li>Irregular heartbeat or palpitations<\/li><li>Fainting or collapsing (more common in advanced stages)<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Types of Heart Disease in Pet",
+            "icon": "paw_print",
+            "row_content": "<p><strong>Congestive Heart Failure (CHF):<\/strong><\/p><ul><li>CHF occurs when the heart is unable to pump blood effectively, leading to fluid buildup in the lungs or abdomen. It is a common condition in both dogs and cats.<\/li><\/ul><p><strong>Hypertrophic Cardiomyopathy (HCM):<\/strong><\/p><ul><li>This is a specific type of heart disease that primarily affects cats. It involves thickening of the heart's walls, which can lead to impaired heart function.<\/li><\/ul><p><strong>Dilated Cardiomyopathy (DCM):<\/strong><\/p><ul><li>DCM is more common in dogs, especially certain breeds like Doberman Pinschers and Great Danes. It involves the enlargement and weakening of the heart chambers, leading to reduced pumping efficiency.<\/li><\/ul><p><strong>Mitral Valve Disease:<\/strong><\/p><ul><li>This condition is often seen in small breed dogs, where the mitral valve in the heart becomes compromised, leading to regurgitation and eventual heart failure.<\/li><\/ul>",
+            "page": ""
+          }
+        },
+        "27444086-d135-4516-a7fb-e1a7a7ed5502": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Relief and Support",
+            "icon": "paw_print",
+            "row_content": "<p>While some heart diseases in pets are not curable, they can often be managed with proper veterinary care and lifestyle adjustments. Treatment options may include:<\/p><ul><li>Medications and supplementation to support heart function and manage symptoms.<\/li><li>Specialized diets to reduce sodium intake and support cardiac health.<\/li><li>Veterinary check-ups and monitoring of heart function.<\/li><li>Maintaining a healthy weight through diet and exercise.<\/li><li>Providing a low-stress environment for your pet.<\/li><\/ul>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-1",
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-2",
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-3",
+        "template--14921795108929__d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8-collapsible_row-4",
+        "27444086-d135-4516-a7fb-e1a7a7ed5502"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}",
+        "li {font-family: \"BLT-Heirloom\"; text-align: justify;}"
+      ],
+      "settings": {
+        "caption": "let's learn more about",
+        "heading": "Heart Disease in Pet",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "section",
+        "color_scheme": "background-1",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": true,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1645140795e31deed7": {
@@ -425,6 +515,7 @@
     "1631859338560c9b4a",
     "1644346673ab5cde9c",
     "16451372445fbe7db4",
+    "d2bcd138-8f84-4dfc-b5d8-fceb8a5a2be8",
     "1645140795e31deed7",
     "164514111230637097"
   ]
