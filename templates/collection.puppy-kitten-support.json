@@ -303,7 +303,7 @@
           "settings": {
             "heading": "What Considered as Puppy\/Kitten",
             "icon": "paw_print",
-            "row_content": "<p><strong>Puppy:<\/strong><\/p><ul><li>Newborn to 4 weeks: During this time, puppies are entirely dependent on their mother for nourishment and care.<\/li><li>4 weeks to 12 weeks: Puppies start to wean off their mother's milk and transition to solid food. They become more mobile and start to explore their environment.<\/li><li>3 months to 6 months: This stage is often referred to as \"puppyhood.\" Puppies are still growing rapidly, and their energy levels are high. They may begin basic training and socialization.<\/li><\/ul><p><strong>Kitten:<\/strong><\/p><ul><li>Newborn to 4 weeks: Like puppies, kittens are completely reliant on their mother for nutrition and care.<\/li><li>4 weeks to 12 weeks: Kittens begin the process of weaning and learning to eat solid food. They also become more playful and curious about their surroundings.<\/li><li>3 months to 6 months: This stage is commonly referred to as \"kittenhood.\" Kittens continue to grow and develop, displaying high levels of energy and playfulness. They may start to learn basic litter box training and socialization.<\/li><\/ul>",
+            "row_content": "<p>🐶 <strong>Puppy:<\/strong><\/p><ul><li>Newborn to 4 weeks: During this time, puppies are entirely dependent on their mother for nourishment and care.<\/li><li>4 weeks to 12 weeks: Puppies start to wean off their mother's milk and transition to solid food. They become more mobile and start to explore their environment.<\/li><li>3 months to 6 months: This stage is often referred to as \"puppyhood.\" Puppies are still growing rapidly, and their energy levels are high. They may begin basic training and socialization.<\/li><\/ul><p>🐱 <strong>Kitten:<\/strong><\/p><ul><li>Newborn to 4 weeks: Like puppies, kittens are completely reliant on their mother for nutrition and care.<\/li><li>4 weeks to 12 weeks: Kittens begin the process of weaning and learning to eat solid food. They also become more playful and curious about their surroundings.<\/li><li>3 months to 6 months: This stage is commonly referred to as \"kittenhood.\" Kittens continue to grow and develop, displaying high levels of energy and playfulness. They may start to learn basic litter box training and socialization.<\/li><\/ul>",
             "page": ""
           }
         },
@@ -325,7 +325,8 @@
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 30;}",
         "h3 {font-family: \"BLT-heirloom\", sans-serif; font-size: 20px;}",
-        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}"
+        "p {font-family: \"BLT-heirloom\", sans-serif; text-align: justify; text-color: black; font-size: 15px;}",
+        "li {font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
         "caption": "Let's learn more about",
