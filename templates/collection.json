@@ -6,7 +6,7 @@
         "template--14921794453569__ee0d07bd-3793-4ee9-a5f7-3cfce193b5b9-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Autoimmune Support",
             "heading_size": "h1"
           }
         },
@@ -63,21 +63,21 @@
     "main-collection-product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        "h2.title.title--primary {display: flex; justify-content: center;}",
-        "a.underlined-link.link {display: flex; align-items: end;}",
-        ".facets-vertical {\/* display: block; *\/}"
+        ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 10px;}",
+        ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px; font-size: 14px;}",
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 3px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
       ],
       "settings": {
-        "products_per_page": 24,
-        "columns_desktop": 3,
+        "products_per_page": 8,
+        "columns_desktop": 4,
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": true,
         "show_rating": true,
-        "enable_quick_add": false,
+        "enable_quick_add": true,
         "show_special_offer": false,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
         "padding_top": 0,
