@@ -31,6 +31,7 @@
         "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-text-1",
         "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-button-1"
       ],
+      "disabled": true,
       "custom_css": [
         "h2 {color: #efe6c5; font-size: 30px; margin: auto; padding-top: 20px;}",
         "p {color: white; text-align: justify; margin: 0 px auto;}",
@@ -53,11 +54,16 @@
     },
     "main-collection-banner": {
       "type": "main-collection-banner",
-      "disabled": true,
+      "custom_css": [
+        "h1 {color: #efe6c5; font-size: 30px; margin: auto; padding-top: 20px;}",
+        "p {color: white; text-align: justify; margin: 0 px auto;}",
+        ".button {margin: auto; padding: 10px 20px;}",
+        "div {padding: 10px;}"
+      ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": true,
-        "color_scheme": "background-1"
+        "color_scheme": "accent-1"
       }
     },
     "main-collection-product-grid": {
