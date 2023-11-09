@@ -223,11 +223,6 @@
         "title_color": "#000000",
         "price_color": "#000000"
       }
-    },
-    "b070ca68-7b28-44a4-a9e0-f567c2f5639e": {
-      "type": "rx-review",
-      "settings": {
-      }
     }
   },
   "order": [
@@ -237,7 +232,6 @@
     "168197142519de76d5",
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
-    "37d355bc-1320-4afc-b381-56eecc54e273",
-    "b070ca68-7b28-44a4-a9e0-f567c2f5639e"
+    "37d355bc-1320-4afc-b381-56eecc54e273"
   ]
 }
