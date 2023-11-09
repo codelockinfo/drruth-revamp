@@ -608,6 +608,21 @@
     },
     "1d09ce56-d815-4da4-9b2c-a947a3eaafd5": {
       "type": "Custom-rating",
+      "blocks": {
+        "0fa4b522-518c-4890-9175-e67d6cab8ad5": {
+          "type": "block",
+          "disabled": true,
+          "settings": {
+            "rating": 5,
+            "confimed": "",
+            "confimedp": "",
+            "signtext": ""
+          }
+        }
+      },
+      "block_order": [
+        "0fa4b522-518c-4890-9175-e67d6cab8ad5"
+      ],
       "custom_css": [
         ".container-content {width: 67%;}",
         ".sub_container {background: #f5f8f1;}",
