@@ -12,30 +12,7 @@
       <form method="post" action="/cart/add">
         <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
         <input min="1" type="number" id="quantity" name="quantity" value="1"/>
-        <input type="submit" value="Add to cart" class="btn" />
+        <input type="submit" value="Book A Consult" class="btn" />
       </form>
   </div>
 </div>
-
-<div 
-  class="rx-reviews"
-  id="stamped-main-widget"   
-  data-product-id="{{ product.id }}"   
-  data-name="{{ product.title | escape }}"   
-  data-url="{{ shop.url }}{{ product.url }}"   
-  data-image-url="{{ product.featured_image | product_img_url: "large" |replace: '?', '%3F' | replace: '&','%26'}}" 
-  data-description="{{ product.description | escape }}"   
-  data-product-sku="{{product.handle}}"
-  data-product-title="{{product.title}}" 
-  data-product-type="{{product.type}}">   
-  {{product.metafields.stamped.reviews}}   
-</div>
-
-<script>
-  const avatarContentList = document.querySelectorAll(".rx-{{section.id}} .stamped-review-avatar-content");
-  const authorList = document.getElementsByClassName("author");
-  for(let i=0; i< avatarContentList.length; i++ ) {
-    avatarContentList[i].innerHTML = authorList[i].innerHTML[0];
-  }
-
-</script>
