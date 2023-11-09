@@ -264,13 +264,41 @@
   }
 
   .similar-coaches h2 {
-    font-family: "Oakley Script";
-    font-weight: 400;
-    color: #1E1E1E;
-    font-size: 64px;
-    text-align: center;
-    display: block;
-    width: 100%;
+      font-family: "Oakley Script";
+      font-weight: 400;
+      color: #1E1E1E;
+      font-size: 64px;
+      text-align: center;
+      display: block;
+      width: 100%;
+    }
+    .similar-coaches {
+      flex-direction: COLUMN;
+  }
+  .rebuy-widget .rebuy-product-block .rebuy-product-actions {
+    display: none;
+    margin: 0 !important;
+  }
+  .rebuy-widget {
+    padding: 0 !important;
+  }
+  .rebuy-product-review {
+    float: left;
+  }
+  span.rebuy-money span {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    display: flex;
+    justify-content: end;
+    font-weight: 600;
+    line-height: 22px;
+    color: #184b44;
+  }
+  span.rebuy-review-count-label {
+    display: none;
+  }
+  .rebuy {
+      width: 100%;
   }
 
 </style>
@@ -322,5 +350,5 @@
 
 <div class="similar-coaches">
   <h2>You may also like</h2>
-  <div data-rebuy-id="84689" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
+  <div class="rebuy" data-rebuy-id="84689" data-rebuy-shopify-product-ids="{{ product.id }}"></div>
 </div>
