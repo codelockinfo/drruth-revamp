@@ -3,16 +3,16 @@
     "main": {
       "type": "rx-main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.my_fields._1_badge_text_2.value }}",
+            "text_style": "uppercase"
           }
         },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
@@ -20,21 +20,8 @@
           "settings": {
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-            "show_add_to_cart_button": true
-          }
-        },
-        "0dd44047-53bd-4401-b151-a60aa1b52a8d": {
-          "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
-          "settings": {
-            "product": "{{product}}"
-          }
-        },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
@@ -55,37 +42,21 @@
             "shipping_content": "<p>Standard Shipping 3-5 business days<\/p>"
           }
         },
-        "c3949539-dd47-4db5-86e8-4b2143f24749": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "dropdown"
-          }
-        },
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false
           }
-        },
-        "880a5ead-be28-4912-b9d7-5a90d320fa21": {
-          "type": "custom_liquid",
-          "settings": {
-            "custom_liquid": "<div class=\"product__tax caption rte\"><a href=\"\/policies\/shipping-policy\">Shipping<\/a> calculated at checkout.\n<\/div>"
-          }
         }
       },
       "block_order": [
-        "vendor",
         "title",
+        "vendor",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
-        "quantity_selector",
-        "0dd44047-53bd-4401-b151-a60aa1b52a8d",
         "description",
         "caption",
         "c50958db-6d62-42c8-8a47-729c390a856f",
-        "c3949539-dd47-4db5-86e8-4b2143f24749",
-        "87b6800d-0639-4f48-b6fd-18848b047f30",
-        "880a5ead-be28-4912-b9d7-5a90d320fa21"
+        "87b6800d-0639-4f48-b6fd-18848b047f30"
       ],
       "settings": {
         "enable_sticky_info": false,
