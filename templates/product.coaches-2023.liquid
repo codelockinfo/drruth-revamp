@@ -1,3 +1,191 @@
+<style>
+  .rx-reviews  {
+    margin-top: 0 !important;
+  }
+  .rx-reviews .stamped-header-title {
+    text-align: center;
+    margin: 0;
+    font-family: 'Oakley Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    letter-spacing: 0.02em;
+    line-height: 50px;
+    color: #1E1E1E;
+  }
+
+  .rx-reviews .stamped-header, .stamped-summary-text-1 strong {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 30px;
+    color: #1E1E1E;
+  }
+
+  .stamped-summary-caption .stamped-summary-text {
+    font-size: 18px !important;
+    line-height: 30px;
+  }
+
+  .rx-reviews .stamped-summary-caption {
+    color: #5F5E66;
+  }
+
+  .rx-reviews .stamped-review-avatar {
+    background: #F5F8F1 !important;
+    color:#184B44 !important;
+   
+  }
+
+  .rx-reviews .stamped-review-avatar-content {
+    font-family: 'Oakley Script';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px !important;
+  }
+
+  .rx-reviews .stamped-review[data-verified=buyer] .stamped-review-avatar:before {
+    content: url("https://cdn.shopify.com/s/files/1/0017/5443/1553/files/verifiedLogo.png?v=1682310178");
+  }
+
+  .rx-reviews .stamped-content {
+    font-family: 'Josefin Sans';
+    font-style: normal;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+    line-height: 30px !important;
+    color: #1E1E1E;
+  }
+
+  .rx-reviews .stamped-fa-star {
+    color: #184B44 !important;
+  }
+
+  .rx-reviews .stamped-container ul.stamped-tabs li {
+    color: #5F5E66 !important;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .rx-reviews .stamped-container ul.stamped-tabs li.active {
+    border-bottom: 3px solid #184B44 !important;
+    color: #184B44 !important;
+    font-weight: 500;
+  }
+
+  .rx-reviews .stamped-summary-actions-newreview:before,
+  .rx-reviews .stamped-summary-actions-newquestion:before {
+    {% comment %} font-family: unset !important;
+    box-shadow: unset !important; {% endcomment %}
+    display: none;
+  }
+
+  .rx-reviews .stamped-summary-actions-newquestion, 
+  .rx-reviews .stamped-summary-actions-newreview { 
+    background: #F5F8F1 !important;
+    {% comment %} border: 2px solid #184B44 !important; {% endcomment %}
+    border: none;
+    box-shadow: unset !important;
+    border-radius: 24px !important;
+    font-family: 'Josefin Sans';
+    font-style: normal !important;
+    font-weight: 500;
+    font-size: 18px;
+    color: #1E1E1E !important;
+    padding: 10px 25px;
+  }
+
+   .stamped-summary-actions-newquestion:hover, 
+   .stamped-summary-actions-newreview:hover {
+    border: #184B44 2px solid;
+  }
+
+  .stamped-form-input.stamped-starrating a {
+    color: #184B44 !important;
+  }
+
+  .rx-reviews .author {
+    color: #184B44 !important;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .rx-reviews .stamped-verified-badge {
+    color: #6CB177 !important;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  .rx-reviews .review-location {
+    visibility: hidden;
+    height: 5px;
+  }
+
+  .rx-reviews .stamped-review-header-title {
+    font-family: 'Josefin Sans';
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+
+  .rx-reviews .stamped-review-content-body {
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px !important;
+  }
+
+  .stamped-review-header-byline {
+    font-size: 18px;
+    font-weight: 500 !important;
+    line-height: 30px !important;
+    color:  #184B44 !important;
+  }
+
+  .rx-reviews .stamped-review-header .created {
+    color: #5F5E66 !important;
+    font-size: 18px;
+  }
+
+  .rx-reviews .stamped-container[data-widget-show-product-variant=true] .stamped-review-product {
+    display: none !important;
+  }
+
+  .rx-reviews .stamped-review-footer {
+    display: none;
+  }
+
+  .rx-reviews .stamped-review-reply {
+    margin-top: 0;
+    border-left: 2px solid #e0e0e0
+  }
+
+  .rx-reviews .stamped-review-reply .stamped-review-header-title  {
+    color: #184B44 !important;
+    font-weight: 500;
+    text-transform: none;
+  }
+  
+  .rx-reviews .stamped-pagination.stamped-reviews-ul li a {
+    color: #1E1E1E !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+
+  }
+
+  .rx-reviews .stamped-pagination .page.active {
+    background: #F5F8F1;
+    border-radius: 8px;
+    text-decoration: none !important;
+  }
+
+  .rx-reviews div.stamped-container[data-widget-style], 
+  .rx-reviews div[data-widget-style] div.stamped-container {
+    max-width: 1100px !important;
+  }
+
+</style>
+
 <div class="product-coaches">
   <div class="coach-image">
       {{ product.featured_image | img_url: '800x800' | img_tag }}
