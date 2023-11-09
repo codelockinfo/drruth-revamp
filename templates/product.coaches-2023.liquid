@@ -1,6 +1,6 @@
 <div class="product-coaches">
   <div class="coach-image">
-      {{ product.featured_image | img_tag }}
+      {{ product.featured_image | img_url: '1000x1000' | img_tag }}
   </div>
   <div class="coach-details">
       <h1>{{ product.title }}</h1>
