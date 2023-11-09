@@ -191,14 +191,16 @@
       {{ product.featured_image | img_url: '800x800' | img_tag }}
   </div>
   <div class="coach-details">
-      <h1>{{ product.title }}</h1>
-      <h2 class="coach-title">{{ product.metafields.my_fields._1_badge_text_2 }}</h2>
-      <div class="coach-price">{{ product.price | money_with_currency }}</div>
-      <form method="post" action="/cart/add">
-        <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
-        <input min="1" type="number" id="quantity" name="quantity" value="1"/>
-        <input type="submit" value="Book A Consult" class="btn" />
-      </form>
+      <div class="inner">
+        <h1>{{ product.title }}</h1>
+        <h2 class="coach-title">{{ product.metafields.my_fields._1_badge_text_2 }}</h2>
+        <div class="coach-price">{{ product.price | money_with_currency }}</div>
+        <form method="post" action="/cart/add">
+          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+          <input type="submit" value="Book A Consult" class="btn" />
+        </form>
+      </div>
   </div>
 </div>
 
