@@ -226,6 +226,15 @@
         "title_color": "#000000",
         "price_color": "#000000"
       }
+    },
+    "f0fe83ad-a162-42c0-88e5-a0d53d22abb2": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>\n.product-form__buttons button span:before {\n  content: \"Book A Consult\";\n  font-size: 14px;\n  margin-left: 40px;\n}\n.product-form__buttons button span {\n  font-size: 0;\n}\nbutton svg {\n  display: none !important;\n}\n<\/style>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -235,6 +244,7 @@
     "168197142519de76d5",
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
-    "37d355bc-1320-4afc-b381-56eecc54e273"
+    "37d355bc-1320-4afc-b381-56eecc54e273",
+    "f0fe83ad-a162-42c0-88e5-a0d53d22abb2"
   ]
 }
