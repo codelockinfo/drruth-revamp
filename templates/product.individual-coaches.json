@@ -12,7 +12,7 @@
           "type": "text",
           "settings": {
             "text": "{{ product.metafields.my_fields._1_badge_text_2.value }}",
-            "text_style": "uppercase"
+            "text_style": "body"
           }
         },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
@@ -60,14 +60,17 @@
         "c50958db-6d62-42c8-8a47-729c390a856f",
         "87b6800d-0639-4f48-b6fd-18848b047f30"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "enable_sticky_info": false,
         "media_size": "small",
         "constrain_to_viewport": true,
         "media_fit": "contain",
-        "gallery_layout": "thumbnail_slider",
+        "gallery_layout": "stacked",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "none",
         "mobile_thumbnails": "show",
         "hide_variants": false,
         "enable_video_looping": false,
