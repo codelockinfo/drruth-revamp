@@ -1,3 +1,4 @@
+<script src="{{ 'rx-product-list.js' | asset_url }}" defer="defer"></script>
 <style>
   .rx-reviews  {
     margin-top: 0 !important;
@@ -503,30 +504,3 @@
     </div>
   </rx-slider>
 </div>
-
-<script>
-$(document).ready(function() {
-
-  $('.slider-galeria').slick({
-    slidesToShow: 1,
-    slidesToScroll: 1,
-    arrows: false,
-    infinite: false,
-    adaptiveHeight: true,
-    asNavFor: '.slider-galeria-thumbs'
-  });
-
-  $('.slider-galeria-thumbs').slick({
-    slidesToShow: 3,
-    slidesToScroll: 3,
-    asNavFor: '.slider-galeria',
-    focusOnSelect: true,
-    vertical: true,
-    verticalSwiping: true,
-    prevArrow: '<svg class="rx-slick-prev-media-gallery" xmlns="http://www.w3.org/2000/svg" width="30" height="12" viewBox="0 0 30 12" fill="none"> <path d="M1 11L15 1L29 11" stroke="#184B44" stroke-linecap="round"/> </svg>',
-    nextArrow: '<svg class="rx-slick-next-media-gallery" xmlns="http://www.w3.org/2000/svg" width="30" height="12" viewBox="0 0 30 12" fill="none"> <path d="M1 1L15 11L29 1" stroke="#184B44" stroke-linecap="round"/> </svg>',
-    infinite: false
-  });
-
-});
-</script>
