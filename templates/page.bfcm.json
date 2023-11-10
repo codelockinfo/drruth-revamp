@@ -377,7 +377,7 @@
         "button {font-family: \"Josefin Sans\";}"
       ],
       "settings": {
-        "custom_class": "tenp",
+        "custom_class": "",
         "title": "Pet Parents Favorites at 10% Off",
         "heading_size": "h1",
         "image_width": "full",
@@ -391,7 +391,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 32,
-        "padding_bottom": 32
+        "padding_bottom": 16
       }
     },
     "afd00670-eaa8-4072-be8f-77f6500b392c": {
@@ -407,7 +407,7 @@
         "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Give your pet the goodness of wholly balanced nutrition with our top-grade multivitamins from Standard Process.<\/p>"
+            "text": "<p>Get the goodness of wholly balanced nutrition with top-grade supplements & multivitamins from Standard Process.<\/p>"
           }
         }
       },
