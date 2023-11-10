@@ -151,6 +151,9 @@
         "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-1",
         "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-2"
       ],
+      "custom_css": [
+        "h3 {padding-top: 20px; font-family: \"BLT-Heirloom\";}"
+      ],
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -325,7 +328,7 @@
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 52
       }
     },
     "17f3f27c-96bb-461c-aeaf-de6801eb573c": {
@@ -367,21 +370,61 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-1",
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2"
       ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\"; text-align: center;}",
+        "img {border-radius: 30px;}",
+        "p {font-family: \"BLT-Heirloom\";}",
+        "button {font-family: \"Josefin Sans\";}"
+      ],
       "settings": {
-        "custom_class": "",
-        "title": "Other Pet Parents Favorites at 10% Off *use code GIVINGBACK10",
-        "heading_size": "h2",
+        "custom_class": "tenp",
+        "title": "Pet Parents Favorites at 10% Off",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "afd00670-eaa8-4072-be8f-77f6500b392c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Wholesome Benefits from Standard Process<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Give your pet the goodness of wholly balanced nutrition with our top-grade multivitamins from Standard Process.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-heading-1",
+        "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-text-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\";}",
+        "p {font-family: \"Josefin Sans\";}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 48,
         "padding_bottom": 0
       }
     },
@@ -412,8 +455,11 @@
         "template--14841728761921__2a3d594f-9bfc-4483-b6a2-01aa624e8306-1668612001ec025698-1",
         "template--14841728761921__2a3d594f-9bfc-4483-b6a2-01aa624e8306-1668612001ec025698-2"
       ],
+      "custom_css": [
+        "h3 {font-family: \"BLT-Heirloom\"; padding-top: 20px;}"
+      ],
       "settings": {
-        "title": "Give your pet the goodness of wholly balanced nutrition w\/ our top-grade multivitamins from Standard Process.",
+        "title": "",
         "heading_size": "h2",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -501,7 +547,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 40
       }
     },
     "59dfd687-de26-41ea-851d-c7d92cd63a13": {
@@ -564,6 +610,7 @@
     "71d2e1f7-132b-4230-bffc-2711fb42fe54",
     "c5202985-92b6-458e-9df1-9a8886eeb8e6",
     "17f3f27c-96bb-461c-aeaf-de6801eb573c",
+    "afd00670-eaa8-4072-be8f-77f6500b392c",
     "2a3d594f-9bfc-4483-b6a2-01aa624e8306",
     "712125b3-cd0e-4275-9812-86d6b479720a",
     "59dfd687-de26-41ea-851d-c7d92cd63a13"
