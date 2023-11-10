@@ -58,20 +58,46 @@
         "show_text_below": true
       }
     },
+    "bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921792094273__bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>BLACK FRIDAY & CYBER MONDAY SALES!<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38-heading-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\";}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "a7aeba3d-757c-4979-b093-2611f67ccaa3": {
       "type": "rich-text",
       "blocks": {
         "template--14841728761921__a7aeba3d-757c-4979-b093-2611f67ccaa3-1669135430e703475c-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Here's Your Black Friday Treat 🎉<\/p>",
+            "heading": "<p>LIMITED TIME OFFER⏱️<\/p>",
             "heading_size": "h2"
           }
         },
         "template--14841728761921__a7aeba3d-757c-4979-b093-2611f67ccaa3-1669135430e703475c-1": {
           "type": "text",
           "settings": {
-            "text": "<p>These Are The Deals You’ve Been Waiting For <\/p><p>Use code<strong> GIVINGBACK10<\/strong> upon checkout to get 10% off our holistic supplements & courses! <\/p>"
+            "text": "<p>The clock is ticking! Don't miss this opportunity to invest in your pet's wellbeing! Get exclusive deals on holistic supplements and courses. Use code <strong>GIVINGBACK10 <\/strong>at checkout and enjoy a delightful 10% off, making this holiday season the perfect time to invest in your pet's health holistically!<\/p>"
           }
         },
         "template--14841728761921__a7aeba3d-757c-4979-b093-2611f67ccaa3-1669135430e703475c-2": {
@@ -80,7 +106,10 @@
           "settings": {
             "button_label": "Button label",
             "button_link": "",
-            "button_style_secondary": false
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
@@ -89,11 +118,50 @@
         "template--14841728761921__a7aeba3d-757c-4979-b093-2611f67ccaa3-1669135430e703475c-1",
         "template--14841728761921__a7aeba3d-757c-4979-b093-2611f67ccaa3-1669135430e703475c-2"
       ],
+      "custom_css": [
+        ".h2 {font-family: \"Josefin Sans\"; font-size: 28px;}",
+        "p {font-family: \"BLT-Heirloom\";}"
+      ],
       "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 20,
         "padding_bottom": 20
+      }
+    },
+    "19241226-092f-4e9f-b420-0455b1219692": {
+      "type": "collection-list",
+      "blocks": {
+        "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "holistic-supplements"
+          }
+        },
+        "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-1",
+        "template--14921792094273__19241226-092f-4e9f-b420-0455b1219692-featured_collection-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "71d2e1f7-132b-4230-bffc-2711fb42fe54": {
@@ -170,6 +238,11 @@
         "product": "holistic-total-body-support-for-cats-and-dogs-glandular-supplements",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "hide_variants": false,
         "enable_video_looping": false,
         "padding_top": 0,
@@ -244,6 +317,11 @@
         "product": "the-original-crockpet-diet-membership",
         "color_scheme": "background-1",
         "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 0,
@@ -290,6 +368,7 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Other Pet Parents Favorites at 10% Off *use code GIVINGBACK10",
         "heading_size": "h2",
         "image_width": "full",
@@ -408,6 +487,7 @@
         "dbb4c90f-3c91-4275-954f-23f3af6a04f6"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
@@ -478,7 +558,9 @@
   "order": [
     "main",
     "5f787237-7ab8-4dd1-8f92-55e74a275b53",
+    "bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38",
     "a7aeba3d-757c-4979-b093-2611f67ccaa3",
+    "19241226-092f-4e9f-b420-0455b1219692",
     "71d2e1f7-132b-4230-bffc-2711fb42fe54",
     "c5202985-92b6-458e-9df1-9a8886eeb8e6",
     "17f3f27c-96bb-461c-aeaf-de6801eb573c",
