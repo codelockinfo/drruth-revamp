@@ -14,7 +14,7 @@
         "c248817b-753b-4fda-81cd-c95ca28af13a": {
           "type": "shopify:\/\/apps\/powerful-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
           "settings": {
-            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"xxxx\"><\/div>\n\n<div class=\"globo-formbuilder\" data-id=\"MjA1NjQ=\"><\/div>"
+            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"MjA1NjQ=\"><\/div>"
           }
         }
       },
