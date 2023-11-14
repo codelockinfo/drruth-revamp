@@ -2,7 +2,6 @@
   "sections": {
     "main": {
       "type": "main-register",
-      "disabled": true,
       "settings": {
         "padding_top": 36,
         "padding_bottom": 72
@@ -10,17 +9,6 @@
     },
     "16999994322d277f7e": {
       "type": "apps",
-      "blocks": {
-        "c248817b-753b-4fda-81cd-c95ca28af13a": {
-          "type": "shopify:\/\/apps\/powerful-form-builder\/blocks\/app-block\/e4bcb1eb-35b2-42e6-bc37-bfe0e1542c9d",
-          "settings": {
-            "shortcode": "<div class=\"globo-formbuilder\" data-id=\"MjA1NjQ=\"><\/div>"
-          }
-        }
-      },
-      "block_order": [
-        "c248817b-753b-4fda-81cd-c95ca28af13a"
-      ],
       "settings": {
         "include_margins": true
       }
