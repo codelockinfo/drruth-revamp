@@ -140,14 +140,14 @@
         "7def7afb-05d2-45c7-90d5-9ce9ca07b521": {
           "type": "heading",
           "settings": {
-            "heading": "Black Friday Bliss!",
+            "heading": "It's Time to Enroll in Our Courses!",
             "heading_size": "h1"
           }
         },
         "bf5af32c-ab4c-4ae6-affa-3420f4cbab72": {
           "type": "text",
           "settings": {
-            "text": "<p>Unleash the ultimate in pet well-being this Black Friday and Cyber Monday! 🐾 <\/p><p>Secure your furry friend's health with our exclusive Pet Wellness Course. For a limited time, enjoy a paw-some <strong>10% discount <\/strong>that's as extraordinary as your pet's love. Dive into a world of holistic care, expert insights, and tail-wagging joy. Don't miss out – make this Black Friday and Cyber Monday your pet's healthiest yet. Enroll now and let the wellness adventure begin!<\/p>",
+            "text": "<p>Secure your furry friend's health with our exclusive Pet Wellness Course. For a limited time, enjoy a paw-some <strong>10% discount <\/strong>that's as extraordinary as your pet's love. Dive into a world of holistic care, expert insights, and tail-wagging joy. Don't miss out – make this Black Friday and Cyber Monday your pet's healthiest yet. Enroll now and let the wellness adventure begin!<\/p>",
             "text_style": "body"
           }
         },
@@ -227,11 +227,13 @@
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: black;}",
         "img {border-radius: 30px;}",
         "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        ".multicolumn-card__info {color: black;}",
         "button {font-family: \"Josefin Sans\";}",
-        "div {background-color: #f1ecd3;}"
+        "div {background-color: #f1ecd3;}",
+        "h3 {color: #184B44; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
-        "custom_class": "",
+        "custom_class": "prn",
         "title": "Pet Parents Favorites at 10% Off",
         "heading_size": "h1",
         "image_width": "full",
