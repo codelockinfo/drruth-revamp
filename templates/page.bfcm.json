@@ -97,7 +97,7 @@
         "template--14921792094273__30d4f70c-617a-4161-a47d-3d9e361493ea-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>The clock is ticking! Don't miss this opportunity to invest in your pet's wellbeing! Get exclusive deals on holistic supplements and courses. Use code <strong>GIVINGBACK10 <\/strong>at checkout and enjoy a delightful 10% off for all products. <\/p><p>Not only that, enjoy up to <strong>20% discount<\/strong> on our top-rated treasures, The Holistic Total Body Support and the Fidospore!<\/p><p>Make this holiday season the perfect time to invest in your pet's health holistically!<\/p>",
+            "text": "<p>The clock is ticking! Don't miss this opportunity to invest in your pet's wellbeing! Get exclusive deals on holistic supplements and courses. Use code <strong>GIVINGBACK10 <\/strong>at checkout and enjoy a delightful <strong>10% off <\/strong>for all products. <\/p><p>Not only that, enjoy up to <strong>20% discount<\/strong> on our top-rated treasures, The Holistic Total Body Support and the Fidospore!<\/p><p>Make this holiday season the perfect time to invest in your pet's health holistically!<\/p>",
             "text_style": "body"
           }
         },
@@ -134,168 +134,54 @@
         "padding_bottom": 36
       }
     },
-    "71d2e1f7-132b-4230-bffc-2711fb42fe54": {
-      "type": "featured-product",
+    "86e189a3-542b-4ac4-8666-f0054c07ccb2": {
+      "type": "image-with-text",
       "blocks": {
-        "9403355b-6b46-41fe-bdf4-a3ab1bc4e274": {
+        "7def7afb-05d2-45c7-90d5-9ce9ca07b521": {
+          "type": "heading",
+          "settings": {
+            "heading": "LIMITED TIME OFFER!",
+            "heading_size": "h1"
+          }
+        },
+        "bf5af32c-ab4c-4ae6-affa-3420f4cbab72": {
           "type": "text",
           "settings": {
-            "text": "25% OFF",
-            "text_style": "subtitle"
+            "text": "<p>Unleash the ultimate in pet well-being this Black Friday and Cyber Monday! 🐾 <\/p><p>Secure your furry friend's health with our exclusive Pet Wellness Course. For a limited time, enjoy a paw-some <strong>10% discount <\/strong>that's as extraordinary as your pet's love. Dive into a world of holistic care, expert insights, and tail-wagging joy. Don't miss out – make this Black Friday and Cyber Monday your pet's healthiest yet. Enroll now and let the wellness adventure begin!<\/p>",
+            "text_style": "body"
           }
         },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-0": {
-          "type": "text",
+        "7f4e9117-0a14-44b7-b7f9-9aa5ef67209a": {
+          "type": "button",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
+            "button_label": "Explore courses",
+            "button_link": "https:\/\/drruthroberts.com\/collections\/pet-education-membership?"
           }
         }
       },
       "block_order": [
-        "9403355b-6b46-41fe-bdf4-a3ab1bc4e274",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-0",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-1",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-2",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-3",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-4",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-5",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-6",
-        "template--14841728761921__71d2e1f7-132b-4230-bffc-2711fb42fe54-1668612001da43260d-7"
+        "7def7afb-05d2-45c7-90d5-9ce9ca07b521",
+        "bf5af32c-ab4c-4ae6-affa-3420f4cbab72",
+        "7f4e9117-0a14-44b7-b7f9-9aa5ef67209a"
+      ],
+      "custom_css": [
+        "h2 {color: #184b44; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
+        "p {text-align: justify; margin: 0 px auto;}",
+        ".button {margin: auto; padding: 10px 20px;}",
+        "div {padding: 15px;}"
       ],
       "settings": {
-        "product": "holistic-total-body-support-for-cats-and-dogs-glandular-supplements",
+        "image": "shopify:\/\/shop_images\/Holistic_Course.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "c5202985-92b6-458e-9df1-9a8886eeb8e6": {
-      "type": "featured-product",
-      "blocks": {
-        "1307da9a-db46-405b-b63b-046ff40d5aad": {
-          "type": "text",
-          "settings": {
-            "text": "25% OFF",
-            "text_style": "subtitle"
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h2"
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-5": {
-          "type": "quantity_selector",
-          "disabled": true,
-          "settings": {
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1307da9a-db46-405b-b63b-046ff40d5aad",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-0",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-1",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-2",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-3",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-5",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-6",
-        "template--14841728761921__c5202985-92b6-458e-9df1-9a8886eeb8e6-1669120577ee54e62a-7"
-      ],
-      "settings": {
-        "product": "the-original-crockpet-diet-membership",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": true,
-        "enable_video_looping": false,
-        "padding_top": 0,
-        "padding_bottom": 52
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "17f3f27c-96bb-461c-aeaf-de6801eb573c": {
@@ -573,8 +459,7 @@
     "5f787237-7ab8-4dd1-8f92-55e74a275b53",
     "bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38",
     "30d4f70c-617a-4161-a47d-3d9e361493ea",
-    "71d2e1f7-132b-4230-bffc-2711fb42fe54",
-    "c5202985-92b6-458e-9df1-9a8886eeb8e6",
+    "86e189a3-542b-4ac4-8666-f0054c07ccb2",
     "17f3f27c-96bb-461c-aeaf-de6801eb573c",
     "afd00670-eaa8-4072-be8f-77f6500b392c",
     "2a3d594f-9bfc-4483-b6a2-01aa624e8306",
