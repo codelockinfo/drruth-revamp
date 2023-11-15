@@ -90,7 +90,7 @@
         "template--14921792094273__30d4f70c-617a-4161-a47d-3d9e361493ea-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "LIMITED TIME OFFER!",
+            "heading": "Limited Time Offer!",
             "heading_size": "h1"
           }
         },
@@ -140,7 +140,7 @@
         "7def7afb-05d2-45c7-90d5-9ce9ca07b521": {
           "type": "heading",
           "settings": {
-            "heading": "LIMITED TIME OFFER!",
+            "heading": "Black Friday Bliss!",
             "heading_size": "h1"
           }
         },
@@ -224,10 +224,11 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\"; text-align: center;}",
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: black;}",
         "img {border-radius: 30px;}",
-        "p {font-family: \"BLT-Heirloom\";}",
-        "button {font-family: \"Josefin Sans\";}"
+        "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        "button {font-family: \"Josefin Sans\";}",
+        "div {background-color: #f1ecd3;}"
       ],
       "settings": {
         "custom_class": "",
