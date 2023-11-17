@@ -488,12 +488,11 @@
         },
         "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-buttons-1": {
           "type": "buttons",
-          "disabled": true,
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_1": "Shop Now",
+            "button_link_1": "https:\/\/drruthroberts.com\/collections\/pet-products",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
@@ -504,10 +503,13 @@
         "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-text-1",
         "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-buttons-1"
       ],
+      "custom_css": [
+        ".button {color: white;}"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/black_friday_cyber_monday_1.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image": "shopify:\/\/shop_images\/black_friday_cyber_monday_2.png",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
