@@ -226,10 +226,10 @@
       "custom_css": [
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
         "img {border-radius: 30px;}",
-        "p {font-family: \"Josefin Sans\"; color: black;}",
+        "p {font-family: \"BLT-Heirloom\"; color: black;}",
         ".multicolumn-card__info {color: black;}",
         "button {font-family: \"Josefin Sans\";}",
-        "div {background-color: #efe7c0;}",
+        "div {background-color: #f4efdb;}",
         "h3 {color: #e54a09; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
