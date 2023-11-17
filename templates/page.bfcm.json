@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/black_friday.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -319,7 +319,7 @@
         ".multicolumn-card__info {color: black;}",
         "button {font-family: \"Josefin Sans\";}",
         "div {background-color: #white;}",
-        "h3 {color: B; font-family: \"BLT-Heirloom\"; margin-top: 20px}"
+        "h3 {color: B; font-family: \"BLT-Heirloom\"; margin-top: 20px;}"
       ],
       "settings": {
         "title": "",
