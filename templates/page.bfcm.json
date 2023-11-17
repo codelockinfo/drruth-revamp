@@ -210,11 +210,11 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Top_choice_hista_pawz.png",
-            "title": "Hista-Paws",
-            "text": "<p>The best selling allergy relief supplement for cats & dogs that contains quercetin & nettles that works better than apoquel.<\/p>",
+            "image": "shopify:\/\/shop_images\/Top_choice_omega_pawz.png",
+            "title": "Omega Pawz",
+            "text": "<p>Unlike many fish oil supplements, Omega Pawz is made with pure, high-quality fish oil and is free from artificial additives and preservatives.<\/p>",
             "link_label": "Buy Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/quercetin-nettles-90-caps?_pos=1&_psq=hista&_ss=e&_v=1.0"
+            "link": "https:\/\/drruthroberts.com\/products\/omega-pawz-liquid-fish-oil-supplement-for-pets-energy-booster"
           }
         }
       },
@@ -333,7 +333,7 @@
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Top_selling_HTBS.png",
+            "image": "shopify:\/\/shop_images\/Top_selling_HTBS_1.png",
             "title": "Holistic Total Body Support",
             "text": "",
             "link_label": "Shop Now",
@@ -343,44 +343,42 @@
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Early-Bird-_-Testimonials_Body-2_1.jpg",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/Top_selling_Vitality_2.png",
+            "title": "Vitality - Mushroom Drops for Dog",
             "text": "",
             "link_label": "Shop Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/turmeric-with-bioperine%C2%AE-organic-coconut-oil-for-cats-dogs-60-chews?_pos=1&_sid=9a0c389c5&_ss=r"
+            "link": "https:\/\/drruthroberts.com\/products\/vitality-mushroom-drops-for-dog-with-adaptogen-tincture"
           }
         },
         "c5318569-8288-4701-8a2b-c395252eb4fa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Early-Bird-_-Testimonials_Body-3_1.jpg",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/Top_selling_Hista_Pawz_2.png",
+            "title": "Hista Paws - Herbal Allergy Supplement for Pet",
             "text": "",
             "link_label": "Shop Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/standardprocess-pneumotrophin-pmg-6900?_pos=1&_psq=pneum&_ss=e&_v=1.0"
-          }
-        },
-        "dbb4c90f-3c91-4275-954f-23f3af6a04f6": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Early-Bird-_-Testimonials_Body-4_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/standardprocess-adrenal-desiccated-0850?_pos=1&_psq=adrenal&_ss=e&_v=1.0"
+            "link": "https:\/\/drruthroberts.com\/products\/herbal-allergy-supplement-for-cats-and-dogs"
           }
         }
       },
       "block_order": [
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-1",
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-2",
-        "c5318569-8288-4701-8a2b-c395252eb4fa",
-        "dbb4c90f-3c91-4275-954f-23f3af6a04f6"
+        "c5318569-8288-4701-8a2b-c395252eb4fa"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
+        "img {border-radius: 30px;}",
+        "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        ".multicolumn-card__info {color: black;}",
+        "button {font-family: \"Josefin Sans\";}",
+        "div {background-color: #f4efdb;}",
+        "h3 {color: B; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
         "custom_class": "",
-        "title": "",
-        "heading_size": "h2",
+        "title": "Pet Parent's Favorite with 10% Off",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
         "columns_desktop": 3,
@@ -391,8 +389,42 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 0,
+        "padding_top": 32,
         "padding_bottom": 40
+      }
+    },
+    "c512dc9d-c418-41b5-90b5-035479911964": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Sale is Live from NOW -  November 29th, 11:59 pm! <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Seize the perfect opportunity to enhance your pet's health for the season while saving some serious $$$! Explore our range of natural supplements and enroll in our exclusive pet wellness course <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1",
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: white;}",
+        "}p {font-family: \"BLT-Heirloom\"; color: black;"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "59dfd687-de26-41ea-851d-c7d92cd63a13": {
@@ -445,36 +477,6 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "c512dc9d-c418-41b5-90b5-035479911964": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>The Sale is Live from NOW -  November 29th, 11:59 pm! <\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Seize the perfect opportunity to enhance your pet's health for the season while saving some serious $$$! Explore our range of natural supplements and enroll in our exclusive pet wellness course <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1",
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -487,7 +489,7 @@
     "afd00670-eaa8-4072-be8f-77f6500b392c",
     "2a3d594f-9bfc-4483-b6a2-01aa624e8306",
     "712125b3-cd0e-4275-9812-86d6b479720a",
-    "59dfd687-de26-41ea-851d-c7d92cd63a13",
-    "c512dc9d-c418-41b5-90b5-035479911964"
+    "c512dc9d-c418-41b5-90b5-035479911964",
+    "59dfd687-de26-41ea-851d-c7d92cd63a13"
   ]
 }
