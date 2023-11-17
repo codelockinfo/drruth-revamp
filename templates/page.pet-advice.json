@@ -521,6 +521,15 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "8f23295c-e0a3-43cd-b327-ad136018ebdc": {
+      "type": "Certified_Coaches",
+      "settings": {
+        "testhead": "",
+        "testdes": "",
+        "coachbtn": "All Product Review",
+        "coachurl": "https:\/\/blog.drruthroberts.com\/category\/product-review\/"
+      }
     }
   },
   "order": [
@@ -540,6 +549,7 @@
     "febdc93f-b5f0-4728-b425-acf1d35080a9",
     "4dac0fe1-ce41-47f7-8e86-27d409ee6496",
     "7334f3e1-87e0-42f1-8762-c579898dd117",
-    "cbd4244d-0bbe-4a85-9234-c4112797bd73"
+    "cbd4244d-0bbe-4a85-9234-c4112797bd73",
+    "8f23295c-e0a3-43cd-b327-ad136018ebdc"
   ]
 }
