@@ -330,24 +330,14 @@
     "712125b3-cd0e-4275-9812-86d6b479720a": {
       "type": "multicolumn",
       "blocks": {
-        "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Early-Bird-_-Testimonials_Header_1.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Early-Bird-_-Testimonials_Body-1_1.jpg",
-            "title": "",
+            "image": "shopify:\/\/shop_images\/Top_selling_HTBS.png",
+            "title": "Holistic Total Body Support",
             "text": "",
             "link_label": "Shop Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/quercetin-nettles-90-caps?_pos=1&_psq=hista&_ss=e&_v=1.0"
+            "link": "https:\/\/drruthroberts.com\/products\/holistic-total-body-support-for-cats-and-dogs-glandular-supplements"
           }
         },
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-2": {
@@ -382,7 +372,6 @@
         }
       },
       "block_order": [
-        "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-0",
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-1",
         "template--14841728761921__712125b3-cd0e-4275-9812-86d6b479720a-166913542994cdc345-2",
         "c5318569-8288-4701-8a2b-c395252eb4fa",
