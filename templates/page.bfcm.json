@@ -64,7 +64,7 @@
         "template--14921792094273__bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>BLACK FRIDAY & CYBER MONDAY SALES ARE HERE!<\/p>",
+            "heading": "<p><strong>Gear Up for a Pawsitively Awesome Black Friday & Cyber Monday Bash! <\/strong><\/p>",
             "heading_size": "h1"
           }
         }
@@ -73,7 +73,7 @@
         "template--14921792094273__bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38-heading-1"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\";}"
+        "h2 {font-family: \"BLT-Heirloom\"; color: #441a08;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -116,7 +116,7 @@
       ],
       "custom_css": [
         "h2 {color: #e54a09; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
-        "p {text-align: justify; margin: 0 px auto;}",
+        "p {text-align: justify; margin: 0 px auto; color: #441a08;}",
         ".button {margin: auto; padding: 10px 20px;}",
         "div {padding: 15px;}"
       ],
@@ -166,7 +166,7 @@
       ],
       "custom_css": [
         "h2 {color: #e54a09; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
-        "p {text-align: justify; margin: 0 px auto;}",
+        "p {text-align: justify; margin: 0 px auto; color: #441a08;}",
         ".button {margin: auto; padding: 10px 20px;}",
         "div {padding: 15px;}"
       ],
@@ -226,9 +226,9 @@
       "custom_css": [
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
         "img {border-radius: 30px;}",
-        "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        "p {font-family: \"BLT-Heirloom\"; color: black; color: #441a08;}",
         ".multicolumn-card__info {color: black;}",
-        "button {font-family: \"Josefin Sans\";}",
+        ".button {font-family: \"Josefin Sans\";}",
         "div {background-color: #f4efdb;}",
         "h3 {color: #e54a09; font-family: \"BLT-Heirloom\";}"
       ],
@@ -273,8 +273,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
-        "img {border-radius: 30px;}",
-        "p {font-family: \"Josefin Sans\"; color: black;"
+        "p {font-family: \"Josefin Sans\"; color: #441a08;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -313,13 +312,8 @@
         "template--14841728761921__2a3d594f-9bfc-4483-b6a2-01aa624e8306-1668612001ec025698-2"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
-        "img {border-radius: 30px;}",
-        "p {font-family: \"BLT-Heirloom\"; color: black;}",
-        ".multicolumn-card__info {color: black;}",
-        "button {font-family: \"Josefin Sans\";}",
         "div {background-color: #white;}",
-        "h3 {color: B; font-family: \"BLT-Heirloom\"; margin-top: 20px;}"
+        "h3 {color: #441a08; font-family: \"BLT-Heirloom\"; margin-top: 20px;}"
       ],
       "settings": {
         "title": "",
@@ -374,13 +368,9 @@
         "c5318569-8288-4701-8a2b-c395252eb4fa"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
-        "img {border-radius: 30px;}",
-        "p {font-family: \"BLT-Heirloom\"; color: black;}",
-        ".multicolumn-card__info {color: black;}",
-        "button {font-family: \"Josefin Sans\";}",
         "div {background-color: #f4efdb;}",
-        "h3 {color: B; font-family: \"BLT-Heirloom\";}"
+        "h2 {font-family: \"BLT-heirloom\"; margin: auto; color: #e54a09;}",
+        "h3 {color: #441a08; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
         "custom_class": "",
@@ -409,26 +399,18 @@
             "heading": "<p>The Sale is Live from NOW -  November 29th, 11:59 pm! <\/p>",
             "heading_size": "h1"
           }
-        },
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Seize the perfect opportunity to enhance your pet's health for the season while saving some serious $$$! Explore our range of natural supplements and enroll in our exclusive pet wellness course <\/p>"
-          }
         }
       },
       "block_order": [
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1",
-        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1"
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: white;}",
-        "p {font-family: \"BLT-Heirloom\"; color: white;"
+        "h2 {font-family: \"BLT-Heirloom\"; font-size: 30px; color: #e54a09;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -484,6 +466,56 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "47493b70-2e72-4d80-b7c7-68424133eaa7": {
+      "type": "image-banner",
+      "blocks": {
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-heading-1",
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-text-1",
+        "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/black_friday_cyber_monday_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -497,6 +529,7 @@
     "2a3d594f-9bfc-4483-b6a2-01aa624e8306",
     "712125b3-cd0e-4275-9812-86d6b479720a",
     "c512dc9d-c418-41b5-90b5-035479911964",
-    "59dfd687-de26-41ea-851d-c7d92cd63a13"
+    "59dfd687-de26-41ea-851d-c7d92cd63a13",
+    "47493b70-2e72-4d80-b7c7-68424133eaa7"
   ]
 }
