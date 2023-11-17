@@ -48,7 +48,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/black_friday.png",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
@@ -121,16 +121,16 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_6.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_4.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -171,12 +171,12 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_7.png",
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/pet_wellness_course.png",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
