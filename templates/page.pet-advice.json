@@ -459,6 +459,68 @@
         "coachbtn": "All Downloadable",
         "coachurl": ""
       }
+    },
+    "7334f3e1-87e0-42f1-8762-c579898dd117": {
+      "type": "pet_ourblog",
+      "settings": {
+        "labelourb": "Product Review",
+        "petblogimg": "shopify:\/\/shop_images\/Drenamin.png",
+        "prtbllink": "https:\/\/blog.drruthroberts.com\/drenamin-review-adrenal-and-emotional-support-supplement\/",
+        "prtblsubdes": "Drenamin: Adrenal Support Supplements",
+        "prtblogdate": "",
+        "prtblogdes": "Let's take a closer look at adrenal gland disorders and examine how Drenamin emerges as a potential lifesaver for us humans and also our pet."
+      }
+    },
+    "cbd4244d-0bbe-4a85-9234-c4112797bd73": {
+      "type": "rx-posts",
+      "blocks": {
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-1": {
+          "type": "title",
+          "settings": {
+            "title": "Drenamin: Adrenal Support Supplements",
+            "reviewer_name": "Dr. Ruth Roberts | November 17, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/drenamin-review-adrenal-and-emotional-support-supplement\/",
+            "post_image": "shopify:\/\/shop_images\/Drenamin.png"
+          }
+        },
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-2": {
+          "type": "title",
+          "settings": {
+            "title": "Hepatrophin PMG® - Liver Support Supplements for Pets",
+            "reviewer_name": "Dr. Ruth Roberts | November 10, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/hepatrophin-pmg-liver-support-supplement\/",
+            "post_image": "shopify:\/\/shop_images\/Hepatrophin_-_Liver_Support_Supplements.png"
+          }
+        },
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-3": {
+          "type": "title",
+          "settings": {
+            "title": "Activated Charcoal For Dogs and Cats",
+            "reviewer_name": "Dr. Ruth Roberts | November 1, 2023",
+            "post_link": "https:\/\/blog.drruthroberts.com\/activated-charcoal-for-dogs-and-where-to-buy-it\/",
+            "post_image": "shopify:\/\/shop_images\/Product_Review_1.png"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-1",
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-2",
+        "template--14921792258113__cbd4244d-0bbe-4a85-9234-c4112797bd73-title-3"
+      ],
+      "settings": {
+        "desktopColumns": "3",
+        "tabletColumns": "3",
+        "desktopMaxWidth": "100%",
+        "tabletMaxWidth": "100%",
+        "mobileMaxWidth": "100%",
+        "autoPlay": false,
+        "smoothAutoPlay": false,
+        "auto_hide_arrow": false,
+        "container_bgcolor": "#fff",
+        "card_bgcolor": "#fff",
+        "filled_star_color": "",
+        "empty_star_color": ""
+      }
     }
   },
   "order": [
@@ -476,6 +538,8 @@
     "836a1838-39d3-4804-9b8f-570cc2fbf531",
     "54622c8f-3f1b-48e3-a24e-b5c8cd560f29",
     "febdc93f-b5f0-4728-b425-acf1d35080a9",
-    "4dac0fe1-ce41-47f7-8e86-27d409ee6496"
+    "4dac0fe1-ce41-47f7-8e86-27d409ee6496",
+    "7334f3e1-87e0-42f1-8762-c579898dd117",
+    "cbd4244d-0bbe-4a85-9234-c4112797bd73"
   ]
 }
