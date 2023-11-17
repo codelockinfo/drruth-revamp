@@ -121,7 +121,7 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_4.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -171,8 +171,8 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/pet_wellness_course.png",
-        "height": "large",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_5.png",
+        "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "middle",
