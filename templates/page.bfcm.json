@@ -46,7 +46,7 @@
         "template--14841728761921__5f787237-7ab8-4dd1-8f92-55e74a275b53-1668612002d203d69f-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/BFCM_SALE_2_7a454232-6b23-41f3-a39f-7d8ab8ffed66.jpg",
+        "image": "shopify:\/\/shop_images\/black_friday.png",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
@@ -64,7 +64,7 @@
         "template--14921792094273__bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "<p>BLACK FRIDAY & CYBER MONDAY SALES!<\/p>",
+            "heading": "<p>BLACK FRIDAY & CYBER MONDAY SALES ARE HERE!<\/p>",
             "heading_size": "h1"
           }
         }
@@ -115,13 +115,13 @@
         "template--14921792094273__30d4f70c-617a-4161-a47d-3d9e361493ea-button-1"
       ],
       "custom_css": [
-        "h2 {color: #184b44; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
+        "h2 {color: #e54a09; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
         "p {text-align: justify; margin: 0 px auto;}",
         ".button {margin: auto; padding: 10px 20px;}",
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_3.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_4.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -165,13 +165,13 @@
         "7f4e9117-0a14-44b7-b7f9-9aa5ef67209a"
       ],
       "custom_css": [
-        "h2 {color: #184b44; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
+        "h2 {color: #e54a09; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
         "p {text-align: justify; margin: 0 px auto;}",
         ".button {margin: auto; padding: 10px 20px;}",
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Course.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -190,7 +190,7 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Fidospore_b5b5e1b7-cc6b-4c35-90bf-6e91ba16b834.jpg",
+            "image": "shopify:\/\/shop_images\/Top_choice_Fidospore_1.png",
             "title": "FidoSpore",
             "text": "<p>FidoSpore™ is the first probiotic supplement clinically shown to support digestive health in dogs.<\/p>",
             "link_label": "Buy Now",
@@ -200,7 +200,7 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WHOLE_BODY_NUTRITION_ENDOCRINE_SUPPORT_800_x_800_px_3.jpg",
+            "image": "shopify:\/\/shop_images\/Top_choice_arthri_pawz.png",
             "title": "Arthri-Pawz",
             "text": "<p>Ideal nutritional support for joints, providing pets with the nutrition they need to rid fluid that results in swelling, repair, stay lubricated, move freely, and function at their best.<\/p>",
             "link_label": "Buy Now",
@@ -210,7 +210,7 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WHOLE_BODY_NUTRITION_ENDOCRINE_SUPPORT_800_x_800_px_2.jpg",
+            "image": "shopify:\/\/shop_images\/Top_choice_hista_pawz.png",
             "title": "Hista-Paws",
             "text": "<p>The best selling allergy relief supplement for cats & dogs that contains quercetin & nettles that works better than apoquel.<\/p>",
             "link_label": "Buy Now",
@@ -224,17 +224,17 @@
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: black;}",
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
         "img {border-radius: 30px;}",
         "p {font-family: \"BLT-Heirloom\"; color: black;}",
         ".multicolumn-card__info {color: black;}",
         "button {font-family: \"Josefin Sans\";}",
         "div {background-color: #f1ecd3;}",
-        "h3 {color: #184B44; font-family: \"BLT-Heirloom\";}"
+        "h3 {color: #184b44; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
-        "custom_class": "prn",
-        "title": "Pet Parents Favorites at 10% Off",
+        "custom_class": "",
+        "title": "Our Top Choice at 10% Off",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
