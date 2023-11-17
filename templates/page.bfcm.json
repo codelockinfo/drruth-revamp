@@ -504,11 +504,11 @@
         "template--14921792094273__47493b70-2e72-4d80-b7c7-68424133eaa7-buttons-1"
       ],
       "custom_css": [
-        ".button {color: white;}"
+        ".button {color: ; font-weight: bold; font-size: 20px; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/black_friday_cyber_monday_2.png",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 30,
         "image_height": "small",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
