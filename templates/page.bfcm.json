@@ -121,7 +121,7 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_4.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_6.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -171,7 +171,7 @@
         "div {padding: 15px;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Holistic_Supplements_5.png",
+        "image": "shopify:\/\/shop_images\/Holistic_Supplements_7.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -194,7 +194,7 @@
             "title": "FidoSpore",
             "text": "<p>FidoSpore™ is the first probiotic supplement clinically shown to support digestive health in dogs.<\/p>",
             "link_label": "Buy Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/fidospore?_pos=1&_sid=ff1c5ae4c&_ss=r"
+            "link": "https:\/\/drruthroberts.com\/products\/fidospore-by-microlabs-digestive-probiotic-for-pets"
           }
         },
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-1": {
@@ -204,7 +204,7 @@
             "title": "Arthri-Pawz",
             "text": "<p>Ideal nutritional support for joints, providing pets with the nutrition they need to rid fluid that results in swelling, repair, stay lubricated, move freely, and function at their best.<\/p>",
             "link_label": "Buy Now",
-            "link": "https:\/\/shop.drruthroberts.com\/products\/arthrosoothe-120-vcaps?_pos=1&_psq=art&_ss=e&_v=1.0"
+            "link": "https:\/\/drruthroberts.com\/products\/herbal-allergy-supplement-for-cats-and-dogs"
           }
         },
         "template--14841728761921__17f3f27c-96bb-461c-aeaf-de6801eb573c-166861214162a401d8-2": {
@@ -226,11 +226,11 @@
       "custom_css": [
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
         "img {border-radius: 30px;}",
-        "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        "p {font-family: \"Josefin Sans\"; color: black;}",
         ".multicolumn-card__info {color: black;}",
         "button {font-family: \"Josefin Sans\";}",
-        "div {background-color: #f1ecd3;}",
-        "h3 {color: #184b44; font-family: \"BLT-Heirloom\";}"
+        "div {background-color: #efe7c0;}",
+        "h3 {color: #e54a09; font-family: \"BLT-Heirloom\";}"
       ],
       "settings": {
         "custom_class": "",
@@ -443,6 +443,7 @@
         "template--14841728761921__59dfd687-de26-41ea-851d-c7d92cd63a13-1668612002d203d69f-1",
         "template--14841728761921__59dfd687-de26-41ea-851d-c7d92cd63a13-1668612002d203d69f-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/BFCM-Open-C.jpg",
         "image_overlay_opacity": 0,
@@ -454,6 +455,36 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "c512dc9d-c418-41b5-90b5-035479911964": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Sale is Live from NOW -  November 29th, 11:59 pm! <\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Seize the perfect opportunity to enhance your pet's health for the season while saving some serious $$$! Explore our range of natural supplements and enroll in our exclusive pet wellness course <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-heading-1",
+        "template--14921792094273__c512dc9d-c418-41b5-90b5-035479911964-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -467,6 +498,7 @@
     "afd00670-eaa8-4072-be8f-77f6500b392c",
     "2a3d594f-9bfc-4483-b6a2-01aa624e8306",
     "712125b3-cd0e-4275-9812-86d6b479720a",
-    "59dfd687-de26-41ea-851d-c7d92cd63a13"
+    "59dfd687-de26-41ea-851d-c7d92cd63a13",
+    "c512dc9d-c418-41b5-90b5-035479911964"
   ]
 }
