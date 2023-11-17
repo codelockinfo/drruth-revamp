@@ -272,8 +272,9 @@
         "template--14921792094273__afd00670-eaa8-4072-be8f-77f6500b392c-text-1"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-Heirloom\";}",
-        "p {font-family: \"Josefin Sans\";}"
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
+        "img {border-radius: 30px;}",
+        "p {font-family: \"Josefin Sans\"; color: black;"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -312,7 +313,13 @@
         "template--14841728761921__2a3d594f-9bfc-4483-b6a2-01aa624e8306-1668612001ec025698-2"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; padding-top: 20px;}"
+        "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: #e54a09;}",
+        "img {border-radius: 30px;}",
+        "p {font-family: \"BLT-Heirloom\"; color: black;}",
+        ".multicolumn-card__info {color: black;}",
+        "button {font-family: \"Josefin Sans\";}",
+        "div {background-color: #white;}",
+        "h3 {color: B; font-family: \"BLT-Heirloom\"; margin-top: 20px}"
       ],
       "settings": {
         "title": "",
@@ -416,7 +423,7 @@
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-Heirloom\"; margin: auto; color: white;}",
-        "}p {font-family: \"BLT-Heirloom\"; color: black;"
+        "p {font-family: \"BLT-Heirloom\"; color: white;"
       ],
       "settings": {
         "desktop_content_position": "center",
