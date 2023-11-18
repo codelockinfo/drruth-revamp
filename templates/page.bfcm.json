@@ -137,7 +137,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Holistic_Supplements_4_b5a0bf07-40f5-4b93-88a2-5dbbcc7b772e.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
