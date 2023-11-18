@@ -45,17 +45,20 @@
         "template--14841728761921__5f787237-7ab8-4dd1-8f92-55e74a275b53-1668612002d203d69f-1",
         "template--14841728761921__5f787237-7ab8-4dd1-8f92-55e74a275b53-1668612002d203d69f-2"
       ],
+      "custom_css": [
+        ".img {max-width: 100%; height: auto;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/black_friday.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
-        "show_text_below": true
+        "show_text_below": false
       }
     },
     "bc5e4eca-b1b1-4bdb-95d5-0a95de91fc38": {
