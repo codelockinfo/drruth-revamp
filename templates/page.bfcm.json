@@ -190,7 +190,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/Pet_wellness_Courses_1.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
