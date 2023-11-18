@@ -127,10 +127,12 @@
       ],
       "custom_css": [
         "img {max-width: 100%; height: auto;}",
+        ".body {font-size: 18px;}",
+        ".body,.h1,img {margin: 10px; padding: 0;}",
         "h2 {color: #e54a09; font-size: 30px; margin: auto; font-weight: bold;}",
-        "p {text-align: justify; margin: auto; color: #441a08; font-size: 17px;}",
-        ".button {margin: auto; padding: 10px 20px;}",
-        "div {padding-left: 8px; padding-right: 8px; padding-bottom: 10px; padding-top: 0px;}"
+        "p {text-align: center; margin: auto; color: #441a08; font-size: 1em;}",
+        ".button {padding: 10px 15px; margin-top: 15px;}",
+        "div {padding-left: 8px; padding-right: 8px; padding-top: 0px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Holistic_Supplements_4_b5a0bf07-40f5-4b93-88a2-5dbbcc7b772e.png",
@@ -143,7 +145,7 @@
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 20
+        "padding_bottom": 80
       }
     },
     "86e189a3-542b-4ac4-8666-f0054c07ccb2": {
