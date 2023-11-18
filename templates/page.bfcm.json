@@ -128,6 +128,7 @@
       "custom_css": [
         "h2 {color: #e54a09; font-size: 30px; margin: auto; padding-top: 20px; font-weight: bold;}",
         "p {text-align: justify; margin: 0 px auto; color: #441a08; font-size: 17px;}",
+        "img {max-width: 100%; height: auto;}",
         ".button {margin: auto; padding: 10px 20px;}",
         "div {padding: 15px;}"
       ],
