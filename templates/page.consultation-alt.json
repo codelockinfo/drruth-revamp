@@ -500,6 +500,17 @@
             "btn_url": "https:\/\/drruthroberts.com\/products\/melissa-zollars"
           }
         },
+        "784f00a7-570e-4cca-a74b-b5f7062b5eba": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/DanaBrigman.jpg",
+            "title": "Dana Brigman",
+            "detail": "<p><strong>CHPHC, Cert. CN<\/strong><\/p><p>I'm Dana Brigman for the last 11 years I have been training dogs with an emphasis on complex behavioral issues. I am certified in animal aromatherapy, reiki, nutrition, and homeopathy, and I describe myself as a learning junkie regarding natural wellness.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/dana-brigman"
+          }
+        },
         "c7ffa173-eccf-4efb-be1c-187483bbde38": {
           "type": "consultants",
           "settings": {
@@ -510,15 +521,14 @@
             "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
           }
         },
-        "784f00a7-570e-4cca-a74b-b5f7062b5eba": {
+        "de89c6fc-d122-4548-9050-3ab528d11a4c": {
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/DanaBrigman.jpg",
-            "title": "Dana Brigman",
-            "detail": "<p><strong>CHPHC, Cert. CN<\/strong><\/p><p>I'm Dana Brigman for the last 11 years I have been training dogs with an emphasis on complex behavioral issues. I am certified in animal aromatherapy, reiki, nutrition, and homeopathy, and I describe myself as a learning junkie regarding natural wellness.<\/p>",
+            "title": "Animal communicator, Reiki Master, Certified Canine Herbalist, CPN, HPHC",
+            "detail": "<p>I'm Melissa, and I am an Animal communicator, Reiki Master, Scalar Wave, EFT, Medical Intuition, HPHC, fostering connections between animals and humans at Calming Creek.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
-            "btn_url": "https:\/\/drruthroberts.com\/products\/dana-brigman"
+            "btn_url": "https:\/\/drruthroberts.com\/products\/melissa-sherman"
           }
         }
       },
@@ -539,8 +549,9 @@
         "8c135360-aaf4-4822-8380-001ab86501b0",
         "39738d21-58f4-4eae-b441-23f13cdcdf6f",
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2",
+        "784f00a7-570e-4cca-a74b-b5f7062b5eba",
         "c7ffa173-eccf-4efb-be1c-187483bbde38",
-        "784f00a7-570e-4cca-a74b-b5f7062b5eba"
+        "de89c6fc-d122-4548-9050-3ab528d11a4c"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
