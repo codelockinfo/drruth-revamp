@@ -525,6 +525,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/melissa.jpg",
             "title": "Melissa Sherman",
             "detail": "<p><strong>Animal communicator, Reiki Master, Certified Canine Herbalist, CPN, HPHC<\/strong><\/p><p>I'm Melissa, and my heartfelt commitment lies in helping individuals build profound connections with their furry companions. I'm committed to helping pets and empowering pet parents to take control of their pets' health.<\/p><p> <\/p>",
             "btn_txt": "BOOK A CONSULTATION",
