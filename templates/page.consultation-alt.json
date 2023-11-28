@@ -531,6 +531,17 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/melissa-sherman"
           }
+        },
+        "3211157e-c6f6-40e0-a1c7-abc974807288": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/ashleykeeshen.jpg",
+            "title": "Ashley Keeshen",
+            "detail": "<p>Health Sciences and Business Management graduate turned passionate rescue advocate. Furbaby parent, fostering over 100 dogs, and founder of Bark N' Bunk. Committed to holistic pet wellness and promoting the magic of adoption. <\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/ashley-keeshen"
+          }
         }
       },
       "block_order": [
@@ -552,7 +563,8 @@
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2",
         "784f00a7-570e-4cca-a74b-b5f7062b5eba",
         "c7ffa173-eccf-4efb-be1c-187483bbde38",
-        "de89c6fc-d122-4548-9050-3ab528d11a4c"
+        "de89c6fc-d122-4548-9050-3ab528d11a4c",
+        "3211157e-c6f6-40e0-a1c7-abc974807288"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
