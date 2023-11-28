@@ -511,16 +511,6 @@
             "btn_url": "https:\/\/drruthroberts.com\/products\/dana-brigman"
           }
         },
-        "c7ffa173-eccf-4efb-be1c-187483bbde38": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "title": "Wendy Mills",
-            "detail": "<p>FNTP, CHPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
-            "btn_txt": "BOOK A CONSULTATION",
-            "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
-          }
-        },
         "de89c6fc-d122-4548-9050-3ab528d11a4c": {
           "type": "consultants",
           "settings": {
@@ -542,6 +532,16 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/ashley-keeshen"
           }
+        },
+        "c7ffa173-eccf-4efb-be1c-187483bbde38": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Wendy Mills",
+            "detail": "<p>FNTP, CHPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
+          }
         }
       },
       "block_order": [
@@ -562,9 +562,9 @@
         "39738d21-58f4-4eae-b441-23f13cdcdf6f",
         "c7f0d6e0-fa31-40ef-82b9-9174e6e5bed2",
         "784f00a7-570e-4cca-a74b-b5f7062b5eba",
-        "c7ffa173-eccf-4efb-be1c-187483bbde38",
         "de89c6fc-d122-4548-9050-3ab528d11a4c",
-        "3211157e-c6f6-40e0-a1c7-abc974807288"
+        "3211157e-c6f6-40e0-a1c7-abc974807288",
+        "c7ffa173-eccf-4efb-be1c-187483bbde38"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
