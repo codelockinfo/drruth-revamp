@@ -7,7 +7,11 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
     <meta name="google-site-verification" content="bSq232ZUQXX7NUixtn1M5VMmNvSfI3CmCGoerBgD2Ck" />
+    {% if page.title contains '/collections/all?page' %}
+      <link rel="canonical" href="https://drruthroberts.com/collections/all">
+    {% else %}
     <link rel="canonical" href="{{ canonical_url }}">
+    {% endif %}
     <link rel="preconnect" href="https://cdn.shopify.com" crossorigin>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
