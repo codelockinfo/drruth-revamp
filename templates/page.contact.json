@@ -84,6 +84,50 @@
         "content2": "",
         "layout": "text_first"
       }
+    },
+    "73ed2484-6376-48ad-b069-4f0eec5c16e7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14921793077313__73ed2484-6376-48ad-b069-4f0eec5c16e7-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "EMAIL",
+            "text": "<p>Customercare@drruthroberts.com<\/p>",
+            "link_label": "EMAIL US",
+            "link": "mailto:Customercare@drruthroberts.com"
+          }
+        },
+        "template--14921793077313__73ed2484-6376-48ad-b069-4f0eec5c16e7-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "PHONE #",
+            "text": "<p>+1 213 394 2923<\/p>",
+            "link_label": "CALL NOW",
+            "link": "tel:+1 213 394 2923"
+          }
+        }
+      },
+      "block_order": [
+        "template--14921793077313__73ed2484-6376-48ad-b069-4f0eec5c16e7-column-1",
+        "template--14921793077313__73ed2484-6376-48ad-b069-4f0eec5c16e7-column-2"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "CONTACT US",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -91,6 +135,7 @@
     "b6193c8e-c69f-4711-9f3a-e2a01b0ee0cd",
     "46dc717d-b645-45db-b490-80497c97aea0",
     "e269a92a-d415-48e5-81af-de2ed3d26423",
-    "78640aa1-5398-49e4-acaf-4132e75b97af"
+    "78640aa1-5398-49e4-acaf-4132e75b97af",
+    "73ed2484-6376-48ad-b069-4f0eec5c16e7"
   ]
 }
