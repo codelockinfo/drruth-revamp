@@ -59,32 +59,6 @@
         "padding_bottom": 60
       }
     },
-    "78640aa1-5398-49e4-acaf-4132e75b97af": {
-      "type": "rx-banner-text-v2",
-      "blocks": {
-        "ffd5c83d-676b-4d97-83cb-5ca7de87434e": {
-          "type": "button",
-          "settings": {
-            "button_label": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/holistic-pet-health-coaching-program"
-          }
-        }
-      },
-      "block_order": [
-        "ffd5c83d-676b-4d97-83cb-5ca7de87434e"
-      ],
-      "custom_css": [
-        "#rx_read_more_arrow_black {margin-left: 30px;}"
-      ],
-      "settings": {
-        "rx_image_banner": "shopify:\/\/shop_images\/Image_4.png",
-        "heading": "",
-        "caption": "Become A Certified Holistic Pet Health Coach in 4 Months!",
-        "content": "<p>Helping others learn how to make the lifestyle changes their pets desperately need, using protocols, education, and information that’s proven to bring massive change to our pet’s quality of life — and pet owner’s quality of life.<\/p>",
-        "content2": "",
-        "layout": "text_first"
-      }
-    },
     "73ed2484-6376-48ad-b069-4f0eec5c16e7": {
       "type": "multicolumn",
       "blocks": {
@@ -128,6 +102,32 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "78640aa1-5398-49e4-acaf-4132e75b97af": {
+      "type": "rx-banner-text-v2",
+      "blocks": {
+        "ffd5c83d-676b-4d97-83cb-5ca7de87434e": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "shopify:\/\/pages\/holistic-pet-health-coaching-program"
+          }
+        }
+      },
+      "block_order": [
+        "ffd5c83d-676b-4d97-83cb-5ca7de87434e"
+      ],
+      "custom_css": [
+        "#rx_read_more_arrow_black {margin-left: 30px;}"
+      ],
+      "settings": {
+        "rx_image_banner": "shopify:\/\/shop_images\/Image_4.png",
+        "heading": "",
+        "caption": "Become A Certified Holistic Pet Health Coach in 4 Months!",
+        "content": "<p>Helping others learn how to make the lifestyle changes their pets desperately need, using protocols, education, and information that’s proven to bring massive change to our pet’s quality of life — and pet owner’s quality of life.<\/p>",
+        "content2": "",
+        "layout": "text_first"
+      }
     }
   },
   "order": [
@@ -135,7 +135,7 @@
     "b6193c8e-c69f-4711-9f3a-e2a01b0ee0cd",
     "46dc717d-b645-45db-b490-80497c97aea0",
     "e269a92a-d415-48e5-81af-de2ed3d26423",
-    "78640aa1-5398-49e4-acaf-4132e75b97af",
-    "73ed2484-6376-48ad-b069-4f0eec5c16e7"
+    "73ed2484-6376-48ad-b069-4f0eec5c16e7",
+    "78640aa1-5398-49e4-acaf-4132e75b97af"
   ]
 }
