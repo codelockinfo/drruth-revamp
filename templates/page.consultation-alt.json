@@ -542,6 +542,16 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
           }
+        },
+        "81a251a0-e6ac-449e-85e7-3b425ece010a": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Elena Grafton",
+            "detail": "<p><strong>B.A., M.A., Ed.S., HPHC<\/strong><\/p><p>Elena, a lifelong animal lover and experienced educator, adopted a rescue dog named Charlotte, inspiring her to explore alternative pet healthcare. She's now eager to help you create a customized wellness plan for your furry friend.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/elena-grafton"
+          }
         }
       },
       "block_order": [
@@ -564,7 +574,8 @@
         "784f00a7-570e-4cca-a74b-b5f7062b5eba",
         "de89c6fc-d122-4548-9050-3ab528d11a4c",
         "3211157e-c6f6-40e0-a1c7-abc974807288",
-        "c7ffa173-eccf-4efb-be1c-187483bbde38"
+        "c7ffa173-eccf-4efb-be1c-187483bbde38",
+        "81a251a0-e6ac-449e-85e7-3b425ece010a"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
