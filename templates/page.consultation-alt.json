@@ -492,16 +492,6 @@
             "btn_url": "https:\/\/drruthroberts.com\/products\/ashley-keeshen"
           }
         },
-        "81a251a0-e6ac-449e-85e7-3b425ece010a": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "title": "Elena Grafton",
-            "detail": "<p><strong>B.A., M.A., Ed.S., HPHC<\/strong><\/p><p>Elena, a lifelong animal lover and experienced educator, adopted a rescue dog named Charlotte, inspiring her to explore alternative pet healthcare. She's now eager to help you create a customized wellness plan for your furry friend.<\/p>",
-            "btn_txt": "BOOK A CONSULTATION",
-            "btn_url": "https:\/\/drruthroberts.com\/products\/elena-grafton"
-          }
-        },
         "c7ffa173-eccf-4efb-be1c-187483bbde38": {
           "type": "consultants",
           "settings": {
@@ -510,6 +500,17 @@
             "detail": "<p>FNTP, CHPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
+          }
+        },
+        "e1efd98b-f1ed-41a3-9912-5b60a6c462bd": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/blonde-west-highland-terrier.jpg",
+            "title": "Elena Grafton",
+            "detail": "<p><strong>B.A., M.A., Ed.S., HPHC<\/strong><\/p><p>Elena, a lifelong animal lover and experienced educator, adopted a rescue dog named Charlotte, inspiring her to explore alternative pet healthcare. She's now eager to help you create a customized wellness plan for your furry friend.<\/p>",
+            "btn_txt": "",
+            "btn_url": ""
           }
         }
       },
@@ -533,8 +534,8 @@
         "784f00a7-570e-4cca-a74b-b5f7062b5eba",
         "de89c6fc-d122-4548-9050-3ab528d11a4c",
         "3211157e-c6f6-40e0-a1c7-abc974807288",
-        "81a251a0-e6ac-449e-85e7-3b425ece010a",
-        "c7ffa173-eccf-4efb-be1c-187483bbde38"
+        "c7ffa173-eccf-4efb-be1c-187483bbde38",
+        "e1efd98b-f1ed-41a3-9912-5b60a6c462bd"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
