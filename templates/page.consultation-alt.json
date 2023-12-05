@@ -280,47 +280,6 @@
         "padding_bottom": 52
       }
     },
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
-      "type": "multicolumn",
-      "blocks": {
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Explore personalized well-being solutions for your pet with our  professional, certified Holistic Pet Health Coach, who brings diverse expertise in pet health and wellness.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
-      ],
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"Oakley Script\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".multicolumn-card__info {font-family: Josefin Sans;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Pet Consultants",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 36
-      }
-    },
     "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7": {
       "type": "Our_Pet_Consultants",
       "blocks": {
@@ -533,16 +492,6 @@
             "btn_url": "https:\/\/drruthroberts.com\/products\/ashley-keeshen"
           }
         },
-        "c7ffa173-eccf-4efb-be1c-187483bbde38": {
-          "type": "consultants",
-          "settings": {
-            "bg_color": "",
-            "title": "Wendy Mills",
-            "detail": "<p>FNTP, CHPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
-            "btn_txt": "BOOK A CONSULTATION",
-            "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
-          }
-        },
         "81a251a0-e6ac-449e-85e7-3b425ece010a": {
           "type": "consultants",
           "settings": {
@@ -551,6 +500,16 @@
             "detail": "<p><strong>B.A., M.A., Ed.S., HPHC<\/strong><\/p><p>Elena, a lifelong animal lover and experienced educator, adopted a rescue dog named Charlotte, inspiring her to explore alternative pet healthcare. She's now eager to help you create a customized wellness plan for your furry friend.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/elena-grafton"
+          }
+        },
+        "c7ffa173-eccf-4efb-be1c-187483bbde38": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Wendy Mills",
+            "detail": "<p>FNTP, CHPHC<\/p><p>Wendy earned a Functional Nutritional Therapy Practitioner certificate from the Nutritional Therapy Association in 2015, deepening her understanding of the profound impact of nutrition on human health.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/wendy-mills"
           }
         }
       },
@@ -574,8 +533,8 @@
         "784f00a7-570e-4cca-a74b-b5f7062b5eba",
         "de89c6fc-d122-4548-9050-3ab528d11a4c",
         "3211157e-c6f6-40e0-a1c7-abc974807288",
-        "c7ffa173-eccf-4efb-be1c-187483bbde38",
-        "81a251a0-e6ac-449e-85e7-3b425ece010a"
+        "81a251a0-e6ac-449e-85e7-3b425ece010a",
+        "c7ffa173-eccf-4efb-be1c-187483bbde38"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
@@ -585,6 +544,47 @@
       "settings": {
         "heading": "",
         "desc": ""
+      }
+    },
+    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
+      "type": "multicolumn",
+      "blocks": {
+        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Explore personalized well-being solutions for your pet with our  professional, certified Holistic Pet Health Coach, who brings diverse expertise in pet health and wellness.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"Oakley Script\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
+        ".multicolumn-card__info {font-family: Josefin Sans;}",
+        ".button.button--primary {display: none;}",
+        ".multicolumn-list__item:only-child {max-width: 100%;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "Our Pet Consultants",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 36
       }
     },
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
@@ -1029,8 +1029,8 @@
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "a72bf7b9-a058-49bf-b799-6bccc3a7ddb7",
+    "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
