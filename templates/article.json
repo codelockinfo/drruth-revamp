@@ -16,23 +16,23 @@
             "blog_show_author": false
           }
         },
-        "content": {
-          "type": "content",
-          "settings": {
-          }
-        },
         "share": {
           "type": "share",
           "settings": {
             "share_label": "Share"
+          }
+        },
+        "b6e80daa-9c4b-49fc-a59c-cee54ab337aa": {
+          "type": "content",
+          "settings": {
           }
         }
       },
       "block_order": [
         "featured_image",
         "title",
-        "content",
-        "share"
+        "share",
+        "b6e80daa-9c4b-49fc-a59c-cee54ab337aa"
       ],
       "custom_css": [
         ".article-template {max-width: 1100px; margin: 0 auto; padding: 0 15px;}",
@@ -44,7 +44,7 @@
         ".field:hover {border: none; box-shadow: none; --color-foreground: none;}"
       ],
       "settings": {
-        "reccheaddd": "Activated Charcoal for Dogs and Where to Buy It ",
+        "reccheaddd": "",
         "difftext": "",
         "discdiffcont": "",
         "spancente": "",
@@ -60,111 +60,6 @@
         "morebl": "More Blogs",
         "blog": "pet-blog",
         "blog_title_": "Recommended  Blog"
-      }
-    },
-    "a0372baf-6321-47ea-a483-637e6102d590": {
-      "type": "collection-list",
-      "blocks": {
-        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "general-detox-protocol"
-          }
-        },
-        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gastrointestinal-support"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-1",
-        "template--14921795076161__a0372baf-6321-47ea-a483-637e6102d590-featured_collection-2"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 24
-      }
-    },
-    "808ccf8c-f690-47bb-ba48-08c43c939891": {
-      "type": "featured-product",
-      "blocks": {
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-text-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-title-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-price-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-variant_picker-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-quantity_selector-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-buy_buttons-1",
-        "template--14921795076161__808ccf8c-f690-47bb-ba48-08c43c939891-share-1"
-      ],
-      "settings": {
-        "product": "activated-charcoal-560-mg-100-caps",
-        "color_scheme": "accent-1",
-        "secondary_background": true,
-        "media_size": "small",
-        "constrain_to_viewport": false,
-        "media_fit": "contain",
-        "media_position": "right",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 16,
-        "padding_bottom": 28
       }
     },
     "newsletter": {
@@ -194,7 +89,6 @@
         "paragraph",
         "email-form"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "",
         "full_width": true,
@@ -205,8 +99,6 @@
   },
   "order": [
     "main",
-    "a0372baf-6321-47ea-a483-637e6102d590",
-    "808ccf8c-f690-47bb-ba48-08c43c939891",
     "newsletter"
   ]
 }
