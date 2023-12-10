@@ -90,6 +90,9 @@
         "paragraph",
         "email-form"
       ],
+      "custom_css": [
+        "p{text-align: center;}"
+      ],
       "settings": {
         "bg_color": "",
         "full_width": true,
