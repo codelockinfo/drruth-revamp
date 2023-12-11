@@ -168,6 +168,22 @@
         "prtblogdes": "As a pet owner, it's essential to have Dr. Ruth Roberts' recommended pet emergency kit on hand at home. Familiarize yourself with situations where you can provide at-home treatment, sparing the need for an emergency vet visit."
       }
     },
+    "e8f16e75-0ea8-4db3-8fbe-d9cae014492d": {
+      "type": "rx-blog",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "blog": "pet-blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "d8b0d8a6-2ea9-47ad-830f-ab794905af56": {
       "type": "rx-posts",
       "blocks": {
@@ -204,6 +220,7 @@
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-2",
         "template--14921792258113__d8b0d8a6-2ea9-47ad-830f-ab794905af56-title-3"
       ],
+      "disabled": true,
       "custom_css": [
 
       ],
@@ -224,6 +241,7 @@
     },
     "a2bf1391-0e8f-4918-8758-a17303b1c55e": {
       "type": "Certified_Coaches",
+      "disabled": true,
       "custom_css": [
         ".blogbodr2 {padding: 10px 0 70px;}"
       ],
@@ -516,8 +534,8 @@
         "autoPlay": false,
         "smoothAutoPlay": false,
         "auto_hide_arrow": false,
-        "container_bgcolor": "#fff",
-        "card_bgcolor": "#fff",
+        "container_bgcolor": "#ffffff",
+        "card_bgcolor": "#ffffff",
         "filled_star_color": "",
         "empty_star_color": ""
       }
@@ -538,6 +556,7 @@
     "1655751929e34d4e57",
     "1408af62-d6c1-4a8b-924e-373937384510",
     "8104cc31-1a02-403b-90ea-53954e6bd34c",
+    "e8f16e75-0ea8-4db3-8fbe-d9cae014492d",
     "d8b0d8a6-2ea9-47ad-830f-ab794905af56",
     "a2bf1391-0e8f-4918-8758-a17303b1c55e",
     "ec5b2465-cee1-43bc-88cc-42159f61d062",
