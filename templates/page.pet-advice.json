@@ -149,6 +149,7 @@
         "c73b44fb-9d1d-415f-9a2a-d32b3b3e9978",
         "7abf0653-7abd-42ef-affa-1ab57d62adc8"
       ],
+      "disabled": true,
       "custom_css": [
         ".clsimgtxt {margin-top: 5%;}"
       ],
