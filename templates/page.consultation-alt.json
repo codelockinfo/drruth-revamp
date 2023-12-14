@@ -512,6 +512,17 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "shopify:\/\/products\/elena-grafton"
           }
+        },
+        "31cbbafb-55be-443b-978c-a8de6b6c48d7": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/LisaMayer.png",
+            "title": "Lisa Mayer",
+            "detail": "<p><strong>CHPHC<\/strong><\/p><p>I'm the founder of KK's Paws for Wellness and Health, a Certified Holistic Pet Health Coach with seven years of experience. My goal is to simplify fresh feeding and supplements, helping you address your pets' challenges and promote their health and wellness.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/lisa-mayer"
+          }
         }
       },
       "block_order": [
@@ -535,7 +546,8 @@
         "de89c6fc-d122-4548-9050-3ab528d11a4c",
         "3211157e-c6f6-40e0-a1c7-abc974807288",
         "c7ffa173-eccf-4efb-be1c-187483bbde38",
-        "e1efd98b-f1ed-41a3-9912-5b60a6c462bd"
+        "e1efd98b-f1ed-41a3-9912-5b60a6c462bd",
+        "31cbbafb-55be-443b-978c-a8de6b6c48d7"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
