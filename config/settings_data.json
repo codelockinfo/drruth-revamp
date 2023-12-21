@@ -539,10 +539,16 @@
         "settings": {
         }
       },
-      "4501441940568074142": {
-        "type": "shopify:\/\/apps\/bixgrow-affiliate-marketing\/blocks\/app-embed\/b4f8e2e0-5ee6-49dd-b333-2e5542feb60a",
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
+          "button_color": "#0c5847",
+          "button_icon": "team",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_left",
+          "button_vertical_position": "lowest",
+          "greeting_message": "Hello! Share your needs, and I'll provide recommendations. We're online Mon-Fri, 10am-5pm EST. If we're offline, we'll respond ASAP upon return."
         }
       }
     }
