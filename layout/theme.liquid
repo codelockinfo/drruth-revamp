@@ -44,7 +44,11 @@
     {{ 'custom.css' | asset_url | stylesheet_tag }}
 
       {% if template == 'list-collections' %}
-        <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title
+        {% if collection.handle == 'all' %}
+          <title>All Products - Healthy Pet Products - Dr. Ruth Roberts</title
+        {% else %}
+          <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title
+        {% endif %}
       {% else %}
         <title>
           {{ page_title }}
