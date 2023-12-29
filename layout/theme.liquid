@@ -66,6 +66,12 @@
           <meta name="description" content="Discover Dr. Ruth's dog and cat supplements + online pet med collections today. From cat and dog allergy relief to pet anxiety products, we've got you covered.">
           <meta property="og:description" content="Discover Dr. Ruth's dog and cat supplements + online pet med collections today. From cat and dog allergy relief to pet anxiety products, we've got you covered.">
           <meta name="twitter:description" content="Discover Dr. Ruth's dog and cat supplements + online pet med collections today. From cat and dog allergy relief to pet anxiety products, we've got you covered.">
+      {% elsif collection %}
+        {% if collection.handle == 'all' %}
+          <meta name="description" content="Find healthy pet products for your cat and dog. From pet stress relief, to cat and dog probiotics,and even cancer support, find what you're looking for.">
+        {% else %}
+          <meta name="description" content="{{ page_description | escape }}">
+        {% endif %}
       {% else %}
           <meta name="description" content="{{ page_description | escape }}">
       {% endif %}
