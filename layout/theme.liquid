@@ -88,7 +88,9 @@
         <meta name="description" content="{{ page_description | escape }}">
       {% endif %}
     {% else %}
-      <meta name="description" content="Find healthy pet products for your cat and dog. From pet stress relief, to cat and dog probiotics, and even cancer support, find what you're looking for.">
+      {% if collection.handle == 'all' %}
+        <meta name="description" content="Find healthy pet products for your cat and dog. From pet stress relief, to cat and dog probiotics, and even cancer support, find what you're looking for.">
+      {% endif %}
     {% endif %}
       
 
