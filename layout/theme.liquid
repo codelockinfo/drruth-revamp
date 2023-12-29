@@ -46,15 +46,20 @@
       {% if template == 'list-collections' %}
           <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title>
       {% else %}
+        {% if collection %}
+          {% if collection.handle == 'all' %}
+            <title>All Products - Healthy Pet Products - Dr. Ruth Roberts</title>
+          {% else %}
+            <title>
+              {{ page_title }}
+            </title>
+          {% endif %}
+        {% else %}
         <title>
           {{ page_title }}
         </title>
+        {% endif %}
       {% endif %}
-  {% comment %}
-    {% if page_description %}
-      <meta name="description" content="{{ page_description | escape }}">
-    {% endif %}
-  {% endcomment %}
 
     {% if page_description %}
       {% if template == 'list-collections' %}
