@@ -43,14 +43,18 @@
 
     {{ 'custom.css' | asset_url | stylesheet_tag }}
 
-    <title>
-      {{ page_title }}
-      {% comment %}
-      {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
-      {%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
-      {%- unless page_title contains shop.name %} &#124; {{ shop.name }}{% endunless -%}
-      {% endcomment %}
-    </title>
+    {% if page.url == 'https://drruthroberts.com/collections' %}
+      <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title>
+    {% else %}
+      <title>
+        {{ page_title }}
+        {% comment %}
+        {%- if current_tags %} &ndash; tagged "{{ current_tags | join: ', ' }}"{% endif -%}
+        {%- if current_page != 1 %} &ndash; Page {{ current_page }}{% endif -%}
+        {%- unless page_title contains shop.name %} &#124; {{ shop.name }}{% endunless -%}
+        {% endcomment %}
+      </title>
+    {% endif %}
 
     {% if page_description %}
       <meta name="description" content="{{ page_description | escape }}">
