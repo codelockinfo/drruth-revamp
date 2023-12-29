@@ -42,10 +42,10 @@
     {%- endunless -%}
 
     {{ 'custom.css' | asset_url | stylesheet_tag }}
-    
-    {% if page.title == 'collections' %}
+
+  {% if collection and collection.title == 'collections' %}
       <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title>
-    {% else %}
+  {% else %}
       <title>
         {{ page_title }}
         {% comment %}
@@ -55,7 +55,6 @@
         {% endcomment %}
       </title>
     {% endif %}
-
     {% if page_description %}
       <meta name="description" content="{{ page_description | escape }}">
     {% endif %}
