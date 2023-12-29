@@ -42,7 +42,7 @@
     {%- endunless -%}
 
     {{ 'custom.css' | asset_url | stylesheet_tag }}
-
+    
     {% if page.url == 'drruthroberts.com/collections' %}
       <title>Cat and Dog Supplements - Pet Meds Online - Dr. Ruth</title>
     {% else %}
@@ -292,7 +292,7 @@
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ 'accessibility.skip_to_text' | t }}
     </a>
-
+    <p style="display:none" class="temp1">{{ page.url }}</p>
     {%- if settings.cart_type == 'drawer' -%}
       {%- render 'cart-drawer' -%}
     {%- endif -%}
