@@ -42,13 +42,6 @@
           "settings": {
           }
         },
-        "buy_buttons": {
-          "type": "buy_buttons",
-          "disabled": true,
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -118,7 +111,6 @@
         "variant_picker",
         "quantity_selector",
         "description",
-        "buy_buttons",
         "caption",
         "share",
         "collapsible-content-0",
