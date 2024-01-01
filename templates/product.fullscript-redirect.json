@@ -356,11 +356,28 @@
           "settings": {
             "text": "<p>If you're looking for alternatives to the supplement \"Holistic Total Body Support\" (HTBS) for pets with beef\/pork sensitivities, it's essential to consult with your veterinarian for specific recommendations tailored to your pet's needs.<\/p><ol><li>If you have an existing Fullscript account, visit the Fullscript website and log in using your credentials.<\/li><li><strong>Search for Dr. Ruth Roberts' Collection<\/strong>: Once you're logged in, you can search for Dr. Ruth Roberts' collection of supplements or the specific health plan that's meant to replace HTBS for pets with beef\/pork sensitivities. Use the search bar or navigate through the platform to find her recommendations.<\/li><\/ol>"
           }
-        },
-        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-button-1": {
+        }
+      },
+      "block_order": [
+        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-heading-1",
+        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "06213bce-4155-4165-a104-5f290129c36c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14962010456129__06213bce-4155-4165-a104-5f290129c36c-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
+            "button_label": "VISIT FULLSCRIPT",
             "button_link": "https:\/\/us.fullscript.com\/u\/plans\/TXVsdGlQYXRpZW50UGxhbi0zOTk1Nw==",
             "button_style_secondary": false,
             "button_label_2": "",
@@ -370,17 +387,15 @@
         }
       },
       "block_order": [
-        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-heading-1",
-        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-text-1",
-        "template--14962010456129__b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b-button-1"
+        "template--14962010456129__06213bce-4155-4165-a104-5f290129c36c-button-1"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 12,
-        "padding_bottom": 12
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
@@ -392,6 +407,7 @@
     "video",
     "related-products",
     "newsletter",
-    "b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b"
+    "b9de1b9f-6a64-4d99-ba92-6f0cf85aa55b",
+    "06213bce-4155-4165-a104-5f290129c36c"
   ]
 }
