@@ -879,40 +879,6 @@
     },
     "c07243a3-5fee-499e-a09b-241b56f0595c": {
       "type": "rx-posts",
-      "blocks": {
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0": {
-          "type": "title",
-          "settings": {
-            "title": "How to Help Cats & Dogs with Chronic UTI",
-            "reviewer_name": "Dr. Ruth | September 13, 2023",
-            "post_link": "https:\/\/blog.drruthroberts.com\/how-to-help-cats-dogs-with-chronic-uti\/",
-            "post_image": "shopify:\/\/shop_images\/How-to-Help-Dogs-and-Cats-with-Chronic-UTI-and-E.Coli-Antibiotic-Resistance-1.png"
-          }
-        },
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1": {
-          "type": "title",
-          "settings": {
-            "title": "6 Reason Why Your Pet Need Glandular Supplements",
-            "reviewer_name": "Dr. Ruth | September 10, 2023",
-            "post_link": "https:\/\/blog.drruthroberts.com\/6-reason-why-your-pet-need-glandular-supplements\/",
-            "post_image": "shopify:\/\/shop_images\/Supporting-Dogs-with-Pneumonia-at-Home-1.png"
-          }
-        },
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2": {
-          "type": "title",
-          "settings": {
-            "title": "Dog Massage For Arthritis: Try Tui Na!",
-            "reviewer_name": "Dr. Ruth | September 3, 2023",
-            "post_link": "https:\/\/blog.drruthroberts.com\/tui-na-dog-massage-for-arthritis\/",
-            "post_image": "shopify:\/\/shop_images\/Massage-for-dog-with-arthritis.png"
-          }
-        }
-      },
-      "block_order": [
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-0",
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-1",
-        "template--14898486050881__c07243a3-5fee-499e-a09b-241b56f0595c-167974247994f79e17-2"
-      ],
       "settings": {
         "desktopColumns": "3",
         "tabletColumns": "2",
@@ -928,6 +894,22 @@
         "empty_star_color": ""
       }
     },
+    "1d7acd25-827c-4f3c-8845-e495b1105759": {
+      "type": "rx-blog",
+      "settings": {
+        "heading": "",
+        "heading_size": "h2",
+        "blog": "pet-blog",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": false,
+        "padding_top": 24,
+        "padding_bottom": 52
+      }
+    },
     "8960ec65-5cef-4d84-b887-aa69c09a76a9": {
       "type": "rx-rich-text",
       "blocks": {
@@ -935,7 +917,7 @@
           "type": "button",
           "settings": {
             "button_label": "ALL BLOGS",
-            "button_link": "https:\/\/blog.drruthroberts.com\/holistic-pet-health-blog\/",
+            "button_link": "shopify:\/\/blogs\/pet-blog",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -1094,23 +1076,6 @@
         "padding_bottom": 4
       }
     },
-    "1d7acd25-827c-4f3c-8845-e495b1105759": {
-      "type": "rx-blog",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "heading_size": "h2",
-        "blog": "pet-blog",
-        "post_limit": 3,
-        "columns_desktop": 3,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "show_view_all": false,
-        "padding_top": 24,
-        "padding_bottom": 52
-      }
-    },
     "a22eed67-71d2-4d24-9266-adb3dc0550e6": {
       "type": "rx-image-banner",
       "blocks": {
@@ -1186,11 +1151,11 @@
     "e3511e10-8d71-4ec1-a035-4c3a079b8d90",
     "35a9f240-35c6-4509-b3d7-77ac0c08d41c",
     "c07243a3-5fee-499e-a09b-241b56f0595c",
+    "1d7acd25-827c-4f3c-8845-e495b1105759",
     "8960ec65-5cef-4d84-b887-aa69c09a76a9",
     "42a0c8a2-518d-4af7-81cd-2253cf91765e",
     "2758b93a-1c5e-4890-87a5-086ee9572e15",
     "41def7a6-c370-4591-a416-a22b442ac6d4",
-    "1d7acd25-827c-4f3c-8845-e495b1105759",
     "a22eed67-71d2-4d24-9266-adb3dc0550e6"
   ]
 }
