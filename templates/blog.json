@@ -5,6 +5,7 @@
       "blocks": {
         "064b116a-b144-4838-ae3c-fab2c363cf30": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Supplements & multivitamin",
             "headurl": "Supplements-Multivitamin"
@@ -12,6 +13,7 @@
         },
         "ddda9a29-2968-4344-b1d9-1170c8e6d7ee": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Pet trivia",
             "headurl": "Pet-Trivia"
@@ -19,6 +21,7 @@
         },
         "b12799bf-f8d1-43fa-bcb7-770e98e35c3c": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Pet food & diet",
             "headurl": "Pet-Food-Diet"
@@ -26,6 +29,7 @@
         },
         "bba8d281-4abf-4d7b-ab00-1eea0b4b7d86": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Pet health & wellbeing",
             "headurl": "Pet-Health-Wellbeing"
@@ -33,6 +37,7 @@
         },
         "8fdf101f-4834-4e53-9c03-7cfceb1da8d1": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Illness & disease",
             "headurl": "Illness-Disease"
@@ -40,6 +45,7 @@
         },
         "da70c0bf-394f-41ce-8676-8070c0bd2641": {
           "type": "block",
+          "disabled": true,
           "settings": {
             "blog_head": "Tips & remedies",
             "headurl": "Tips-Remedies"
@@ -86,30 +92,29 @@
       ],
       "settings": {
         "blogtext": "Our blogs",
-        "blogdes": "The most useful pet advice news."
+        "blogdes": "The most useful pet advice"
       }
     },
     "main": {
       "type": "main-blog",
       "custom_css": [
         ".title--primary {display: none;}",
-        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 29px; left: 14px;}",
-        "h3.card__heading.h2 {padding-top: 30%;}",
-        "@media screen and (max-width: 463px) {.blog-articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}"
+        ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 120px; left: 14px;}",
+        "h3.card__heading.h2 {padding-top: 45%; padding-bottom: 0%; margin-bottom: 0%; }",
+        "@media screen and (max-width: 463px) {.blog articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}"
       ],
       "settings": {
         "layout": "grid",
         "show_image": true,
-        "image_height": "medium",
+        "image_height": "adapt",
         "show_date": true,
         "show_author": false,
-        "padding_top": 0,
-        "padding_bottom": 16
+        "padding_top": 52,
+        "padding_bottom": 0
       }
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -135,8 +140,9 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
-        "color_scheme": "background-2",
+        "bg_color": "",
         "full_width": true,
         "padding_top": 68,
         "padding_bottom": 52
@@ -144,7 +150,6 @@
     },
     "7079393e-e698-44dd-8019-845e54ee812c": {
       "type": "podcast_slider",
-      "disabled": true,
       "blocks": {
         "cae84d32-2c4d-46f7-be5e-cccff5ce1438": {
           "type": "collection",
@@ -185,6 +190,7 @@
         "7ea9f4f0-33a6-4ed5-8716-6f981896b8c7",
         "135c0419-37ed-4ade-88ce-bf78687c6120"
       ],
+      "disabled": true,
       "custom_css": [
         ".slidertexthead {text-align: center; margin-top: 0;}",
         ".blogmax-container {padding: 0 25px;}",
