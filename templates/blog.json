@@ -3,10 +3,10 @@
     "bb87f080-abd6-47b4-ba9f-01d54999a6b2": {
       "type": "rx-banner-text-v2",
       "custom_css": [
-        "h1{color: #184b44;}"
+        "h1 {color: #184b44;}"
       ],
       "settings": {
-        "rx_image_banner": "shopify:\/\/shop_images\/OUR_BLOG_BANNER_2.png",
+        "rx_image_banner": "shopify:\/\/shop_images\/OUR_BLOG_BANNER_caadee6e-efe8-410a-b9f0-bba65c5516d7.png",
         "heading": "Our Blogs",
         "caption": "",
         "content": "<p>Our blog aim to provide pet parents with informative and thought-provoking articles covering a broad spectrum of holistic pet care topics. Whether you're in search of practical tips, comprehensive guides, or in-depth exploration of specific subjects, our blog is tailored to educate, enlighten, and motivate.  Stay updated with our latest pet blogs and join our community of curious and passionate readers.<\/p>",
