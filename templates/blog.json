@@ -1,5 +1,20 @@
 {
   "sections": {
+    "bb87f080-abd6-47b4-ba9f-01d54999a6b2": {
+      "type": "rx-banner-text-v2",
+      "custom_css": [
+        "img {border-radius: 20px;}",
+        "heading {color: #184b44;}"
+      ],
+      "settings": {
+        "rx_image_banner": "shopify:\/\/shop_images\/OUR_BLOG_BANNER_0b12c358-c011-498f-9bda-6474e40492ed.png",
+        "heading": "Our Blogs",
+        "caption": "",
+        "content": "<p>We are committed in providing pet parents with informative and thought-provoking articles covering a broad spectrum of holistic pet  care topics. Whether you're in search of practical tips, comprehensive guides, or in-depth exploration of specific subjects, our blog is tailored to educate, enlighten, and motivate.  Stay updated with our latest pet blogs and join our community of curious and passionate readers.<\/p>",
+        "content2": "",
+        "layout": "image_first"
+      }
+    },
     "488913be-42fd-43d8-b2f3-07dc1854f7ab": {
       "type": "main-blog-custom",
       "blocks": {
@@ -87,6 +102,7 @@
         "596c6c8a-d8f4-4fab-8bf3-79a7edc0785c",
         "f5bf5fde-1132-49c5-9b00-76e9f2fd213f"
       ],
+      "disabled": true,
       "custom_css": [
         "a {text-decoration: none;}"
       ],
@@ -109,7 +125,7 @@
         "image_height": "adapt",
         "show_date": true,
         "show_author": false,
-        "padding_top": 52,
+        "padding_top": 100,
         "padding_bottom": 0
       }
     },
@@ -216,6 +232,7 @@
     }
   },
   "order": [
+    "bb87f080-abd6-47b4-ba9f-01d54999a6b2",
     "488913be-42fd-43d8-b2f3-07dc1854f7ab",
     "main",
     "newsletter",
