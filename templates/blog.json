@@ -3,8 +3,7 @@
     "bb87f080-abd6-47b4-ba9f-01d54999a6b2": {
       "type": "rx-banner-text-v2",
       "custom_css": [
-        "img {border-radius: 20px;}",
-        "heading {color: #184b44;}"
+        "h1{color: #184b44;}"
       ],
       "settings": {
         "rx_image_banner": "shopify:\/\/shop_images\/OUR_BLOG_BANNER_2.png",
