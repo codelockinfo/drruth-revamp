@@ -100,7 +100,7 @@
       "custom_css": [
         ".title--primary {display: none;}",
         ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 120px; left: 14px;}",
-        "h3.card__heading.h2 {padding-top: 45%; padding-bottom: 0%; margin-bottom: 0%; }",
+        "h3.card__heading.h2 {padding-top: 45%; padding-bottom: 0%; margin-bottom: 0%;}",
         "@media screen and (max-width: 463px) {.blog articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}"
       ],
       "settings": {
@@ -126,7 +126,7 @@
         "paragraph": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Join our email list for exclusive offers and the latest news. <\/p>"
+            "text": "<p>Join our email list for exclusive offers and the latest insights.<\/p>"
           }
         },
         "email-form": {
@@ -140,7 +140,6 @@
         "paragraph",
         "email-form"
       ],
-      "disabled": true,
       "settings": {
         "bg_color": "",
         "full_width": true,
