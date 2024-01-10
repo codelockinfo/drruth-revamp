@@ -552,6 +552,12 @@
           "button_vertical_position": "lowest",
           "greeting_message": "Hello! Share your needs, and I'll provide recommendations. We're online Mon-Fri, 10am-5pm EST. If we're offline, we'll respond ASAP upon return."
         }
+      },
+      "234434759646961565": {
+        "type": "shopify:\/\/apps\/bixgrow-affiliate-marketing\/blocks\/widget\/b4f8e2e0-5ee6-49dd-b333-2e5542feb60a",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
