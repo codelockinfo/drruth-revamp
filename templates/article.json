@@ -6,7 +6,7 @@
         "featured_image": {
           "type": "featured_image",
           "settings": {
-            "image_height": "medium"
+            "image_height": "adapt"
           }
         },
         "title": {
@@ -69,9 +69,9 @@
         "collapsible_row_itCTw8": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Does massaging a dog with arthritis help?",
+            "heading": "",
             "icon": "paw_print",
-            "row_content": "<p>Yes, massaging a dog with arthritis can be therapeutic for dogs with <br\/>arthritis, especially osteoarthritis, for it enhances circulation and <br\/>provides relaxation.<\/p>",
+            "row_content": "",
             "page": ""
           }
         },
