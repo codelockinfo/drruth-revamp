@@ -522,6 +522,16 @@
             "btn_txt": "BOOK A CONSULTATION",
             "btn_url": "https:\/\/drruthroberts.com\/products\/karin-druckenmiller"
           }
+        },
+        "consultants_tpXa4W": {
+          "type": "consultants",
+          "settings": {
+            "bg_color": "",
+            "title": "Tania Bachesais",
+            "detail": "<p><strong>HPHC, PMP<\/strong><\/p><p>With over 25 years in IT and a background in mathematics, I'm dedicated to sharing holistic options for your pet's well-being, driven by my experience with my own beloved Border Collie who battled Hemangiosarcoma. I'm here to assist you in making informed holistic choices for your pets' long and healthy lives.<\/p>",
+            "btn_txt": "BOOK A CONSULTATION",
+            "btn_url": "https:\/\/drruthroberts.com\/products\/tania-bachesais"
+          }
         }
       },
       "block_order": [
@@ -546,7 +556,8 @@
         "3211157e-c6f6-40e0-a1c7-abc974807288",
         "e1efd98b-f1ed-41a3-9912-5b60a6c462bd",
         "31cbbafb-55be-443b-978c-a8de6b6c48d7",
-        "67aa50ed-6771-4be3-b89a-64671d36051e"
+        "67aa50ed-6771-4be3-b89a-64671d36051e",
+        "consultants_tpXa4W"
       ],
       "custom_css": [
         ".amr_pet_consultants_item_1 {grid-row-start: unset !important; grid-column-end: unset !important;}",
