@@ -44,7 +44,9 @@
         "f5e5a2ad-a38c-4121-83a4-2455eef7335f"
       ],
       "custom_css": [
-        ".rx-email-field input {text-transform: capitalize !important;}"
+        ".rx-email-field input {text-transform: capitalize !important;}",
+        "li{text-align: left}",
+        "p{text-align: left}"
       ],
       "settings": {
         "footer-bg-color": "#f5f8f1",
