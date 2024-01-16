@@ -760,6 +760,29 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_nqtA3N": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_qpxxwz": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Empower Yourself to Be Your Pet's Best Advocate<\/p>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_qpxxwz"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -780,6 +803,7 @@
     "product_banner_KPEpcW",
     "image_with_text_GzmrL8",
     "image_with_text_n6hfXP",
-    "image_with_text_X3wfY8"
+    "image_with_text_X3wfY8",
+    "rich_text_nqtA3N"
   ]
 }
