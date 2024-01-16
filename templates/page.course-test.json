@@ -642,14 +642,14 @@
       "custom_css": [
         ".image-with-text__content {width: 660px; background-color: #f5f8f1;}",
         ".image-with-text__heading {color: #1e1e1e; font-family: Lato; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
-        ".image-with-text__text{color: #1E1E1E; font-family: Lato; font-size: 16px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
+        ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
         ".button {background-color: transparent;}"
       ],
       "settings": {
         "unique_class": "new class",
         "image": "shopify:\/\/shop_images\/AngelaArdolino_sPlantandMushroomGuide_ver1_jpg.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
