@@ -693,7 +693,8 @@
         "button_PBMcKj"
       ],
       "custom_css": [
-        ".image-with-text__text-item {padding: 40px 0 !important;}"
+        ".image-with-text__text-item {padding: 40px 0 !important;}",
+        ".image-with-text__heading {color: #184B44;font-family: Lato;font-size: 30px;font-style: normal;font-weight: 300;line-height: 40px;letter-spacing: 0.6px;}"
       ],
       "settings": {
         "unique_class": "",
@@ -701,6 +702,54 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_X3wfY8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_dDRT6Q": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dr. Ruth Roberts Pet Wellness Courses",
+            "heading_size": "h1"
+          }
+        },
+        "text_PXNHPr": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TAKE CHARGE OF YOUR PET'S WELLNESS AND HAPPINESS WITH DR. RUTH ROBERTS' ONLINE COURSES<\/p><p>I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_wEnjWN": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "heading_dDRT6Q",
+        "text_PXNHPr",
+        "button_wEnjWN"
+      ],
+      "custom_css": [
+        ".image-with-text__text-item {padding: 40px 0 !important;}"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/Section_Image_2_f9f90f01-197e-418a-8d09-d68697b73003_png.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -728,6 +777,7 @@
     "4f906579-b062-4ab8-babd-9cc9b73db3d9",
     "product_banner_KPEpcW",
     "image_with_text_GzmrL8",
-    "image_with_text_n6hfXP"
+    "image_with_text_n6hfXP",
+    "image_with_text_X3wfY8"
   ]
 }
