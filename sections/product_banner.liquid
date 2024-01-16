@@ -22,6 +22,11 @@
                 Add To Cart
               </a>
           </div>
+          {% if section.settings.botton != blank %}
+          <a class="extraBtn" href="{{ section.settings.btn_url }}">
+            {{ section.settings.botton }}
+          </a>
+          {% endif %}
       </div>
         <div class="product_image_box">
           {% for image in section.settings.product.images %}
@@ -48,6 +53,16 @@
       "type" : "product",
       "id" : "product",
       "label" : "Add Product"
+    },
+    {
+      "type" : "text",
+      "id" : "botton",
+      "label" : "Add Button Label"
+    },
+    {
+      "type" : "text",
+      "id" : "btn_url",
+      "label" : "Add Link For Button"
     }
   ],
   "presets" : [
