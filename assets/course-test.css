@@ -28,7 +28,7 @@
   display : flex;
   justify-content : space-between;
 }
-.product_detailing_area>h3{
+.product_banner_content>h3{
   color: #1E1E1E;
   font-family: Lato;
   font-size: 30px;
