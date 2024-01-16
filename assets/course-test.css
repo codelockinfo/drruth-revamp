@@ -38,8 +38,8 @@
 }
 .product_small_image{
   width : 100%;
-  margin-right : 60px;
 }
 .product_image_box{
   width : 30%;
+  margin-right : -80px;
 }
