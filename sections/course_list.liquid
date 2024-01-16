@@ -2,6 +2,11 @@
 
 <div class="course_list">
   <div class="courses">
+    {% for product in collection.products %}
+   {% for collection in product.collections %}
+      <div>{{collection.title}}</div>
+   {% endfor %}
+{% endfor %}
   </div>
 </div>
 
