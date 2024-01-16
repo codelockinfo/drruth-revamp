@@ -1,12 +1,29 @@
+{{ 'course-test.css' | asset_url | stylesheet_tag }}
+
+
+
+
+
+
+
+
+
+
+
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Course List",
+    "settings": [
+      {
+        "type" : "text",
+        "id" : "course_heading",
+        "label" : "Add Heading For Section"
+      },
+      {
+        "type" : "richtext",
+        "id" : "course_subheading",
+        "label" : "Add Sub Heading For Section"
+      }
+    ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
