@@ -1,6 +1,7 @@
 {{ 'course-test.css' | asset_url | stylesheet_tag }}
 
-<div class="product_banner page-width">
+<div class="page-width">
+  <div class="product_banner_main_box">
   <div class="product_box">
     {% if section.settings.heading != blank %}
       <h1>{{ section.settings.heading }}</h1>
@@ -11,6 +12,8 @@
       <h3>{{ section.settings.product.title }}</h3>
     </div>
   {% endif %}
+  </div>
+  
 </div>
 
 {% schema %}
