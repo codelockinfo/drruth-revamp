@@ -62,8 +62,8 @@
   letter-spacing: 0.6px;
 }
 .banner_product_price{
+  width : 30%;
   color: #1E1E1E;
-  text-align: center;
   font-family: Josefin Sans;
   font-size: 14px;
   font-style: normal;
