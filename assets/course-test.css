@@ -5,6 +5,7 @@
 
 .product_banner_main_box{
   max-width : 1146px;
+  padding : 0;
 }
 .product_box>h1{
   color: #184B44;
