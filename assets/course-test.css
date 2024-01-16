@@ -5,3 +5,12 @@
 .product_box{
   max-width : 1146px;
 }
+.product_box>h1{
+  color: #184B44;
+font-family: 'Oakley Script';
+font-size: 60px;
+font-style: normal;
+font-weight: 400;
+line-height: 57px;
+letter-spacing: 1.28px;
+}
