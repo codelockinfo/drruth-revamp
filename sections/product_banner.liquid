@@ -2,9 +2,11 @@
 {{ 'course-test.css' | asset_url | stylesheet_tag }}
 
 <div class="product_banner">
+  <div class="product_box">
   {% if section.settings.heading != blank %}
     <h1>{{ section.settings.heading }}</h1>
   {% endif %}
+  </div>
 </div>
 
 
