@@ -1,6 +1,8 @@
  /* product banner section  */
 .main_container{
-  text-align : right;
+  display : flex;
+  justify-content : right;
+  padding-right : 230px;
 }
 
 .product_banner_main_box{
