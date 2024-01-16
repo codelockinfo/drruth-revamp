@@ -644,7 +644,7 @@
         ".image-with-text__heading {color: #1e1e1e; font-family: Lato; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
         ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
         ".button {background-color: transparent;}",
-        ".image-with-text__media{height: 90%;}"
+        ".image-with-text__media {height: 93%;}"
       ],
       "settings": {
         "unique_class": "new class",
