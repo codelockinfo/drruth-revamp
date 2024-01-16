@@ -10,6 +10,9 @@
     {% if section.settings.product != blank %}
       <div class="product_detailing_area">
         <h3>{{ section.settings.product.title }}</h3>
+        <div class="product_banner_desc">
+          {{ section.settings.product.description }}
+        </div>
         <div class="product_image_box">
           {% for image in section.settings.product.images %}
             {% if forloop.index == 1 %}
