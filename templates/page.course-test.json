@@ -694,7 +694,7 @@
       ],
       "custom_css": [
         ".image-with-text__text-item {padding: 40px 0 !important;}",
-        ".image-with-text__heading {color: #184B44;font-family: Lato;font-size: 30px;font-style: normal;font-weight: 300;line-height: 40px;letter-spacing: 0.6px;}"
+        ".image-with-text__heading {color: #184b44; font-family: Lato; text-align : left font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px;}"
       ],
       "settings": {
         "unique_class": "",
