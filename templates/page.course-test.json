@@ -587,6 +587,13 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "product_banner_KPEpcW": {
+      "type": "product_banner",
+      "settings": {
+        "heading": "Courses, Ebooks, & Certifications",
+        "product": ""
+      }
     }
   },
   "order": [
@@ -603,6 +610,7 @@
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
+    "product_banner_KPEpcW"
   ]
 }
