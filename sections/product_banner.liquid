@@ -23,7 +23,7 @@
               </a>
           </div>
           {% if section.settings.botton != blank %}
-          <a class="extraBtn {% if section.settings.outline %} outline_btn {% endif %}" href="{{ section.settings.btn_url }}">
+          <a class="extraBtn {% if section.settings.outline %} outline_btn {% endif %} {% if section.settings.url != blank %} underline_btn {% endif %}" href="{{ section.settings.btn_url }}">
             {{ section.settings.botton }}
           </a>
           {% endif %}
