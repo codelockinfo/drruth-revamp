@@ -11,13 +11,14 @@
     <div class="product_detailing_area">
       <h3>{{ section.settings.product.title }}</h3>
       <div class="product_image_box">
-           <img class="product_addon_image" src="{{ images.src | product_img_url: 'grande' }}">     
-       
+        {% for image in section.settings.product.images %}
+          {% if image[forloop.index] == 1 %}
+           <img class="product_addon_image" src="{{ images.src | product_img_url: 'grande' }}">   
+        {% endif %}
+        {% endfor %}
 
 
 
-
-        
       </div>
     </div>
   {% endif %}
