@@ -724,12 +724,13 @@
         "text_PXNHPr": {
           "type": "text",
           "settings": {
-            "text": "<p>TAKE CHARGE OF YOUR PET'S WELLNESS AND HAPPINESS WITH DR. RUTH ROBERTS' ONLINE COURSES<\/p><p>I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.<\/p>",
+            "text": "<p>is the ultimate online learning platform for individuals looking to enhance their skills and knowledge in the Pet Wellness field. Dr. Ruth Roberts Pet Wellness Courses elieve that learning about Pets' Health and Wellness should be accessible to everyone, no matter where you are in the world or what your background is. That's why I offer a range of courses that can help thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer. Get access to Pet Health Education, E-Books, Videos, Supplement guide, and worksheets.<\/p>",
             "text_style": "body"
           }
         },
         "button_wEnjWN": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "LEARN MORE",
             "button_link": "#"
