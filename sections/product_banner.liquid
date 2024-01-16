@@ -11,15 +11,13 @@
     <div class="product_detailing_area">
       <h3>{{ section.settings.product.title }}</h3>
       <div class="product_image_box">
-        {% for image in section.settings.product.images %}
-           <img class="product_addon_image" src="{{ image.src | product_img_url: 'grande' }}">     
-        {% endfor %}
+           <img class="product_addon_image" src="{{ images.src | product_img_url: 'grande' }}">     
+       
 
 
 
 
         
-        {{ section.settings.product.image | image_url : width: 3080 | image_tag : width : "100%", height : "100%" }}
       </div>
     </div>
   {% endif %}
