@@ -597,6 +597,59 @@
         "btn_url": "#",
         "outline": false
       }
+    },
+    "image_with_text_GzmrL8": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_phqjny": {
+          "type": "heading",
+          "settings": {
+            "heading": "eBOOK: Plants & Medicinal Mushroom Benefits for pets",
+            "heading_size": "h2"
+          }
+        },
+        "caption_KccE3i": {
+          "type": "caption",
+          "settings": {
+            "caption": "written By: Angela Ardolino",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "text_FLnKpW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>mushrooms for your pet with Angela Ardolino's \"Plants and Medicinal wellbeing.<\/p><p>Whether you're looking to bo...<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_dPQwqg": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to cart",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_phqjny",
+        "caption_KccE3i",
+        "text_FLnKpW",
+        "button_dPQwqg"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/AngelaArdolino_sPlantandMushroomGuide_ver1_jpg.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -614,6 +667,7 @@
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "4f906579-b062-4ab8-babd-9cc9b73db3d9",
-    "product_banner_KPEpcW"
+    "product_banner_KPEpcW",
+    "image_with_text_GzmrL8"
   ]
 }
