@@ -11,6 +11,7 @@
   padding : 0;
 }
 .product_box>h1{
+  text-align : center;
   color: #184B44;
   font-family: 'Oakley Script';
   font-size: 60px;
