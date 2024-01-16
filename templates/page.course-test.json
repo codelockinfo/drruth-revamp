@@ -835,6 +835,13 @@
         "padding_top": 36,
         "padding_bottom": 100
       }
+    },
+    "course_list_bmcrqc": {
+      "type": "course_list",
+      "settings": {
+        "course_heading": "",
+        "course_subheading": ""
+      }
     }
   },
   "order": [
@@ -857,6 +864,7 @@
     "image_with_text_n6hfXP",
     "image_with_text_X3wfY8",
     "rich_text_nqtA3N",
-    "image_with_text_KkLM64"
+    "image_with_text_KkLM64",
+    "course_list_bmcrqc"
   ]
 }
