@@ -3,7 +3,7 @@
 <div class="course_list">
   <h1>{{ section.settings.course_heading }}</h1>
   <div class="courses">
-    {% for product in collection.products %}
+    {% for product in collection.all.products %}
       <div>{{product.title}}</div>
 {% endfor %}
   </div>
