@@ -1,4 +1,7 @@
  /* product banner section  */
+.product_banner{
+  text-align : right;
+}
 .product_box{
   max-width : 1146px;
 }
