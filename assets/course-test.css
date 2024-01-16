@@ -61,9 +61,11 @@
   line-height: 31.2px;
   letter-spacing: 0.6px;
 }
-.banner_product_price{
+.banner_product_price_button{
   display : flex;
   padding : 50px 0;
+}
+.banner_product_price{
   width : 30%;
   color: #1E1E1E;
   font-family: Josefin Sans;

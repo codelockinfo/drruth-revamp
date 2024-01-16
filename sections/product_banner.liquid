@@ -14,8 +14,10 @@
         <div class="product_banner_desc">
           {{ section.settings.product.description | truncate: 159 }}
         </div>
-          <div class="banner_product_price">
-            {{ section.settings.product.price | money_with_currency }}
+          <div class="banner_product_price_button">
+            <div class='banner_product_price'>
+              {{ section.settings.product.price | money_with_currency }}
+            </div>
           </div>
       </div>
         <div class="product_image_box">
