@@ -775,6 +775,9 @@
       "block_order": [
         "heading_qpxxwz"
       ],
+      "custom_css": [
+        ".rich-text__heading{color: #1E1E1E;text-align: center;font-family: Lato;font-size: 52px;font-style: normal;font-weight: 300;line-height: 70.5px;letter-spacing: 0.6px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
