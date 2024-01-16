@@ -61,3 +61,14 @@
   line-height: 31.2px;
   letter-spacing: 0.6px;
 }
+.banner_product_price{
+  color: #1E1E1E;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 4.2px;
+  text-transform: uppercase;
+}
