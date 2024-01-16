@@ -14,7 +14,9 @@
         <div class="product_banner_desc">
           {{ section.settings.product.description | truncate: 159 }}
         </div>
-        </div>
+          <div class="banner_product_price">
+          </div>
+      </div>
         <div class="product_image_box">
           {% for image in section.settings.product.images %}
             {% if forloop.index == 1 %}
