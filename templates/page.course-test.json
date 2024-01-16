@@ -641,9 +641,10 @@
       ],
       "custom_css": [
         ".image-with-text__content {width: 660px; background-color: #f5f8f1;}",
-        ".image-with-text__heading {width: 80%; text-align: left; color: #1e1e1e; font-family: Lato; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
-        ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
-        ".button {background-color: transparent;}"
+        ".image-with-text__heading {width: 80%; text-align: left; color: #1e1e1e; font-family: Lato; font-size: 30px;}",
+        ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px;}",
+        ".image-with-text__text-item {padding: 40px !important;}",
+        ".image-with-text__media>img{height: 80%; width : 90%;}"
       ],
       "settings": {
         "unique_class": "new class",
