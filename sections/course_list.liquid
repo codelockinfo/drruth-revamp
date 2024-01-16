@@ -1,6 +1,7 @@
 {{ 'course-test.css' | asset_url | stylesheet_tag }}
 
 <div class="course_list">
+  <h1>{{ section.settings.course_heading }}</h1>
   <div class="courses">
     {% for product in collection.products %}
    {% for collection in product.collections %}
