@@ -13,7 +13,7 @@
       <div class="product_image_box">
         {% for image in section.settings.product.images %}
           {% if image[forloop.index] == 1 %}
-           <img class="product_addon_image" src="{{ images.src | product_img_url: 'grande' }}">   
+           <img class="product_addon_image" src="{{ image.src | product_img_url: 'grande' }}">   
         {% endif %}
         {% endfor %}
 
