@@ -1,6 +1,7 @@
  /* product banner section  */
 .main_container{
   text-align : right;
+  padding-right : 0;
 }
 .product_banner_main_box{
   max-width : 1146px;
