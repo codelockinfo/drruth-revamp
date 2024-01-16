@@ -7,17 +7,18 @@
 }
 .product_box>h1{
   color: #184B44;
-font-family: 'Oakley Script';
-font-size: 60px;
-font-style: normal;
-font-weight: 400;
-line-height: 57px;
-letter-spacing: 1.28px;
+  font-family: 'Oakley Script';
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 57px;
+  letter-spacing: 1.28px;
 }
 .product_detailing_area{
   background-color : #F5F8F1;
   border-radius : 24px;
   padding : 65px 45px;
+  width : 1146px;
 }
 .product_detailing_area>h3{
   color: #1E1E1E;
