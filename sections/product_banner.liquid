@@ -2,28 +2,24 @@
 
 <div class="main_container">
   <div class="product_banner_main_box">
-  <div class="product_box">
-    {% if section.settings.heading != blank %}
-      <h1>{{ section.settings.heading }}</h1>
+    <div class="product_box">
+      {% if section.settings.heading != blank %}
+        <h1>{{ section.settings.heading }}</h1>
+      {% endif %}
+    </div>
+    {% if section.settings.product != blank %}
+      <div class="product_detailing_area">
+        <h3>{{ section.settings.product.title }}</h3>
+        <div class="product_image_box">
+          {% for image in section.settings.product.images %}
+            {% if forloop.index == 1 %}
+              <img class="product_addon_image" src="{{ image[0].src | product_img_url: 'grande' }}">
+            {% endif %}
+          {% endfor %}
+        </div>
+      </div>
     {% endif %}
   </div>
-  {% if section.settings.product != blank %}
-    <div class="product_detailing_area">
-      <h3>{{ section.settings.product.title }}</h3>
-      <div class="product_image_box">
-        {% for image in section.settings.product.images %}
-          {% if image[forloop.index] == 1 %}
-           <img class="product_addon_image" src="{{ image.src | product_img_url: 'grande' }}">   
-        {% endif %}
-        {% endfor %}
-
-
-
-      </div>
-    </div>
-  {% endif %}
-  </div>
-  
 </div>
 
 {% schema %}
