@@ -49,3 +49,12 @@
 .product_banner_content{
   width : 60%;
 }
+.product_banner_desc>h2{
+  color: #2E2A39;
+  font-family: Lato;
+  font-size: 20.438px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31.2px;
+  letter-spacing: 0.6px;
+}
