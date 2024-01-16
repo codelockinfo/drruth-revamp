@@ -644,7 +644,7 @@
         ".image-with-text__heading {width: 80%; text-align: left; color: #1e1e1e; font-family: Lato; font-size: 30px;}",
         ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px;}",
         ".image-with-text__text-item {padding: 40px !important;}",
-        ".image-with-text__media>img{height: 80%; width : 90%;}"
+        ".image-with-text__media > img {height: 75%; width: 90%;}"
       ],
       "settings": {
         "unique_class": "new class",
