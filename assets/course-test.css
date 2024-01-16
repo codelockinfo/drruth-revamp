@@ -2,7 +2,7 @@
 .main_container{
   display : flex;
   justify-content : right;
-  padding-right : 230px;
+  padding-right : 12%;;
 }
 
 .product_banner_main_box{
