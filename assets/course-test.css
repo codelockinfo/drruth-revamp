@@ -64,7 +64,7 @@
 .banner_product_price_button{
   display : flex;
   align-items : center;
-  padding : 50px 0;
+  padding : 35px 0;
 }
 .banner_product_price{
   width : 30%;
