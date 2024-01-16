@@ -50,6 +50,7 @@
         ".image-with-text__text p {color: #fff; font-size: 18px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/Group_832-min.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -467,6 +468,7 @@
         "h2.image-with-text__heading.h1 {font-size: 54px; line-height: 50px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/image_4_ba456788-5c27-4b4d-b5d1-19eacd0079a5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -637,7 +639,14 @@
         "text_FLnKpW",
         "button_dPQwqg"
       ],
+      "custom_css": [
+        ".image-with-text__content {width: 660px; background-color: #f5f8f1;}",
+        ".image-with-text__heading {color: #1e1e1e; font-family: Lato; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
+        ".image-with-text__text{color: #1E1E1E; font-family: Lato; font-size: 16px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px; text-transform: capitalize;}",
+        ".button {background-color: transparent;}"
+      ],
       "settings": {
+        "unique_class": "new class",
         "image": "shopify:\/\/shop_images\/AngelaArdolino_sPlantandMushroomGuide_ver1_jpg.png",
         "height": "adapt",
         "desktop_image_width": "medium",
