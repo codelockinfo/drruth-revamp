@@ -4,10 +4,8 @@
   <h1>{{ section.settings.course_heading }}</h1>
   <div class="courses">
     {% for product in collection.products %}
-   {% for collection in product.collections %}
-      <div>{{collection.title}}</div>
+      <div>{{product.title}}</div>
    {% endfor %}
-{% endfor %}
   </div>
 </div>
 
