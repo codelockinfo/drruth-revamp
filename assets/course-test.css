@@ -101,6 +101,7 @@
   font-weight: 600;
   line-height: 21px; /* 150% */
   letter-spacing: 4.2px;
+  text-decoration : none;
   text-transform: uppercase;
 }
 .underline_btn{  
