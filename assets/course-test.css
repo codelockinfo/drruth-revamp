@@ -148,6 +148,7 @@
     row-gap: 60px;
 }
   .quick-add__submit{
+    width : 40%;
     color: #1E1E1E;
     text-align: center;
     font-family: Josefin Sans;
