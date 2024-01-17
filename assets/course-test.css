@@ -243,5 +243,8 @@
   .banner_product_price_button{
     flex-direction : column;
   }
+  .banner_product_price{
+    width : 100%;
+  }
 }
   
