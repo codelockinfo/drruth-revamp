@@ -224,7 +224,10 @@
   }
   .pro_btn_box{
     flex-direction : column;
-}
+  }
+  .learn_more_btn{
+    margin : 10px 0;
+  }
 }
 @media(max-width : 1024px){
   .facets-vertical{
@@ -237,9 +240,7 @@
   .product_banner_content{
     width : 80%;
   }
-  .learn_more_btn{
-    margin : 10px 0;
-  }
+  
 }
 @media(max-width : 750px){
   .facets-wrapper{
