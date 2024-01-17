@@ -283,11 +283,3 @@
     padding-bottom : 30px;
   }
 }
-
-
-  #courses-test #FacetsWrapperDesktop details.facets__disclosure-vertical {
-    display: none;
-  }
-    #courses-test #FacetsWrapperDesktop details.facets__disclosure-vertical:last-child {
-    display: block;
-  }
