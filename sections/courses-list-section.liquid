@@ -132,46 +132,46 @@
     {%- endif -%}
 
      <div class="main_container">
-                <div class="product_banner_main_box">
-                  <div class="product_box">
-                    {% if section.settings.heading != blank %}
-                      <h1>{{ section.settings.heading }}</h1>
-                    {% endif %}
-                  </div>
-                  {% if section.settings.product != blank %}
-                    <div class="product_detailing_area">
-                      <div class="product_banner_content">
-                        <h3>{{ section.settings.product.title }}</h3>
-                        <div class="product_banner_desc">
-                          {{ section.settings.product.description | truncate: 159 }}
-                        </div>
-                        <div class="banner_product_price_button">
-                          <div class="banner_product_price">
-                            {{ section.settings.product.price | money_with_currency }}
-                          </div>
-                          <a class="adct_btn" href="{{ section.settings.product.url }}"> Add To Cart </a>
-                        </div>
-                        {% if section.settings.botton != blank %}
-                          <a
-                            class="extraBtn {% if section.settings.outline %} outline_btn {% endif %} {% if section.settings.btn_url != blank %} underline_btn {% endif %}"
-                            href="{{ section.settings.btn_url }}"
-                          >
-                            {{ section.settings.botton }}
-                          </a>
-                        {% endif %}
-                      </div>
-                      <div class="product_image_box">
-                        {% for image in section.settings.product.images %}
-                          {% if forloop.index == 1 %}
-                            <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
-                          {% endif %}
-                        {% endfor %}
-                      </div>
-                    </div>
-                  {% endif %}
+        <div class="product_banner_main_box">
+          <div class="product_box">
+            {% if section.settings.heading != blank %}
+              <h1>{{ section.settings.heading }}</h1>
+            {% endif %}
+          </div>
+          {% if section.settings.product != blank %}
+            <div class="product_detailing_area">
+              <div class="product_banner_content">
+                <h3>{{ section.settings.product.title }}</h3>
+                <div class="product_banner_desc">
+                  {{ section.settings.product.description | truncate: 159 }}
                 </div>
+                <div class="banner_product_price_button">
+                  <div class="banner_product_price">
+                    {{ section.settings.product.price | money_with_currency }}
+                  </div>
+                  <button class="adct_btn" type="submit" id="{{ section.settings.product_form_id }}"> Add To cart</button>
+                  <a class="adct_btn" href="{{ section.settings.product.url }}"> Add To Cart </a>
+                </div>
+                {% if section.settings.botton != blank %}
+                  <a
+                    class="extraBtn {% if section.settings.outline %} outline_btn {% endif %} {% if section.settings.btn_url != blank %} underline_btn {% endif %}"
+                    href="{{ section.settings.btn_url }}"
+                  >
+                    {{ section.settings.botton }}
+                  </a>
+                {% endif %}
               </div>
-    
+              <div class="product_image_box">
+                {% for image in section.settings.product.images %}
+                  {% if forloop.index == 1 %}
+                    <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
+                  {% endif %}
+                {% endfor %}
+              </div>
+            </div>
+          {% endif %}
+        </div>
+      </div>
     <div class="product-grid-container" id="ProductGridContainer">
       {%- paginate collection.products by section.settings.products_per_page -%}
         {%- if collection.products.size == 0 -%}
@@ -200,15 +200,6 @@
                 grid--{{ section.settings.columns_desktop }}-col-desktop
               "
             >
-
-
-
-          
-  
-
-
-
-              
               {%- for product in collection.products -%}
                 {% assign lazy_load = false %}
                 {%- if forloop.index > 2 -%}
@@ -228,7 +219,6 @@
                 </li>
               {%- endfor -%}
             </ul>
-
             {%- if paginate.pages > 1 -%}
               {% render 'nextpagination', paginate: paginate, anchor: '' %}
             {%- endif -%}
