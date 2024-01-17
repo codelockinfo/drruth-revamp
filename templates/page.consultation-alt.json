@@ -530,6 +530,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/Tania.jpg",
             "title": "Tania Bachesais",
             "detail": "<p><strong>HPHC, PMP<\/strong><\/p><p>With over 25 years in IT and a background in mathematics, I'm dedicated to sharing holistic options for your pet's well-being, driven by my experience with my own beloved Border Collie who battled Hemangiosarcoma. I'm here to assist you in making informed holistic choices for your pets' long and healthy lives.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
