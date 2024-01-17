@@ -193,7 +193,17 @@
   letter-spacing: 0.6px;
   text-transform: capitalize;
 }
-
+.learn_more_btn{
+  color: #1E1E1E;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 4.2px;
+  text-decoration-line: underline;
+}
 
 @media(max-width : 1440px){
   .main_container{
