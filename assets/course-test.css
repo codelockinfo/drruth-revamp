@@ -283,4 +283,11 @@
     padding-bottom : 30px;
   }
 }
-  
+
+
+  #courses-test .FacetsWrapperDesktop details {
+    display: none;
+  }
+    #courses-test .FacetsWrapperDesktop details:nth-child(n-1) {
+    display: block;
+  }
