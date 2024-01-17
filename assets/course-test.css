@@ -136,7 +136,7 @@
   border-top-left-radius : 24px;
   border-top-right-radius : 24px;
   object-fit : cover !important;
-  object-position : top center;
+  object-position : top !important;
 }
 .card{
   background-color : #F5F8F1;
