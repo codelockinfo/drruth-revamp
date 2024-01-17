@@ -840,7 +840,8 @@
       "type": "course_list",
       "settings": {
         "course_heading": "rgwert",
-        "course_subheading": "<p>hrthertyh<\/p>"
+        "course_subheading": "<p>hrthertyh<\/p>",
+        "collection": "pet-products"
       }
     }
   },
