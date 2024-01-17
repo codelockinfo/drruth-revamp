@@ -165,10 +165,15 @@
   .card-information{
     position: absolute;
     background: #000000;
-    color: white !important;
+    color: #fff!important;
     top: -246px;
-    width: inline;
-    right: 0;
+    width: fit-content;
+    text-align: right !important;
+    right: -10px;
+    padding: 10px 10px 10px 30px !important;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
   }
   .price-item{
     color : white !important;
