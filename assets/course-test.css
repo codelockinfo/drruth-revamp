@@ -137,11 +137,9 @@
   object-position : top center;
 }
 .card{
+  background-color : #F5F8F1;
   margin : 0 50px;
   --shadow-horizontal-offset: none !important;
   border-radius : 30px;
-}
-.card__content{
-  background-color : #F5F8F1;
 }
   /* .facets-vertical  */
