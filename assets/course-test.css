@@ -243,6 +243,9 @@
   .grid{
     row-gap: 30px
   }
+  .card{
+    margin : 0;
+  }
   
 }
 @media(max-width : 750px){
