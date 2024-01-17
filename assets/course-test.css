@@ -174,7 +174,18 @@
   border-top-left-radius: 24px;
   border-bottom-left-radius: 24px;
 }
-  .price-item{
-    color : white !important;
-  }
+.price-item{
+  color : white !important;
+}
+.card__heading{
+  color: #1E1E1E;
+  text-align: center;
+  font-family: Lato;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 20px;
+  letter-spacing: 0.6px;
+  text-transform: capitalize;
+}
   /* .facets-vertical  */
