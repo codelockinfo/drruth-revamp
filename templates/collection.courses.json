@@ -118,6 +118,11 @@
     "courses_list_section_jf3JGr": {
       "type": "courses-list-section",
       "settings": {
+        "heading": "Courses, Ebooks, & Certifications",
+        "product": "the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts",
+        "botton": "",
+        "btn_url": "",
+        "outline": false,
         "products_per_page": 6,
         "columns_desktop": 3,
         "image_ratio": "adapt",
