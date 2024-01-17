@@ -162,4 +162,12 @@
     border: 1px solid #1E1E1E;
     background-color: transparent;
   }
+  .card-information{
+    position: absolute;
+    background: #000000;
+    color: white !important;
+    top: -246px;
+    width: 100px;
+    right: 0;
+  }
   /* .facets-vertical  */
