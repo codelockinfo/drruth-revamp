@@ -219,6 +219,12 @@
   .banner_product_price{
     width : 40%
   }
+  .form{
+    width : 100%;
+  }
+  .pro_btn_box{
+    flex-direction : column;
+}
 }
 @media(max-width : 1024px){
   .facets-vertical{
