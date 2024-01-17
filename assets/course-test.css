@@ -115,7 +115,7 @@
 }
 
 
-  .facets-vertical{
+.facets-vertical{
   flex-wrap : wrap;
   width : 90%;
   margin : 0 auto;
@@ -192,4 +192,13 @@
   letter-spacing: 0.6px;
   text-transform: capitalize;
 }
-  /* .facets-vertical  */
+
+
+@media(max-width : 1440px){
+  .main_container{
+  width : 70%;
+  }
+}
+
+
+  
