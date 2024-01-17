@@ -167,7 +167,7 @@
     background: #000000;
     color: white !important;
     top: -246px;
-    width: 100px;
+    width: inline-block;
     right: 0;
   }
   .price-item{
