@@ -137,6 +137,6 @@
 }
 .card{
   margin : 0 50px;
-  box-shadow : none !important;
+  --shadow-horizontal-offset: none !important;
 }
   /* .facets-vertical  */
