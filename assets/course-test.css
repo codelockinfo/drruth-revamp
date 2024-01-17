@@ -237,6 +237,9 @@
   .product_banner_content{
     width : 80%;
   }
+  .learn_more_btn{
+    margin : 10px 0;
+  }
 }
 @media(max-width : 750px){
   .facets-wrapper{
