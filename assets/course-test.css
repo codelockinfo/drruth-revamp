@@ -225,5 +225,9 @@
   .form{
     width : 100%;
   }
+  .image-with-text__heading,
+  .image-with-text__text{
+    width : 100%;
+  }
 }
   
