@@ -5,12 +5,12 @@
   <div class="courses">
     {% for product in section.settings.collection.products %}
       <div class="fliter_product_images">
-      {% assign image = product.images %}
-          {% for image in section.settings.product.images %}
+      {% assign images = product.images %}
+          <!-- {% for image in images %}
             {% if forloop.index == 1 %}
               <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
             {% endif %}
-          {% endfor %}
+          {% endfor %} -->
       </div>
 {% endfor %}
   </div>
