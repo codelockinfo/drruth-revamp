@@ -198,6 +198,7 @@
 @media(max-width : 1440px){
   .main_container{
   width : 70%;
+    padding-right : 0;
   }
   .facets-wrapper{
     width : 20%;
