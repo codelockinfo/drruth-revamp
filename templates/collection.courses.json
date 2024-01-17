@@ -244,6 +244,56 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_with_text_NbXLnB": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_VCA8r4": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dr. Ruth Roberts Pet Wellness Courses",
+            "heading_size": "h1"
+          }
+        },
+        "text_TeBGV7": {
+          "type": "text",
+          "settings": {
+            "text": "<p>is the ultimate online learning platform for individuals looking to enhance their skills and knowledge in the Pet Wellness field. Dr. Ruth Roberts Pet Wellness Courses elieve that learning about Pets' Health and Wellness should be accessible to everyone, no matter where you are in the world or what your background is. That's why I offer a range of courses that can help thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer. Get access to Pet Health Education, E-Books, Videos, Supplement guide, and worksheets.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6WVfPK": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_VCA8r4",
+        "text_TeBGV7",
+        "button_6WVfPK"
+      ],
+      "custom_css": [
+        ".image-with-text__text-item {padding: 40px 0 !important;}",
+        ".image-with-text__heading {color: #184b44; font-family: Lato; text-align: left !important; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px;}"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/Section_Image_2_f9f90f01-197e-418a-8d09-d68697b73003_png.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -255,6 +305,7 @@
     "e491d85b-7b19-467a-b6fd-355cc47e0849",
     "courses_list_section_jf3JGr",
     "image_with_text_yjNmcd",
-    "image_with_text_r8A93T"
+    "image_with_text_r8A93T",
+    "image_with_text_NbXLnB"
   ]
 }
