@@ -351,8 +351,13 @@
         "text_GQgCLw",
         "button_QYhziG"
       ],
+      "custom_css": [
+        ".image-with-text__text-item {padding: 40px 0 !important;}",
+        ".image-with-text__heading {color: #1e1e1e; font-family: Lato; font-size: 24px; font-style: normal; font-weight: 300; line-height: 33px; text-align: left !important; letter-spacing: 0.6px;}"
+      ],
       "settings": {
         "unique_class": "",
+        "image": "shopify:\/\/shop_images\/Section_Image_37643cb3-dfa4-4e71-b741-ec74a061f7e4_800x_png.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
