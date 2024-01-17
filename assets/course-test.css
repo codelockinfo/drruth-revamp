@@ -125,6 +125,9 @@
   width : 100%;
 }
 .facets-vertical {
-  max-width : 100% !important;
+  max-width : 100%;
+}
+.pcontainer{
+  max-width : 100%;
 }
   /* .facets-vertical  */
