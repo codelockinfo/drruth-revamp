@@ -111,6 +111,7 @@
     },
     "e491d85b-7b19-467a-b6fd-355cc47e0849": {
       "type": "aff-img-text",
+      "disabled": true,
       "settings": {
         "affimghead": "",
         "affimgdes": "",
