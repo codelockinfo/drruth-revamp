@@ -519,6 +519,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/KarinDruckenmiller.jpg",
             "title": "Karin Druckenmiller",
             "detail": "<p><em><strong>CHPHC, AAS IN BIOTECHNOLOGY<\/strong><\/em><\/p><p>I'm a Certified Holistic Pet Health Coach with a background in biotechnology and experience in EPA water reporting and quality assurance. I've been rescuing pets since 1995 and am dedicated to assisting and educating pet parents.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
