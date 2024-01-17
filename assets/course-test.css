@@ -135,8 +135,8 @@
   height : 100%;
   object-fit : cover !important;
 }
-  .card{
-    margin : 0 50px;
-    box-shadow : none !important;
-  }
+.card{
+  margin : 0 50px;
+  box-shadow : none !important;
+}
   /* .facets-vertical  */
