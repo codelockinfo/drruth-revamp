@@ -228,5 +228,8 @@
   .product_box>h1{
     font-size : 44px;
   }
+  .product_detailing_area {
+    flex-direction : column-reverse;
+  }
 }
   
