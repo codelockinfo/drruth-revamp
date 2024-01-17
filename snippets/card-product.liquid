@@ -417,6 +417,9 @@
                     </div>
                   </button>
                 {%- endform -%}
+              {% if show_learn_more %}
+                <a class="learn_more_btn" href="{{ card_product.url }}">LEARN MORE</a>
+                {% endif %}
               </product-form>
             {%- endif -%}
           </div> 
