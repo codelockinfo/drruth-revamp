@@ -240,6 +240,9 @@
   .product_banner_content{
     width : 80%;
   }
+  .grid{
+    row-gap: 30px
+  }
   
 }
 @media(max-width : 750px){
