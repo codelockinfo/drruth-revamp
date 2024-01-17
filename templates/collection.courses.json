@@ -294,6 +294,76 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_JwLcbV": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_TJnyWD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<h2>Empower Yourself to Be Your Pet's Best Advocate<\/h2>",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TJnyWD"
+      ],
+      "custom_css": [
+        ".rich-text__heading {color: #1e1e1e; text-align: center; font-family: Lato; font-size: 52px; font-style: normal; font-weight: 300; line-height: 70.5px; letter-spacing: 0.6px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_NpN8CC": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_6d96Wa": {
+          "type": "heading",
+          "settings": {
+            "heading": "Discover the Best Ways to Nurture Your Pet’s Wellness With Our Online Courses",
+            "heading_size": "h1"
+          }
+        },
+        "text_GQgCLw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So why wait? Enroll in our courses today and join our community of learners who are passionate about nurturing their pet's wellness with the best solutions available. Start empowering yourself to be the best pet parent you can be!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_QYhziG": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_6d96Wa",
+        "text_GQgCLw",
+        "button_QYhziG"
+      ],
+      "settings": {
+        "unique_class": "",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -306,6 +376,8 @@
     "courses_list_section_jf3JGr",
     "image_with_text_yjNmcd",
     "image_with_text_r8A93T",
-    "image_with_text_NbXLnB"
+    "image_with_text_NbXLnB",
+    "rich_text_JwLcbV",
+    "image_with_text_NpN8CC"
   ]
 }
