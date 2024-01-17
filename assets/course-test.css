@@ -225,5 +225,8 @@
   .form{
     width : 100%;
   }
+  .product_box>h1{
+    font-size : 44px;
+  }
 }
   
