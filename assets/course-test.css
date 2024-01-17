@@ -203,8 +203,12 @@
   line-height: 21px;
   letter-spacing: 4.2px;
   text-decoration-line: underline;
+  margin-left : 40px;
 }
-
+.pro_btn_box{
+  display : flex;
+  align-items : center;
+}
 @media(max-width : 1440px){
   .main_container{
     width : 70%;
