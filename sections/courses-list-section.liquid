@@ -213,7 +213,8 @@
                     show_rating: section.settings.show_rating,
                     lazy_load: lazy_load,
                     show_quick_add: section.settings.enable_quick_add,
-                    section_id: section.id
+                    section_id: section.id,
+                    show_learn_more: section.settings.enable_learn_more
                   %}
                 </li>
               {%- endfor -%}
@@ -309,6 +310,12 @@
       "id": "enable_quick_add",
       "default": false,
       "label": "t:sections.main-collection-product-grid.settings.enable_quick_buy.label"
+    },
+    {
+      "type": "checkbox",
+      "id": "enable_learn_more",
+      "default": false,
+      "label": "Enable Learn More Botton"
     },
      {
       "type": "checkbox",
