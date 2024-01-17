@@ -288,6 +288,6 @@
   #courses-test #FacetsWrapperDesktop details.facets__disclosure-vertical {
     display: none;
   }
-    #courses-test #FacetsWrapperDesktop details.facets__disclosure-vertical:nth-child(n-1) {
+    #courses-test #FacetsWrapperDesktop details.facets__disclosure-vertical:last-child {
     display: block;
   }
