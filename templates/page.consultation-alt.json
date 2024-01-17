@@ -508,6 +508,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
+            "bg_img": "shopify:\/\/shop_images\/LisaMayer_2.jpg",
             "title": "Lisa Mayer",
             "detail": "<p><strong>CHPHC<\/strong><\/p><p>I'm the founder of KK's Paws for Wellness and Health, a Certified Holistic Pet Health Coach with seven years of experience. My goal is to simplify fresh feeding and supplements, helping you address your pets' challenges and promote their health and wellness.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
