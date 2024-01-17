@@ -138,12 +138,11 @@
 }
 .card{
   background-color : #F5F8F1;
-  /* margin : 0 50px; */
+  margin : 0 50px;
   --shadow-horizontal-offset: none !important;
   border-radius : 30px;
 }
 .grid {
-    column-gap: 60px;
     row-gap: 60px;
 }
   /* .facets-vertical  */
