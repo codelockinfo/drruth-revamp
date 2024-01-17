@@ -142,6 +142,59 @@
         "padding_bottom": 36,
         "rating": 5
       }
+    },
+    "image_with_text_yjNmcd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_nwUydV": {
+          "type": "heading",
+          "settings": {
+            "heading": "eBOOK: Plants & Medicinal Mushroom Benefits for pets",
+            "heading_size": "h1"
+          }
+        },
+        "text_8rcPCd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_YzdX4g": {
+          "type": "button",
+          "settings": {
+            "button_label": "Add to cart",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "heading_nwUydV",
+        "text_8rcPCd",
+        "button_YzdX4g"
+      ],
+      "custom_css": [
+        ".image-with-text__content {width: 660px; background-color: #f5f8f1;}",
+        ".image-with-text__heading {width: 80%; text-align: left; color: #1e1e1e; font-family: Lato; font-size: 30px;}",
+        ".image-with-text__text {color: #1e1e1e; font-family: Lato; font-size: 16px;}",
+        ".image-with-text__text-item {padding: 40px 0 !important;}",
+        ".image-with-text__media > img {height: 75%; width: 80%;}",
+        ".button {background-color: transparent;}"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/AngelaArdolino_sPlantandMushroomGuide_ver1_jpg.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -151,6 +204,7 @@
     "collage",
     "newsletter",
     "e491d85b-7b19-467a-b6fd-355cc47e0849",
-    "courses_list_section_jf3JGr"
+    "courses_list_section_jf3JGr",
+    "image_with_text_yjNmcd"
   ]
 }
