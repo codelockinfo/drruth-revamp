@@ -170,4 +170,7 @@
     width: 100px;
     right: 0;
   }
+  .price-item{
+    color : white !important;
+  }
   /* .facets-vertical  */
