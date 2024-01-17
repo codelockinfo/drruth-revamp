@@ -1,9 +1,9 @@
 {{ 'course-test.css' | asset_url | stylesheet_tag }}
 
 <div class="course_list">
-  <h1>{{ section.settings.section.settings.course_heading }}</h1>
+  <h1>{{ section.settings.course_heading }}</h1>
   <div class="courses">
-      {% paginate collection.products by 5 %}
+      {% paginate section.settings.collection.products by 5 %}
     {% for product in section.settings.collection.products %}
       <div class="fliter_product_images">
       {% assign images = product.images %}
