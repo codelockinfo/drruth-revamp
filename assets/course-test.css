@@ -231,5 +231,8 @@
   .product_detailing_area {
     flex-direction : column-reverse;
   }
+  .product_image_box{
+    width : 100%;
+  }
 }
   
