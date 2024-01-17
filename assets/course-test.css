@@ -125,6 +125,6 @@
   width : 100%;
 }
 .facets-vertical {
-  max-width : 100%;
+  max-width : 100% !important;
 }
   /* .facets-vertical  */
