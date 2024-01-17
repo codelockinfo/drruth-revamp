@@ -197,13 +197,17 @@
 
 @media(max-width : 1440px){
   .main_container{
-  width : 70%;
-    padding-right : 0;
+    width : 70%;
   }
   .facets-wrapper{
     width : 20%;
  }
 }
-
+@media(max-width : 1024px){
+  .main_container{
+    width : 60%;
+    padding-right : 0;
+  }
+}
 
   
