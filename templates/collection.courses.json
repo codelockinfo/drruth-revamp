@@ -195,6 +195,55 @@
         "padding_top": 36,
         "padding_bottom": 0
       }
+    },
+    "image_with_text_r8A93T": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_33jiYM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dr. Ruth Roberts Pet Wellness Courses",
+            "heading_size": "h1"
+          }
+        },
+        "text_J9jEBq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>TAKE CHARGE OF YOUR PET'S WELLNESS AND HAPPINESS WITH DR. RUTH ROBERTS' ONLINE COURSES<\/p><p>I’ve had the honor of helping thousands of dogs and cats overcome health hurdles such as chronic kidney disease, GI illness, allergies, and cancer.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_TRMRCC": {
+          "type": "button",
+          "settings": {
+            "button_label": "LEARN MORE",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "heading_33jiYM",
+        "text_J9jEBq",
+        "button_TRMRCC"
+      ],
+      "custom_css": [
+        ".image-with-text__text-item {padding: 40px 0 !important;}",
+        ".image-with-text__heading {color: #184b44; font-family: Lato; text-align: left !important; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px;}"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/Section_Rectangle_1_dc0dc1f0-b86c-4d15-829f-35b7c0b34c4d_1400x_jpg.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -205,6 +254,7 @@
     "newsletter",
     "e491d85b-7b19-467a-b6fd-355cc47e0849",
     "courses_list_section_jf3JGr",
-    "image_with_text_yjNmcd"
+    "image_with_text_yjNmcd",
+    "image_with_text_r8A93T"
   ]
 }
