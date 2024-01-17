@@ -147,34 +147,33 @@
 .grid {
     row-gap: 60px;
 }
-  .quick-add__submit{
-    width : 40%;
-    color: #1E1E1E;
-    text-align: center;
-    font-family: Josefin Sans;
-    font-size: 14px;
-    font-style: normal;
-    font-weight: 600;
-    line-height: 21px;
-    letter-spacing: 4.2px;
-    text-transform: uppercase;
-    border-radius: 24px;
-    border: 1px solid #1E1E1E;
-    background-color: transparent;
-  }
-  .card-information{
-    position: absolute;
-    background: #000000;
-    color: #fff!important;
-    top: -246px;
-    width: fit-content;
-    text-align: right !important;
-    right: -10px;
-    padding: 10px 10px 10px 30px !important;
-    border-top-left-radius: 24px;
-    border-bottom-left-radius: 24px;
+.quick-add__submit{
+  width : 40%;
+  color: #1E1E1E;
+  text-align: center;
+  font-family: Josefin Sans;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 21px;
+  letter-spacing: 4.2px;
+  text-transform: uppercase;
+  border-radius: 24px;
+  border: 1px solid #1E1E1E;
+  background-color: transparent;
 }
-  }
+.card-information{
+  position: absolute;
+  background: #000000;
+  color: #fff!important;
+  top: -246px;
+  width: fit-content;
+  text-align: right !important;
+  right: -10px;
+  padding: 10px 10px 10px 30px !important;
+  border-top-left-radius: 24px;
+  border-bottom-left-radius: 24px;
+}
   .price-item{
     color : white !important;
   }
