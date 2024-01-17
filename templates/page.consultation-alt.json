@@ -139,6 +139,7 @@
         ".image-with-text__text p {color: #fff; font-size: 18px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/Group_832-min.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -419,7 +420,7 @@
           "type": "consultants",
           "settings": {
             "bg_color": "",
-            "bg_img": "shopify:\/\/shop_images\/15.png",
+            "bg_img": "shopify:\/\/shop_images\/Deb_teubert.jpg",
             "title": "Deb Teubert",
             "detail": "<p><strong>Holistic & Animal Practitioner, CHPHC<\/strong><\/p><p>Deb Teubert, AHHP, is a seasoned holistic healthcare practitioner with a nationwide clientele. Rooted in Traditional Chinese Medicine, she honed her skills in acupressure at the Tallgrass Animal Institute in Colorado. Deb also holds a rare certificate in Animal PsychAromatica from the Mayana Morag School of Essential Balance, with only three such certifications in the United States.<\/p>",
             "btn_txt": "BOOK A CONSULTATION",
@@ -770,6 +771,7 @@
         "h2.image-with-text__heading.h1 {font-size: 54px; line-height: 50px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/image_4_ba456788-5c27-4b4d-b5d1-19eacd0079a5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
