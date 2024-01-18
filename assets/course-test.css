@@ -231,7 +231,6 @@
 @media(max-width : 1280px){
   .grid{
     row-gap: 30px;
-    column-gap : 110px;
   }
   .card{
     margin : 0;
@@ -336,4 +335,8 @@
 .grid--3-col-desktop .grid__item {
   width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+}
+.grid{
+  row-gap: 30px;
+  column-gap : 110px;
 }
