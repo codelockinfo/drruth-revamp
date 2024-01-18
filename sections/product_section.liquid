@@ -12,6 +12,9 @@
   flex-direction : {{ section.settings.image_placement }};
   border-radius : 24px;
   }
+.reverse_class{
+  border-radius : 0;
+}
 .product_content{
   width : 60%;
   padding : 10px 50px;
@@ -106,7 +109,7 @@
             {% endif %}
         </div>
       </div>
-      <div class="product_image">
+      <div class="product_image {% if section.settings.image_placement == "row-reverse" %} reverse_class {% endif %}">
         {% for image in section.settings.product.images %}
             {% if forloop.index == 1 %}
               <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">

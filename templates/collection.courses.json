@@ -148,7 +148,7 @@
         "product": "the-crockpet-diet-natural-pet-food-ebook",
         "padding_top": 0,
         "padding_bottom": 0,
-        "image_placement": "row",
+        "image_placement": "row-reverse",
         "learn_more_btn": true
       }
     },
