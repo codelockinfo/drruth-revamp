@@ -302,6 +302,16 @@
 #courses-test #FacetsWrapperDesktop{
   margin-top : 100px;
 }
-  #courses-test .facets-vertical-sort{
-    display : none;
-  }
+#courses-test .facets-vertical-sort{
+  display : none;
+}
+#courses-test #FacetsWrapperDesktop>details .spantext{
+  color: #184B44;
+  font-family: "Josefin Sans";
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
