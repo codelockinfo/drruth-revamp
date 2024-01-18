@@ -286,7 +286,7 @@
 #courses-test #FacetsWrapperDesktop>details{
   display : none;
 }
- #courses-test #FacetsWrapperDesktop>details:last-child{
+ #courses-test #FacetsWrapperDesktop>details:nth-child(9){
   display : block;
 }   
 /* #courses-test #FacetsWrapperDesktop #Details-10-template--14923699388481__courses_list_section_jf3JGr{
