@@ -324,6 +324,9 @@
   padding-top: 5px;
   text-transform: uppercase;
 }
- #courses-test .facets-vertical .facets-wrapper{
-   padding-right : 0;
- }
+#courses-test .facets-vertical .facets-wrapper{
+ padding-right : 0;
+}
+#courses-test .facets-vertical .facets__form-vertical{
+ width : 100%;
+}
