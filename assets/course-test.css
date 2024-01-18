@@ -357,3 +357,22 @@
     max-width: calc(45% - var(--grid-mobile-horizontal-spacing) / 2);
 } 
 }
+@media(max-width : 990px){
+.product_detailing_area{
+  flex-direction: column-reverse;
+}
+.product_image_box{
+  width : 100%;
+  text-align : center;
+}
+.product_image_box>img{
+  width : 80%;
+}
+.facets-vertical .facets-wrapper{
+  width : 40%;
+}
+.main_container {
+  width: 58%;
+  padding-right: 0;
+}
+}
