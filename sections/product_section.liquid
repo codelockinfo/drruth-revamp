@@ -50,6 +50,9 @@
       <div class="product_content">
         {% if section.settings.product.title != blank %}
           <h3>{{ section.settings.product.title }}</h3>
+        <div class="product_description">
+          {{ section.settings.product.description }}
+        </div>
         {% endif %}
       </div>
       <div class="product_image">
