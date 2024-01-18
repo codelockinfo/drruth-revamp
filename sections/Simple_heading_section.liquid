@@ -1,4 +1,22 @@
 
+<style>
+  .richtext_heading>h1{
+    width : 1140px;
+    margin : 0 auto;
+    color: #1E1E1E;
+    text-align : {{ section.settings.content_position }};
+    font-family: Lato;
+    font-size: 52px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 70.5px;
+    letter-spacing: 0.6px;
+  }
+</style>
+
+<div class="richtext_heading">
+  <h1>{{ section.settings.heading }}</h1>
+</div>
 
 {% schema %}
   {
