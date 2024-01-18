@@ -167,7 +167,7 @@
       <div class="product_image">
         {% for image in section.settings.product.images %}
             {% if forloop.index == 1 %}
-              <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
+              <img  src="{{ image.src | product_img_url: 'grande' }}">
             {% endif %}
           {% endfor %}
           <h3 class="product_price {% if section.settings.image_placement == "row" %} btn_reverse {% endif %}">{{ section.settings.product.price | money_with_currency }}</h3>
