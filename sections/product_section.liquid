@@ -50,11 +50,19 @@
       <div class="product_content">
         {% if section.settings.product.title != blank %}
           <h3>{{ section.settings.product.title }}</h3>
+        {% endif %}
           <p>{{ section.settings.product.vendor }}</p>
           <div class="product_description">
             {{ section.settings.product.description | truncate : 217 }}
           </div>
-        {% endif %}
+        <div class="buttons">
+          
+          {% if section.settings.learn_more_btn != blank %}
+            <a class="learn_btn" href="{{ section.settings.product.url }}">
+              Course Outline
+            </a>
+            {% endif %}
+        </div>
       </div>
       <div class="product_image">
         {% for image in section.settings.product.images %}
@@ -119,6 +127,11 @@
           }
         ],
         "default" : "row"
+      },
+      {
+        "type" : "checkbox",
+        "id" : "learn_more_btn",
+        "label" : "Enable Course Outline Botton"
       }
     ],
     "presets" : [
