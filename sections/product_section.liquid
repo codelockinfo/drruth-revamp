@@ -1,7 +1,21 @@
+<div class="product_section">
+  <h1>{{ section.settings.heading }}</h1>
+</div>
+
+
+
+
+
+
 {% schema %}
   {
     "name": "Section name",
     "settings": [
+      {
+        "type" : "text",
+        "id" : "heading",
+        "label" : "Add Heading"
+      },
       {
         "type" : "product",
         "id" : "product",
@@ -43,9 +57,3 @@
     ]
   }
 {% endschema %}
-
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
