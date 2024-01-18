@@ -5401,7 +5401,7 @@ label.facet-checkbox {
   align-items: center;
 }
 .facet-checkbox > svg{
-    border-radius: 50%;
+    border-radius: 0;
     width: 15px;
     height: 15px;
     border: 1px solid #939393
