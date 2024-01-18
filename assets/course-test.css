@@ -2,7 +2,7 @@
 .main_container{
   display : flex;
   justify-content : right;
-  padding-right : 12%;
+  padding-right : 5%;
   margin-bottom : 60px;
   width : 75%;
 }
