@@ -50,9 +50,10 @@
       <div class="product_content">
         {% if section.settings.product.title != blank %}
           <h3>{{ section.settings.product.title }}</h3>
-        <div class="product_description">
-          {{ section.settings.product.description | truncate : 217 }}
-        </div>
+          <p>{{ section.settings.product.vendor }}</p>
+          <div class="product_description">
+            {{ section.settings.product.description | truncate : 217 }}
+          </div>
         {% endif %}
       </div>
       <div class="product_image">
