@@ -289,3 +289,13 @@
  #courses-test #FacetsWrapperDesktop>details:nth-last-child(2){
   display : block;
 }
+#courses-test #FacetsWrapperDesktop .facets__heading{
+  color: #184B44;
+  font-family: "Josefin Sans";
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0.6px;
+  text-transform: uppercase;
+}
