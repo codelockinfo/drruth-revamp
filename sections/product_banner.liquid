@@ -23,6 +23,17 @@
               </a>
           </div>
           {% if section.settings.botton != blank %}
+            {% assign product_form_id = section.settings.product.id %}
+            {% form
+              'product',
+              section.settings.product,
+              id: product_form_id,
+              data-type: 'add-to-cart-form'
+            %}
+              <button type="submit" id="{{ product_form_id }}-submit">
+                Add To Cart
+              </button>
+              {% endform %}
           <a class="extraBtn {% if section.settings.outline %} outline_btn {% endif %} {% if section.settings.btn_url != blank %} underline_btn {% endif %}" href="{{ section.settings.btn_url }}">
             {{ section.settings.botton }}
           </a>
