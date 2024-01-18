@@ -1,12 +1,32 @@
 {% schema %}
   {
-    "name": "Section name",
-    "settings": []
+    "name": "Heading Section",
+    "settings": [
+      {
+        "type" : "text",
+        "id" : "heading",
+        "label" : "Add Heading"
+      },
+      {
+        "type" : "select",
+        "id" : "content_position",
+        "label" : "Heading Position",
+        "options" : [
+          {
+            "value": "left",
+            "label" : "Left"
+          },
+          {
+            "value": "center",
+            "label" : "Center"
+          },
+          {
+            "value": "right",
+            "label" : "Right"
+          }
+        ]
+      }
+    ]
   }
 {% endschema %}
 
-{% stylesheet %}
-{% endstylesheet %}
-
-{% javascript %}
-{% endjavascript %}
