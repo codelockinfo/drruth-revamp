@@ -378,4 +378,9 @@
 .product_banner_content{
   width : 100%;
 }
+  .product_box>h1 {
+    text-align: center;
+    font-size: 40px;
+    line-height: normal;
+}
 }
