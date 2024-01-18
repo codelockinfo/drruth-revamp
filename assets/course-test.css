@@ -340,7 +340,7 @@
   row-gap: 30px;
   column-gap : 110px;
 }
-.media media--transparent .media--hover-effect{
+.media--hover-effect{
   border-top-left-radius : 24px;
   border-top-right-radius : 24px;
 }
