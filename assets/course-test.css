@@ -337,7 +337,7 @@
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
 .grid{
-  row-gap: 30px;
+  row-gap: 45px;
   column-gap : 110px;
 }
 .media--hover-effect{
