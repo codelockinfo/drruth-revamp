@@ -332,13 +332,13 @@
 .product-grid-container .card__inner{
   height : 366px;
 }
-.grid__item{
+/* .grid__item{
   width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
-}
+} */
 .grid{
   row-gap: 45px;
-  column-gap : 6%;
+  /* column-gap : 6%; */
   justify-content : center;
 }
 .media--hover-effect{
