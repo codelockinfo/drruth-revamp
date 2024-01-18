@@ -1,5 +1,22 @@
+
+<style>
+  .product_box{
+    max-width : 1300px;
+    margin : 0 auto;
+    display : flex,
+  }
+</style>
+
+
+
 <div class="product_section">
   <h1>{{ section.settings.heading }}</h1>
+  {% if section.settings.product != blank %}
+    <div class="product_box">
+      <div class="product_content">
+      </div>
+    </div>
+  {% endif %}
 </div>
 
 
@@ -53,6 +70,11 @@
             "label" : "Image Second"
           }
         ]
+      }
+    ],
+    "presets" : [
+      {
+        "name" : "Product Section"
       }
     ]
   }
