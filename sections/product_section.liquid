@@ -107,6 +107,9 @@
   border-top-right-radius : 24px;
   border-bottom-right-radius : 24px;
 }
+.btn_reverse{
+  right : 0;
+}
 </style>
 
 
@@ -138,7 +141,7 @@
               <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
             {% endif %}
           {% endfor %}
-          <h3 class="product_price">{{ section.settings.product.price | money_with_currency }}</h3>
+          <h3 class="product_price {% if section.settings.image_placement == "row" %} btn_reverse {% endif %}">{{ section.settings.product.price | money_with_currency }}</h3>
       </div>
     </div>
   {% endif %}
