@@ -37,6 +37,9 @@
   {% if section.settings.product != blank %}
     <div class="product_box">
       <div class="product_content">
+        {% if section.settings.product.title != blank %}
+          <h3>{{ section.settings.product.title }}</h3>
+        {% endif %}
       </div>
       <div class="product_image">
         {% for image in section.settings.product.images %}
