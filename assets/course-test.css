@@ -330,3 +330,6 @@
 #courses-test .facets-vertical .facets__form-vertical{
  width : 100%;
 }
+.product-grid-container .card__inner{
+  height : 366px;
+}
