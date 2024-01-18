@@ -302,6 +302,6 @@
 #courses-test #FacetsWrapperDesktop{
   margin-top : 100px;
 }
-  #courses-test .facets facets-vertical-sort{
+  #courses-test .facets-vertical-sort{
     display : none;
   }
