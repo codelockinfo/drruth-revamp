@@ -321,7 +321,6 @@
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
-  line-height: 30px; /* 187.5% */
-  letter-spacing: 0.6px;
+  padding-top: 5px;
   text-transform: uppercase;
 }
