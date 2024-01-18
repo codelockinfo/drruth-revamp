@@ -160,7 +160,7 @@
         "padding_top": 0,
         "padding_bottom": 0,
         "image_placement": "row",
-        "learn_more_btn": false
+        "learn_more_btn": true
       }
     },
     "image_with_text_yjNmcd": {
