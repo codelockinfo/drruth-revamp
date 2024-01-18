@@ -351,3 +351,9 @@
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 } 
 }
+@media(min-width: 760px) and (max-width: 990px) { 
+   .grid--3-col-desktop>.grid__item {
+    width: calc(45% - var(--grid-mobile-horizontal-spacing) / 2);
+    max-width: calc(45% - var(--grid-mobile-horizontal-spacing) / 2);
+} 
+}
