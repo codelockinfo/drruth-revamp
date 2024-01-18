@@ -345,8 +345,9 @@
   border-top-left-radius : 24px;
   border-top-right-radius : 24px;
 }
-@media screen and (min-width: 990px)
+@media screen and (min-width: 990px){
 .grid--3-col-desktop>.grid__item {
     width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+} 
 }
