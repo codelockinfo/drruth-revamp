@@ -92,7 +92,7 @@
   <h1>{{ section.settings.heading }}</h1>
   {% if section.settings.product != blank %}
     <div class="product_box">
-      <div class="product_content">
+      <div class="product_content {% if section.settings.image_placement == "row-reverse" %} reverse_class {% endif %} ">
         {% if section.settings.product.title != blank %}
           <h3>{{ section.settings.product.title }}</h3>
         {% endif %}
@@ -109,7 +109,7 @@
             {% endif %}
         </div>
       </div>
-      <div class="product_image {% if section.settings.image_placement == "row-reverse" %} reverse_class {% endif %}">
+      <div class="product_image">
         {% for image in section.settings.product.images %}
             {% if forloop.index == 1 %}
               <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
