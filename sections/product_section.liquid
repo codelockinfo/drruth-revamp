@@ -14,6 +14,9 @@
     border-top-left-radius : 24px;
     border-bottom-left-radius : 24px;
   }
+  .product_image{
+    width : 40%;
+  }
 </style>
 
 
@@ -23,6 +26,13 @@
   {% if section.settings.product != blank %}
     <div class="product_box">
       <div class="product_content">
+      </div>
+      <div class="product_image">
+        {% for image in section.settings.product.images %}
+            {% if forloop.index == 1 %}
+              <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
+            {% endif %}
+          {% endfor %}
       </div>
     </div>
   {% endif %}
