@@ -121,7 +121,7 @@
   width : 90%;
   margin : 0 auto;
 }
-.facets-wrapper{
+.facets-vertical .facets-wrapper{
   width : 25%;
 }
 .product-grid-container{
