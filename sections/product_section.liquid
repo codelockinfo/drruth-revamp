@@ -116,6 +116,7 @@
             {% if forloop.index == 1 %}
               <img class="product_small_image" src="{{ image.src | product_img_url: 'grande' }}">
             {% endif %}
+          <h3>{{ section.settings.product.compare_at_price | money_with_currency }}</h3>
           {% endfor %}
       </div>
     </div>
