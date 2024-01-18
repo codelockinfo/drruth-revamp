@@ -336,6 +336,10 @@
   width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 } */
+.grid__item{
+  width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+  max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+}
 .grid{
   row-gap: 45px;
   /* column-gap : 6%; */
