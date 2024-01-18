@@ -299,7 +299,7 @@
   letter-spacing: 0.6px;
   text-transform: uppercase;
 }
-#courses-test #FacetsWrapperDesktop{
+#courses-test .facets-vertical #FacetsWrapperDesktop{
   margin-top : 100px;
 }
 #courses-test .facets-vertical-sort{
