@@ -148,7 +148,8 @@
         "product": "the-crockpet-diet-natural-pet-food-ebook",
         "padding_top": 0,
         "padding_bottom": 0,
-        "image_placement": "row"
+        "image_placement": "row",
+        "learn_more_btn": true
       }
     },
     "image_with_text_yjNmcd": {
@@ -288,7 +289,8 @@
       ],
       "custom_css": [
         ".image-with-text__text-item {padding: 40px 0 !important;}",
-        ".image-with-text__heading {color: #184b44; font-family: Lato; text-align: left !important; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px;}"
+        ".image-with-text__heading {color: #184b44; font-family: Lato; text-align: left !important; font-size: 30px; font-style: normal; font-weight: 300; line-height: 40px; letter-spacing: 0.6px;}",
+        ".image-with-text__media {border-radius: 0;}"
       ],
       "settings": {
         "unique_class": "",
