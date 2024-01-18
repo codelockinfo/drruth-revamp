@@ -230,7 +230,7 @@
 }
 @media(max-width : 1280px){
   .grid{
-    row-gap: 30px
+    row-gap: 30px;
     column-gap : 110px;
   }
   .card{
