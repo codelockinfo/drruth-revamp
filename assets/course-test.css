@@ -338,7 +338,7 @@
 }
 .grid{
   row-gap: 45px;
-  column-gap : 110px;
+  column-gap : 6%;
   justify-content : center;
 }
 .media--hover-effect{
