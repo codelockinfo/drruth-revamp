@@ -143,7 +143,6 @@
 }
 .card{
   background-color : #F5F8F1;
-  margin : 0 30px;
   --shadow-horizontal-offset: none !important;
   border-radius : 30px;
 }
@@ -333,4 +332,8 @@
 }
 .product-grid-container .card__inner{
   height : 366px;
+}
+.grid--3-col-desktop .grid__item {
+  width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
+    max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
