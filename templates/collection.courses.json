@@ -294,31 +294,11 @@
         "padding_bottom": 100
       }
     },
-    "rich_text_NmdLWD": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_tC4FcB": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Empower Yourself to Be Your Pet's Best Advocate<\/p>",
-            "heading_size": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_tC4FcB"
-      ],
-      "custom_css": [
-        ".rich-text__heading {color: #1e1e1e; text-align: center; font-family: Lato; font-size: 52px; font-style: normal; font-weight: 300; line-height: 70.5px; letter-spacing: 0.6px;}",
-        "@media (max-width: 1024px) {.rich-text__heading {font-size: 44px; line-height: normal; }}"
-      ],
+    "simple_heading_section_V3AeKi": {
+      "type": "Simple_heading_section",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 36
+        "heading": "Empower Yourself to Be Your Pet's Best Advocate",
+        "content_position": "center"
       }
     },
     "image_with_text_NpN8CC": {
@@ -382,7 +362,7 @@
     "image_with_text_yjNmcd",
     "image_with_text_r8A93T",
     "image_with_text_NbXLnB",
-    "rich_text_NmdLWD",
+    "simple_heading_section_V3AeKi",
     "image_with_text_NpN8CC"
   ]
 }
