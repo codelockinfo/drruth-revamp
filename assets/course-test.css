@@ -332,7 +332,7 @@
 .product-grid-container .card__inner{
   height : 366px;
 }
-.grid--3-col-desktop .grid__item {
+.grid--3-col-desktop{
   width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
     max-width: calc(30% - var(--grid-desktop-horizontal-spacing) * 2 / 3);
 }
