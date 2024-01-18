@@ -1,7 +1,46 @@
 {% schema %}
   {
     "name": "Section name",
-    "settings": []
+    "settings": [
+      {
+        "type" : "product",
+        "id" : "product",
+        "label" : "Add Product"
+      },
+      {
+        "type" : "range",
+        "id" : "padding_top",
+        "label" : "Padding Top",
+        "step" : 4,
+        "min" : 0,
+        "max" : 100,
+        "default" : 0
+       },
+      {
+        "type" : "range",
+        "id" : "padding_bottom",
+        "label" : "Padding Bottom",
+        "step" : 4,
+        "min" : 0,
+        "max" : 100,
+        "default" : 0
+      },
+      {
+        "type" : "select",
+        "id" : "image_placement",
+        "label" : "Image Placement",
+        "options" : [
+          {
+            "value" : "row-reverse",
+            "label" : "Image First"
+          },
+          {
+            "value" : "row",
+            "label" : "Image Second"
+          }
+        ]
+      }
+    ]
   }
 {% endschema %}
 
