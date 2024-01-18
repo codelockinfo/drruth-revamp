@@ -1,14 +1,14 @@
 
 <style>
   .product_section{
-    padding : {{ section.setting.padding_top }}px 0 {{ section.setting.padding_top }}px 0;
+    padding : {{ section.setting.padding_top }}px 0 {{ section.setting.padding_bottom }}px 0;
   }
   .product_box{
     max-width : 1300px;
     margin : 0 auto;
     padding : 0 50px
     display : flex,
-    flex-direction : 
+    flex-direction : {{ section.settings.image_placement }}
     border-radius : 24px;
   }
   .product_content{
