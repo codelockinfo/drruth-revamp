@@ -160,6 +160,9 @@
     },
     "8104cc31-1a02-403b-90ea-53954e6bd34c": {
       "type": "pet_ourblog",
+      "custom_css": [
+        "p{font-size: 18px}"
+      ],
       "settings": {
         "labelourb": "Our Blogs",
         "petblogimg": "shopify:\/\/shop_images\/Emergency_Kit_for_Your_Cats_and_Dogs.jpg",
