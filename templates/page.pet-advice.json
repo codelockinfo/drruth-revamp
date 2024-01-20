@@ -161,7 +161,7 @@
     "8104cc31-1a02-403b-90ea-53954e6bd34c": {
       "type": "pet_ourblog",
       "custom_css": [
-        "p{font-size: 18px}"
+        "p {font-size: 18px;}"
       ],
       "settings": {
         "labelourb": "Our Blogs",
@@ -258,6 +258,9 @@
     },
     "ec5b2465-cee1-43bc-88cc-42159f61d062": {
       "type": "pet_ourblog",
+      "custom_css": [
+        "p {font-size: 18px;}"
+      ],
       "settings": {
         "labelourb": "Our Podcast",
         "petblogimg": "shopify:\/\/shop_images\/Traditional_Chinese_Veterinary_Medicine.png",
@@ -484,6 +487,9 @@
     },
     "7334f3e1-87e0-42f1-8762-c579898dd117": {
       "type": "pet_ourblog",
+      "custom_css": [
+        "p {font-size: 18px;}"
+      ],
       "settings": {
         "labelourb": "Product Review",
         "petblogimg": "shopify:\/\/shop_images\/Drenamin.png",
