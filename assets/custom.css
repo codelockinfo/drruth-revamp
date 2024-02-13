@@ -224,7 +224,9 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     background-position: 50% 0;
     border-radius: 0 0 24px 24px;
 }
-
+.content_blg {
+    display: flex;
+}
 @media only screen and (min-width: 576px) {
   div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list_mobile {
       display: none;
