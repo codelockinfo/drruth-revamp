@@ -227,6 +227,7 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
 .content_blg {
     display: flex;
     align-items: center;
+    column-gap: 20px;
 }
 .right_block {
     width: 100%;
