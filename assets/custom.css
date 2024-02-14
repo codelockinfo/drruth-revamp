@@ -239,10 +239,12 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     padding: 0;
 }
 #shopify-section-template--14921795076161__main .article-template ul li {
-    font-family: 'Josefin Sans';
+    font-family: Josefin Sans;
     color: #000;
     font-weight: 400;
     font-size: 18px;
+    list-style: disc;
+    margin-left: 18px;
 }
 #shopify-section-template--14921795076161__main .article-template ol {
     padding: 0;
