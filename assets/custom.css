@@ -255,6 +255,9 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
     font-weight: 400;
     font-size: 18px;
 }
+.recblogflex .cusconwidth a {
+    color: #65bec2;
+}
 @media only screen and (min-width: 576px) {
   div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7ddb7 .amr_pet_consultants_list_mobile {
       display: none;
