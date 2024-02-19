@@ -235,6 +235,12 @@ div#shopify-section-template--14969681084481__a72bf7b9-a058-49bf-b799-6bccc3a7dd
 .left_block {
     width: 100%;
 }
+a.elementor-toggle-title {
+    color: #000 !important;
+    font-family: "Josefin Sans";
+    font-weight: bold;
+    font-size: 18px;
+}
 #shopify-section-template--14921795076161__main .article-template ul {
     padding: 0;
 }
