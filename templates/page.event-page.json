@@ -316,6 +316,14 @@
         "padding_bottom": 36
       }
     },
+    "coachingmainblog_QaRRwz": {
+      "type": "coachingmainblog",
+      "settings": {
+        "c_head": "",
+        "pro_btn1": "START THE QUIZ",
+        "program_link1": ""
+      }
+    },
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
       "type": "multicolumn",
       "blocks": {
@@ -608,6 +616,7 @@
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
+    "coachingmainblog_QaRRwz",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
