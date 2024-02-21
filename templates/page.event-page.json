@@ -175,6 +175,87 @@
         "program_link1": "https:\/\/drruthroberts.com\/blogs\/pet-blog\/spay-and-neuter-syndrome"
       }
     },
+    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
+      "type": "multicolumn",
+      "blocks": {
+        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
+      ],
+      "disabled": true,
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
+        ".button.button--primary {display: none;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "Our Collaboration Approach ",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
+      "type": "multicolumn",
+      "blocks": {
+        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>This quiz is a must for every pet parent looking to deepen their understanding of the significant impacts spaying and neutering can have on their beloved pets' health and behavior. It's not just about preventing unexpected puppies or kittens; it's about ensuring your pet enjoys a vibrant, healthy life. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
+        ".button.button--primary {display: none;}",
+        ".multicolumn-list__item:only-child {max-width: 100%;}",
+        "p {font-weight: normal;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "Time Well Invested",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -232,138 +313,6 @@
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "3270ceca-463c-4a94-837a-eab99dd78163": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Comprehensive Services",
-            "text": "<p>Our pet consultants can assist you with various aspects of pet health, including nutrition advice, behavior modification, exercise plans, and preventive care strategies. Whatever your pet's needs may be, we're here to help.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Practical Recommendations",
-            "text": "<p>You'll receive clear and actionable recommendations to address your pet's health concerns, enhance their behavior, or improve their overall quality of life.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 6rem 4rem;}",
-        ".grid:last-child {margin-bottom: 0; justify-content: center;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
-      "type": "multicolumn",
-      "blocks": {
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Collaboration Approach ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
-      "type": "multicolumn",
-      "blocks": {
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Pet Consultants",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
         "padding_bottom": 36
       }
     },
@@ -656,10 +605,9 @@
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "petadvice_main_kWCVdx",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
-    "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
-    "3270ceca-463c-4a94-837a-eab99dd78163",
     "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
+    "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
