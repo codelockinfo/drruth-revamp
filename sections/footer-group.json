@@ -45,8 +45,8 @@
       ],
       "custom_css": [
         ".rx-email-field input {text-transform: capitalize !important;}",
-        "li{text-align: left}",
-        "p{text-align: left}"
+        "li {text-align: left;}",
+        "p {text-align: left;}"
       ],
       "settings": {
         "footer-bg-color": "#f5f8f1",

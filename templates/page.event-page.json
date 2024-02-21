@@ -85,7 +85,7 @@
         ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
         ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
         ".button.button--primary {display: none;}",
-        "p{font-weight: normal;}"
+        "p {font-weight: normal;}"
       ],
       "settings": {
         "custom_class": "",
@@ -105,14 +105,73 @@
         "padding_bottom": 36
       }
     },
+    "petadvice_main_kWCVdx": {
+      "type": "petadvice-main",
+      "blocks": {
+        "block_kGc9WB": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/behavioral.png",
+            "heading": "Behavioral Changes",
+            "link": "#"
+          }
+        },
+        "block_Ceqwc4": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/obese_bafe7b2d-1b07-4bb2-828d-eaec75035443.png",
+            "heading": "Over-weight",
+            "link": "#"
+          }
+        },
+        "block_YQxzr7": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/joint_issue.png",
+            "heading": "Joint Issues",
+            "link": "#"
+          }
+        },
+        "block_fkVfGW": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/urinary.png",
+            "heading": "Urinary Infections",
+            "link": "#"
+          }
+        },
+        "block_8jExkx": {
+          "type": "block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/cancer_risk.png",
+            "heading": "Cancer Risk",
+            "link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "block_kGc9WB",
+        "block_Ceqwc4",
+        "block_YQxzr7",
+        "block_fkVfGW",
+        "block_8jExkx"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading1": "",
+        "valuepet": "container"
+      }
+    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1": {
           "type": "column",
           "settings": {
-            "title": "Expertise",
-            "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
+            "title": "Gain Insights",
+            "text": "<p>Learn the possible symptoms of Spay Neuter Syndrome in your pet through our quiz. Identifying these signs early can make a significant difference in their health. This knowledge empowers you to take timely action.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -120,8 +179,8 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
           "type": "column",
           "settings": {
-            "title": "Holistic Approach",
-            "text": "<p>We believe in treating pets as whole beings, considering their physical, emotional, and nutritional needs. Our coaches specialize in holistic approaches that emphasize natural remedies and balanced lifestyles.<\/p>",
+            "title": "Informed Decisions",
+            "text": "<p>Equipped with insights from the quiz, you will be able to make well-informed health care choices for your pet. This information allows you to advocate effectively for their needs. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -129,8 +188,8 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
           "settings": {
-            "title": "Personalized Care",
-            "text": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
+            "title": "Bridge the Gap",
+            "text": "<p>Our quiz serves as a crucial link between your pet's health and the decisions you make on their behalf. It aims to enhance your understanding of how spaying or neutering impacts them. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -141,11 +200,11 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
-      "disabled": true,
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 50px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
+        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 35rem; padding: 30px;}",
+        "p {font-weight: normal;}"
       ],
       "settings": {
         "custom_class": "",
@@ -155,9 +214,9 @@
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
+        "background_style": "none",
+        "button_label": "TAKE THE QUIZ",
+        "button_link": "https:\/\/drruthroberts.outgrow.us\/drruthroberts-9",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
@@ -596,6 +655,7 @@
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
+    "petadvice_main_kWCVdx",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "3270ceca-463c-4a94-837a-eab99dd78163",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
