@@ -13,7 +13,7 @@
         "164436159488e9de81-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As our furry companions age, they require special attention, care, and consideration to ensure they live a comfortable and happy life in their golden years. Just like humans, pets experience physical and physiological changes as they get older, which can lead to various health issues. That's why Dr. Ruth Roberts create this support protocol a collection of supplements to support your senior cats and dogs.<br\/><br\/>From managing Allergies, G.I Issues, Liver disease, Kidney Failure, Immune boosting supplements, Cancer, and other major health hurdles, these supplements are proven to help thousands of dogs and cats battling these diseases in a whole-food way specially in their senior years.<br\/><\/p>",
+            "text": "<p>As our furry companions age, they require special attention, care, and consideration to ensure they live a comfortable and happy life in their golden years. Just like humans, pets experience physical and physiological changes as they get older, which can lead to various health issues. That's why Dr. Ruth Roberts created a full collection of supplements for older and senior dogs.<\/p><p>From supplements for Allergies, G.I Issues, Liver disease, and Kidney Failure, to immune boosting supplements, Cancer support supplements, and dog supplements for other major health hurdles, our collection of supplements for senior and older dogs has been proven to help thousands of dogs battling these diseases in a whole-food way specially in their senior years.<\/p>",
             "text_style": "body"
           }
         },
@@ -38,6 +38,7 @@
         "div {padding: 10px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/6_c4965064-ef96-422f-b8de-540e5e5d04b4.png",
         "height": "adapt",
         "desktop_image_width": "small",
