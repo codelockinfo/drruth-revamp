@@ -488,51 +488,6 @@
         "padding_bottom": 36
       }
     },
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76": {
-      "type": "rx-image-banner-v2",
-      "blocks": {
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "The opportunity to become a professional pet Pet Health Coach has come very close to you"
-          }
-        },
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "APPLY TO THE PROGRAM",
-            "button_link_1": "#"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-heading-1",
-        "template--14921792946241__f20ac99b-64d9-4f94-9722-95cf6c742a76-buttons-1"
-      ],
-      "custom_css": [
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".banner__media.media {padding: 0;}",
-        ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
-        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
-      ],
-      "settings": {
-        "image_2": "shopify:\/\/shop_images\/ba9f58a211abaad2ea28ee2b4f2ebef0.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-left",
-        "show_text_box": true,
-        "container_bg": "rgba(0,0,0,0)",
-        "desktop_content_alignment": "left",
-        "heading_color": "#ffffff",
-        "text_color": "#ffffff",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
-    },
     "4f906579-b062-4ab8-babd-9cc9b73db3d9": {
       "type": "rx-testimonial",
       "blocks": {
@@ -594,6 +549,85 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "image_banner_CGdj4T": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_TYKeWt": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe for Event Updates",
+            "heading_size": "h1"
+          }
+        },
+        "text_HGE8tc": {
+          "type": "text",
+          "settings": {
+            "text": "Don't Miss a Beat! Be the first to know about our latest events and exclusive offers. Our dynamic calendar is packed with exciting experiences just waiting for you.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_TYKeWt",
+        "text_HGE8tc"
+      ],
+      "custom_css": [
+        ".banner__heading {font-color: black;}",
+        ".banner__text {font-family: \"BLT-Heirloom\";}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/pexels-samson-katt-5255645.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "newsletter_jDqKF8": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_BY4Nwe": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Subscribe for Event Updates",
+            "heading_size": "h1"
+          }
+        },
+        "paragraph_kM4q3L": {
+          "type": "paragraph",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Don't Miss a Beat! Be the first to know about our latest events and exclusive offers. Our dynamic calendar is packed with exciting experiences just waiting for you.<\/p>"
+          }
+        },
+        "email_form_iBaAmz": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading_BY4Nwe",
+        "paragraph_kM4q3L",
+        "email_form_iBaAmz"
+      ],
+      "custom_css": [
+        ".newsletter-form {padding-right: 20px;}",
+        "#Subscribe {font-family: \"Josefin Sans\"; font-size: 1em;}"
+      ],
+      "settings": {
+        "bg_color": "#f5f8f1",
+        "full_width": false,
+        "padding_top": 8,
+        "padding_bottom": 48
+      }
     }
   },
   "order": [
@@ -609,7 +643,8 @@
     "3d80628c-ea6f-48fc-8760-085a2af33b6e",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
+    "image_banner_CGdj4T",
+    "newsletter_jDqKF8"
   ]
 }
