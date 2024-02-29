@@ -310,6 +310,7 @@
         "row_JVrhLE",
         "row_trH88J"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "medium",
@@ -350,11 +351,23 @@
             "link_label": "Watch Now",
             "link": "https:\/\/www.youtube.com\/watch?v=St3Dshevpvg"
           }
+        },
+        "column_cpcLFT": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Screenshot_2024-02-29_135629.png",
+            "title": "TRAVELING WITH YOUR PET (featured on KnoWewell)",
+            "subtitle": "Column",
+            "text": "<p><strong>February 28, 2024<\/strong><br\/>Dr. Ruth Roberts shares her extensive experience in traveling with pets on Knowwewll's Natural Pet Show Webcast, offering valuable advice on lodging, food preparation guidelines and more!<\/p>",
+            "link_label": "Watch Now",
+            "link": "https:\/\/www.knowewell.com\/webinar\/natural-pet-show-traveling-your-pets"
+          }
         }
       },
       "block_order": [
         "column_WW4AP9",
-        "column_fxaUAp"
+        "column_fxaUAp",
+        "column_cpcLFT"
       ],
       "custom_css": [
         ".multicolumn-card {font-family: \"Josefin Sans\"; font-weight: normal;}",
@@ -366,7 +379,7 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Button label",
