@@ -374,6 +374,7 @@
         },
         "2461caae-9520-48d4-9ef4-2690dd29defa": {
           "type": "consultants",
+          "disabled": true,
           "settings": {
             "bg_color": "",
             "bg_img": "shopify:\/\/shop_images\/6_f799242e-25c6-4072-b8aa-8762df4cf156.png",
