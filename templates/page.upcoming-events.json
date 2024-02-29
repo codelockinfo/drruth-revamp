@@ -54,12 +54,12 @@
         ".image-with-text__media-item img {object-fit: contain;}",
         ".image-with-text__heading {font-family: \"BLT-Heirloom\"; color: black; text-align: left; font-size: 3em; line-height: 60px;}",
         ".image-with-text__grid {max-width: 1300px; margin: auto;}",
-        ".h {font-size: 2em;}",
-        ".image-with-text__text p {color: black; font-size: 18px;}"
+        ".image-with-text__text p {color: black; font-size: 18px;}",
+        ".img {border-radius: 30px;}"
       ],
       "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/functional_medicine_FDN.png",
+        "unique_class": "pic",
+        "image": "shopify:\/\/shop_images\/functional_medicine_FDN_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
