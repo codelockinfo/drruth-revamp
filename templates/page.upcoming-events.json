@@ -71,46 +71,6 @@
         "padding_bottom": 36
       }
     },
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Why Us?",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -119,6 +79,15 @@
           "settings": {
             "title": "Expertise",
             "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BccB3j": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -144,6 +113,7 @@
       },
       "block_order": [
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1",
+        "column_BccB3j",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
@@ -171,57 +141,6 @@
         "padding_bottom": 36
       }
     },
-    "3270ceca-463c-4a94-837a-eab99dd78163": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Comprehensive Services",
-            "text": "<p>Our pet consultants can assist you with various aspects of pet health, including nutrition advice, behavior modification, exercise plans, and preventive care strategies. Whatever your pet's needs may be, we're here to help.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Practical Recommendations",
-            "text": "<p>You'll receive clear and actionable recommendations to address your pet's health concerns, enhance their behavior, or improve their overall quality of life.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-1",
-        "template--14921792946241__3270ceca-463c-4a94-837a-eab99dd78163-column-2"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 38px; line-height: 40px; font-weight: 300; min-height: 85px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 6rem 4rem;}",
-        ".grid:last-child {margin-bottom: 0; justify-content: center;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
     "fadcc9ee-5901-42d9-8139-51be2d304bad": {
       "type": "coachingmainblog",
       "disabled": true,
@@ -232,205 +151,6 @@
         "c_head": "",
         "pro_btn1": "Check our consultant",
         "program_link1": ""
-      }
-    },
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
-      "type": "multicolumn",
-      "blocks": {
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Collaboration Approach ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
-      "type": "multicolumn",
-      "blocks": {
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Discover personalized solutions for your pet's well-being with our professional  and certified Holistic Pet Health Coach<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "8bbda40f-a648-4ccd-992c-ea2b00742e1b"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Pet Consultants",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
-      "type": "multicolumn",
-      "blocks": {
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Client’s Testimonials ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e": {
-      "type": "multicolumn",
-      "blocks": {
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c"
-      ],
-      "disabled": true,
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "c310de0e-f268-4dff-8278-ea581c28a408": {
-      "type": "multicolumn",
-      "blocks": {
-        "18ea8e42-e20a-426d-87db-407cbf6d1ff5": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Are you passionate about the well-being of animals? Do you believe in the power of holistic approaches to pet health? If so, we invite you to join our team as a Certified Holistic Pet Health Coach. By becoming a part of our dedicated group of professionals, you can make a significant impact in the lives of pets and their owners, helping them achieve optimal health and happiness.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "18ea8e42-e20a-426d-87db-407cbf6d1ff5"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center; max-width: 800px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn > div {max-width: 1200px;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
       }
     },
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3": {
@@ -463,6 +183,7 @@
         "template--14921792946241__8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3-text-1",
         "template--14921792946241__8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3-button-1"
       ],
+      "disabled": true,
       "custom_css": [
         ".image-with-text__grid.grid {background: #e0ecbe; padding: 35px; border-radius: 50px;}",
         ".image-with-text__grid.grid div {background-color: #fff0;}",
@@ -550,6 +271,61 @@
         "empty_star_color": ""
       }
     },
+    "multirow_VMqc7q": {
+      "type": "multirow",
+      "blocks": {
+        "row_zqyDVb": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_JVrhLE": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_trH88J": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_zqyDVb",
+        "row_JVrhLE",
+        "row_trH88J"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner_CGdj4T": {
       "type": "image-banner",
       "blocks": {
@@ -563,7 +339,7 @@
         "text_HGE8tc": {
           "type": "text",
           "settings": {
-            "text": "Don't Miss a Beat! Be the first to know about our latest events and exclusive offers. Our dynamic calendar is packed with exciting experiences just waiting for you.",
+            "text": "Don't miss a beat! Be the first to know about our latest events and exclusive offers. Our dynamic calendar is packed with exciting experiences just waiting for you.",
             "text_style": "body"
           }
         }
@@ -575,7 +351,7 @@
       "custom_css": [
         ".banner__heading {font-color: black;}",
         ".banner__text {font-family: \"BLT-Heirloom\";}",
-        ".banner__box {opacity:0.85 ;}"
+        ".banner__box {opacity: 0.8;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/pexels-samson-katt-5255645.jpg",
@@ -629,23 +405,79 @@
         "padding_top": 8,
         "padding_bottom": 48
       }
+    },
+    "custom_testimonial_pVztH8": {
+      "type": "custom-testimonial",
+      "blocks": {
+        "column_WW4AP9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Webinar_Thumbnail_Live_with_Dr._Jeff.png",
+            "title": "ARE YOU PET PREPARED (with Jeff Grognet)",
+            "subtitle": "",
+            "text": "<p>Dr. Ruth Roberts and Jeff Grognet lead a vital discussion in pet emergency essentials. Learn to tackle bleeding, seizures, bloat, and urinary blockages in pets. This concise webinar equips pet owners with the skills to act swiftly and confidently in emergencies<\/p>",
+            "link_label": "Watch Now",
+            "link": "https:\/\/www.youtube.com\/watch?v=t7Spw29q2A4"
+          }
+        },
+        "column_fxaUAp": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "subtitle": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PrFG8k": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "subtitle": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_WW4AP9",
+        "column_fxaUAp",
+        "column_PrFG8k"
+      ],
+      "custom_css": [
+        ".multicolumn-card {font-family: \"Josefin Sans\"; font-weight: normal;}",
+        ".h1 {font-family: \"BLT-Heirloom\"; text-align: center;}"
+      ],
+      "settings": {
+        "title": "Watch the Previous Event You Missed",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
-    "3270ceca-463c-4a94-837a-eab99dd78163",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28",
-    "b165d27c-cf73-4142-863a-ca8961ce2bf7",
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e",
-    "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "4f906579-b062-4ab8-babd-9cc9b73db3d9",
+    "multirow_VMqc7q",
     "image_banner_CGdj4T",
-    "newsletter_jDqKF8"
+    "newsletter_jDqKF8",
+    "custom_testimonial_pVztH8"
   ]
 }
