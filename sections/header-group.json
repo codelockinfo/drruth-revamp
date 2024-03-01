@@ -57,10 +57,22 @@
         "padding_top": 8,
         "padding_bottom": 8
       }
+    },
+    "petwellness_image_with_text_XAkmi3": {
+      "type": "petwellness_image_with_text",
+      "settings": {
+        "prevhead": "",
+        "prevdes": "",
+        "discription": "",
+        "discription1": "",
+        "previwbtn": "",
+        "previwurl": ""
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "petwellness_image_with_text_XAkmi3"
   ]
 }
