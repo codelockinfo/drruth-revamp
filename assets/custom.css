@@ -428,7 +428,7 @@ a.elementor-toggle-title {
 .faq-row {
   display: flex;
   justify-content: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 /* Style for FAQ blocks */
@@ -450,4 +450,13 @@ a.elementor-toggle-title {
   margin-top: 0px;
   font-size: 16px;
 }
+
+/* Media query for mobile devices */
+@media screen and (max-width: 767px) {
+  .faq-block {
+    width: 100%;
+    margin: 0 0 20px 0;
+  }
+}
+
 /*FAQ page end*/
