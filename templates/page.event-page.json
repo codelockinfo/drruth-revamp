@@ -43,11 +43,11 @@
       ],
       "custom_css": [
         ".image-with-text,.image-with-text__grid {background-color: #2d4b49; max-width: 100%;}",
-        ".image-with-text__text-item.grid__item.image_content {padding-left: 0;}",
+        ".image-with-text__text-item.grid__item.image_content {;}",
         ".grid__item > div {justify-content: center;}",
         ".image-with-text__media-item img {object-fit: contain;}",
         ".image-with-text__heading {font-family: \"BLT-Heirloom\"; font-size: 2em; line-height: 1.2em; color: #f5f8f1;}",
-        ".image-with-text__text p {font-size: 18px; color: #f5f8f1; padding-left: 3em;}",
+        ".image-with-text__text p {font-size: 18px; color: #f5f8f1; padding-left: 0em;}",
         "@media (min-width: 601px) {.image-with-text__heading {font-size: 3.5em; line-height: 1em; }}"
       ],
       "settings": {
