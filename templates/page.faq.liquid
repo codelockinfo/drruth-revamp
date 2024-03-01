@@ -1,0 +1,19 @@
+<div class="faq-wrapper">
+  <div class="faq-row">
+    {% for faq in faqs | slice: 0, 3 %}
+    <div class="faq-block">
+      <img class="faq-image" src="{{ faq.image_url }}" alt="{{ faq.category }}">
+      <div class="faq-category">{{ faq.category }}</div>
+    </div>
+    {% endfor %}
+  </div>
+  
+  <div class="faq-row">
+    {% for faq in faqs | slice: 3, 6 %}
+    <div class="faq-block">
+      <img class="faq-image" src="{{ faq.image_url }}" alt="{{ faq.category }}">
+      <div class="faq-category">{{ faq.category }}</div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
