@@ -66,7 +66,7 @@
         "d6fa0458-c3a0-4bbf-a363-3c9a6c9034f6": {
           "type": "text",
           "settings": {
-            "text": "Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. "
+            "text": "Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and esperience a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. "
           }
         }
       },
@@ -77,18 +77,20 @@
       "custom_css": [
         ".banner__media.media {padding: 0;}",
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
-        ".banner__media.media {padding: 0;}",
+        ".banner__media.media {padding: 0; opacity: 0.8;}",
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
         ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
-        ".rx_banner__heading {font-size: 44px; max-width: 750px; line-height: 54px;}"
+        ".rx_banner__heading {font-size: 4em; max-width: 750px; line-height: 54px; color: #184b44; font-family: \"oakley script\";}",
+        ".rx_banner__text {color: #184b44;}",
+        ".content-container {opacity: 0.8;}"
       ],
       "settings": {
-        "image_2": "shopify:\/\/shop_images\/banner.png",
+        "image_2": "shopify:\/\/shop_images\/pexels-blue-bird-7210501_6f6b13c2-ea0b-4124-b785-5b1860d25ca3.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
-        "container_bg": "rgba(0,0,0,0)",
+        "container_bg": "#f5f8f1",
         "desktop_content_alignment": "center",
         "heading_color": "#ffffff",
         "text_color": "#ffffff",
