@@ -436,6 +436,7 @@ a.elementor-toggle-title {
   width: 30%;
   margin: 0 10px;
   text-align: center;
+  padding: 1em;
 }
 
 /* Style for FAQ images */
@@ -446,7 +447,7 @@ a.elementor-toggle-title {
 
 /* Style for FAQ category */
 .faq-category {
-  margin-top: 10px;
+  margin-top: 0px;
   font-size: 16px;
 }
 /*FAQ page end*/
