@@ -81,8 +81,8 @@
         ".banner--mobile-bottom,.banner__media.media {margin: 0; max-width: 100%;}",
         ".rx_read_more_btn_green {border-color: #fff; color: #fff;}",
         ".rx_banner__heading {font-size: 4em; max-width: 750px; line-height: 54px; color: #184b44; font-family: \"oakley script\";}",
-        ".rx_banner__text {color: #184b44;}",
-        ".content-container {opacity: 0.8;}"
+        ".rx_banner__text {color: black;}",
+        ".content-container {opacity: 0.7;}"
       ],
       "settings": {
         "image_2": "shopify:\/\/shop_images\/pexels-blue-bird-7210501_6f6b13c2-ea0b-4124-b785-5b1860d25ca3.jpg",
