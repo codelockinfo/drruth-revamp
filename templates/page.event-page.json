@@ -61,8 +61,8 @@
         "content_layout": "overlap",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
-        "padding_top": 8,
-        "padding_bottom": 8
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
