@@ -53,7 +53,7 @@
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/850_x_950_970_x_850_px.png",
-        "height": "adapt",
+        "height": "large",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "middle",
