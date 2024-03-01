@@ -46,8 +46,8 @@
         ".image-with-text__text-item.grid__item.image_content {padding-left: 0;}",
         ".grid__item > div {justify-content: center;}",
         ".image-with-text__media-item img {object-fit: contain;}",
-        ".image-with-text__heading {font-family: \"BLT-Heirloom\"; font-size: 2em; line-height: 1.2em; color: #f5f8f1;}",
-        ".image-with-text__text p {font-size: 18px; color: #f5f8f1;}",
+        ".image-with-text__heading {font-family: \"BLT-Heirloom\"; font-size: 2em; line-height: 1.2em; color: #184B44;}",
+        ".image-with-text__text p {font-size: 18px; color: #184B44;}",
         "@media (min-width: 601px) {.image-with-text__heading {font-size: 3em; line-height: 1em; }}"
       ],
       "settings": {
@@ -59,7 +59,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
