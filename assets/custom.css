@@ -415,3 +415,38 @@ a.elementor-toggle-title {
         left: -30px;
     }
 }
+
+/*FAQ page begin*/
+/* Style for FAQ wrapper */
+.faq-wrapper {
+  max-width: 800px; /* Adjust as needed */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Style for FAQ rows */
+.faq-row {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+/* Style for FAQ blocks */
+.faq-block {
+  width: 30%;
+  margin: 0 10px;
+  text-align: center;
+}
+
+/* Style for FAQ images */
+.faq-image {
+  width: 100%;
+  height: auto;
+}
+
+/* Style for FAQ category */
+.faq-category {
+  margin-top: 10px;
+  font-size: 16px;
+}
+/*FAQ page end*/
