@@ -460,6 +460,8 @@ a.elementor-toggle-title {
   .faq-row{
     display: block;
   }
+  .rte img {
+    max-width: 60%;
 }
 
 /*FAQ page end*/
