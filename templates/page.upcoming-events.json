@@ -277,9 +277,9 @@
         "row_cH33LN": {
           "type": "row",
           "settings": {
-            "caption": "Viva Raw Pet",
-            "heading": "March 14, 2014 | 4.45 PM ET",
-            "text": "<p>Join Dr. Ruth Roberts and Viva Raw Pets' co-founder Zach Ao for an enlightening live talk on Spay Neuter Syndrome (SNS) and its effects on pet health, learn about the role of fresh food in your pet's diet and more!<\/p>",
+            "caption": "HPHC Live with Karin Druckenmiller",
+            "heading": "March 21, 2014 | 4.45 PM ET",
+            "text": "<p>Join Dr. Ruth Roberts and Karin Druckenmiller<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -310,6 +310,7 @@
         "row_JVrhLE",
         "row_trH88J"
       ],
+      "disabled": true,
       "custom_css": [
         ".caption-with-letter-spacing {color: #f5f8f1; font-family: \"BLT-Heirloom\"; font-size: 3em;}",
         ".h2 {color: #f5f8f1;}",
