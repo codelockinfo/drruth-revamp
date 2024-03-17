@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Wednesday,  March 6 1 PM EST",
+            "caption": "Wednesday,  March 20, 2024 | 1 PM EST",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>FUNCTIONAL MEDICINE FOR YOUR PET<\/h2><p>In our upcoming event, we'll explore the limitations of traditional veterinary care and why it sometimes fails to address pet health issues effectively. We'll discuss more about Functional Medicine for pets, focusing on understanding and treating the root causes of health problems in dogs and cats. <\/p>",
+            "text": "<h2>HOLISTIC PET HEALTH COACH FREE WORKSHOP<\/h2><h3><em>TURN YOUR PASSION FOR PETS INTO PROFITS<\/em><\/h3><p>Join us for an immersive session in our exclusive and free workshop with Dr. Ruth Roberts and other successful coaches from the program. This event is designed to equip you with indispensable insights and actionable strategies, propelling you towards success in the dynamic realm of pet health coaching<\/p>",
             "text_style": "body"
           }
         },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/functional_medicine_FDN_4.png",
+        "image": "shopify:\/\/shop_images\/Turn_Your_Passion_for_Pets_to_Profit.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
