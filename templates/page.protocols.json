@@ -288,40 +288,6 @@
         "show_text_below": false
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Cheers to a Lifetime of Great Health!",
-            "heading_size": "h2"
-          }
-        },
-        "paragraph": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Join our VIP email list for exclusive pet care tips from our veterinary * holistic pet care expert Dr. Ruth Roberts <\/p>"
-          }
-        },
-        "email-form": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "paragraph",
-        "email-form"
-      ],
-      "settings": {
-        "bg_color": "",
-        "full_width": true,
-        "padding_top": 68,
-        "padding_bottom": 52
-      }
-    },
     "rich_text_tNeLiY": {
       "type": "rich-text",
       "blocks": {
@@ -358,6 +324,40 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "newsletter": {
+      "type": "newsletter",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Cheers to a Lifetime of Great Health!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Join our VIP email list for exclusive pet care tips from our veterinary * holistic pet care expert Dr. Ruth Roberts <\/p>"
+          }
+        },
+        "email-form": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "paragraph",
+        "email-form"
+      ],
+      "settings": {
+        "bg_color": "",
+        "full_width": true,
+        "padding_top": 68,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -366,7 +366,7 @@
     "a1dcd6d6-0738-402f-bfec-56f09d6583b8",
     "1655751929e34d4e57",
     "d9814347-ec3a-4357-bb8f-c4423922c28b",
-    "newsletter",
-    "rich_text_tNeLiY"
+    "rich_text_tNeLiY",
+    "newsletter"
   ]
 }
