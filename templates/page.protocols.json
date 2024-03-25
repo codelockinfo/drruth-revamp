@@ -321,6 +321,43 @@
         "padding_top": 68,
         "padding_bottom": 52
       }
+    },
+    "rich_text_tNeLiY": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_V7xYKU": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Dog and Cat Supplements<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_CaFxcx": {
+          "type": "text",
+          "settings": {
+            "text": "<p>At Dr. Ruth Roberts, we have an array of dog and cat supplements to ensure your furry friend stays happy, healthy, and full of energy. Whether your pet is young and full of energy or getting older, we have the products and supplements available to help your animal thrive.<\/p>"
+          }
+        },
+        "text_MpUTMd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Whether your dog or cat needs pet hemp oil, immune support supplements, renal support supplements, or specialized dog or cat food for gut health, we’ve made it easy for you to know what type of support you and your pet should get based on their current condition. <\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_V7xYKU",
+        "text_CaFxcx",
+        "text_MpUTMd"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -329,6 +366,7 @@
     "a1dcd6d6-0738-402f-bfec-56f09d6583b8",
     "1655751929e34d4e57",
     "d9814347-ec3a-4357-bb8f-c4423922c28b",
-    "newsletter"
+    "newsletter",
+    "rich_text_tNeLiY"
   ]
 }
