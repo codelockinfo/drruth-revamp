@@ -6,14 +6,14 @@
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Welcome Shoppers!",
+            "heading": "Hop into Easter Savings Today! 🐰🌷",
             "heading_size": "h1"
           }
         },
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1": {
           "type": "text",
           "settings": {
-            "text": "Enjoy 30% Off on Pawsome Deals. Use code WINTER",
+            "text": "Discover Egg-citing Discounts and New Arrivals Today! use code EASTERJOY10",
             "text_style": "body"
           }
         },
@@ -35,7 +35,7 @@
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/a-wise-dog-outside-their-kennel.jpg",
+        "image": "shopify:\/\/shop_images\/three-easter-eggs-on-green-background.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
