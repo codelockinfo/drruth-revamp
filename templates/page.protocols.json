@@ -362,7 +362,7 @@
         "column_yPqdPm"
       ],
       "custom_css": [
-        "h2{text-align: center !important;}"
+        "h2.title.h1 {text-align: center !important; margin: auto;}"
       ],
       "settings": {
         "custom_class": "",
