@@ -361,6 +361,9 @@
         "column_YFQfWT",
         "column_yPqdPm"
       ],
+      "custom_css": [
+        "h2{text-align: center !important;}"
+      ],
       "settings": {
         "custom_class": "",
         "title": "Specifically, we offer",
