@@ -325,6 +325,60 @@
         "padding_bottom": 52
       }
     },
+    "multicolumn_G7CFFP": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_RDjHer": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Dog and cat allergy relief supplements.<\/li><li>Dog and cat supplements for anxiety and stress relief.<\/li><li>Dog and cat digestion and gut health supplements.<\/li><li>Supplements for senior and older dogs.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YFQfWT": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Supplements for puppies and kittens.<\/li><li>Dog and cat heart health supplements.<\/li><li>Tick and flea support for cats and dogs.<\/li><li>Dog and cat autoimmunue disease supplements.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yPqdPm": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<ul><li>Dog and cat cancer support supplements.<\/li><li>Pet detox supplements.<\/li><li>Dog and cat liver support supplements.<\/li><li>Natural pet food for dogs and cats.<\/li><\/ul>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_RDjHer",
+        "column_YFQfWT",
+        "column_yPqdPm"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "Specifically, we offer",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -367,6 +421,7 @@
     "1655751929e34d4e57",
     "d9814347-ec3a-4357-bb8f-c4423922c28b",
     "rich_text_tNeLiY",
+    "multicolumn_G7CFFP",
     "newsletter"
   ]
 }
