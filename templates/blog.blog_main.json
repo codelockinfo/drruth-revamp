@@ -6,7 +6,7 @@
         ".article-card {padding-block-start: 0%;}",
         ".title--primary {display: none;}",
         ".article-card__info.caption-with-letter-spacing.h5 {position: absolute; top: 20%; left: 5%;}",
-        "h3.card__heading.h2 {padding-top: 50%; padding-bottom: 0%; margin-bottom: 0%;}",
+        "h3.card__heading.h2 {padding-top: 30%; padding-bottom: 0%; margin-bottom: 0%;}",
         "@media (max-width: 600px) {h3.card__heading.h2 {padding-top: 15%; }}",
         "@media screen and (max-width: 463px) {.blog articles__article.article {width: 88%; } h3.card__heading.h2 {padding-top: 27%; }}",
         "p {font-family: Josefin Sans; font-weight: normal;}"
