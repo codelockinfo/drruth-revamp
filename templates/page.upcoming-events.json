@@ -274,7 +274,7 @@
     "rx_blog_cANfJE": {
       "type": "rx-blog",
       "settings": {
-        "heading": "Watch Events You Might Have Missed",
+        "heading": "More Events",
         "heading_size": "h1",
         "blog": "events",
         "post_limit": 3,
