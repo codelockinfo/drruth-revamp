@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Wednesday,  March 20, 2024 | 1 PM EST",
+            "caption": "Wednesday,  APRIL 17TH, 2024 | 1 PM EST",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>HOLISTIC PET HEALTH COACH FREE WORKSHOP<\/h2><h3><em>TURN YOUR PASSION FOR PETS INTO PROFITS<\/em><\/h3><p>Join us for an immersive session in our exclusive and free workshop with Dr. Ruth Roberts and other successful coaches from the program. This event is designed to equip you with indispensable insights and actionable strategies, propelling you towards success in the dynamic realm of pet health coaching<\/p>",
+            "text": "<h2>HOLISTIC PET HEALTH COACH 8TH WORKSHOP<\/h2><h3><em>TURN YOUR PASSION FOR PETS INTO PROFITS<\/em><\/h3><p>Get ready to dive into the world of holistic pet care and explore the endless possibilities that await at our upcoming Holistic Pet Health Coach workshop. <br\/>Scheduled for April 17, 2024, at 1 PM EST, this session is your golden ticket to a fulfilling path where passion meets profession. <\/p>",
             "text_style": "body"
           }
         },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Turn_Your_Passion_for_Pets_to_Profit.png",
+        "image": "shopify:\/\/shop_images\/turn_your_passion_for_pets_to_profit_2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
