@@ -23,19 +23,11 @@
             "text": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>",
             "text_style": "body"
           }
-        },
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "Book Now",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1",
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1",
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1"
+        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1"
       ],
       "disabled": true,
       "custom_css": [
@@ -48,6 +40,7 @@
         ".image-with-text__text p {color: #fff; font-size: 18px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/Group_832-min.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -84,6 +77,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Why Us?",
         "heading_size": "h0",
         "image_width": "full",
@@ -143,6 +137,7 @@
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
@@ -193,6 +188,7 @@
         ".grid:last-child {margin-bottom: 0; justify-content: center;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
@@ -244,6 +240,7 @@
         ".button.button--primary {display: none;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Collaboration Approach ",
         "heading_size": "h0",
         "image_width": "full",
@@ -284,6 +281,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Pet Consultants",
         "heading_size": "h0",
         "image_width": "full",
@@ -324,6 +322,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Our Client’s Testimonials ",
         "heading_size": "h0",
         "image_width": "full",
@@ -358,6 +357,7 @@
       ],
       "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h0",
         "image_width": "full",
@@ -399,6 +399,7 @@
         ".multicolumn-list__item:only-child {max-width: 100%;}"
       ],
       "settings": {
+        "custom_class": "",
         "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
         "heading_size": "h0",
         "image_width": "full",
@@ -457,6 +458,7 @@
         "h2.image-with-text__heading.h1 {font-size: 54px; line-height: 50px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/image_4_ba456788-5c27-4b4d-b5d1-19eacd0079a5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -577,6 +579,23 @@
         "filled_star_color": "",
         "empty_star_color": ""
       }
+    },
+    "171319893831fb940a": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_gYdpb4": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "<div class=\"klaviyo-form-SQVTGQ\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_gYdpb4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -593,6 +612,7 @@
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9"
+    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
+    "171319893831fb940a"
   ]
 }
