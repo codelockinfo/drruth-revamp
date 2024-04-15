@@ -24,10 +24,16 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "klaviyo_subscriptionform_6KAGjL": {
+      "type": "klaviyo_subscriptionform",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "1713199513a250e161"
+    "1713199513a250e161",
+    "klaviyo_subscriptionform_6KAGjL"
   ]
 }
