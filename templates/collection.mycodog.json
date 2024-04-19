@@ -224,8 +224,8 @@
       ],
       "custom_css": [
         "div {padding: 10px;}",
-        "h2 {text-align: center; margin-left: 0%; margin-right: 0%; padding-left: 0%;}",
-        "p {text-align: center; margin-left: 0%; margin-right: 0%;}",
+        "h2 {text-align: center;}",
+        "p {text-align: center;}",
         ".button {margin-left: 10%;}"
       ],
       "settings": {
@@ -386,7 +386,7 @@
         "164436159488e9de81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Clarity for Daisie",
+            "heading": "Clarity For Daisie and Potato",
             "heading_size": "h2"
           }
         },
@@ -413,8 +413,9 @@
       ],
       "custom_css": [
         "div {padding: 10px;}",
-        "h2 {text-align: center; margin-left: 0%; margin-right: 0%; padding-left: 0%;}",
-        "p {text-align: center; margin-left: 0%; margin-right: 0%;}"
+        "h2 {text-align: center; margin-left: 15%;}",
+        "p {text-align: center;}",
+        ".button {margin-left: 10%;}"
       ],
       "settings": {
         "unique_class": "",
