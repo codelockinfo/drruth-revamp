@@ -132,7 +132,7 @@
         "heading_i4xxgT": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Mycodog Mushroom <\/p>",
+            "heading": "<h1>MycoDog Mushroom <\/h1>",
             "heading_size": "h1"
           }
         },
@@ -177,10 +177,10 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 60
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
@@ -318,13 +318,17 @@
         "092babbb-8f90-4b8b-9ca2-52d9e9ac33d8",
         "3b2def91-082b-4cd1-9ac6-6edac0365c77"
       ],
+      "custom_css": [
+        ".content-container {padding-top: 10%; padding-bottom: 10%;}",
+        ".p {font-weight: normal;}"
+      ],
       "settings": {
         "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",
