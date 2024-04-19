@@ -93,7 +93,6 @@
         "1644345560ae71793c-1",
         "1644345560ae71793c-2"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -139,25 +138,40 @@
         "1644363585f56cc491-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Mushroom tinctures for dogs can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>",
+            "heading": "<h3>The best mushroom supplement for dogs combining medicinal mushrooms with other adaptogens to help dogs thrive. <br\/>Can be administered orally – directly in their mouth, on their food, or with a treat. <\/h3>",
             "heading_size": "h2"
           }
         },
         "1644363585f56cc491-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
-            "text": "<p><strong>Check out each product’s page to see the recommended mushroom dosage for dogs. <\/strong><\/p>"
+            "text": "<p>Check out each product’s page to see the recommended mushroom dosage for dogs. <\/p>"
+          }
+        },
+        "button_CfpdRU": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Explore Product Pages for Dosage",
+            "button_link": "shopify:\/\/collections\/mycodog-mushrooms-for-dogs",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
         "heading_i4xxgT",
         "1644363585f56cc491-0",
-        "1644363585f56cc491-1"
+        "1644363585f56cc491-1",
+        "button_CfpdRU"
       ],
       "custom_css": [
-        ".h1{font-family: Oakley Script; font-color: #184B44; font-weight: 1em;}",
-        ".h2 {font-family: BLT-Heirloom;}"
+        ".h1 {font-family: Oakley Script; font-color: #184b44; font-size: 4em;}",
+        ".h2 {font-family: BLT-Heirloom;}",
+        ".buttons {align-content: center;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -165,7 +179,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 100
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
