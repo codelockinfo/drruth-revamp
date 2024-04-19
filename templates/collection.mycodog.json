@@ -412,7 +412,7 @@
         "164436159488e9de81-2"
       ],
       "custom_css": [
-        "div {padding: 10px;}",
+        "div {padding: 5px;}",
         "h2 {text-align: left; margin-left: 20%; font-size: 1.8em;}",
         "p {text-align: left; margin-right: 20%; margin-left: 20%;}",
         ".button {margin-left: 10%;}"
