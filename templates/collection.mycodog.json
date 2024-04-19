@@ -215,13 +215,13 @@
       "custom_css": [
         "h2 {text-align: center;}",
         "p {text-align: center; margin-left: 10%; margin-right: 0%;}",
-        ".button {margin-left: 10%}"
+        ".button {margin-left: 10%;}"
       ],
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/angela_ardolino_mycodog_founder.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
