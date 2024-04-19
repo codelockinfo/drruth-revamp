@@ -531,7 +531,7 @@
         "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-1": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>AND ADAPTOGENS!<\/strong><\/p>"
+            "text": "<p>Let's learn more about benefits of medicinal mushrooms and adaptogens for dogs<\/p>"
           }
         }
       },
@@ -539,13 +539,18 @@
         "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-0",
         "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-1"
       ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 2em;}",
+        "p {font-family: BLT-Heirloom;}",
+        ".buttons {align-content: center;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 16,
+        "padding_bottom": 16
       }
     },
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c": {
