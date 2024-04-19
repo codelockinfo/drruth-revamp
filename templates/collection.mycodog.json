@@ -912,10 +912,10 @@
             "title": "Real Reviews from Real Customers",
             "auto_play": false,
             "take": 30,
-            "color_title": "#2d4b49",
+            "color_title": "#184b44",
             "color_star": "#ff9900",
             "color_text": "#2e2a39",
-            "color_link": "#08708a",
+            "color_link": "#2d4b49",
             "review_ids": "",
             "product_ids": "6935395762241, 6935399039041, 6935398613057",
             "category": "",
@@ -933,7 +933,8 @@
       ],
       "custom_css": [
         "div {font-family: BLT-Heirloom;}",
-        ".\/p {font-family: Josefins Sans;}"
+        "h2 {font-size: 1.5em;}",
+        ".p {font-family: Josefins Sans;}"
       ],
       "settings": {
         "include_margins": true
@@ -984,6 +985,9 @@
         "164514111261d9da74-0",
         "164514111261d9da74-1",
         "164514111261d9da74-2"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; font-weight: bold; font-size: 2em;}"
       ],
       "settings": {
         "desktop_content_position": "center",
