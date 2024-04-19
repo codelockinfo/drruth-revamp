@@ -411,15 +411,18 @@
         "164436159488e9de81-1",
         "164436159488e9de81-2"
       ],
+      "custom_css": [
+        "div {padding: 10px;}"
+      ],
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/2_16655905-f61a-40ba-8cda-072b76c8a7e2.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
