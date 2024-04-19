@@ -438,7 +438,7 @@
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-0": {
           "type": "heading",
           "settings": {
-            "heading": "BREATHE FOR ODIE",
+            "heading": "Breathe For Odie",
             "heading_size": "h2"
           }
         },
@@ -454,12 +454,18 @@
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-0",
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-1"
       ],
+      "custom_css": [
+        "div {padding: 5px;}",
+        "h2 {text-align: left; margin-left: 20%; margin-top: 5%; font-size: 1.8em;}",
+        "p {text-align: left; margin-right: 20%; margin-left: 20%;}",
+        ".button {margin-left: 10%;}"
+      ],
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/1_447ff9d9-d322-4b44-9201-c4704bee31ea.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "right",
         "content_layout": "overlap",
