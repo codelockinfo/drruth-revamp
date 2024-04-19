@@ -258,7 +258,7 @@
         "template--14862046068801__b35ef76d-79f4-44e4-b210-d627139ac9f5-1673288324eab372f3-0"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-size: 2em; color:#184B44 ; font-weight: bold;}",
+        "h2 {font-family: BLT-Heirloom; font-size: 2em; color: #184b44; font-weight: bold;}",
         "div {background-color: #f5f8f1;}"
       ],
       "settings": {
@@ -359,13 +359,17 @@
         "template--14862046068801__56650363-7304-4c41-808b-a7771fba6bea-1673288324eab372f3-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>HOW MYCODOG HELPED ANGELA’S DOGS<\/p>",
+            "heading": "<p>How MycoDog Helped Angela's Dogs<\/p>",
             "heading_size": "h1"
           }
         }
       },
       "block_order": [
         "template--14862046068801__56650363-7304-4c41-808b-a7771fba6bea-1673288324eab372f3-0"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; color: #184b44; font-size: 2em; font-weight: bold;}",
+        "div {background-color: #f5f8f1;}"
       ],
       "settings": {
         "desktop_content_position": "center",
