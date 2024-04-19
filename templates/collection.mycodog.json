@@ -129,6 +129,13 @@
     "16443635858774eb64": {
       "type": "rich-text",
       "blocks": {
+        "heading_i4xxgT": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Mycodog Mushroom <\/p>",
+            "heading_size": "h1"
+          }
+        },
         "1644363585f56cc491-0": {
           "type": "heading",
           "settings": {
@@ -144,10 +151,12 @@
         }
       },
       "block_order": [
+        "heading_i4xxgT",
         "1644363585f56cc491-0",
         "1644363585f56cc491-1"
       ],
       "custom_css": [
+        ".h1{font-family: Oakley Script; font-color: #184B44; font-weight: 1em;}",
         ".h2 {font-family: BLT-Heirloom;}"
       ],
       "settings": {
