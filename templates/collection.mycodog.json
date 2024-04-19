@@ -93,6 +93,7 @@
         "1644345560ae71793c-1",
         "1644345560ae71793c-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
