@@ -132,7 +132,7 @@
         "heading_i4xxgT": {
           "type": "heading",
           "settings": {
-            "heading": "<h1>MycoDog Mushroom <\/h1>",
+            "heading": "<h1>MYCODOG MUSHROOM<\/h1>",
             "heading_size": "h1"
           }
         },
@@ -180,7 +180,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 20,
-        "padding_bottom": 20
+        "padding_bottom": 36
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
