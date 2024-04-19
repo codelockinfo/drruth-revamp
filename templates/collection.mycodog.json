@@ -782,7 +782,7 @@
       ],
       "custom_css": [
         "div {background-color: #f5f8f1;}",
-        "h2 {font-family: BLT-Heirloom; font-weight: bold; color: #184B44 ;}",
+        "h2 {font-family: BLT-Heirloom; font-weight: bold; color: #184b44;}",
         "p {font-weight: normal;}"
       ],
       "settings": {
@@ -900,7 +900,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 0,
-        "padding_bottom": 0
+        "padding_bottom": 80
       }
     },
     "1675715890674599c5": {
@@ -932,7 +932,8 @@
         "ad921292-4030-4dab-a23b-58e937d88e8e"
       ],
       "custom_css": [
-        "div {font-family: BLT-Heirloom;}"
+        "div {font-family: BLT-Heirloom;}",
+        ".\/p {font-family: Josefins Sans;}"
       ],
       "settings": {
         "include_margins": true
