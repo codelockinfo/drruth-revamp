@@ -170,8 +170,8 @@
         "button_CfpdRU"
       ],
       "custom_css": [
-        ".h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
-        ".h2 {font-family: BLT-Heirloom;}",
+        "h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
+        "h3 {font-family: BLT-Heirloom;}",
         ".buttons {align-content: center;}"
       ],
       "settings": {
@@ -189,8 +189,16 @@
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0": {
           "type": "heading",
           "settings": {
-            "heading": "Angela Ardolino,  Our MycoDog founder",
+            "heading": "Angela Ardolino",
             "heading_size": "h2"
+          }
+        },
+        "caption_bDhALG": {
+          "type": "caption",
+          "settings": {
+            "caption": "OUR MYCODOG FOUNDER",
+            "text_style": "subtitle",
+            "text_size": "large"
           }
         },
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1": {
@@ -210,6 +218,7 @@
       },
       "block_order": [
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0",
+        "caption_bDhALG",
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1",
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
       ],
