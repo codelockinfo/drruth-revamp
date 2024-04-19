@@ -40,7 +40,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/mycodog.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
@@ -61,7 +61,6 @@
     },
     "164434556097d46afd": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "1644345560ae71793c-0": {
           "type": "heading",
@@ -94,6 +93,7 @@
         "1644345560ae71793c-1",
         "1644345560ae71793c-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -184,6 +184,7 @@
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/angela_ardolino_mycodog_founder.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -282,6 +283,7 @@
         "3b2def91-082b-4cd1-9ac6-6edac0365c77"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
@@ -353,6 +355,7 @@
         "164436159488e9de81-2"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/2_16655905-f61a-40ba-8cda-072b76c8a7e2.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -389,6 +392,7 @@
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-1"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/1_447ff9d9-d322-4b44-9201-c4704bee31ea.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -425,6 +429,7 @@
         "template--14862046068801__96886d29-1864-4c1d-ac95-982a65607c36-16732860917073dd0d-1"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/3_b796b6ea-2983-4979-a72e-0edf0aad0910.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
@@ -470,7 +475,6 @@
     },
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--14862046068801__636d8bbf-230f-4217-a3da-ad50d8c72b9c-167328609157b6a926-0": {
           "type": "column",
@@ -607,7 +611,9 @@
         "11483e3e-05cf-4336-8faa-130da8d374d7",
         "af3c9f0f-e9a9-4b1a-a17c-162ce3125ff2"
       ],
+      "disabled": true,
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
@@ -653,6 +659,7 @@
         "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-1"
       ],
       "settings": {
+        "custom_class": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
