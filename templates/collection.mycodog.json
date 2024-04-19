@@ -877,7 +877,7 @@
         "30ace9bc-a71f-4064-b63a-5467239cc6b6"
       ],
       "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 2em; padding-top: 30px; color: #184B44; font-weight: bold;}",
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 2em; padding-top: 30px; color: #184b44; font-weight: bold;}",
         "h3 {font-family: \"BLT-heirloom\", sans-serif; text-color: black; padding-top: 15px;}",
         ".button {font-family: \"BLT-heirloom\", sans-serif; text-color: white;}",
         "img {border-radius: 30px;}"
@@ -904,7 +904,7 @@
             "title": "Real Reviews from Real Customers",
             "auto_play": false,
             "take": 30,
-            "color_title": "#08708a",
+            "color_title": "#2d4b49",
             "color_star": "#ff9900",
             "color_text": "#2e2a39",
             "color_link": "#08708a",
@@ -923,12 +923,18 @@
       "block_order": [
         "ad921292-4030-4dab-a23b-58e937d88e8e"
       ],
+      "custom_css": [
+        "div {font-family: BLT-Heirloom;}"
+      ],
       "settings": {
         "include_margins": true
       }
     },
     "58435396-8ece-4826-838f-c68f85aa6512": {
       "type": "custom-liquid",
+      "custom_css": [
+
+      ],
       "settings": {
         "custom_liquid": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-auto-play=\"true\" data-product-brand=\"Your Natural Dog\" data-min-rating=\"5\" data-with-photos=\"true\"><\/div>",
         "color_scheme": "background-1",
