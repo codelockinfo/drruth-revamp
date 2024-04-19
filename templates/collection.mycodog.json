@@ -467,7 +467,7 @@
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "right",
+        "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
@@ -497,12 +497,18 @@
         "template--14862046068801__96886d29-1864-4c1d-ac95-982a65607c36-16732860917073dd0d-0",
         "template--14862046068801__96886d29-1864-4c1d-ac95-982a65607c36-16732860917073dd0d-1"
       ],
+      "custom_css": [
+        "div {padding: 5px;}",
+        "h2 {text-align: left; margin-left: 20%; margin-top: 5%; font-size: 1.8em;}",
+        "p {text-align: left; margin-right: 20%; margin-left: 20%;}",
+        ".button {margin-left: 10%;}"
+      ],
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/3_b796b6ea-2983-4979-a72e-0edf0aad0910.jpg",
         "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "image_first",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
