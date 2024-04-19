@@ -386,7 +386,7 @@
         "164436159488e9de81-0": {
           "type": "heading",
           "settings": {
-            "heading": "CLARITY FOR DAISIE & POTATO",
+            "heading": "Clarity for Daisie",
             "heading_size": "h2"
           }
         },
@@ -412,7 +412,9 @@
         "164436159488e9de81-2"
       ],
       "custom_css": [
-        "div {padding: 10px;}"
+        "div {padding: 10px;}",
+        "h2 {text-align: center; margin-left: 0%; margin-right: 0%; padding-left: 0%;}",
+        "p {text-align: center; margin-left: 0%; margin-right: 0%;}"
       ],
       "settings": {
         "unique_class": "",
