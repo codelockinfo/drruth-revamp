@@ -413,7 +413,7 @@
       ],
       "custom_css": [
         "div {padding: 10px;}",
-        "h2 {text-align: center; margin-left: 25%; font-size: 2em;}",
+        "h2 {text-align: center; margin-left: 25%; font-size: 1.8em;}",
         "p {text-align: center; margin-right: 20%; margin-left: 20%;}",
         ".button {margin-left: 10%;}"
       ],
