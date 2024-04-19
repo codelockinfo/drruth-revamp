@@ -862,12 +862,6 @@
           "settings": {
             "collection": "vaccine-heartworm-detox-protocol"
           }
-        },
-        "30ace9bc-a71f-4064-b63a-5467239cc6b6": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "dr-ruth-roberts-supplements"
-          }
         }
       },
       "block_order": [
@@ -881,8 +875,7 @@
         "99543df5-f1be-456d-bfb0-730b21137132",
         "1853a121-95ff-45ab-9f71-39eaebc3baf3",
         "9f92ea5b-3c3a-4989-99e5-3087b4f2b250",
-        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65",
-        "30ace9bc-a71f-4064-b63a-5467239cc6b6"
+        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65"
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 2em; padding-top: 30px; color: #184b44; font-weight: bold;}",
