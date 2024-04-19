@@ -212,11 +212,16 @@
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1",
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
       ],
+      "custom_css": [
+        "h2 {text-align: center;}",
+        "p {text-align: center; margin-left: 10%; margin-right: 0%;}",
+        ".button {margin-left: 10%}"
+      ],
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/angela_ardolino_mycodog_founder.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
