@@ -418,7 +418,7 @@
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/2_16655905-f61a-40ba-8cda-072b76c8a7e2.jpg",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
