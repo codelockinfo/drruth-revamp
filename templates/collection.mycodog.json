@@ -170,7 +170,7 @@
         "button_CfpdRU"
       ],
       "custom_css": [
-        ".h1 {font-family: Oakley Script; font-color: #184b44; font-size: 4em;}",
+        ".h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
         ".h2 {font-family: BLT-Heirloom;}",
         ".buttons {align-content: center;}"
       ],
@@ -180,7 +180,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 0,
-        "padding_bottom": 100
+        "padding_bottom": 60
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
@@ -214,8 +214,9 @@
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
       ],
       "custom_css": [
-        "h2 {text-align: center;}",
-        "p {text-align: center; margin-left: 10%; margin-right: 0%;}",
+        "div {padding: 10px;}",
+        "h2 {text-align: center; margin-left: 0%; margin-right: 0%; padding-left: 0%;}",
+        "p {text-align: center; margin-left: 0%; margin-right: 0%;}",
         ".button {margin-left: 10%;}"
       ],
       "settings": {
@@ -224,8 +225,8 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
