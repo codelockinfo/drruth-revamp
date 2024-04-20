@@ -549,6 +549,387 @@
         "padding_bottom": 0
       }
     },
+    "rx_rich_text_ep3kRa": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_yynaAn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Benefits<\/p>"
+          }
+        },
+        "text_wq9eBh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Let's learn more about benefits of medicinal mushrooms and adaptogens for dogs<\/p>"
+          }
+        },
+        "button_6CyDEb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yynaAn",
+        "text_wq9eBh",
+        "button_6CyDEb"
+      ],
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "f9a6dc66-beff-415d-8083-46a2923816a5": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1447046_YNDMushroomGuide_01-without-web_100722-1583x2048.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1447046_YNDMushroomGuide_02-without-web_100722-1583x2048.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-0",
+        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-1"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 80
+      }
+    },
+    "716a9eb7-a09e-4e08-bc84-fc507c161c9d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>MYCODOG - MUSHROOM EXTRACTS FOR DOGS<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Angela Ardolino, the founder of CBD Dog Health and a holistic pet expert, created MycoDog, a sustainable line of mushroom extract tinctures for dogs. Angela knew that dog owners deserved to be offered mushroom supplements for dogs that included a blend of the most beneficial medicinal mushroom extracts and complementary adaptogens. Medicinal mushrooms for dogs that can aid in the treatment of common but severe pet ailments such as cancer, autoimmune disease, IVDD, CCD, respiratory problems, cardiovascular problems, kidney and liver support, and immune support.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-0",
+        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "div {background-color: #f5f8f1;}",
+        "h2 {font-family: BLT-Heirloom; font-weight: bold; color: #184b44;}",
+        "p {font-weight: normal;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 44
+      }
+    },
+    "rx_rich_text_kQGGcQ": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_HriM7y": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Hear What They Say<\/p>"
+          }
+        },
+        "text_Br4kLW": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Read the testimonials and experiences shared by pet parents who have seen firsthand the positive effects of MycoDog's mushroom extract and adaptogens supplement on their furry friends.<\/p>"
+          }
+        },
+        "button_WAUBTy": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HriM7y",
+        "text_Br4kLW",
+        "button_WAUBTy"
+      ],
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1675715890674599c5": {
+      "type": "apps",
+      "blocks": {
+        "ad921292-4030-4dab-a23b-58e937d88e8e": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "title": "",
+            "auto_play": true,
+            "take": 30,
+            "color_title": "#184b44",
+            "color_star": "#ff9900",
+            "color_text": "#2e2a39",
+            "color_link": "#2d4b49",
+            "review_ids": "",
+            "product_ids": "6935395762241, 6935399039041, 6935398613057",
+            "category": "",
+            "product_brand": "Your Natural Dog",
+            "tags": "",
+            "min_rating": "4",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "ad921292-4030-4dab-a23b-58e937d88e8e"
+      ],
+      "custom_css": [
+        "div {font-family: BLT-Heirloom;}",
+        "h2 {font-size: 1.5em;}",
+        ".p {font-family: Josefins Sans;}"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "58435396-8ece-4826-838f-c68f85aa6512": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-auto-play=\"true\" data-product-brand=\"Your Natural Dog\" data-min-rating=\"5\" data-with-photos=\"true\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "164514111230637097": {
+      "type": "rich-text",
+      "blocks": {
+        "164514111261d9da74-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Contact Us!<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "164514111261d9da74-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/strong><\/p>"
+          }
+        },
+        "164514111261d9da74-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "164514111261d9da74-0",
+        "164514111261d9da74-1",
+        "164514111261d9da74-2"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom; font-weight: bold; font-size: 2em;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1645140795e31deed7": {
+      "type": "collection-list",
+      "blocks": {
+        "1645140795cfde58e6-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "allergy-support-supplement"
+          }
+        },
+        "1645140795cfde58e6-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "anxiety-support-protocol"
+          }
+        },
+        "1645140795cfde58e6-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "assisi-loop-calmer-canine®"
+          }
+        },
+        "0574c7aa-73e1-4698-bf97-1ee564ef6732": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cancer-support"
+          }
+        },
+        "be130b3e-47c3-4b08-802f-4115a3ccdb14": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gastrointestinal-support"
+          }
+        },
+        "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "general-detox-protocol"
+          }
+        },
+        "a569004b-959f-4f42-a602-2283001e3d5d": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "keep-my-pet-healthy-protocol-1"
+          }
+        },
+        "99543df5-f1be-456d-bfb0-730b21137132": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kidney-support"
+          }
+        },
+        "1853a121-95ff-45ab-9f71-39eaebc3baf3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "liver-support"
+          }
+        },
+        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "post-surgical-care-collection"
+          }
+        },
+        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": "vaccine-heartworm-detox-protocol"
+          }
+        }
+      },
+      "block_order": [
+        "1645140795cfde58e6-0",
+        "1645140795cfde58e6-1",
+        "1645140795cfde58e6-2",
+        "0574c7aa-73e1-4698-bf97-1ee564ef6732",
+        "be130b3e-47c3-4b08-802f-4115a3ccdb14",
+        "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3",
+        "a569004b-959f-4f42-a602-2283001e3d5d",
+        "99543df5-f1be-456d-bfb0-730b21137132",
+        "1853a121-95ff-45ab-9f71-39eaebc3baf3",
+        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250",
+        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 2em; padding-top: 30px; color: #184b44; font-weight: bold;}",
+        "h3 {font-family: \"BLT-heirloom\", sans-serif; text-color: black; padding-top: 15px;}",
+        ".button {font-family: \"BLT-heirloom\", sans-serif; text-color: white;}",
+        "img {border-radius: 30px;}"
+      ],
+      "settings": {
+        "title": "Looking for Supplements for a Specific Need? Check it Out on Our Other Collections:",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 0,
+        "padding_bottom": 80
+      }
+    },
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c": {
       "type": "multicolumn",
       "blocks": {
@@ -687,7 +1068,6 @@
         "11483e3e-05cf-4336-8faa-130da8d374d7",
         "af3c9f0f-e9a9-4b1a-a17c-162ce3125ff2"
       ],
-      "disabled": true,
       "settings": {
         "custom_class": "",
         "title": "",
@@ -705,338 +1085,6 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "rx_rich_text_ep3kRa": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "heading_yynaAn": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>The Benefits<\/p>"
-          }
-        },
-        "text_wq9eBh": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Let's learn more about benefits of medicinal mushrooms and adaptogens for dogs<\/p>"
-          }
-        },
-        "button_6CyDEb": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_yynaAn",
-        "text_wq9eBh",
-        "button_6CyDEb"
-      ],
-      "custom_css": [
-        ".rx_rich-text__heading {color: #184b44;}",
-        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
-        "p {font-size: 0.7em; padding-bottom: 10px;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#f5f8f1",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "f9a6dc66-beff-415d-8083-46a2923816a5": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1447046_YNDMushroomGuide_01-without-web_100722-1583x2048.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/1447046_YNDMushroomGuide_02-without-web_100722-1583x2048.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-0",
-        "template--14862046068801__f9a6dc66-beff-415d-8083-46a2923816a5-1673290551f63b1fff-1"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 80
-      }
-    },
-    "716a9eb7-a09e-4e08-bc84-fc507c161c9d": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>MYCODOG - MUSHROOM EXTRACTS FOR DOGS<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Angela Ardolino, the founder of CBD Dog Health and a holistic pet expert, created MycoDog, a sustainable line of mushroom extract tinctures for dogs. Angela knew that dog owners deserved to be offered mushroom supplements for dogs that included a blend of the most beneficial medicinal mushroom extracts and complementary adaptogens. Medicinal mushrooms for dogs that can aid in the treatment of common but severe pet ailments such as cancer, autoimmune disease, IVDD, CCD, respiratory problems, cardiovascular problems, kidney and liver support, and immune support.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-0",
-        "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "div {background-color: #f5f8f1;}",
-        "h2 {font-family: BLT-Heirloom; font-weight: bold; color: #184b44;}",
-        "p {font-weight: normal;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 44
-      }
-    },
-    "1645140795e31deed7": {
-      "type": "collection-list",
-      "blocks": {
-        "1645140795cfde58e6-0": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "allergy-support-supplement"
-          }
-        },
-        "1645140795cfde58e6-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "anxiety-support-protocol"
-          }
-        },
-        "1645140795cfde58e6-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "assisi-loop-calmer-canine®"
-          }
-        },
-        "0574c7aa-73e1-4698-bf97-1ee564ef6732": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "cancer-support"
-          }
-        },
-        "be130b3e-47c3-4b08-802f-4115a3ccdb14": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "gastrointestinal-support"
-          }
-        },
-        "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "general-detox-protocol"
-          }
-        },
-        "a569004b-959f-4f42-a602-2283001e3d5d": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "keep-my-pet-healthy-protocol-1"
-          }
-        },
-        "99543df5-f1be-456d-bfb0-730b21137132": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "kidney-support"
-          }
-        },
-        "1853a121-95ff-45ab-9f71-39eaebc3baf3": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "liver-support"
-          }
-        },
-        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "post-surgical-care-collection"
-          }
-        },
-        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65": {
-          "type": "featured_collection",
-          "disabled": true,
-          "settings": {
-            "collection": "vaccine-heartworm-detox-protocol"
-          }
-        }
-      },
-      "block_order": [
-        "1645140795cfde58e6-0",
-        "1645140795cfde58e6-1",
-        "1645140795cfde58e6-2",
-        "0574c7aa-73e1-4698-bf97-1ee564ef6732",
-        "be130b3e-47c3-4b08-802f-4115a3ccdb14",
-        "37ab9ac6-c2ab-4f8e-ad0c-0b1f9f18c2c3",
-        "a569004b-959f-4f42-a602-2283001e3d5d",
-        "99543df5-f1be-456d-bfb0-730b21137132",
-        "1853a121-95ff-45ab-9f71-39eaebc3baf3",
-        "9f92ea5b-3c3a-4989-99e5-3087b4f2b250",
-        "e8ce74eb-32c0-48d4-b1ae-2cc9289f0e65"
-      ],
-      "custom_css": [
-        "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 2em; padding-top: 30px; color: #184b44; font-weight: bold;}",
-        "h3 {font-family: \"BLT-heirloom\", sans-serif; text-color: black; padding-top: 15px;}",
-        ".button {font-family: \"BLT-heirloom\", sans-serif; text-color: white;}",
-        "img {border-radius: 30px;}"
-      ],
-      "settings": {
-        "title": "Looking for Supplements for a Specific Need? Check it Out on Our Other Collections:",
-        "heading_size": "h1",
-        "image_ratio": "square",
-        "columns_desktop": 5,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": true,
-        "padding_top": 0,
-        "padding_bottom": 80
-      }
-    },
-    "1675715890674599c5": {
-      "type": "apps",
-      "blocks": {
-        "ad921292-4030-4dab-a23b-58e937d88e8e": {
-          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
-          "settings": {
-            "title": "Real Reviews from Real Customers",
-            "auto_play": false,
-            "take": 30,
-            "color_title": "#184b44",
-            "color_star": "#ff9900",
-            "color_text": "#2e2a39",
-            "color_link": "#2d4b49",
-            "review_ids": "",
-            "product_ids": "6935395762241, 6935399039041, 6935398613057",
-            "category": "",
-            "product_brand": "Your Natural Dog",
-            "tags": "",
-            "min_rating": "4",
-            "fill_empty": false,
-            "random": false,
-            "with_photos": false
-          }
-        }
-      },
-      "block_order": [
-        "ad921292-4030-4dab-a23b-58e937d88e8e"
-      ],
-      "custom_css": [
-        "div {font-family: BLT-Heirloom;}",
-        "h2 {font-size: 1.5em;}",
-        ".p {font-family: Josefins Sans;}"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "58435396-8ece-4826-838f-c68f85aa6512": {
-      "type": "custom-liquid",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "custom_liquid": "<div id=\"stamped-reviews-widget\" data-widget-type=\"carousel\" data-auto-play=\"true\" data-product-brand=\"Your Natural Dog\" data-min-rating=\"5\" data-with-photos=\"true\"><\/div>",
-        "color_scheme": "background-1",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "164514111230637097": {
-      "type": "rich-text",
-      "blocks": {
-        "164514111261d9da74-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Contact Us!<\/p>",
-            "heading_size": "h2"
-          }
-        },
-        "164514111261d9da74-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/strong><\/p>"
-          }
-        },
-        "164514111261d9da74-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "164514111261d9da74-0",
-        "164514111261d9da74-1",
-        "164514111261d9da74-2"
-      ],
-      "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-weight: bold; font-size: 2em;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
@@ -1052,13 +1100,14 @@
     "1644361594fa530990",
     "d8bee012-0b27-4bd0-8271-1011ebd6a7ce",
     "96886d29-1864-4c1d-ac95-982a65607c36",
-    "636d8bbf-230f-4217-a3da-ad50d8c72b9c",
     "rx_rich_text_ep3kRa",
     "f9a6dc66-beff-415d-8083-46a2923816a5",
     "716a9eb7-a09e-4e08-bc84-fc507c161c9d",
-    "1645140795e31deed7",
+    "rx_rich_text_kQGGcQ",
     "1675715890674599c5",
     "58435396-8ece-4826-838f-c68f85aa6512",
-    "164514111230637097"
+    "164514111230637097",
+    "1645140795e31deed7",
+    "636d8bbf-230f-4217-a3da-ad50d8c72b9c"
   ]
 }
