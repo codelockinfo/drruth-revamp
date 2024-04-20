@@ -403,7 +403,7 @@
         "heading_6ejGCw": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Clarity For Daisie and Potato",
             "font_family": "font_blt"
           }
         },
@@ -468,8 +468,8 @@
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Consult Dr. Ruth Now",
-            "button_link": "shopify:\/\/products\/holistic-wellness-package-optimal-health-1"
+            "button_label": "SHOP CLARITY",
+            "button_link": "shopify:\/\/products\/clarity-mental-and-brain-supplements-for-dogs"
           }
         }
       },
@@ -479,7 +479,7 @@
         "164436159488e9de81-2"
       ],
       "custom_css": [
-        "div {padding: 5px;}",
+        "div {padding: 1px; background-color: #f5f8f1;}",
         "h2 {text-align: left; margin-left: 20%; margin-top: 5%; font-size: 1.8em;}",
         "p {text-align: left; margin-right: 20%; margin-left: 20%;}"
       ],
@@ -491,7 +491,7 @@
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
