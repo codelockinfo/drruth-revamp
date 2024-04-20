@@ -313,6 +313,7 @@
       "blocks": {
         "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Angela Ardolino",
             "heading_size": "h2"
