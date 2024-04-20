@@ -741,6 +741,55 @@
         "padding_bottom": 0
       }
     },
+    "rx_rich_text_ep3kRa": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_yynaAn": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>The Benefits<\/p>"
+          }
+        },
+        "text_wq9eBh": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Let's learn more about benefits of medicinal mushrooms and adaptogens for dogs<\/p>"
+          }
+        },
+        "button_6CyDEb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_yynaAn",
+        "text_wq9eBh",
+        "button_6CyDEb"
+      ],
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "f9a6dc66-beff-415d-8083-46a2923816a5": {
       "type": "multicolumn",
       "blocks": {
@@ -811,6 +860,7 @@
         "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-0",
         "template--14862046068801__716a9eb7-a09e-4e08-bc84-fc507c161c9d-167328609135fef951-1"
       ],
+      "disabled": true,
       "custom_css": [
         "div {background-color: #f5f8f1;}",
         "h2 {font-family: BLT-Heirloom; font-weight: bold; color: #184b44;}",
@@ -1039,6 +1089,7 @@
     "96886d29-1864-4c1d-ac95-982a65607c36",
     "709f988b-5106-47a1-b8b0-4c3cadfcc81e",
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c",
+    "rx_rich_text_ep3kRa",
     "f9a6dc66-beff-415d-8083-46a2923816a5",
     "716a9eb7-a09e-4e08-bc84-fc507c161c9d",
     "1645140795e31deed7",
