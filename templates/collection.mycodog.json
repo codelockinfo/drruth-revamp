@@ -397,56 +397,6 @@
         "padding_bottom": 16
       }
     },
-    "rx_img_with_text_EmjhPh": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "heading_6ejGCw": {
-          "type": "heading",
-          "settings": {
-            "heading": "Clarity For Daisie and Potato",
-            "font_family": "font_blt"
-          }
-        },
-        "text_fPKwHB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Clarity was designed to support your dog’s cognitive disorder, nervous system, mental and emotional health, formulated with a proprietary water extract of Lion’s Mane, Reishi and Cordyceps, with Bacopa Monnieri and Ashwagandha.<\/p><p>“<em>I lost two of my dogs, Potato and Daisie, to dementia, to CCD, canine cognitive dysfunction, which is Alzheimer’s for dogs. So knowing the power of Lion’s Mane and Reishi mushrooms for dogs, I knew what they could do for these geriatric dogs. Odie, my senior mini-schnauzer, was turning 16 soon and I wanted to be able to support him as best as I could. I have literally watched Odie, my senior dog, go from having no interest in eating to taking his mushrooms and eating like a monster the next day<\/em>.”<\/p>"
-          }
-        },
-        "button_Dyqdqh": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_6ejGCw",
-        "text_fPKwHB",
-        "button_Dyqdqh"
-      ],
-      "custom_css": [
-        "div {padding: 5 px;}",
-        "grid {}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/Healing-Miss-Daisie-1024x575ewe.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "center",
-        "content_layout": "overlap",
-        "grid_type": "type2",
-        "imgText-bg-color": "#f5f8f1",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1644361594fa530990": {
       "type": "image-with-text",
       "blocks": {
@@ -466,7 +416,6 @@
         },
         "164436159488e9de81-2": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "SHOP CLARITY",
             "button_link": "shopify:\/\/products\/clarity-mental-and-brain-supplements-for-dogs"
@@ -479,9 +428,10 @@
         "164436159488e9de81-2"
       ],
       "custom_css": [
-        "div {padding: 1px; background-color: #f5f8f1;}",
-        "h2 {text-align: left; margin-left: 20%; margin-top: 5%; font-size: 1.8em;}",
-        "p {text-align: left; margin-right: 20%; margin-left: 20%;}"
+        "div {padding: 5px;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 2em; color: #d9d9d9;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; padding-bottom: 5%; color: #d9d9d9;}",
+        ".button{margin-left: 35%;}"
       ],
       "settings": {
         "unique_class": "",
@@ -489,10 +439,10 @@
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "text_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -1069,7 +1019,6 @@
     "rx_rich_text_m3aHEq",
     "5bd2c24f-83bb-4252-a004-06da2190d5b9",
     "56650363-7304-4c41-808b-a7771fba6bea",
-    "rx_img_with_text_EmjhPh",
     "1644361594fa530990",
     "d8bee012-0b27-4bd0-8271-1011ebd6a7ce",
     "96886d29-1864-4c1d-ac95-982a65607c36",
