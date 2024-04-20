@@ -65,14 +65,13 @@
         "heading_kzmBKi": {
           "type": "heading",
           "settings": {
-            "heading": "<p>MycoDog Supplement<\/p>"
+            "heading": "<p>MycoDog <\/p>"
           }
         },
         "caption_zEhKNV": {
           "type": "caption",
-          "disabled": true,
           "settings": {
-            "caption": "YOUR TRUSTED SOURCE FOR PREMIUM MUSHROOM EXTRACT AND ADAPTOGENS"
+            "caption": "BLEND OF MUSHROOM EXTRACT AND ADAPTOGENS SUPPLEMENT FOR DOG"
           }
         },
         "text_MqtGGF": {
@@ -385,7 +384,7 @@
         "template--14862046068801__56650363-7304-4c41-808b-a7771fba6bea-1673288324eab372f3-0"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; color: #184b44; font-size: 2em; font-weight: bold;}",
+        "h2 {font-size: 2.2em; font-family: BLT-Heirloom; color: black;}",
         "div {background-color: #f5f8f1;}"
       ],
       "settings": {
@@ -394,7 +393,7 @@
         "color_scheme": "accent-1",
         "full_width": false,
         "padding_top": 16,
-        "padding_bottom": 16
+        "padding_bottom": 20
       }
     },
     "1644361594fa530990": {
@@ -429,9 +428,9 @@
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 2em; color: #d9d9d9;}",
-        "p {text-align: left; margin-right: 10%; margin-left: 10%; padding-bottom: 5%; color: #d9d9d9;}",
-        ".button{margin-left: 35%;}"
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.8em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
+        ".button {margin-left: 35%;}"
       ],
       "settings": {
         "unique_class": "",
@@ -444,7 +443,7 @@
         "content_layout": "overlap",
         "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
-        "padding_top": 0,
+        "padding_top": 8,
         "padding_bottom": 0
       }
     },
