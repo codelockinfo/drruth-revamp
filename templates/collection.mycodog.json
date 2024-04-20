@@ -59,28 +59,34 @@
         "color_scheme": "background-1"
       }
     },
-    "164434556097d46afd": {
-      "type": "rich-text",
+    "rx_rich_text_HBpB6M": {
+      "type": "rx-rich-text",
       "blocks": {
-        "1644345560ae71793c-0": {
+        "heading_kzmBKi": {
           "type": "heading",
           "settings": {
-            "heading": "<p>MYCODOG - THE BEST MUSHROOM SUPPLEMENTS FOR DOGS<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>MycoDog Supplement<\/p>"
           }
         },
-        "1644345560ae71793c-1": {
+        "caption_zEhKNV": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "YOUR TRUSTED SOURCE FOR PREMIUM MUSHROOM EXTRACT AND ADAPTOGENS"
+          }
+        },
+        "text_MqtGGF": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>MycoDog founder<\/strong>, <a href=\"https:\/\/angelaardolino.com\/\" target=\"_blank\"><strong>Angela Ardolino<\/strong><\/a><strong>, <\/strong> is proud to introduce her line of dog supplements that uses medicinal mushrooms and other adaptogens to help dogs thrive<\/p><p>“<em>By combining different types of medicinal mushrooms for our pets, we can harness the unique therapeutic properties each has to offer, while benefiting from the synergistic relationship between different species of mushrooms and other adaptogens<\/em>.” <\/p><p><strong>- Angela Ardolino<\/strong><\/p>"
+            "text": "<p>MycoDog is sustainable range of mushroom extract tinctures for dogs. Recognizing the need for comprehensive mushroom supplements, we curated blends of medicinal mushroom extracts and complementary adaptogens to address various pet ailments, from cancer to immune support. MycoDog can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>"
           }
         },
-        "1644345560ae71793c-2": {
+        "button_kMJVmK": {
           "type": "button",
           "disabled": true,
           "settings": {
-            "button_label": "Book now!",
-            "button_link": "https:\/\/drruthroberts.com\/what-to-expect-from-a-holistic-pet-health-coaching-package\/",
+            "button_label": "LEARN MORE",
+            "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -89,18 +95,25 @@
         }
       },
       "block_order": [
-        "1644345560ae71793c-0",
-        "1644345560ae71793c-1",
-        "1644345560ae71793c-2"
+        "heading_kzmBKi",
+        "caption_zEhKNV",
+        "text_MqtGGF",
+        "button_kMJVmK"
       ],
-      "disabled": true,
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
         "full_width": true,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "padding_top": 32,
+        "padding_bottom": 32
       }
     },
     "product-grid": {
@@ -126,97 +139,6 @@
         "padding_top": 48,
         "padding_bottom": 28,
         "rating": 5
-      }
-    },
-    "16443635858774eb64": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_i4xxgT": {
-          "type": "heading",
-          "settings": {
-            "heading": "<h1>MYCODOG MUSHROOM<\/h1>",
-            "heading_size": "h1"
-          }
-        },
-        "1644363585f56cc491-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>The best mushroom supplement for dogs!<br\/>Can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading_i4xxgT",
-        "1644363585f56cc491-1"
-      ],
-      "custom_css": [
-        "div {margin: auto;}",
-        "h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
-        "p {font-family: BLT-Heirloom;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 20
-      }
-    },
-    "rx_rich_text_HBpB6M": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "heading_kzmBKi": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>The best mushroom supplement<\/p>"
-          }
-        },
-        "text_MqtGGF": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "caption_zEhKNV": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "Add a tagline"
-          }
-        },
-        "button_kMJVmK": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore Product Pages for Dosage",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_kzmBKi",
-        "text_MqtGGF",
-        "caption_zEhKNV",
-        "button_kMJVmK"
-      ],
-      "custom_css": [
-
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#fff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 52
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
@@ -279,30 +201,52 @@
         "padding_bottom": 0
       }
     },
-    "b35ef76d-79f4-44e4-b210-d627139ac9f5": {
-      "type": "rich-text",
+    "rx_rich_text_yP9ThR": {
+      "type": "rx-rich-text",
       "blocks": {
-        "template--14862046068801__b35ef76d-79f4-44e4-b210-d627139ac9f5-1673288324eab372f3-0": {
+        "heading_LUaeyy": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Why Does Your Dog Need MycoDog Mushrooms?<\/p>",
-            "heading_size": "h2"
+            "heading": "<p>Why MycoDog?<\/p>"
+          }
+        },
+        "text_mU4agR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Your trusted source for premium mushroom extract and adaptogens<\/p>"
+          }
+        },
+        "button_tpEWbr": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "template--14862046068801__b35ef76d-79f4-44e4-b210-d627139ac9f5-1673288324eab372f3-0"
+        "heading_LUaeyy",
+        "text_mU4agR",
+        "button_tpEWbr"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-size: 2em; color: #184b44; font-weight: bold;}",
-        "div {background-color: #f5f8f1;}"
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
-        "full_width": false,
-        "padding_top": 16,
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 32,
         "padding_bottom": 16
       }
     },
@@ -932,53 +876,6 @@
         "padding_bottom": 80
       }
     },
-    "rich_text_zfL8tB": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_JHnmhr": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "text_ajAEbj": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "button_jL6KzG": {
-          "type": "button",
-          "settings": {
-            "button_label": "Explore More Protocols",
-            "button_link": "https:\/\/drruthroberts.com\/pages\/pet-care-protocols",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
-          }
-        }
-      },
-      "block_order": [
-        "heading_JHnmhr",
-        "text_ajAEbj",
-        "button_jL6KzG"
-      ],
-      "custom_css": [
-        ".button {font-family: BLT-Heirloom; margin: 0 auto;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "1675715890674599c5": {
       "type": "apps",
       "blocks": {
@@ -1073,64 +970,15 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "image_banner_bfbAVT": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_Q4kTUU": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_qwXgPA": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_mXXcrh": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_Q4kTUU",
-        "text_qwXgPA",
-        "buttons_mXXcrh"
-      ],
-      "disabled": true,
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "38f049c4-4422-4841-bdbc-18cc13f4d40e",
     "banner",
-    "164434556097d46afd",
-    "product-grid",
-    "16443635858774eb64",
     "rx_rich_text_HBpB6M",
+    "product-grid",
     "5bd2c24f-83bb-4252-a004-06da2190d5b9",
-    "b35ef76d-79f4-44e4-b210-d627139ac9f5",
+    "rx_rich_text_yP9ThR",
     "5adca303-4162-490e-8880-1bdb31bff59e",
     "56650363-7304-4c41-808b-a7771fba6bea",
     "1644361594fa530990",
@@ -1141,10 +989,8 @@
     "f9a6dc66-beff-415d-8083-46a2923816a5",
     "716a9eb7-a09e-4e08-bc84-fc507c161c9d",
     "1645140795e31deed7",
-    "rich_text_zfL8tB",
     "1675715890674599c5",
     "58435396-8ece-4826-838f-c68f85aa6512",
-    "164514111230637097",
-    "image_banner_bfbAVT"
+    "164514111230637097"
   ]
 }
