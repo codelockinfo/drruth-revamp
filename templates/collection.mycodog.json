@@ -285,7 +285,7 @@
         "text_H8h3bN": {
           "type": "text",
           "settings": {
-            "text": "<p>Angela Ardolino, founder of CBD Dog Health and holistic pet expert, created MycoDog to offer premium mushroom supplements to address common but severe pet ailments.<\/p>"
+            "text": "<p>Angela Ardolino, founder of CBD Dog Health and a Holistic Pet Expert, created MycoDog to offer premium mushroom supplements to address common but severe pet ailments.<\/p>"
           }
         }
       },
@@ -321,6 +321,7 @@
         },
         "caption_bDhALG": {
           "type": "caption",
+          "disabled": true,
           "settings": {
             "caption": "OUR MYCODOG FOUNDER",
             "text_style": "subtitle",
@@ -435,8 +436,8 @@
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/2_16655905-f61a-40ba-8cda-072b76c8a7e2.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -478,8 +479,8 @@
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/1_447ff9d9-d322-4b44-9201-c4704bee31ea.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
+        "height": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
