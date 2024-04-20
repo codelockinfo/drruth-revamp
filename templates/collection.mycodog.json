@@ -384,13 +384,12 @@
         "template--14862046068801__56650363-7304-4c41-808b-a7771fba6bea-1673288324eab372f3-0"
       ],
       "custom_css": [
-        "h2 {font-size: 2.2em; font-family: BLT-Heirloom; color: black;}",
-        "div {background-color: #f5f8f1;}"
+        "h2 {font-size: 2.2em; font-family: BLT-Heirloom; color: black;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "full_width": false,
         "padding_top": 16,
         "padding_bottom": 20
