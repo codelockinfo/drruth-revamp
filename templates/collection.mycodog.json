@@ -143,13 +143,55 @@
           "settings": {
             "text": "<p>The best mushroom supplement for dogs!<br\/>Can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>"
           }
-        },
-        "button_qtFAzK": {
-          "type": "button",
+        }
+      },
+      "block_order": [
+        "heading_i4xxgT",
+        "1644363585f56cc491-1"
+      ],
+      "custom_css": [
+        "div {margin: auto;}",
+        "h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
+        "p {font-family: BLT-Heirloom;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-1",
+        "full_width": true,
+        "padding_top": 8,
+        "padding_bottom": 20
+      }
+    },
+    "rx_rich_text_HBpB6M": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_kzmBKi": {
+          "type": "heading",
           "disabled": true,
           "settings": {
+            "heading": "<p>The best mushroom supplement<\/p>"
+          }
+        },
+        "text_MqtGGF": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "caption_zEhKNV": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline"
+          }
+        },
+        "button_kMJVmK": {
+          "type": "button",
+          "settings": {
             "button_label": "Explore Product Pages for Dosage",
-            "button_link": "shopify:\/\/collections\/mycodog-mushrooms-for-dogs",
+            "button_link": "",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -158,23 +200,23 @@
         }
       },
       "block_order": [
-        "heading_i4xxgT",
-        "1644363585f56cc491-1",
-        "button_qtFAzK"
+        "heading_kzmBKi",
+        "text_MqtGGF",
+        "caption_zEhKNV",
+        "button_kMJVmK"
       ],
       "custom_css": [
-        "div {margin: auto;}",
-        "h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
-        "p {font-family: BLT-Heirloom;}",
-        "buttons {margin: auto; padding-left: 10%; font-family: Josefin Sans;}"
+
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "accent-1",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
         "full_width": true,
-        "padding_top": 8,
-        "padding_bottom": 100
+        "padding_top": 20,
+        "padding_bottom": 52
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
@@ -1086,6 +1128,7 @@
     "164434556097d46afd",
     "product-grid",
     "16443635858774eb64",
+    "rx_rich_text_HBpB6M",
     "5bd2c24f-83bb-4252-a004-06da2190d5b9",
     "b35ef76d-79f4-44e4-b210-d627139ac9f5",
     "5adca303-4162-490e-8880-1bdb31bff59e",
