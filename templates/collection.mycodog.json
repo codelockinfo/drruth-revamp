@@ -781,28 +781,26 @@
         "padding_bottom": 52
       }
     },
-    "164514111230637097": {
-      "type": "rich-text",
+    "rx_rich_text_gYxH93": {
+      "type": "rx-rich-text",
       "blocks": {
-        "164514111261d9da74-0": {
+        "heading_GTt3Hy": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Contact Us!<\/p>",
-            "heading_size": "h2"
+            "heading": "<p>Contact Us<\/p>"
           }
         },
-        "164514111261d9da74-1": {
+        "text_eJUTNQ": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com<\/strong><\/p>"
+            "text": "<p><strong>If you need help with selecting products for specific conditions, please don’t hesitate to contact us via call\/text at +213 394 2923 or email drruthroberts@drruthroberts.com<\/strong><\/p>"
           }
         },
-        "164514111261d9da74-2": {
+        "button_QeyLEE": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "GET PERSONALIZED RECCOMENDATION",
+            "button_link": "https:\/\/drruthroberts.com\/pages\/contact-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -811,17 +809,21 @@
         }
       },
       "block_order": [
-        "164514111261d9da74-0",
-        "164514111261d9da74-1",
-        "164514111261d9da74-2"
+        "heading_GTt3Hy",
+        "text_eJUTNQ",
+        "button_QeyLEE"
       ],
       "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-weight: bold; font-size: 2em;}"
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "background-1",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -1068,6 +1070,7 @@
         "11483e3e-05cf-4336-8faa-130da8d374d7",
         "af3c9f0f-e9a9-4b1a-a17c-162ce3125ff2"
       ],
+      "disabled": true,
       "settings": {
         "custom_class": "",
         "title": "",
@@ -1106,7 +1109,7 @@
     "rx_rich_text_kQGGcQ",
     "1675715890674599c5",
     "58435396-8ece-4826-838f-c68f85aa6512",
-    "164514111230637097",
+    "rx_rich_text_gYxH93",
     "1645140795e31deed7",
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c"
   ]
