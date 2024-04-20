@@ -846,14 +846,12 @@
         },
         "1853a121-95ff-45ab-9f71-39eaebc3baf3": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "liver-support"
           }
         },
         "9f92ea5b-3c3a-4989-99e5-3087b4f2b250": {
           "type": "featured_collection",
-          "disabled": true,
           "settings": {
             "collection": "post-surgical-care-collection"
           }
