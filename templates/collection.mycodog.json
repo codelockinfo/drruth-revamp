@@ -402,7 +402,7 @@
         "164436159488e9de81-0": {
           "type": "heading",
           "settings": {
-            "heading": "Clarity For Daisie and Potato",
+            "heading": "CLARITY for Daisie and Potato",
             "heading_size": "h2"
           }
         },
@@ -453,7 +453,7 @@
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-0": {
           "type": "heading",
           "settings": {
-            "heading": "Breathe For Odie",
+            "heading": "BREATH for Odie",
             "heading_size": "h2"
           }
         },
@@ -463,17 +463,25 @@
             "text": "<p>Breathe was designed to help your dog’s respiratory and cardiovascular systems, formulated with proprietary water extract of Cordyceps, Reishi, Artist Conk and Chaga, with Ashwagandha.<\/p><p>“<em>I also created Breathe for Odie because in his old age he suffers from collapsing trachea, a heart murmur, and CHF, according to his last integrative vet. I just see him getting old and needing extra cardiovascular and respiratory support. After formulating my MycoDog mushroom blends for dogs, I literally can see a difference in my dog’s behavior and health by giving them these mushrooms<\/em>.”<\/p>",
             "text_style": "body"
           }
+        },
+        "button_GVHH3E": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
         }
       },
       "block_order": [
         "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-0",
-        "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-1"
+        "template--14862046068801__d8bee012-0b27-4bd0-8271-1011ebd6a7ce-16732860917073dd0d-1",
+        "button_GVHH3E"
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 20%; margin-top: 5%; font-size: 1.8em;}",
-        "p {text-align: left; margin-right: 20%; margin-left: 20%;}",
-        ".button {margin-left: 10%;}"
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.8em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
+        ".button {margin-left: 35%;}"
       ],
       "settings": {
         "unique_class": "",
@@ -481,10 +489,10 @@
         "height": "medium",
         "desktop_image_width": "small",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
