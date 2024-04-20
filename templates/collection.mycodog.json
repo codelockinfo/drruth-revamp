@@ -106,7 +106,9 @@
     "product-grid": {
       "type": "main-collection-product-grid",
       "custom_css": [
-        ".price {margin-left: 30%;}"
+        ".card__content {text-align: center; font-family: BLT-Heirloom; padding-bottom: 0px; margin: 0px; margin-bottom: 0px; padding-bottom: 10px;}",
+        ".price__container {font-family: BLT-Heirloom; margin-left: 50px; color: #184b44; padding-top: 0px; font-size: 14px;}",
+        ".quick-add {padding-top: 0px; margin-top: 0px; border: 3px solid #184b44; border-radius: 15px; background-color: transparent; color: #184b44;}"
       ],
       "settings": {
         "products_per_page": 8,
@@ -136,21 +138,13 @@
             "heading_size": "h1"
           }
         },
-        "1644363585f56cc491-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>The best mushroom supplement for dogs!<br\/>Can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>",
-            "heading_size": "h2"
-          }
-        },
         "1644363585f56cc491-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Check out each product’s page to see the recommended mushroom dosage for dogs. <\/p>"
+            "text": "<p>The best mushroom supplement for dogs!<br\/>Can be administered orally – directly in their mouth, on their food, or with a treat. <\/p>"
           }
         },
-        "button_CfpdRU": {
+        "button_qtFAzK": {
           "type": "button",
           "disabled": true,
           "settings": {
@@ -165,14 +159,14 @@
       },
       "block_order": [
         "heading_i4xxgT",
-        "1644363585f56cc491-0",
         "1644363585f56cc491-1",
-        "button_CfpdRU"
+        "button_qtFAzK"
       ],
       "custom_css": [
+        "div {margin: auto;}",
         "h1 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 3em;}",
-        "h3 {font-family: BLT-Heirloom;}",
-        ".buttons {align-content: center;}"
+        "p {font-family: BLT-Heirloom;}",
+        "buttons {margin: auto; padding-left: 10%; font-family: Josefin Sans;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -180,7 +174,7 @@
         "color_scheme": "accent-1",
         "full_width": true,
         "padding_top": 8,
-        "padding_bottom": 28
+        "padding_bottom": 100
       }
     },
     "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
@@ -1037,6 +1031,53 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "image_banner_bfbAVT": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_Q4kTUU": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_qwXgPA": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_mXXcrh": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Q4kTUU",
+        "text_qwXgPA",
+        "buttons_mXXcrh"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
@@ -1060,6 +1101,7 @@
     "rich_text_zfL8tB",
     "1675715890674599c5",
     "58435396-8ece-4826-838f-c68f85aa6512",
-    "164514111230637097"
+    "164514111230637097",
+    "image_banner_bfbAVT"
   ]
 }
