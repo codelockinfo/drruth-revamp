@@ -549,41 +549,6 @@
         "padding_bottom": 0
       }
     },
-    "709f988b-5106-47a1-b8b0-4c3cadfcc81e": {
-      "type": "rich-text",
-      "blocks": {
-        "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>THE BENEFITS OF MEDICINAL MUSHROOMS FOR DOGS<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Let's learn more about benefits of medicinal mushrooms and adaptogens for dogs<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-0",
-        "template--14862046068801__709f988b-5106-47a1-b8b0-4c3cadfcc81e-167328609135fef951-1"
-      ],
-      "custom_css": [
-        "h2 {font-family: BLT-Heirloom; font-color: #184b44; font-size: 2.1em;}",
-        "p {font-family: BLT-Heirloom;}",
-        ".buttons {align-content: center;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 28,
-        "padding_bottom": 24
-      }
-    },
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c": {
       "type": "multicolumn",
       "blocks": {
@@ -1087,7 +1052,6 @@
     "1644361594fa530990",
     "d8bee012-0b27-4bd0-8271-1011ebd6a7ce",
     "96886d29-1864-4c1d-ac95-982a65607c36",
-    "709f988b-5106-47a1-b8b0-4c3cadfcc81e",
     "636d8bbf-230f-4217-a3da-ad50d8c72b9c",
     "rx_rich_text_ep3kRa",
     "f9a6dc66-beff-415d-8083-46a2923816a5",
