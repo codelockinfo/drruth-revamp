@@ -141,66 +141,6 @@
         "rating": 5
       }
     },
-    "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Angela Ardolino",
-            "heading_size": "h2"
-          }
-        },
-        "caption_bDhALG": {
-          "type": "caption",
-          "settings": {
-            "caption": "OUR MYCODOG FOUNDER",
-            "text_style": "subtitle",
-            "text_size": "large"
-          }
-        },
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Angela is proud to introduce her line of dog supplements that uses medicinal mushrooms and other adaptogens to help dogs thrive<\/p><p>“<em>By combining different types of medicinal mushrooms for our pets, we can harness the unique therapeutic properties each has to offer, while benefiting from the synergistic relationship between different species of mushrooms and other adaptogens<\/em>.” <\/p><p><strong>- Angela Ardolino<\/strong><\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Learn More about Angie",
-            "button_link": "https:\/\/angelaardolino.com\/"
-          }
-        }
-      },
-      "block_order": [
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0",
-        "caption_bDhALG",
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1",
-        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
-      ],
-      "custom_css": [
-        "div {padding: 10px;}",
-        "h2 {text-align: center;}",
-        "p {text-align: center;}",
-        ".button {margin-left: 10%;}"
-      ],
-      "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/angela_ardolino_mycodog_founder.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "rx_rich_text_yP9ThR": {
       "type": "rx-rich-text",
       "blocks": {
@@ -329,6 +269,102 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "rx_rich_text_m3aHEq": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_3AzkYD": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Meet the Founder<\/p>"
+          }
+        },
+        "text_H8h3bN": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Angela Ardolino, founder of CBD Dog Health and holistic pet expert, created MycoDog to offer premium mushroom supplements to address common but severe pet ailments.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_3AzkYD",
+        "text_H8h3bN"
+      ],
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#f5f8f1",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "5bd2c24f-83bb-4252-a004-06da2190d5b9": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Angela Ardolino",
+            "heading_size": "h2"
+          }
+        },
+        "caption_bDhALG": {
+          "type": "caption",
+          "settings": {
+            "caption": "OUR MYCODOG FOUNDER",
+            "text_style": "subtitle",
+            "text_size": "large"
+          }
+        },
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Angela is proud to introduce her line of dog supplements that uses medicinal mushrooms and other adaptogens to help dogs thrive<\/p><p>“<em>By combining different types of medicinal mushrooms for our pets, we can harness the unique therapeutic properties each has to offer, while benefiting from the synergistic relationship between different species of mushrooms and other adaptogens<\/em>.” <\/p><p><strong>- Angela Ardolino<\/strong><\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Learn More about Angie",
+            "button_link": "https:\/\/angelaardolino.com\/"
+          }
+        }
+      },
+      "block_order": [
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-0",
+        "caption_bDhALG",
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-1",
+        "template--14862046068801__5bd2c24f-83bb-4252-a004-06da2190d5b9-1675713083ea886f77-2"
+      ],
+      "custom_css": [
+        "div {padding: 10px;}",
+        "h2 {text-align: center;}",
+        "p {text-align: center;}",
+        ".button {margin-left: 10%;}"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/angela_ardolino_mycodog_founder.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
       }
@@ -977,9 +1013,10 @@
     "banner",
     "rx_rich_text_HBpB6M",
     "product-grid",
-    "5bd2c24f-83bb-4252-a004-06da2190d5b9",
     "rx_rich_text_yP9ThR",
     "5adca303-4162-490e-8880-1bdb31bff59e",
+    "rx_rich_text_m3aHEq",
+    "5bd2c24f-83bb-4252-a004-06da2190d5b9",
     "56650363-7304-4c41-808b-a7771fba6bea",
     "1644361594fa530990",
     "d8bee012-0b27-4bd0-8271-1011ebd6a7ce",
