@@ -427,7 +427,7 @@
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.8em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
         "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
         ".button {margin-left: 35%;}"
       ],
@@ -478,7 +478,7 @@
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.8em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
         "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
         ".button {margin-left: 35%;}"
       ],
@@ -529,7 +529,7 @@
       ],
       "custom_css": [
         "div {padding: 5px; padding-bottom: 3%;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.8em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
         "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
         ".button {margin-left: 35%;}"
       ],
