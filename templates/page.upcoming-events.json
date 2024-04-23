@@ -59,6 +59,7 @@
       ],
       "settings": {
         "unique_class": "pic",
+        "image": "shopify:\/\/shop_images\/April_25.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
