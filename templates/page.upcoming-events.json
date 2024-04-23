@@ -145,7 +145,7 @@
         "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; padding: 65px 35px;}",
-        "p {font-family: \"Josefin Sans\"; font-weight: normal;}"
+        "p, ul, li {font-family: \"Josefin Sans\"; font-weight: normal;}"
       ],
       "settings": {
         "custom_class": "",
