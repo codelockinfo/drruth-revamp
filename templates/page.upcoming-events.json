@@ -74,22 +74,13 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Expertise",
-            "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "column_BccB3j": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "The BK Pets Modern Dog Parent Book Tour!",
+            "text": "<h2>BARK AVE<\/h2><p>April 27, 2024<br\/>11 am - 3 pm<\/p><p>835 W Warner Road #111<\/p><p>Gilbert, AZ<\/p><p><\/p><p>Speakers: Bryce & Kenzie, Angela Ardolino, Dr. Ruth Roberts & Roxanne Stone  <\/p>",
+            "link_label": "Sign Up Here",
+            "link": "https:\/\/www.eventbrite.com\/e\/873510743147?aff=oddtdtcreator"
           }
         },
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
@@ -112,12 +103,10 @@
         }
       },
       "block_order": [
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1",
         "column_BccB3j",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
-      "disabled": true,
       "custom_css": [
         "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
@@ -209,68 +198,6 @@
         "padding_bottom": 36
       }
     },
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9": {
-      "type": "rx-testimonial",
-      "blocks": {
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1": {
-          "type": "title",
-          "settings": {
-            "title": "Mind Blowing!",
-            "testimonial": "<p>Michael became Kenzie’s health coach last September. She was itching so much I had to put her on Apoquel. Michael guided us thru making the crock pot diet, choosing the right proteins and getting the correct supplements in her diet. Within a week her itching lessened and she came off the Apoquel. I don’t think I would have been brave enough to venture into cooking for her without Michael’s help. Missy Springer SouthPaw Aussies<\/p>",
-            "reviewer_name": "Missy Springer & Kenzie South Paw Aussies",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        },
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4": {
-          "type": "title",
-          "settings": {
-            "title": "Best Product",
-            "testimonial": "<p>Review Text<\/p>",
-            "reviewer_name": "Reviewer Name",
-            "rating": "5"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-1",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-2",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-3",
-        "template--14921792946241__4f906579-b062-4ab8-babd-9cc9b73db3d9-title-4"
-      ],
-      "disabled": true,
-      "settings": {
-        "desktopColumns": "2",
-        "tabletColumns": "2",
-        "desktopMaxWidth": "100%",
-        "tabletMaxWidth": "100%",
-        "mobileMaxWidth": "100%",
-        "autoPlay": false,
-        "smoothAutoPlay": false,
-        "auto_hide_arrow": false,
-        "container_bgcolor": "#ffffff",
-        "card_bgcolor": "#ffffff",
-        "filled_star_color": "",
-        "empty_star_color": ""
-      }
-    },
     "rx_blog_cANfJE": {
       "type": "rx-blog",
       "settings": {
@@ -283,67 +210,6 @@
         "show_date": true,
         "show_author": false,
         "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multirow_VMqc7q": {
-      "type": "multirow",
-      "blocks": {
-        "row_cH33LN": {
-          "type": "row",
-          "settings": {
-            "caption": "HPHC Live with Karin Druckenmiller",
-            "heading": "March 21, 2014 | 4.45 PM ET",
-            "text": "<p>Join Dr. Ruth Roberts and Karin Druckenmiller<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_JVrhLE": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        },
-        "row_trH88J": {
-          "type": "row",
-          "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "row_cH33LN",
-        "row_JVrhLE",
-        "row_trH88J"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".caption-with-letter-spacing {color: #f5f8f1; font-family: \"BLT-Heirloom\"; font-size: 3em;}",
-        ".h2 {color: #f5f8f1;}",
-        ".body {color: #f5f8f1;}"
-      ],
-      "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "small",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-2",
-        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -390,7 +256,6 @@
         "column_WW4AP9",
         "column_fxaUAp"
       ],
-      "disabled": true,
       "custom_css": [
         ".multicolumn-card {font-family: \"Josefin Sans\"; font-weight: normal;}",
         ".h1 {font-family: \"BLT-Heirloom\"; text-align: center;}",
@@ -500,9 +365,7 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
-    "4f906579-b062-4ab8-babd-9cc9b73db3d9",
     "rx_blog_cANfJE",
-    "multirow_VMqc7q",
     "custom_testimonial_pVztH8",
     "image_banner_CGdj4T",
     "newsletter_jDqKF8"
