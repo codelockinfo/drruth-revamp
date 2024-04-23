@@ -71,6 +71,40 @@
         "padding_bottom": 36
       }
     },
+    "rx_rich_text_yXXLjK": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_inbmWH": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Featured Events<\/p>"
+          }
+        },
+        "text_jQj9UA": {
+          "type": "text",
+          "settings": {
+            "text": "<p>From conferences to panels, join Dr. Ruth Roberts at insightful events where you can gain valuable insights and connect with others<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_inbmWH",
+        "text_jQj9UA"
+      ],
+      "custom_css": [
+        "p {font-size: 2rem;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
@@ -87,7 +121,7 @@
           "type": "column",
           "settings": {
             "title": "The BK Pets Modern Dog Parent Book Tour",
-            "text": "<h2>BARK & LUV<\/h2><p>April 28, 2024<\/p><p>10am - 4pm<\/p><p>7131 W Ray Road Ste 22<\/p><p>Chandler, AZ 85226<\/p>",
+            "text": "<h2>BARK & LUV<\/h2><p><strong>April 28, 2024<\/strong><\/p><p>10am - 4pm<\/p><p>7131 W Ray Road Ste 22<\/p><p>Chandler, AZ 85226<\/p>",
             "link_label": "Sign Up Here",
             "link": "https:\/\/www.eventbrite.com\/e\/the-bk-pets-book-tour-bark-luv-tickets-873981059877?aff=oddtdtcreator"
           }
@@ -363,6 +397,7 @@
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
+    "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
