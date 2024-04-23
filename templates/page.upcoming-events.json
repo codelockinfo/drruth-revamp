@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>HPHC LIVE WITH AMY RENZ: Goodness Gracious Fresh Food<\/h2><p>Join us for an enlightening discussion on fresh food nutrition for pets with Amy Renz, a courageous leader and advocate in the pet food industry. Discover how Goodness Gracious is redefining pet nutrition with human-grade, species-appropriate whole food diets for dogs and cats. <\/p>",
+            "text": "<h2>HPHC LIVE WITH AMY RENZ: Metabolic Syndrome in Dogs<\/h2><p>Join us in HPHC Live with Amy Renz, the founder of Goodness Gracious and a prominent figure in the pet food industry. She will share her expertise and practical insights on managing metabolic syndrome in dogs through holistic approaches, including nutrition, exercise, and lifestyle interventions. Don't miss this opportunity to learn how to support your furry friend's health and well-being.<\/p>",
             "text_style": "body"
           }
         },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/April_25.png",
+        "image": "shopify:\/\/shop_images\/April_25_1.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -98,7 +98,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "caption_alignment": "center",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
@@ -249,70 +249,6 @@
         "padding_bottom": 36
       }
     },
-    "custom_testimonial_pVztH8": {
-      "type": "custom-testimonial",
-      "blocks": {
-        "column_cpcLFT": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Screenshot_2024-02-29_135629.png",
-            "title": "TRAVELING WITH YOUR PET (featured on KnoWewell)",
-            "subtitle": "Column",
-            "text": "<p><strong>February 28, 2024<\/strong><br\/>Dr. Ruth Roberts shares her extensive experience in traveling with pets on Knowwewll's Natural Pet Show Webcast, offering valuable advice on lodging, food preparation guidelines and more!<\/p>",
-            "link_label": "Watch Now",
-            "link": "https:\/\/www.knowewell.com\/webinar\/natural-pet-show-traveling-your-pets"
-          }
-        },
-        "column_WW4AP9": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Webinar_Thumbnail_Live_with_Dr._Jeff.png",
-            "title": "ARE YOU PET PREPARED? (with Dr. Jeff Grognet)",
-            "subtitle": "",
-            "text": "<p><strong>February 7, 2024<\/strong><\/p><p>Dr. Ruth Roberts and Jeff Grognet lead a vital discussion in pet emergency essentials. Learn to tackle bleeding, seizures, bloat, and urinary blockages in pets. This concise webinar equips pet owners with the skills to act swiftly and confidently in emergencies<\/p>",
-            "link_label": "Watch Now",
-            "link": "https:\/\/www.youtube.com\/watch?v=t7Spw29q2A4"
-          }
-        },
-        "column_fxaUAp": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/maxresdefault.jpg",
-            "title": "A HOLISTIC APPROACH TO PET WELLNESS (with Sandy Reynolds)",
-            "subtitle": "Column",
-            "text": "<p><strong>February 16, 2024<\/strong><br\/>Dr. Ruth Roberts and Sandy Reynolds discuss the benefits of holistic pet care, highlighting Sandy's journey from insurance sales to becoming a holistic pet health coach after seeing improvements in her own pet's health<\/p>",
-            "link_label": "Watch Now",
-            "link": "https:\/\/www.youtube.com\/watch?v=St3Dshevpvg"
-          }
-        }
-      },
-      "block_order": [
-        "column_cpcLFT",
-        "column_WW4AP9",
-        "column_fxaUAp"
-      ],
-      "custom_css": [
-        ".multicolumn-card {font-family: \"Josefin Sans\"; font-weight: normal;}",
-        ".h1 {font-family: \"BLT-Heirloom\"; text-align: center;}",
-        "h3 {font-family: \"BLT-Heirloom\"; font-weight: bold;}"
-      ],
-      "settings": {
-        "title": "Watch Events You Might Have Missed",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_CGdj4T": {
       "type": "image-banner",
       "blocks": {
@@ -402,7 +338,6 @@
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "rx_blog_cANfJE",
-    "custom_testimonial_pVztH8",
     "image_banner_CGdj4T",
     "newsletter_jDqKF8"
   ]
