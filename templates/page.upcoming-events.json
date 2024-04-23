@@ -29,13 +29,12 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>HPHC LIVE WITH AMY RENZ: Goodness Gracious Fresh Food<\/h2><p>Join us for an enlightening discussion on fresh food nutrition for pets with Amy Renz, a courageous leader and advocate in the pet food industry. Discover how Goodness Gracious is redefining pet nutrition with human-grade, species-appropriate whole food diets for dogs and cats. Gain insights into the connection between nutrition and overall well-being for your beloved pets.<\/p>",
+            "text": "<h2>HPHC LIVE WITH AMY RENZ: Goodness Gracious Fresh Food<\/h2><p>Join us for an enlightening discussion on fresh food nutrition for pets with Amy Renz, a courageous leader and advocate in the pet food industry. Discover how Goodness Gracious is redefining pet nutrition with human-grade, species-appropriate whole food diets for dogs and cats. <\/p>",
             "text_style": "body"
           }
         },
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1": {
           "type": "button",
-          "disabled": true,
           "settings": {
             "button_label": "REGISTER NOW",
             "button_link": "https:\/\/fb.me\/e\/5hRgS3iSY"
