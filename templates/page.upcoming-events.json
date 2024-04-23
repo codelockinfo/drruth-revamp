@@ -487,6 +487,7 @@
         "#Subscribe {font-family: \"Josefin Sans\"; font-size: 1em;}"
       ],
       "settings": {
+        "bg_img": "shopify:\/\/shop_images\/April_25.png",
         "bg_color": "#f5f8f1",
         "full_width": false,
         "padding_top": 8,
