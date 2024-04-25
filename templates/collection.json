@@ -28,7 +28,7 @@
         "text_mx7YGm": {
           "type": "text",
           "settings": {
-            "text": "<p>Are you looking for a healthy homemade recipe to help your fur baby improve their current condition?<br\/><br\/>Have you been switching back and forth from raw feeding - dry kibbles but have not seen any improvement in their health and possibly made it worse?<br\/><br\/>The Original CrockPet Diet is a home-cooked diet for your pet, made in your kitchen with only real foods. Dr. Ruth's patented recipe is fully balanced for pets in all life stages and can improve the health of puppies and kittens, adult cats and dogs, and senior pets.<br\/><br\/>Here's everything you need to get started making The Original CrockPet Diet or replenish your cupboard<\/p>"
+            "text": "<p>Are you looking for a healthy homemade recipe to help your fur baby improve their current condition?<br\/><br\/>Have you been switching back and forth from raw feeding - dry kibbles but have not seen any improvement?<br\/><br\/>The Original CrockPet Diet is a home-cooked diet for your pet, made in your kitchen with only real foods. Dr. Ruth's patented recipe is fully balanced for pets in all life stages and can improve the health of puppies and kittens, adult cats and dogs, and senior pets.<br\/><br\/>Here's everything you need to get started making The Original CrockPet Diet or replenish your cupboard<\/p>"
           }
         },
         "button_4MTUjz": {
@@ -45,7 +45,7 @@
         "button_4MTUjz"
       ],
       "custom_css": [
-        "div {padding-top: 20px; padding-right: 10px; padding-left: 10px; padding-bottom: auto;}"
+        "div {padding: 10px;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/crockpet_collection_1.png",
