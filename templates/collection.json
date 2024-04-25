@@ -1,59 +1,8 @@
 {
   "sections": {
-    "86b8b38f-4b3d-4a11-b9db-6941824d566c": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "Autoimmune Disease Support",
-            "heading_size": "h1"
-          }
-        },
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>You don't have to face autoimmune disease alone.  Our support protocol offer a carefully curated selection of natural solutions to navigate autoimmune diseases. They encompass supplements to boost your pet's immune system, lifestyle advice, nutrition, and more. We ensure that this protocol only include top-quality natural supplements proven effective for autoimmune diseases. You can trust that you're receiving the best products available.Our goal is to empower you to find solutions for your pet's autoimmune disease. We provide the tools you need to regain control and foster a healthy, balanced life.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-button-1": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-heading-1",
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-text-1",
-        "template--14921794453569__86b8b38f-4b3d-4a11-b9db-6941824d566c-button-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h2 {color: #efe6c5; font-size: 30px; margin: auto; padding-top: 20px;}",
-        "p {color: white; text-align: justify; margin: 0 px auto;}",
-        ".button {margin: auto; padding: 10px 20px;}",
-        "div {padding: 10px;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/autoimmune_1.png",
-        "height": "adapt",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "color_scheme": "accent-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "main-collection-banner": {
       "type": "main-collection-banner",
+      "disabled": true,
       "custom_css": [
         "h1 {color: #efe6c5; font-size: 30px; margin: auto; padding-top: 20px;}",
         "p {color: white; text-align: justify; margin: 0 px auto;}",
@@ -64,6 +13,56 @@
         "show_collection_description": true,
         "show_collection_image": true,
         "color_scheme": "accent-1"
+      }
+    },
+    "rx_img_with_text_cbVCWh": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "heading_8aVwNJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "The Original CrockPet Diet Collection",
+            "font_family": "font_blt"
+          }
+        },
+        "text_mx7YGm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Are you looking for a healthy homemade recipe to help your fur baby improve their current condition?<br\/><br\/>Have you been switching back and forth from raw feeding - dry kibbles but have not seen any improvement in their health and possibly made it worse?<br\/><br\/>The Original CrockPet Diet is a home-cooked diet for your pet, made in your kitchen with only real foods. Dr. Ruth's patented recipe is fully balanced for pets in all life stages and can improve the health of puppies and kittens, adult cats and dogs, and senior pets.<br\/><br\/>Here's everything you need to get started making The Original CrockPet Diet or replenish your cupboard.<\/p>"
+          }
+        },
+        "button_4MTUjz": {
+          "type": "button",
+          "settings": {
+            "button_label": "GET THE RECIPE & COURSE",
+            "button_link": "https:\/\/drruthroberts.com\/products\/the-original-crockpet-diet-recipes-and-ebook-by-dr-ruth-roberts"
+          }
+        }
+      },
+      "block_order": [
+        "heading_8aVwNJ",
+        "text_mx7YGm",
+        "button_4MTUjz"
+      ],
+      "custom_css": [
+        "p {margin: 0 px auto;}",
+        "div {padding-top: 15px; padding-right: 10px; padding-left: 10px; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/crockpet_collection_1.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_title_alignment": "center",
+        "desktop_content_alignment": "center",
+        "desktop_button_alignment": "center",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "#f5f8f1",
+        "show_arrow_mobile": "no",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "main-collection-product-grid": {
@@ -124,6 +123,54 @@
         "padding_bottom": 64
       }
     },
+    "rx_rich_text_34a4nq": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_Di6fgL": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Talk to Us<\/p>"
+          }
+        },
+        "text_6ExWhq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you need help with starting up the course or getting access to the recipes and videos, please don't hesitate to contact us via call\/text at +213 394 2923 \/ email drruthroberts@drruthroberts.com.<\/p>"
+          }
+        },
+        "button_jH9GUi": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "https:\/\/drruthroberts.com\/pages\/contact-us",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_Di6fgL",
+        "text_6ExWhq",
+        "button_jH9GUi"
+      ],
+      "custom_css": [
+        ".rx_rich-text__heading {color: #184b44;}",
+        ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
+        "p {font-size: 0.7em; padding-bottom: 10px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "newsletter": {
       "type": "newsletter",
       "blocks": {
@@ -163,10 +210,11 @@
     }
   },
   "order": [
-    "86b8b38f-4b3d-4a11-b9db-6941824d566c",
     "main-collection-banner",
+    "rx_img_with_text_cbVCWh",
     "main-collection-product-grid",
     "collage",
+    "rx_rich_text_34a4nq",
     "newsletter"
   ]
 }
