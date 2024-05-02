@@ -111,14 +111,15 @@
         "column_BccB3j": {
           "type": "column",
           "settings": {
-            "title": "The BK Pets Modern Dog Parent Book Tour!",
-            "text": "<h2>BARK AVE<\/h2><p><strong>April 27, 2024<br\/>11 am - 3 pm<\/strong><\/p><p>835 W Warner Road #111<\/p><p>Gilbert, AZ<\/p><p><strong>Speakers:<\/strong> Bryce & Kenzie, Angela Ardolino, Dr. Ruth Roberts & Roxanne Stone  <\/p>",
-            "link_label": "Sign Up Here",
-            "link": "https:\/\/www.eventbrite.com\/e\/873510743147?aff=oddtdtcreator"
+            "title": "PETCARE INNOVATION EUROPE",
+            "text": "<h4><strong>Best In Show Spotlight <\/strong><\/h4><p><strong>June 4-5, 2024<br\/>11 am - 3 pm<\/strong><\/p><p><strong>Hotel Berlin, Berlin<\/strong><\/p><p><strong>Agenda:<\/strong> Dr. Ruth Roberts will attend and present the HPHC program in the 'Best In Show' Spotlight.<\/p>",
+            "link_label": "Book Your Place",
+            "link": "https:\/\/www.petcareinnovationeurope.com\/events\/petcare-innovation-europe-2024"
           }
         },
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "The BK Pets Modern Dog Parent Book Tour",
             "text": "<h2>BARK & LUV<\/h2><p><strong>April 28, 2024<\/strong><\/p><p>10am - 4pm<\/p><p>7131 W Ray Road Ste 22<\/p><p>Chandler, AZ 85226<\/p><p><strong>Speakers:<\/strong> Bryce & Kenzie, Angela Ardolino, Dr. Ruth Roberts & Roxanne Stone<\/p>",
@@ -128,6 +129,7 @@
         },
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "The Holistic Dog Care Summit 2.0",
             "text": "<p><strong>April 29 - May 3<\/strong><\/p><p><strong>Key Topics<\/strong>:<\/p><ul><li>Natural Nutrition and Diet Plans<\/li><li>Herbal Remedies and Supplements<\/li><li>Integrative Veterinary Medicine Techniques<\/li><\/ul><p>and more!<\/p><p><strong>Speakers<\/strong>: Over 18 expert speakers including Dr. Ruth Roberts, Dr. Judy Morgan, Dr. Ian Billinghurst,  and others<\/p><p><strong>Registration<\/strong>: Free for a limited time<\/p><p><strong>Kickoff<\/strong>: April 28, 2024, at 6 pm ET<\/p>",
