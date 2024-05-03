@@ -17,8 +17,8 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "IS YOUR PET SHOWING SIGNS OF SPAY\/NEUTER SYNDROME?",
-            "heading_size": "h2"
+            "heading": "SPAY AND NEUTER SYNDROME",
+            "heading_size": "h1"
           }
         },
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
@@ -92,7 +92,7 @@
       "settings": {
         "custom_class": "",
         "title": "What is Spay and Neuter Syndrome?",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -173,44 +173,39 @@
         "padding_bottom": 36
       }
     },
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
-      "type": "multicolumn",
+    "rx_img_with_text_slider_TMfLnQ": {
+      "type": "rx-img-with-text-slider",
       "blocks": {
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1": {
-          "type": "column",
+        "slide_BFYaVH": {
+          "type": "slide",
           "settings": {
-            "title": "",
-            "text": "<p>With over 85% of dogs in the U.S. being spayed or neutered for benefits like population control and reduced health risks, it's essential to consider all aspects of these procedures. Recent research points to a possible connection between early spaying\/neutering and certain health issues, including cancer and joint problems. It raises the question: could these common surgeries have unintended consequences on our pets' health?<\/p>",
-            "link_label": "",
-            "link": ""
+            "image": "shopify:\/\/shop_images\/SPAY_NEUTER.png",
+            "height": "small",
+            "desktop_image_width": "small",
+            "layout": "text_first",
+            "desktop_title_alignment": "center",
+            "desktop_content_alignment": "center",
+            "desktop_button_alignment": "left",
+            "content_layout": "overlap",
+            "grid_type": "type2",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Noticing Changes in Your Pet?",
+            "description": "<p>With over 85% of dogs in the U.S. being spayed or neutered for benefits like population control and reduced health risks, it's essential to consider all aspects of these procedures. Recent research points to a possible connection between early spaying\/neutering and certain health issues, including cancer and joint problems. It raises the question: could these common surgeries have unintended consequences on our pets' health?<\/p>",
+            "button_label": "",
+            "button_link": ""
           }
         }
       },
       "block_order": [
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1"
+        "slide_BFYaVH"
       ],
       "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
-        ".button.button--primary {display: none;}",
-        "p {font-weight: normal;}"
+
       ],
       "settings": {
-        "custom_class": "",
-        "title": "Noticing Changes in Your Pet?",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 0
+        "desktopMaxWidth": "100%",
+        "auto_play": true
       }
     },
     "petadvice_main_kWCVdx": {
@@ -309,7 +304,7 @@
       "settings": {
         "custom_class": "",
         "title": "Spay and Neuter Syndrome Quiz",
-        "heading_size": "h0",
+        "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 1,
@@ -349,7 +344,7 @@
           "type": "column",
           "settings": {
             "title": "Bridge the Gap",
-            "text": "<p>Our quiz serves as a crucial link between your pet's health and the decisions you make on their behalf. It aims to enhance your understanding of how spaying or neutering impacts them. <\/p>",
+            "text": "<p>Our quiz is crucial link between your pet's health and the decisions you make on their behalf. It aims to enhance your understanding of how spaying or neutering impacts them. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -361,7 +356,7 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
       ],
       "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 35px; line-height: 50px; font-weight: 300; min-height: 85px;}",
+        "h3 {font-family: \"BLT-Heirloom\"; font-size: 1.8em; line-height: 50px; font-weight: 300; min-height: 85px;}",
         ".button.button--primary {display: none;}",
         ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 35rem; padding: 2em;}",
         "p {font-weight: normal;}"
@@ -565,7 +560,7 @@
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
     "c310de0e-f268-4dff-8278-ea581c28a408",
     "collapsible_content_yzRGxT",
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
+    "rx_img_with_text_slider_TMfLnQ",
     "petadvice_main_kWCVdx",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
