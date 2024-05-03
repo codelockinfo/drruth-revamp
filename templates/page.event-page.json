@@ -136,12 +136,23 @@
             "row_content": "<p>After spaying or neutering, it's crucial to monitor your pet closely for any signs of distress or complications. Early detection can prevent more severe health issues.<\/p><p><strong>Behavioral Changes:<\/strong> Watch for excessive lethargy, reluctance to move, or significant changes in behavior that could indicate discomfort or pain.<\/p><p><strong>Physical Symptoms<\/strong>: Be alert for signs such as persistent pain, which might be evident if your dog whimpers or shies away from contact.<\/p><h5><strong>INFECTION INDICATORS<\/strong><\/h5><p>Post-operative infections are possible complications that require immediate attention.<\/p><ul><li><strong>Visible Signs:<\/strong> Redness, swelling, or discharge at the surgical site are clear indicators of a possible infection.<\/li><li><strong>Behavioral Indicators:<\/strong> If your dog seems unusually withdrawn or irritable, it could also be a sign of discomfort due to an infection.<\/li><\/ul>",
             "page": ""
           }
+        },
+        "collapsible_row_nDU6cg": {
+          "type": "collapsible_row",
+          "disabled": true,
+          "settings": {
+            "heading": "Collapsible row",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
         }
       },
       "block_order": [
         "collapsible_row_8qp8c6",
         "collapsible_row_kAUxjE",
-        "collapsible_row_pEdq8P"
+        "collapsible_row_pEdq8P",
+        "collapsible_row_nDU6cg"
       ],
       "custom_css": [
         "h3 {font-weight: bold; font-family: \"BLT-Heirloom\"; color: #184b44;}",
