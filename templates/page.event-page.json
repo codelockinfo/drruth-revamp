@@ -24,7 +24,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Your furry friend can't tell you how they feel, but you can still be their voice. If you've noticed changes since their spay or neuter surgery, it might be more than just a phase. Take our quick quiz to uncover if these changes could be symptoms of Spay\/Neuter Syndrome.<\/p>",
+            "text": "<p>Your dogs and cats can't tell you how they feel, but you can still be their voice. If you've noticed changes since their spay or neuter surgery, it might be more than just a phase. Take our quick quiz to uncover if these changes could be symptoms of Spay\/Neuter Syndrome.<\/p>",
             "text_style": "body"
           }
         },
@@ -72,7 +72,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>Spay and Neuter Syndrome (SNS) refers to a range of symptoms that some pets may experience following their spaying or neutering surgeries. These symptoms can vary widely but are important to recognize to ensure your pet recovers smoothly and healthily.<\/p>",
+            "text": "<p>Spay and Neuter Syndrome (SNS) refers to a range of symptoms that some dogs or cats may experience following their spaying or neutering surgeries. These symptoms can vary widely but are important to recognize to ensure your pet recovers smoothly and healthily.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -122,7 +122,7 @@
         "collapsible_row_kAUxjE": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "OPTIMAL TIMING",
+            "heading": "WHEN SHOULD YOU SPAY \/ NEUTER YOUR DOG OR CAT",
             "icon": "paw_print",
             "row_content": "<p>The best time to spay or neuter your dog can depend on several factors, including their breed, size, sex and overall health. Smaller breeds might be ready for the procedure earlier than larger breeds. <br\/><\/p><p><strong>FEMALE<\/strong><br\/>Wait at least 2-5 heat cycles<br\/><br\/><strong>MALE<\/strong><br\/>Wait at least 1 year<\/p><p>Consulting with your veterinarian will help you determine the most appropriate time to perform these surgeries, balancing the benefits while minimizing potential health risks.<\/p>",
             "page": ""
