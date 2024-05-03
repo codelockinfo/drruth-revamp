@@ -65,6 +65,93 @@
         "padding_bottom": 0
       }
     },
+    "c310de0e-f268-4dff-8278-ea581c28a408": {
+      "type": "multicolumn",
+      "blocks": {
+        "18ea8e42-e20a-426d-87db-407cbf6d1ff5": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "text": "<p>Spay and Neuter Syndrome (SNS) refers to a range of symptoms that some pets may experience following their spaying or neutering surgeries. These symptoms can vary widely but are important to recognize to ensure your pet recovers smoothly and healthily.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "18ea8e42-e20a-426d-87db-407cbf6d1ff5"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
+        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center; max-width: 800px;}",
+        ".button.button--primary {display: none;}",
+        ".multicolumn > div {max-width: 1200px;}",
+        ".multicolumn-list__item:only-child {max-width: 100%;}",
+        "p {font-weight: normal;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "What is Spay and Neuter Syndrome?",
+        "heading_size": "h0",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 1,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_yzRGxT": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_8qp8c6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "THE IMPORTANCE OF SPAYING AND NEUTERING",
+            "icon": "paw_print",
+            "row_content": "<p>Understanding why spaying and neutering are essential is the first step toward responsible pet ownership. These procedures help control the pet population, preventing the overpopulation of dogs, which is a significant issue in many communities. Beyond population control, spaying and neutering can reduce the risk of certain health issues, such as breast tumors and testicular cancer, thereby potentially extending the life of your pet.<br\/><\/p><p><strong>BENEFITS:<\/strong><\/p><p><strong>Population Control:<\/strong> Reduce the number of unwanted puppies, which helps decrease the number of animals in shelters.<\/p><p><strong>Health Benefits:<\/strong> Lower the risk of certain types of cancers and other health problems that can be life-threatening.<\/p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_kAUxjE": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "OPTIMAL TIMING",
+            "icon": "paw_print",
+            "row_content": "<p>The best time to spay or neuter your dog can depend on several factors, including their breed, size, sex and overall health. Smaller breeds might be ready for the procedure earlier than larger breeds. <br\/><\/p><p><strong>FEMALE<\/strong><br\/>Wait at least 2-5 heat cycles<br\/><br\/><strong>MALE<\/strong><br\/>Wait at least 1 year<\/p><p>Consulting with your veterinarian will help you determine the most appropriate time to perform these surgeries, balancing the benefits while minimizing potential health risks.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_8qp8c6",
+        "collapsible_row_kAUxjE"
+      ],
+      "custom_css": [
+        "h3 {font-weight: bold; font-family: \"BLT-Heirloom\"; color: #184b44;}",
+        "p {font-weight: normal;}"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
       "type": "multicolumn",
       "blocks": {
@@ -101,7 +188,7 @@
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 24,
+        "padding_top": 0,
         "padding_bottom": 0
       }
     },
@@ -175,46 +262,6 @@
         "program_link1": "https:\/\/drruthroberts.com\/blogs\/pet-blog\/spay-and-neuter-syndrome"
       }
     },
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28": {
-      "type": "multicolumn",
-      "blocks": {
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Embrace the amazing benefits of collaboration as we work together to enhance your pet's well-being.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "edf487dd-37df-420a-96e3-c65a9c0b9d6a"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Collaboration Approach ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
     "b165d27c-cf73-4142-863a-ca8961ce2bf7": {
       "type": "multicolumn",
       "blocks": {
@@ -222,7 +269,7 @@
           "type": "column",
           "settings": {
             "title": "",
-            "text": "<p>This quiz is a must for every pet parent looking to deepen their understanding of the significant impacts spaying and neutering can have on their beloved pets' health and behavior. It's not just about preventing unexpected puppies or kittens; it's about ensuring your pet enjoys a vibrant, healthy life. <\/p>",
+            "text": "<p>Engage with our interactive quiz to test your understanding of spay and neuter syndrome. This tool is designed to reinforce the information provided and help you recognize the signs and effects of these procedures on your pets.<\/p>",
             "link_label": "",
             "link": ""
           }
@@ -240,7 +287,7 @@
       ],
       "settings": {
         "custom_class": "",
-        "title": "Time Well Invested",
+        "title": "Spay and Neuter Syndrome Quiz",
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -263,7 +310,7 @@
           "type": "column",
           "settings": {
             "title": "Gain Insights",
-            "text": "<p>Learn the possible symptoms of Spay Neuter Syndrome in your pet through our quiz. Identifying these signs early can make a significant difference in their health. This knowledge empowers you to take timely action.<\/p>",
+            "text": "<p>Learn the possible symptoms of SNS in your pet through our quiz. Identifying these signs early can make a significant difference in their health. <\/p>",
             "link_label": "",
             "link": ""
           }
@@ -325,124 +372,6 @@
         "c_head": "",
         "pro_btn1": "START THE QUIZ",
         "program_link1": ""
-      }
-    },
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4": {
-      "type": "multicolumn",
-      "blocks": {
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "ecd00adf-9645-4a9e-9b34-afa80daf4ab8"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Our Client’s Testimonials ",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
-      }
-    },
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e": {
-      "type": "multicolumn",
-      "blocks": {
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Hear the Feedback from Our Valued Clients on Our Consultations.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "bfe304ff-7cf7-4d4b-ad41-f2e8ba00cf9c"
-      ],
-      "disabled": true,
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 0,
-        "padding_bottom": 36
-      }
-    },
-    "c310de0e-f268-4dff-8278-ea581c28a408": {
-      "type": "multicolumn",
-      "blocks": {
-        "18ea8e42-e20a-426d-87db-407cbf6d1ff5": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Are you passionate about the well-being of animals? Do you believe in the power of holistic approaches to pet health? If so, we invite you to join our team as a Certified Holistic Pet Health Coach. By becoming a part of our dedicated group of professionals, you can make a significant impact in the lives of pets and their owners, helping them achieve optimal health and happiness.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "18ea8e42-e20a-426d-87db-407cbf6d1ff5"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300; margin-bottom: -20px; text-align: center; max-width: 800px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn > div {max-width: 1200px;}",
-        ".multicolumn-list__item:only-child {max-width: 100%;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Join Our Team! Become a Certified Holistic Pet Health Coach",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 48,
-        "padding_bottom": 36
       }
     },
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3": {
@@ -613,16 +542,14 @@
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
+    "c310de0e-f268-4dff-8278-ea581c28a408",
+    "collapsible_content_yzRGxT",
     "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
     "petadvice_main_kWCVdx",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
-    "872df224-c2bf-4a52-9d67-ad2d05e43f28",
     "b165d27c-cf73-4142-863a-ca8961ce2bf7",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "coachingmainblog_QaRRwz",
-    "ef80614e-ead4-4437-b084-e1bc8ddff2d4",
-    "3d80628c-ea6f-48fc-8760-085a2af33b6e",
-    "c310de0e-f268-4dff-8278-ea581c28a408",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "4f906579-b062-4ab8-babd-9cc9b73db3d9"
