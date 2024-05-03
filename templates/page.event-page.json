@@ -42,7 +42,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1"
       ],
       "custom_css": [
-        ".image-with-text,.image-with-text__grid {background-color: #f5f8f1; max-width: 100%;}",
+        ".image-with-text,.image-with-text__grid {max-width: 100%;}",
         ".image-with-text__text-item.grid__item.image_content {padding-left: 0;}",
         ".grid__item > div {justify-content: center;}",
         ".image-with-text__media-item img {object-fit: contain;}",
@@ -59,7 +59,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "overlap",
-        "color_scheme": "accent-2",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
