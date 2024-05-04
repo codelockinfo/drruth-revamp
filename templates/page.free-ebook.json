@@ -31,7 +31,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/ebook_1.png",
-        "height": "medium",
+        "height": "large",
         "desktop_image_width": "small",
         "layout": "text_first",
         "desktop_title_alignment": "center",
