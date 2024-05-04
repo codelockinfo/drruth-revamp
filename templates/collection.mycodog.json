@@ -462,8 +462,8 @@
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
-        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #83745c; font-family: Josefin Sans;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #83745c;}",
         ".button {margin-left: 35%;}"
       ],
       "settings": {
@@ -475,7 +475,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 8,
         "padding_bottom": 0
@@ -513,8 +513,8 @@
       ],
       "custom_css": [
         "div {padding: 5px;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
-        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #83745c; font-family: Josefin Sans;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #83745c;}",
         ".button {margin-left: 35%;}"
       ],
       "settings": {
@@ -526,7 +526,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 0
@@ -564,8 +564,8 @@
       ],
       "custom_css": [
         "div {padding: 5px; padding-bottom: 3%;}",
-        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #d9d9d9; font-family: Josefin Sans;}",
-        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #d9d9d9;}",
+        "h2 {text-align: left; margin-left: 10%; margin-top: 5%; font-size: 1.5em; font-weight: bold; color: #83745c; font-family: Josefin Sans;}",
+        "p {text-align: left; margin-right: 10%; margin-left: 10%; color: #83745c;}",
         ".button {margin-left: 35%;}"
       ],
       "settings": {
@@ -577,7 +577,7 @@
         "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
-        "color_scheme": "accent-1",
+        "color_scheme": "background-1",
         "mobile_content_alignment": "center",
         "padding_top": 0,
         "padding_bottom": 24
