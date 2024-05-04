@@ -19,7 +19,7 @@
         "button_nij8Hh": {
           "type": "button",
           "settings": {
-            "button_label": "Download Now",
+            "button_label": "Download",
             "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/TOCPD+EBook.pdf"
           }
         }
@@ -37,7 +37,7 @@
         "desktop_title_alignment": "left",
         "desktop_content_alignment": "left",
         "desktop_button_alignment": "center",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "grid_type": "type1",
         "imgText-bg-color": "#f5f8f1",
         "show_arrow_mobile": "yes",
