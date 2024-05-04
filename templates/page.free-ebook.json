@@ -176,7 +176,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/2250_x_1000_px_1.png",
         "image_overlay_opacity": 20,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "container_bg": "#fff",
