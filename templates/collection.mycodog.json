@@ -37,6 +37,7 @@
         "template--14862046068801__38f049c4-4422-4841-bdbc-18cc13f4d40e-1675713064eb28e6f1-1",
         "template--14862046068801__38f049c4-4422-4841-bdbc-18cc13f4d40e-1675713064eb28e6f1-2"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify:\/\/shop_images\/mycodog.png",
         "image_overlay_opacity": 0,
@@ -48,6 +49,54 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": false
+      }
+    },
+    "image_banner_3tjNxt": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_frFJhh": {
+          "type": "heading",
+          "settings": {
+            "heading": "MycoDog",
+            "heading_size": "h1"
+          }
+        },
+        "text_qNyddR": {
+          "type": "text",
+          "settings": {
+            "text": "BLEND OF MUSHROOM EXTRACT AND ADAPTOGENS SUPPLEMENT FOR DOG",
+            "text_style": "body"
+          }
+        },
+        "buttons_Ad9TMa": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_frFJhh",
+        "text_qNyddR",
+        "buttons_Ad9TMa"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/myco.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "banner": {
@@ -62,18 +111,6 @@
     "rx_rich_text_HBpB6M": {
       "type": "rx-rich-text",
       "blocks": {
-        "heading_kzmBKi": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>MycoDog <\/p>"
-          }
-        },
-        "caption_zEhKNV": {
-          "type": "caption",
-          "settings": {
-            "caption": "BLEND OF MUSHROOM EXTRACT AND ADAPTOGENS SUPPLEMENT FOR DOG"
-          }
-        },
         "text_MqtGGF": {
           "type": "text",
           "settings": {
@@ -94,15 +131,13 @@
         }
       },
       "block_order": [
-        "heading_kzmBKi",
-        "caption_zEhKNV",
         "text_MqtGGF",
         "button_kMJVmK"
       ],
       "custom_css": [
         ".rx_rich-text__heading {color: #184b44;}",
         ".rx_rich-text__caption {font-size: 1em; font-weight: bold; font-family: Josefin Sans; padding-top: 0%;}",
-        "p {font-size: 0.7em; padding-bottom: 10px;}"
+        "p {font-size: 0.6em; padding-bottom: 10px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
@@ -1087,56 +1122,11 @@
         "padding_top": 0,
         "padding_bottom": 0
       }
-    },
-    "image_banner_btdB9a": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_fm4kxY": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
-          }
-        },
-        "text_RwGhzc": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_8CYakD": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_fm4kxY",
-        "text_RwGhzc",
-        "buttons_8CYakD"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
     "38f049c4-4422-4841-bdbc-18cc13f4d40e",
+    "image_banner_3tjNxt",
     "banner",
     "rx_rich_text_HBpB6M",
     "product-grid",
@@ -1156,7 +1146,6 @@
     "58435396-8ece-4826-838f-c68f85aa6512",
     "rx_rich_text_gYxH93",
     "1645140795e31deed7",
-    "636d8bbf-230f-4217-a3da-ad50d8c72b9c",
-    "image_banner_btdB9a"
+    "636d8bbf-230f-4217-a3da-ad50d8c72b9c"
   ]
 }
