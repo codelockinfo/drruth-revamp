@@ -46,31 +46,6 @@
         "padding_bottom": 36
       }
     },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1713199513a250e161": {
-      "type": "apps",
-      "blocks": {
-        "klaviyo_email_marketing_sms_form_embed_block_nLJfeW": {
-          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
-          "settings": {
-            "formId": "<div class=\"klaviyo-form-SQVTGQ\"><\/div>"
-          }
-        }
-      },
-      "block_order": [
-        "klaviyo_email_marketing_sms_form_embed_block_nLJfeW"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "rich_text_ntaTpz": {
       "type": "rich-text",
       "blocks": {
@@ -169,13 +144,179 @@
         "padding_top": 8,
         "padding_bottom": 36
       }
+    },
+    "rx_image_banner_YPxzWG": {
+      "type": "rx-image-banner",
+      "blocks": {
+        "heading_9QkVfj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ready to Transform Your Pet's Health?"
+          }
+        },
+        "text_hqik6L": {
+          "type": "text",
+          "settings": {
+            "text": "Join countless others in the movement towards a natural, healthier diet for your pets and see the difference in their happiness and health."
+          }
+        },
+        "buttons_Fix43P": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Get Your Copy",
+            "button_link_1": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_9QkVfj",
+        "text_hqik6L",
+        "buttons_Fix43P"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/2250_x_1000_px_1.png",
+        "image_overlay_opacity": 20,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "container_bg": "#fff",
+        "desktop_content_alignment": "center",
+        "heading_color": "#000",
+        "text_color": "#000",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_WJ9N7M": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Gctxt8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insights.png",
+            "title": "Personal Insights",
+            "text": "<p>Why Dr. Ruth Roberts chooses to cook for her pets and how it can change your pet's health and vitality.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_HGjbQ4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/health_benefits.png",
+            "title": "Health Benefits",
+            "text": "<p>Detailed exploration of the advantages homemade pet food has over commercial options, including improved health and fewer veterinary visits.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_H4FCTU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/historical.png",
+            "title": "Historical Context",
+            "text": "<p>A captivating look at the evolution of pet food, giving you the knowledge to make informed dietary choices for your pet.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YhFCXP": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/recipe.png",
+            "title": "Tailored Recipes",
+            "text": "<p>Step-by-step guides on preparing the Original CrockPET Diet for both dogs and cats, ensuring you can cater to your pet's specific nutritional needs.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rHwacg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vege.png",
+            "title": "Vegetarian & Vegan Options",
+            "text": "<p>Innovative recipes that provide plant-based alternatives for pets, ensuring every pet owner can use this book.<br\/><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NzRMPg": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/supplement.png",
+            "title": "Supplemental Advice",
+            "text": "<p>Expert tips on nutritional supplements that can enhance your pet's diet and overall well-being.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Gctxt8",
+        "column_HGjbQ4",
+        "column_H4FCTU",
+        "column_YhFCXP",
+        "column_rHwacg",
+        "column_NzRMPg"
+      ],
+      "custom_css": [
+        "h2 {font-family: \"BLT-Heirloom\"; font-weight: bold; text-align: center;}",
+        "h3 {color: #184b44; font-weight: bold;}",
+        "p {font-weight: normal;}"
+      ],
+      "settings": {
+        "custom_class": "",
+        "title": "What's Inside The Ebook",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Download Now",
+        "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/TOCPD+EBook.pdf",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1713199513a250e161": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_nLJfeW": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "<div class=\"klaviyo-form-SQVTGQ\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_nLJfeW"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
     "rx_img_with_text_TFhGb6",
-    "main",
-    "1713199513a250e161",
     "rich_text_ntaTpz",
-    "collapsible_content_TCYhkG"
+    "collapsible_content_TCYhkG",
+    "rx_image_banner_YPxzWG",
+    "multicolumn_WJ9N7M",
+    "main",
+    "1713199513a250e161"
   ]
 }
