@@ -281,6 +281,9 @@
         "faq_Wf66tj",
         "faq_49gTVU"
       ],
+      "custom_css": [
+        "faq-ny {display: none;}"
+      ],
       "settings": {
         "heading": "FAQ",
         "desc": ""
