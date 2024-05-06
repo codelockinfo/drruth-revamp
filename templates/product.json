@@ -250,13 +250,6 @@
         "title_color": "#000000",
         "price_color": "#000000"
       }
-    },
-    "faq_accordion_bbcALf": {
-      "type": "faq_accordion",
-      "settings": {
-        "heading": "FAQ",
-        "desc": "<p>{{ product.metafields.custom.faq | metafield_tag }}<\/p>"
-      }
     }
   },
   "order": [
@@ -266,7 +259,6 @@
     "168197142519de76d5",
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
-    "37d355bc-1320-4afc-b381-56eecc54e273",
-    "faq_accordion_bbcALf"
+    "37d355bc-1320-4afc-b381-56eecc54e273"
   ]
 }
