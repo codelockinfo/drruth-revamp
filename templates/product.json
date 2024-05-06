@@ -272,7 +272,7 @@
           "type": "FAQ",
           "settings": {
             "title": "{{ product.metafields.custom.faq3.value }}",
-            "detail": "<p>{{ product.metafields.custom.faq3.value }}<\/p>"
+            "detail": "<p>{{ product.metafields.custom.faq_a3 | metafield_tag }}<\/p>"
           }
         }
       },
