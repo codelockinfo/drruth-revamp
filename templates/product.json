@@ -250,6 +250,41 @@
         "title_color": "#000000",
         "price_color": "#000000"
       }
+    },
+    "faq_accordion_qAWrky": {
+      "type": "faq_accordion",
+      "blocks": {
+        "faq_aYfpQE": {
+          "type": "FAQ",
+          "settings": {
+            "title": "{{ product.metafields.custom.faq1.value }}",
+            "detail": "<p>{{ product.metafields.custom.faq_a1 | metafield_tag }}<\/p>"
+          }
+        },
+        "faq_Wf66tj": {
+          "type": "FAQ",
+          "settings": {
+            "title": "{{ product.metafields.custom.faq2.value }}",
+            "detail": "<p>{{ product.metafields.custom.faq_a2 | metafield_tag }}<\/p>"
+          }
+        },
+        "faq_49gTVU": {
+          "type": "FAQ",
+          "settings": {
+            "title": "{{ product.metafields.custom.faq3.value }}",
+            "detail": "<p>{{ product.metafields.custom.faq3.value }}<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "faq_aYfpQE",
+        "faq_Wf66tj",
+        "faq_49gTVU"
+      ],
+      "settings": {
+        "heading": "FAQ",
+        "desc": ""
+      }
     }
   },
   "order": [
@@ -259,6 +294,7 @@
     "168197142519de76d5",
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
-    "37d355bc-1320-4afc-b381-56eecc54e273"
+    "37d355bc-1320-4afc-b381-56eecc54e273",
+    "faq_accordion_qAWrky"
   ]
 }
