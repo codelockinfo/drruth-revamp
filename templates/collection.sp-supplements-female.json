@@ -38,7 +38,7 @@
         "buttons_mKdmG8"
       ],
       "custom_css": [
-        ".banner__content {opacity: 80%;}",
+        ".banner__content {opacity: 70%;}",
         ".rx_banner__heading {font-size: 2.5em;}"
       ],
       "settings": {
@@ -55,6 +55,54 @@
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "rx_rich_text_Q4A4AD": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_aiFUXq": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "<p>Talk about your brand<\/p>"
+          }
+        },
+        "text_TJGLQy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Let's celebrate the incredible women in our lives! Giving a gift that makes them feel good shows how important their health and happiness are. Let's make sure all the special moms in our lives know we love them by helping them take some time for themselves to stay healthy and happy.<\/p>"
+          }
+        },
+        "button_rN8VDn": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_aiFUXq",
+        "text_TJGLQy",
+        "button_rN8VDn"
+      ],
+      "custom_css": [
+        "p {font-size: 0.6em;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 16,
+        "padding_bottom": 52
       }
     },
     "1645138074eb7eac59": {
@@ -310,6 +358,7 @@
   "order": [
     "banner",
     "rx_image_banner_fxy9re",
+    "rx_rich_text_Q4A4AD",
     "1645138074eb7eac59",
     "product-grid",
     "1631859338560c9b4a",
