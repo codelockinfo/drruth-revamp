@@ -147,11 +147,32 @@
             "button_label": "Buy Now",
             "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-folic-acid-b12-4410"
           }
+        },
+        "slide_amDqrW": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/vitamin_D.png",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Vital Vitamin D",
+            "description": "<p>This vitamin is vital for calcium absorption, which is important for maintaining strong bones and preventing osteoporosis, a condition that women are more prone to, especially post-menopause. Vitamin D also supports immune function and may help regulate mood, which is beneficial for mothers who may be at risk of postpartum depression.<\/p>",
+            "button_label": "Buy Now",
+            "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-cataplex-d-3405"
+          }
         }
       },
       "block_order": [
         "slide_kekqHU",
-        "slide_wXHdBt"
+        "slide_wXHdBt",
+        "slide_amDqrW"
       ],
       "custom_css": [
         "div {padding: 5px;}"
