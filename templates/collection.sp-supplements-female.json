@@ -163,7 +163,7 @@
             "show_arrow_mobile": "yes",
             "mobile_content_alignment": "left",
             "heading": "Vital Vitamin D",
-            "description": "<p>Vitamin D is vital for calcium absorption, which is important for maintaining strong bones and preventing osteoporosis, a condition that women are more prone to, especially post-menopause. Vitamin D also supports immune function and may help regulate mood, which is beneficial for mothers who may be at risk of postpartum depression.<\/p>",
+            "description": "<p>Vitamin D is vital for calcium absorption, which is important for maintaining strong bones and minimize the risk of osteoporosis, a condition that women are more prone to, especially post-menopause. Vitamin D also supports immune function and may help regulate mood, which is beneficial for mothers who may be at risk of postpartum depression.<\/p>",
             "button_label": "Buy Now",
             "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-cataplex-d-3405"
           }
@@ -175,7 +175,7 @@
         "slide_amDqrW"
       ],
       "custom_css": [
-        "div {padding: 5px;}"
+        "content-container {padding: 5px;}"
       ],
       "settings": {
         "desktopMaxWidth": "100%",
