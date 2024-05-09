@@ -444,6 +444,11 @@
           <input min="1" type="number" id="quantity" name="quantity" value="1"/>
           <input type="submit" value="Book A Consult" class="btn" />
         </form>
+        <form method="get" action="{{ product.metafields.my_fields.product_direction_for_use }}">
+          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+          <input type="submit" value="Contact Coach" class="btn" />
+        </form>
       </div>
   </div>
 </div>
