@@ -577,12 +577,29 @@
         "klaviyo_email_marketing_sms_form_embed_block_gYdpb4": {
           "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
           "settings": {
-            "formId": "The Science & Benefits of Natural Pet Food"
+            "formId": ""
           }
         }
       },
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_gYdpb4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1715285295e5d13f95": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_FBVJzp": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": ""
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_FBVJzp"
       ],
       "settings": {
         "include_margins": true
@@ -604,6 +621,7 @@
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "f20ac99b-64d9-4f94-9722-95cf6c742a76",
     "4f906579-b062-4ab8-babd-9cc9b73db3d9",
-    "171319893831fb940a"
+    "171319893831fb940a",
+    "1715285295e5d13f95"
   ]
 }
