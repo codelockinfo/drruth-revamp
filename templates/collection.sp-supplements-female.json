@@ -105,52 +105,6 @@
         "padding_bottom": 52
       }
     },
-    "rx_img_with_text_H7EBLg": {
-      "type": "rx-img-with-text",
-      "blocks": {
-        "heading_dPXfPM": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "font_family": "font_blt"
-          }
-        },
-        "text_NbwqQB": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Motherhood brings profound hormonal shifts that can impact your well-being. Standard Process endocrine supplement is crafted to support these changes, ensuring hormonal balance and enhancing your overall health. Ideal for busy moms, this supplement helps stabilize mood, boost energy, and promote recovery, helping you feel your best every day.<\/p>"
-          }
-        },
-        "button_WCe8VT": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_dPXfPM",
-        "text_NbwqQB",
-        "button_WCe8VT"
-      ],
-      "disabled": true,
-      "settings": {
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_title_alignment": "left",
-        "desktop_content_alignment": "left",
-        "desktop_button_alignment": "center",
-        "content_layout": "no-overlap",
-        "grid_type": "type1",
-        "imgText-bg-color": "",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "rx_img_with_text_slider_PGdhNm": {
       "type": "rx-img-with-text-slider",
       "blocks": {
@@ -161,8 +115,8 @@
             "height": "adapt",
             "desktop_image_width": "medium",
             "layout": "image_first",
-            "desktop_title_alignment": "center",
-            "desktop_content_alignment": "center",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
             "desktop_button_alignment": "center",
             "content_layout": "no-overlap",
             "grid_type": "type1",
@@ -461,7 +415,6 @@
     "banner",
     "rx_image_banner_fxy9re",
     "rx_rich_text_Q4A4AD",
-    "rx_img_with_text_H7EBLg",
     "rx_img_with_text_slider_PGdhNm",
     "1645138074eb7eac59",
     "product-grid",
