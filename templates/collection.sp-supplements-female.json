@@ -161,8 +161,8 @@
             "height": "adapt",
             "desktop_image_width": "medium",
             "layout": "image_first",
-            "desktop_title_alignment": "left",
-            "desktop_content_alignment": "left",
+            "desktop_title_alignment": "center",
+            "desktop_content_alignment": "center",
             "desktop_button_alignment": "center",
             "content_layout": "no-overlap",
             "grid_type": "type1",
@@ -193,51 +193,14 @@
             "button_label": "Buy Now",
             "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-folic-acid-b12-4410"
           }
-        },
-        "slide_UCQ7Nk": {
-          "type": "slide",
-          "settings": {
-            "height": "adapt",
-            "desktop_image_width": "medium",
-            "layout": "image_first",
-            "desktop_title_alignment": "left",
-            "desktop_content_alignment": "left",
-            "desktop_button_alignment": "center",
-            "content_layout": "no-overlap",
-            "grid_type": "type1",
-            "show_arrow_mobile": "yes",
-            "mobile_content_alignment": "left",
-            "heading": "Image with text",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button",
-            "button_link": ""
-          }
-        },
-        "slide_gWeVKx": {
-          "type": "slide",
-          "settings": {
-            "height": "adapt",
-            "desktop_image_width": "medium",
-            "layout": "image_first",
-            "desktop_title_alignment": "left",
-            "desktop_content_alignment": "left",
-            "desktop_button_alignment": "center",
-            "content_layout": "no-overlap",
-            "grid_type": "type1",
-            "show_arrow_mobile": "yes",
-            "mobile_content_alignment": "left",
-            "heading": "Image with text",
-            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button",
-            "button_link": ""
-          }
         }
       },
       "block_order": [
         "slide_kekqHU",
-        "slide_wXHdBt",
-        "slide_UCQ7Nk",
-        "slide_gWeVKx"
+        "slide_wXHdBt"
+      ],
+      "custom_css": [
+        "div {padding: 5px;}"
       ],
       "settings": {
         "desktopMaxWidth": "100%",
