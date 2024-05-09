@@ -105,6 +105,145 @@
         "padding_bottom": 52
       }
     },
+    "rx_img_with_text_H7EBLg": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "heading_dPXfPM": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image with text",
+            "font_family": "font_blt"
+          }
+        },
+        "text_NbwqQB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Motherhood brings profound hormonal shifts that can impact your well-being. Standard Process endocrine supplement is crafted to support these changes, ensuring hormonal balance and enhancing your overall health. Ideal for busy moms, this supplement helps stabilize mood, boost energy, and promote recovery, helping you feel your best every day.<\/p>"
+          }
+        },
+        "button_WCe8VT": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_dPXfPM",
+        "text_NbwqQB",
+        "button_WCe8VT"
+      ],
+      "disabled": true,
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_title_alignment": "left",
+        "desktop_content_alignment": "left",
+        "desktop_button_alignment": "center",
+        "content_layout": "no-overlap",
+        "grid_type": "type1",
+        "imgText-bg-color": "",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rx_img_with_text_slider_PGdhNm": {
+      "type": "rx-img-with-text-slider",
+      "blocks": {
+        "slide_kekqHU": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/850_x_950_650_x_700_px.png",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Balance the Hormones",
+            "description": "<p>Motherhood brings profound hormonal shifts that can impact your well-being. Standard Process endocrine supplement is crafted to support these changes, ensuring hormonal balance and enhancing your overall health. Ideal for busy moms, this supplement helps stabilize mood, boost energy, and promote recovery, helping you feel your best every day.<\/p>",
+            "button_label": "Buy Now",
+            "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-general-female-endocrine-pack-13030"
+          }
+        },
+        "slide_wXHdBt": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/folic-acid-b12-SP_main_1.jpg",
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Folic Acid for Expectant Mothers",
+            "description": "<p>Folic acid and vitamin B12 are essential for expectant mothers, promoting cellular health and supporting fetal nervous system development. These nutrients aid in healthy cell production, regulate homocysteine levels for vascular function, and are crucial for DNA replication. This supplement is a rich source of folate and vitamin B12, helping to reduce the risk of neural tube defects. Start strong with our trusted folic acid and vitamin B12 supplement for a healthier pregnancy.<\/p>",
+            "button_label": "Buy Now",
+            "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-folic-acid-b12-4410"
+          }
+        },
+        "slide_UCQ7Nk": {
+          "type": "slide",
+          "settings": {
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Image with text",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button",
+            "button_link": ""
+          }
+        },
+        "slide_gWeVKx": {
+          "type": "slide",
+          "settings": {
+            "height": "adapt",
+            "desktop_image_width": "medium",
+            "layout": "image_first",
+            "desktop_title_alignment": "left",
+            "desktop_content_alignment": "left",
+            "desktop_button_alignment": "center",
+            "content_layout": "no-overlap",
+            "grid_type": "type1",
+            "show_arrow_mobile": "yes",
+            "mobile_content_alignment": "left",
+            "heading": "Image with text",
+            "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "slide_kekqHU",
+        "slide_wXHdBt",
+        "slide_UCQ7Nk",
+        "slide_gWeVKx"
+      ],
+      "settings": {
+        "desktopMaxWidth": "100%",
+        "auto_play": true
+      }
+    },
     "1645138074eb7eac59": {
       "type": "image-with-text",
       "blocks": {
@@ -359,6 +498,8 @@
     "banner",
     "rx_image_banner_fxy9re",
     "rx_rich_text_Q4A4AD",
+    "rx_img_with_text_H7EBLg",
+    "rx_img_with_text_slider_PGdhNm",
     "1645138074eb7eac59",
     "product-grid",
     "1631859338560c9b4a",
