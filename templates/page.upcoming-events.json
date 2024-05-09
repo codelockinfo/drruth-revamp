@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  MAY 2, 2024 | 12 PM EST",
+            "caption": "Thursday,  MAY 9, 2024 | 12 PM EST",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>HOW TO OPTIMIZE YOUR PET NUTRITION HOLISTICALLY<\/h2><h3><strong>Organic, Natural, and Grain-Free Solutions<\/strong><\/h3><p>Join us for an enlightening discussion a Certified Holistic Pet Health Coach and Certified Professional Canine Nutritionist, Lisa Mayer. Our discussion will explore the importance of holistic nutrition in promoting the health and well-being of our beloved pets. From understanding their unique nutritional needs to incorporating whole foods and supplements. Save the Date!<\/p>",
+            "text": "<h2>GUT CHECK: Unraveling the Link Between Your Pet's Microbiome, Acid Reflux, and GERD<\/h2><h3><\/h3><p>Join us for a live discussion with holistic pet health coach Melissa Natanson as we explore the critical role of the gut microbiome in your pet's health. Learn all about how this hidden organ impacts your pet’s immunity, mood, and overall well-being, and get practical tips on maintaining a healthy gut for both dogs and cats. Don’t miss out—join the live to gain the knowledge you need to keep your pet healthy and happy.<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "button_label": "REGISTER NOW",
-            "button_link": "https:\/\/fb.me\/e\/4wSMjO5nS"
+            "button_link": "https:\/\/www.facebook.com\/events\/1165695177945448\/"
           }
         }
       },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Lumps_Growth_0321_1.png",
+        "image": "shopify:\/\/shop_images\/liver_enzymes_3.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
