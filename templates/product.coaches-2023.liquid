@@ -443,7 +443,6 @@
           <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
           <input min="1" type="number" id="quantity" name="quantity" value="1"/>
           <input type="submit" value="Book A Consult" class="btn" />
-          <input type="contact" value="Coach Contact" class="btn" />
         </form>
       </div>
   </div>
@@ -454,11 +453,7 @@
       <h2>Coach Information</h2>
       {{ product.description }}
     </div>
-  <div class="coach-specialty">
-      <h2>Coach Specialty</h2>
-      {{ product.metafields.custom.coach_specialty }}
-    </div>
-   <div class="coach-contact">
+    <div class="coach-contact">
       <h2>Coach Contact</h2>
       {{ product.metafields.my_fields.product_direction_for_use }}
     </div>
@@ -652,7 +647,7 @@
     box-sizing: border-box;
     border: 2px solid #184B44;
     border-radius: 25.5px;
-    padding: 10px 20px;
+    padding: 7px 20px;
     border-color: #FFFFFF;
     max-width: 30rem;
     margin:0;
