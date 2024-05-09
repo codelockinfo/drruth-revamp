@@ -163,7 +163,7 @@
             "show_arrow_mobile": "yes",
             "mobile_content_alignment": "left",
             "heading": "Vital Vitamin D",
-            "description": "<p>This vitamin is vital for calcium absorption, which is important for maintaining strong bones and preventing osteoporosis, a condition that women are more prone to, especially post-menopause. Vitamin D also supports immune function and may help regulate mood, which is beneficial for mothers who may be at risk of postpartum depression.<\/p>",
+            "description": "<p>Vitamin D is vital for calcium absorption, which is important for maintaining strong bones and preventing osteoporosis, a condition that women are more prone to, especially post-menopause. Vitamin D also supports immune function and may help regulate mood, which is beneficial for mothers who may be at risk of postpartum depression.<\/p>",
             "button_label": "Buy Now",
             "button_link": "https:\/\/drruthroberts.com\/products\/standardprocess-cataplex-d-3405"
           }
@@ -213,25 +213,25 @@
         "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 8
       }
     },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
-        "products_per_page": 16,
+        "products_per_page": 15,
         "columns_desktop": 3,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "show_vendor": true,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "show_special_offer": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "show_special_offer": true,
         "enable_filtering": true,
-        "filter_type": "vertical",
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
-        "padding_top": 36,
+        "padding_top": 8,
         "padding_bottom": 36,
         "rating": 5
       }
@@ -339,84 +339,6 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "165201878157f8e3c2": {
-      "type": "featured-product",
-      "blocks": {
-        "1652018781cc8ebc8e-0": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "1652018781cc8ebc8e-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "1652018781cc8ebc8e-2": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.metafields.descriptors.subtitle.value }}",
-            "text_style": "subtitle"
-          }
-        },
-        "1652018781cc8ebc8e-3": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "1652018781cc8ebc8e-4": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "1652018781cc8ebc8e-5": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "1652018781cc8ebc8e-6": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "1652018781cc8ebc8e-7": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "1652018781cc8ebc8e-0",
-        "1652018781cc8ebc8e-1",
-        "1652018781cc8ebc8e-2",
-        "1652018781cc8ebc8e-3",
-        "1652018781cc8ebc8e-4",
-        "1652018781cc8ebc8e-5",
-        "1652018781cc8ebc8e-6",
-        "1652018781cc8ebc8e-7"
-      ],
-      "disabled": true,
-      "settings": {
-        "product": "standardprocess-general-female-endocrine-pack-13030",
-        "color_scheme": "background-1",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
@@ -427,7 +349,6 @@
     "rx_rich_text_pxCkEY",
     "product-grid",
     "1631859338560c9b4a",
-    "16451381264ffdaa6a",
-    "165201878157f8e3c2"
+    "16451381264ffdaa6a"
   ]
 }
