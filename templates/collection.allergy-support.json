@@ -37,6 +37,7 @@
         "div {padding: 10px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/3_460808f2-0175-4325-9466-ed0dd936c712.png",
         "height": "medium",
         "desktop_image_width": "small",
@@ -84,6 +85,7 @@
         "h2 {padding-left: 0px; margin: 0px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/Chill_the_Itch_2.png",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -276,6 +278,12 @@
           "settings": {
             "collection": "general-detox-protocol"
           }
+        },
+        "featured_collection_qaxkAe": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kidney-support"
+          }
         }
       },
       "block_order": [
@@ -283,7 +291,8 @@
         "template--14921794682945__f525100b-5ff5-467f-8606-8bf2355d3092-featured_collection-2",
         "template--14921794682945__f525100b-5ff5-467f-8606-8bf2355d3092-featured_collection-3",
         "aeb17cd2-7b40-4706-bfd0-f2f76c023de9",
-        "774d28fb-1757-496a-9ad2-4120e621cbb1"
+        "774d28fb-1757-496a-9ad2-4120e621cbb1",
+        "featured_collection_qaxkAe"
       ],
       "custom_css": [
         "h2 {font-family: \"BLT-heirloom\", sans-serif; margin: 0 auto; font-size: 25px; padding-top: 30px;}",
@@ -295,7 +304,7 @@
         "title": "See More Pet Protocols",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 5,
+        "columns_desktop": 3,
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
