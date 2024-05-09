@@ -444,16 +444,6 @@
           <input min="1" type="number" id="quantity" name="quantity" value="1"/>
           <input type="submit" value="Book A Consult" class="btn" />
         </form>
-        <form method="get" action="{{ product.metafields.my_fields.product_direction_for_use }}">
-          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
-          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
-          <input type="submit" value="Learn More About the Coach" class="btn" />
-        </form>
-        <form action="mailto:{{ product.metafields.custom.contact_email }}?subject=Inquiry about {{ product.title }}&body=I am interested in learning more about {{ product.title }}. Please send me more details at your earliest convenience." method="get" enctype="text/plain">
-          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
-          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
-          <input type="submit" value="Send Email" class="btn" />
-        </form>
       </div>
   </div>
 </div>
@@ -463,13 +453,11 @@
       <h2>Coach Information</h2>
       {{ product.description }}
     </div>
-    <div class="coach-specialty">
-      <h2>Coach Specialty</h2>
-      {{ product.metafields.custom.coach_specialty }}
+    <div class="coach-contact">
+      <h2>Coach Contact</h2>
+      {{ product.metafields.my_fields.product_direction_for_use }}
     </div>
 </div>
-
-
 
 <div 
   class="rx-reviews"
@@ -644,7 +632,7 @@
 
   .section-template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137 .rx_banner__text {
     font-family: "Josefin Sans";
-    font-weight: 400;
+    font-weight: normal;
     font-size: 18px;
     line-height: 30px;
     margin-bottom: 20px;
@@ -653,7 +641,7 @@
 
   .section-template--14969681084481__fb7f463b-0835-4876-941d-2251ce392137 .rx_banner__buttons {
     font-family: "Josefin Sans";
-    font-weight: normal;
+    font-weight: 500;
     font-size: 14px;
     color: #FFFFFF;
     box-sizing: border-box;
