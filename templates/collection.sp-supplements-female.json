@@ -28,7 +28,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Get a Gift!",
-            "button_link_1": "shopify:\/\/collections\/womens-health"
+            "button_link_1": "#5"
           }
         }
       },
