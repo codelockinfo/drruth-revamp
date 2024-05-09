@@ -28,7 +28,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Get a Gift!",
-            "button_link_1": ""
+            "button_link_1": "shopify:\/\/collections\/womens-health"
           }
         }
       },
@@ -182,51 +182,38 @@
         "auto_play": true
       }
     },
-    "1645138074eb7eac59": {
-      "type": "image-with-text",
+    "rx_rich_text_pxCkEY": {
+      "type": "rx-rich-text",
       "blocks": {
-        "164513807442a683d3-0": {
+        "heading_PiYpWq": {
           "type": "heading",
           "settings": {
-            "heading": "Good Health Comes from Good Nutrition.",
-            "heading_size": "h1"
+            "heading": "<p>Mother's Day Care Package<\/p>"
           }
         },
-        "164513807442a683d3-1": {
+        "text_jL7tfY": {
           "type": "text",
           "settings": {
-            "text": "<p>Together, Standard Process and Dr. Ruth Roberts share insights and take a holistic approach to advance health by supporting the body’s interrelated systems, rather than simply treating the symptoms.<\/p><p>Shop Holistic Supplements from Standard Process Collections from Dr. Ruth's holistic wellness store today to help you and your loved ones be happy and healthy for many years to come.<\/p><p><\/p>",
-            "text_style": "body"
-          }
-        },
-        "164513807442a683d3-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "text": "<p>Standard Process and Dr. Ruth Roberts share visions to advance health through a holistic approach, focusing on supporting the body’s interconnected systems rather than just treating symptoms. These supplements are specially curated collections aimed at enhancing women's health, providing comprehensive support for wellness and vitality. Shop now to experience the benefits of our holistic approach to women's health.<\/p>"
           }
         }
       },
       "block_order": [
-        "164513807442a683d3-0",
-        "164513807442a683d3-1",
-        "164513807442a683d3-2"
+        "heading_PiYpWq",
+        "text_jL7tfY"
       ],
-      "disabled": true,
+      "custom_css": [
+        "p {font-weight: normal; font-size: 0.6em;}"
+      ],
       "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/Supports_a_healthy_endocrine_system_and_overall_well-being_1.jpg",
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "product-grid": {
@@ -437,7 +424,7 @@
     "rx_image_banner_fxy9re",
     "rx_rich_text_Q4A4AD",
     "rx_img_with_text_slider_PGdhNm",
-    "1645138074eb7eac59",
+    "rx_rich_text_pxCkEY",
     "product-grid",
     "1631859338560c9b4a",
     "16451381264ffdaa6a",
