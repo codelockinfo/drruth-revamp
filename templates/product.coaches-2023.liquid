@@ -463,11 +463,17 @@
       <h2>Coach Information</h2>
       {{ product.description }}
     </div>
-    <div class="coach-contact">
+    <div class="coach-specialty">
+      <h2>Coach Specialty</h2>
+      {{ product.metafields.custom.coach_specialty }}
+    </div>
+   <div class="coach-contact">
       <h2>Coach Contact</h2>
       {{ product.metafields.my_fields.product_direction_for_use }}
     </div>
 </div>
+
+
 
 <div 
   class="rx-reviews"
