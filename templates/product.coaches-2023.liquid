@@ -449,6 +449,11 @@
           <input min="1" type="number" id="quantity" name="quantity" value="1"/>
           <input type="submit" value="Contact Coach" class="btn" />
         </form>
+        <form action="mailto:{{ product.metafields.custom.contact_email }}?subject=Inquiry about {{ product.title }}&body=I am interested in learning more about {{ product.title }}. Please send me more details at your earliest convenience." method="get" enctype="text/plain">
+          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+          <input type="submit" value="Send Email" class="btn" />
+        </form>
       </div>
   </div>
 </div>
