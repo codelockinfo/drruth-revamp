@@ -702,8 +702,8 @@
     <div class="rx-product-tab">
       <div class="rx-product-title-tab">
         <button class="tablinks active" onclick="openTab(event, 'Description')">COACH INFORMATION</button>
-        <button class="tablinks" onclick="openTab(event, 'Ingredients')">SPECIALTY</button>
-        <button class="tablinks" onclick="openTab(event, 'Instructions')">CONTACT INFORMATION</button>
+        <button class="tablinks" onclick="openTab(event, 'Coach Specialty')">SPECIALTY</button>
+        <button class="tablinks" onclick="openTab(event, 'Contact Information')">CONTACT INFORMATION</button>
       </div>
       
       <div id="Description" class="tabcontent">
@@ -714,10 +714,10 @@
           {%- endif -%}
       </div>
       
-      <div id="Ingredients" class="tabcontent">
+      <div id="Coach Specialty" class="tabcontent">
         <div class="product_tab_content">
-          {%- if product.metafields.custom.revamp_ingredients != blank -%}
-            {{block.settings.ingredients_content}}
+          {%- if product.metafields.custom.coach.specialty != blank -%}
+            {{block.settings.specialty_content}}
           {%- elsif product.metafields.my_fields._1_badge_text_4 != blank -%}
             {{product.metafields.my_fields._1_badge_text_4}}
           {%- else -%}
@@ -726,10 +726,10 @@
         </div>
       </div>
       
-      <div id="Instructions" class="tabcontent">
+      <div id="Contact Information" class="tabcontent">
         <div class="product_tab_content">
-          {%- if product.metafields.custom.revamp_instruction != blank -%}
-            {{block.settings.instructions_content}}
+          {%- if product.metafields.custom.contact_information != blank -%}
+            {{block.settings.contact_information_content}}
           {%- elsif product.metafields.custom.revamp_instruction_image != blank-%}
             {{block.settings.instructions_content_image | image_url: width: 500
               | image_tag:
@@ -744,11 +744,6 @@
         </div >
       </div>     
       
-      <div id="Shipping" class="tabcontent">
-        <div class="product_tab_content">
-          {{block.settings.shipping_content}}
-        </div>
-      </div>  
 
     </div>  
   {% endfor %}
