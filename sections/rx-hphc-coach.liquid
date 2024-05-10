@@ -718,6 +718,8 @@
         <div class="product_tab_content">
           {%- if product.metafields.custom.coach_specialty != blank -%}
             {{block.settings.specialty_content}}
+          {%- elsif product.metafields.my_fields._1_badge_text_4 != blank -%}
+            {{product.metafields.my_fields._1_badge_text_4}}
           {%- else -%}
             <p></p>
           {%- endif -%}
@@ -1104,7 +1106,7 @@
           "type": "checkbox",
           "id": "show_add_to_cart_button",
           "default": true,
-          "label": "Show add to cart"
+          "label": "Book a Consult"
         }
       ]
     },
