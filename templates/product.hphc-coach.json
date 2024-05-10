@@ -48,8 +48,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
-            "ingredients_content": "<p>{{ product.metafields.custom.coach_specialty | metafield_tag }}<\/p>",
-            "instructions_content": "<p>{{ product.metafields.custom.contact_information | metafield_tag }}<\/p>",
+            "Coach_Specialty_content": "<p>{{ product.metafields.custom.coach_specialty | metafield_tag }}<\/p>",
+            "Contact_Information_content": "<p>{{ product.metafields.custom.contact_information | metafield_tag }}<\/p>",
             "shipping_content": ""
           }
         },
