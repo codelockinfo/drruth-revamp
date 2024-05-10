@@ -111,7 +111,7 @@
         "template--14911504744513__0160467d-6f81-456d-840c-d702483cbcf3-1681971976dda4d2d8-0": {
           "type": "heading",
           "settings": {
-            "heading": "<p>You may also like<\/p>"
+            "heading": "<p>See more coachs<\/p>"
           }
         }
       },
@@ -145,6 +145,7 @@
       "block_order": [
         "ecef0dd1-fa9c-413a-aa90-4bd5bbd8294d"
       ],
+      "disabled": true,
       "custom_css": [
         ".rebuy-widget .rebuy-product-block .rebuy-product-actions {display: none; margin: 0 !important;}",
         ".rebuy-widget {padding: 0 !important;}",
@@ -286,6 +287,62 @@
         "heading": "FAQ",
         "desc": ""
       }
+    },
+    "featured_collection_3gHiJk": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "coaches",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 8
+      }
+    },
+    "rx_rich_text_L9TNa8": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "button_AWk6cB": {
+          "type": "button",
+          "settings": {
+            "button_label": "View All Coaches",
+            "button_link": "https:\/\/drruthroberts.com\/collections\/coaches",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_AWk6cB"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -296,6 +353,8 @@
     "related-products",
     "1d09831f-d45e-4ae3-8c1d-489ed483a3a4",
     "37d355bc-1320-4afc-b381-56eecc54e273",
-    "faq_accordion_qAWrky"
+    "faq_accordion_qAWrky",
+    "featured_collection_3gHiJk",
+    "rx_rich_text_L9TNa8"
   ]
 }
