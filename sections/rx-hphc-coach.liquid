@@ -716,7 +716,7 @@
       
       <div id="CoachSpecialty" class="tabcontent">
         <div class="product_tab_content">
-          {%- if product.metafields.custom.coach.specialty != blank -%}
+          {%- if product.metafields.custom.coach_specialty != blank -%}
             {{block.settings.specialty_content}}
           {%- elsif product.metafields.my_fields._1_badge_text_4 != blank -%}
             {{product.metafields.my_fields._1_badge_text_4}}
