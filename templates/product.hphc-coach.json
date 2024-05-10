@@ -1,7 +1,7 @@
 {
   "sections": {
     "main": {
-      "type": "rx-main-product",
+      "type": "rx-hphc-coach",
       "blocks": {
         "vendor": {
           "type": "text",
