@@ -30,18 +30,16 @@
           "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "disabled": true,
           "settings": {
-            "product": "{{product}}"
+            "product": "{{ product }}"
           }
         },
         "description": {
           "type": "description",
-          "disabled": true,
           "settings": {
           }
         },
         "caption": {
           "type": "text",
-          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.descriptors.subtitle.value }}",
             "text_style": "subtitle"
