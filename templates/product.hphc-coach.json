@@ -48,6 +48,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
+            "Coach_Specialty": "",
+            "Contact_Information": "",
             "shipping_content": ""
           }
         },
@@ -60,7 +62,7 @@
         "87b6800d-0639-4f48-b6fd-18848b047f30": {
           "type": "buy_buttons",
           "settings": {
-            "show_dynamic_checkout": false
+            "show_dynamic_checkout": true
           }
         },
         "880a5ead-be28-4912-b9d7-5a90d320fa21": {
@@ -93,7 +95,7 @@
         "image_zoom": "lightbox",
         "mobile_thumbnails": "show",
         "hide_variants": false,
-        "enable_video_looping": false,
+        "enable_video_looping": true,
         "padding_top": 24,
         "padding_bottom": 60
       }
@@ -176,7 +178,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "caption_alignment": "center",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
         "padding_top": 20,
