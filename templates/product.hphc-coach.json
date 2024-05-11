@@ -20,11 +20,6 @@
           "settings": {
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
         "0dd44047-53bd-4401-b151-a60aa1b52a8d": {
           "type": "shopify:\/\/apps\/recharge-subscriptions\/blocks\/subscription-widget\/371eed76-0b44-4869-9813-730372ea378e",
           "disabled": true,
@@ -73,7 +68,6 @@
         "vendor",
         "title",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
-        "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
         "description",
         "caption",
