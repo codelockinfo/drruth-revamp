@@ -388,35 +388,6 @@
 
   {% assign variant_images = product.images | where: 'attached_to_variant?', true | map: 'src' %}
 
-  {% if product.metafields.consult.link %}
-    <div class="book-consult-block">
-      <a href="{{ product.metafields.custom.coach_booklink }}" class="book-consult-button" target="_blank">Book a Consult</a>
-    </div>
-
-    <style>
-      .book-consult-block {
-        margin-top: 20px;
-        text-align: center;
-      }
-      .book-consult-button {
-        display: inline-block;
-        background-color: #0073aa;
-        color: white;
-        padding: 10px 20px;
-        font-size: 16px;
-        text-decoration: none;
-        border-radius: 5px;
-        border: none;
-        cursor: pointer;
-        transition: background-color 0.3s ease;
-      }
-      .book-consult-button:hover {
-        background-color: #005a87;
-      }
-    </style>
-  {% else %}
-    <p>No consultation link provided.</p>
-  {% endif %}
 
 
   <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.media_position }} product--{{ section.settings.gallery_layout }} product--mobile-{{ section.settings.mobile_thumbnails }} grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
