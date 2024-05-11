@@ -39,7 +39,10 @@
       color: #5F5E66;
     }
 
-   
+    .rx-{{section.id}} .rx-qty-selector {
+      display: flex;
+      justify-content: space-between;
+    }
 
     .rx-{{section.id}} .rx-buy-button-qty {
       width: 100%;
@@ -714,7 +717,7 @@
       <div id="CoachSpecialty" class="tabcontent">
         <div class="product_tab_content">
           {%- if product.metafields.custom.coach_specialty != blank -%}
-            {{block.settings.Coach_Specialty_content}}
+            {{block.settings.specialty_content}}
           {%- elsif product.metafields.my_fields._1_badge_text_4 != blank -%}
             {{product.metafields.my_fields._1_badge_text_4}}
           {%- else -%}
