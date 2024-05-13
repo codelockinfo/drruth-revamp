@@ -48,7 +48,7 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
-            "Coach_Specialty": "<p>{{ product.metafields.custom.coach_specialty | metafield_tag }}<\/p>",
+            "Coach_Specialty": "<p>Testing q<\/p>",
             "Contact_Information": "",
             "shipping_content": ""
           }
