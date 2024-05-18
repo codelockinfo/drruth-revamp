@@ -111,8 +111,9 @@
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Email_campaign_creatives_1.png",
             "title": "Learning to Work With Spirit and Symptoms to Help Animals",
-            "text": "<p>Join us for an engaging session with veterinarian Jeff Feinman, BA, VMD, CVH, who will share insights on enhancing our pets' lives by attentively listening to and engaging with their symptoms. We'll explore how to understand and perceive symptoms as allies, ensuring our pets lead their fullest lives. After an overview of this practical, symptom-focused approach, Dr. Ruth and Jeff will discuss how pet parents can apply these principles to common health challenges.<br\/><br\/>Date: May 23, 2024 12:00 AM - 1:00 AM WIB<br\/>Online event <\/p>",
+            "text": "<p>Join us for an engaging session with veterinarian Jeff Feinman, BA, VMD, CVH, who will share insights on enhancing our pets' lives by attentively listening to and engaging with their symptoms. We'll explore how to understand and perceive symptoms as allies, ensuring our pets lead their fullest lives. After an overview of this practical, symptom-focused approach, Dr. Ruth and Jeff will discuss how pet parents can apply these principles to common health challenges.<br\/><br\/><strong>Date: May 22, 2024 12:00 AM - 1:00 AM WIB<br\/>Place: Online event <\/strong><\/p>",
             "link_label": "Sign Up Here",
             "link": "https:\/\/event.on24.com\/wcc\/r\/4568145\/67040B919D9C8AD4F3CE1843C2EA4C43"
           }
@@ -152,18 +153,18 @@
         "custom_class": "",
         "title": "",
         "heading_size": "h0",
-        "image_width": "full",
+        "image_width": "half",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 1,
         "column_alignment": "center",
-        "background_style": "primary",
+        "background_style": "none",
         "button_label": "Button label",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 48,
+        "padding_bottom": 48
       }
     },
     "fadcc9ee-5901-42d9-8139-51be2d304bad": {
