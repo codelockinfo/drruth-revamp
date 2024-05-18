@@ -121,6 +121,7 @@
         "column_BccB3j": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/best_in_show_spotlight_finalists_2024.png",
             "title": "Petcare Innovation Europe",
             "text": "<h4><strong>BEST IN SHOW SPOTLIGHT<\/strong><\/h4><h4><strong>Agenda:<\/strong> Dr. Ruth Roberts will attend and present the HPHC program in the 'Best In Show' Spotlight.<br\/><\/h4><h4><\/h4><p><strong>Date: June 4-5, 2024<br\/>Time: 11 am - 3 pm<\/strong><\/p><p><strong>Place: Hotel Berlin, Berlin<\/strong><\/p><p><\/p>",
             "link_label": "Book Your Place",
@@ -153,9 +154,9 @@
         "custom_class": "",
         "title": "",
         "heading_size": "h0",
-        "image_width": "half",
+        "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 1,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "Button label",
