@@ -108,6 +108,15 @@
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
       "type": "multicolumn",
       "blocks": {
+        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Learning to Work With Spirit and Symptoms to Help Animals",
+            "text": "<p>Join us for an engaging session with veterinarian Jeff Feinman, BA, VMD, CVH, who will share insights on enhancing our pets' lives by attentively listening to and engaging with their symptoms. We'll explore how to understand and perceive symptoms as allies, ensuring our pets lead their fullest lives. After an overview of this practical, symptom-focused approach, Dr. Ruth and Jeff will discuss how pet parents can apply these principles to common health challenges.<br\/><br\/>Date: May 23, 2024 12:00 AM - 1:00 AM WIB<br\/>Online event <\/p>",
+            "link_label": "Sign Up Here",
+            "link": "https:\/\/event.on24.com\/wcc\/r\/4568145\/67040B919D9C8AD4F3CE1843C2EA4C43"
+          }
+        },
         "column_BccB3j": {
           "type": "column",
           "settings": {
@@ -115,16 +124,6 @@
             "text": "<h4><strong>Best In Show Spotlight <\/strong><\/h4><p><strong>June 4-5, 2024<br\/>11 am - 3 pm<\/strong><\/p><p><strong>Hotel Berlin, Berlin<\/strong><\/p><p><strong>Agenda:<\/strong> Dr. Ruth Roberts will attend and present the HPHC program in the 'Best In Show' Spotlight.<\/p>",
             "link_label": "Book Your Place",
             "link": "https:\/\/www.petcareinnovationeurope.com\/events\/petcare-innovation-europe-2024"
-          }
-        },
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "title": "The BK Pets Modern Dog Parent Book Tour",
-            "text": "<h2>BARK & LUV<\/h2><p><strong>April 28, 2024<\/strong><\/p><p>10am - 4pm<\/p><p>7131 W Ray Road Ste 22<\/p><p>Chandler, AZ 85226<\/p><p><strong>Speakers:<\/strong> Bryce & Kenzie, Angela Ardolino, Dr. Ruth Roberts & Roxanne Stone<\/p>",
-            "link_label": "Sign Up Here",
-            "link": "https:\/\/www.eventbrite.com\/e\/the-bk-pets-book-tour-bark-luv-tickets-873981059877?aff=oddtdtcreator"
           }
         },
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
@@ -139,8 +138,8 @@
         }
       },
       "block_order": [
-        "column_BccB3j",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3",
+        "column_BccB3j",
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2"
       ],
       "custom_css": [
@@ -155,7 +154,7 @@
         "heading_size": "h0",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
+        "columns_desktop": 2,
         "column_alignment": "center",
         "background_style": "primary",
         "button_label": "Button label",
