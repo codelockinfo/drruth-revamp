@@ -48,9 +48,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
-            "Coach_Specialty": "<p>Testing q<\/p>",
-            "Contact_Information": "",
-            "shipping_content": ""
+            "Coach_Specialty": "{{ product.metafields.custom.coach_specialty | metafield_tag }}",
+            "Contact_Information": "{{ product.metafields.custom.contact_information | metafield_tag }}"
           }
         },
         "c3949539-dd47-4db5-86e8-4b2143f24749": {
