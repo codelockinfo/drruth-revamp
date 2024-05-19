@@ -41,8 +41,8 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "product.metafields.my_fields.product_direction_for_use",
-            "text_style": "body"
+            "text": "{{ product.metafields.custom.active_ingredients | metafield_text }}",
+            "text_style": "subtitle"
           }
         },
         "c50958db-6d62-42c8-8a47-729c390a856f": {
