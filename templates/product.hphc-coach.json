@@ -69,7 +69,7 @@
         "880a5ead-be28-4912-b9d7-5a90d320fa21": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div class=\"product__tax caption rte\"><a href=\"\/policies\/shipping-policy\">Shipping<\/a> calculated at checkout.\n<\/div>"
+            "custom_liquid": ""
           }
         }
       },
