@@ -49,8 +49,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
-            "Coach_Specialty": "<p>{{ product.vendor }}<\/p>",
-            "Contact_Information": "<p>{{ product.metafields[\"Consult-button\"].redirect | metafield_tag }}<\/p>",
+            "Coach_Specialty": "",
+            "Contact_Information": "{{ product.metafields.custom.contact_info | metafield_tag }}",
             "shipping_content": ""
           }
         },
