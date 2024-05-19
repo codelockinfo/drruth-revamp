@@ -24,7 +24,6 @@
           "type": "quantity_selector",
           "disabled": true,
           "settings": {
-            "show_add_to_cart_button": true
           }
         },
         "0dd44047-53bd-4401-b151-a60aa1b52a8d": {
@@ -42,7 +41,7 @@
         "caption": {
           "type": "text",
           "settings": {
-            "text": "",
+            "text": "product.metafields.my_fields.product_direction_for_use",
             "text_style": "body"
           }
         },
