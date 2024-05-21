@@ -641,7 +641,7 @@
               
                 {% if block.settings.show_add_to_cart_button %}
                   {% comment %} <div class="rx-buy-button-qty">
-                  {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
+                    <input type="button" value="Book A Consult" class="btn" onclick="window.location='{{ product.metafields.custom.coach_booklink }}'"/>
                   </div> {% endcomment %}
                   <div class="rx-custom-price">
                     <div id="rx-subs-price"></div>
