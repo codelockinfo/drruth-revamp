@@ -133,7 +133,7 @@
     "featured_collection_3gHiJk": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
