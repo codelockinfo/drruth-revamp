@@ -731,6 +731,11 @@
              {{ product.metafields.custom.contact_info }}
            {%- else -%}
             <p>No contact information available.</p>
+           {%- elsif product.metafields.my_fields._1_badge_text_3 != blank -%}
+            {{product.metafields.my_fields._1_badge_text_3}}
+          {%- else -%}
+            <p></p>
+
         {%- endif -%}
         </div >
       </div>     
