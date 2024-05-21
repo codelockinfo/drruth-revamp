@@ -60,7 +60,7 @@
             "heading": "Explore Our Holistic Pet Health Blog",
             "description": "<p>Gain valuable insights and advice on natural pet care, nutrition, and wellness from our expert.<\/p>",
             "button_label": "READ MORE",
-            "button_link": "http:\/\/blog.drruthroberts.com\/holistic-pet-health-blog\/"
+            "button_link": "https:\/\/drruthroberts.com\/blogs\/pet-blog"
           }
         }
       },
@@ -867,7 +867,7 @@
         "b20df904-d941-4f21-a506-65b94005d4e8"
       ],
       "custom_css": [
-        "p{font-size: 20px;}"
+        "p {font-size: 20px;}"
       ],
       "settings": {
         "desktop_content_position": "center",
