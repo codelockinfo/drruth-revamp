@@ -436,7 +436,8 @@
                     data-id="{{ product.id }}" 
                     data-product-sku="{{ product.handle }}" 
                     data-product-title="{{product.title}}" 
-                    data-product-type="{{product.type}}" 
+                    data-product-type="{{product.type}}"
+                    data-product-price=" {{ product.price }}"
                     style="display: block;">
                     {{product.metafields.stamped.badge}}
                   </div>
@@ -450,8 +451,10 @@
                     show_badges: true
                   -%}
                 </div> {% endcomment %}
-               
+               <!-- Direct price display -->
+                 <div class="coach-price">{{ product.price | money_with_currency }}</div>
               </div>
+            
               {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
                 <div class="product__tax caption rte">
                   {%- if shop.taxes_included -%}
