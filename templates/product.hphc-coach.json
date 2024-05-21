@@ -22,7 +22,6 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "disabled": true,
           "settings": {
             "show_book_consult_button": true
           }
@@ -49,8 +48,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f": {
           "type": "rx_product_tab",
           "settings": {
-            "Coach_Specialty": "{{product.metafields.custom.coach_specialty | metafield_tag }}",
-            "Contact_Information": "{{ product.metafields.custom.coach_contact | metafield_tag }}",
+            "Coach_Specialty": "<p>{{ product.metafields.custom.coach_specialty | metafield_tag }}<\/p>",
+            "Contact_Information": "<p>{{ product.metafields.custom.coach_contact | metafield_tag }}<\/p>",
             "shipping_content": ""
           }
         },
@@ -133,7 +132,7 @@
     "featured_collection_3gHiJk": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
