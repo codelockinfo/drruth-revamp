@@ -717,35 +717,24 @@
       <div id="CoachSpecialty" class="tabcontent">
         <div class="product_tab_content">
           {%- if product.metafields.custom.coach_specialty != blank -%}
-            {{block.settings.specialty_content}}
-          {%- elsif product.metafields.my_fields._1_badge_text_4 != blank -%}
-            {{product.metafields.my_fields._1_badge_text_4}}
-          {%- else -%}
-            <p></p>
-          {%- endif -%}
-        </div>
+             {{ product.metafields.custom.coach_specialty }}
+           {%- else -%}
+          <p>No specialty content available.</p>
+        {%- endif -%}
       </div>
+    </div>
+
       
       <div id="ContactInformation" class="tabcontent">
         <div class="product_tab_content">
-          {%- if product.metafields.custom.contact_information != blank -%}
-            {{block.settings.contact_information_content}}
-          {%- elsif product.metafields.custom.revamp_instruction_image != blank-%}
-            {{block.settings.instructions_content_image | image_url: width: 500
-              | image_tag:
-                loading: 'lazy',
-                width: 500
-            }}
-          {%- elsif product.metafields.my_fields._1_badge_text_3 != blank -%}
-            {{product.metafields.my_fields._1_badge_text_3}}
-          {%- else -%}
-            <p></p>
-          {%- endif -%}
+          {%- if product.metafields.custom.contact_info != blank -%}
+             {{ product.metafields.custom.contact_info }}
+           {%- else -%}
+            <p>No contact information available.</p>
+        {%- endif -%}
         </div >
       </div>     
       
-
-    </div>  
   {% endfor %}
 
   <script>
