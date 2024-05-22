@@ -63,8 +63,15 @@
         },
         "book_a_consult_AMMVHj": {
           "type": "book-a-consult",
+          "disabled": true,
           "settings": {
             "button_text": "Book A Consult"
+          }
+        },
+        "buy_buttons_UM3B8f": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
           }
         }
       },
@@ -78,7 +85,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "880a5ead-be28-4912-b9d7-5a90d320fa21",
-        "book_a_consult_AMMVHj"
+        "book_a_consult_AMMVHj",
+        "buy_buttons_UM3B8f"
       ],
       "settings": {
         "enable_sticky_info": false,
