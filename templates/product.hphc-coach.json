@@ -73,6 +73,12 @@
           "settings": {
             "custom_liquid": ""
           }
+        },
+        "book_a_consult_AMMVHj": {
+          "type": "book-a-consult",
+          "settings": {
+            "button_text": "Book A Consult"
+          }
         }
       },
       "block_order": [
@@ -86,7 +92,8 @@
         "c50958db-6d62-42c8-8a47-729c390a856f",
         "c3949539-dd47-4db5-86e8-4b2143f24749",
         "87b6800d-0639-4f48-b6fd-18848b047f30",
-        "880a5ead-be28-4912-b9d7-5a90d320fa21"
+        "880a5ead-be28-4912-b9d7-5a90d320fa21",
+        "book_a_consult_AMMVHj"
       ],
       "settings": {
         "enable_sticky_info": false,
