@@ -58,7 +58,7 @@
         "880a5ead-be28-4912-b9d7-5a90d320fa21": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "<div> \n<p> Book Consultation <\/p>\n<\/div> \n\n<style>\ndiv p {\n  text-align: center;\n  font-weight: normal;\n}\n<\/style>"
+            "custom_liquid": "<div> \n<p> Book Consultation <\/p>\n<\/div> \n\n<style>\ndiv p {\n  font-weight: normal;\n}\n<\/style>"
           }
         },
         "book_a_consult_AMMVHj": {
