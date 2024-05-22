@@ -553,7 +553,7 @@
                 <div
                   id="Quantity-Form-{{ section.id }}"
                   class="product-form__input product-form__quantity{% if settings.inputs_shadow_vertical_offset != 0 and settings.inputs_shadow_vertical_offset < 0 %} product-form__quantity-top{% endif %}"
-                    {{ block.shopify_attributes }}
+                  {{ block.shopify_attributes }}
                 >
                   
                   {% comment %} TODO: enable theme-check once `item_count_for_variant` is accepted as valid filter {% endcomment %}
@@ -685,6 +685,12 @@
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
             {%- when 'buy_buttons' -%}
               {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
+            {%- when 'book-a-consult' -%}
+                <form method="post" action="/cart/add">
+                  <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
+                  <input min="1" type="number" id="quantity" name="quantity" value="1"/>
+                  <input type="button" value="{{ block.settings.button_text }}" class="btn" onclick="window.location='{{ product.metafields.custom.coach_booklink }}'"/>
+                  </form>
             {%- when 'icon-with-text' -%}
               {% render 'icon-with-text',
                 block: block
@@ -838,11 +844,7 @@
     }) {% endcomment %}
     {% comment %} const config = {
       productId: {{product.id}}, // Required
-      <form method="post" action="/cart/add">
-          <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
-          <input min="1" type="number" id="quantity" name="quantity" value="1"/>
-          <input type="button" value="Book A Consult" class="btn" onclick="window.location='{{ product.metafields.custom.coach_booklink }}'"/>
-        </form>
+      injectionParent: 'form[action*="cart/add"]', // The node that will have the widget injected in
       injectionMethod: 'prepend', // How will the widget be injected 
       injectFn: (node, target) => {}, // Runs a custom injection function 
       selectors: {
