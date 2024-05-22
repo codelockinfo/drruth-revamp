@@ -721,7 +721,7 @@
               {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
             {%- when 'book-a-consult' -%}
                 <form method="post" action="/cart/add">
-                  <input type="hidden" name="id" value="{{ product.variants.first.id }}" /
+                  <input type="hidden" name="id" value="{{ product.variants.first.id }}" />
                   <input type="button" value="{{ block.settings.button_text }}" class="btn" onclick="window.location='{{ product.metafields.custom.coach_booklink }}'"/>
                   </form>
             {%- when 'icon-with-text' -%}
@@ -1139,19 +1139,6 @@
           "id": "show_inventory_quantity",
           "label": "t:sections.main-product.blocks.inventory.settings.show_inventory_quantity.label",
           "default": true
-        }
-      ]
-    },
-    {
-      "type": "quantity_selector",
-      "name": "t:sections.main-product.blocks.quantity_selector.name",
-      "limit": 1,
-      "settings": [
-        {
-          "type": "checkbox",
-          "id": "show_book_consult_button",
-          "default": true,
-          "label": "Show 'Book A Consult' button"
         }
       ]
     },
