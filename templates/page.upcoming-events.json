@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  MAY 23, 2024 | 12 PM EST",
+            "caption": "Thursday,  MAY 30, 2024 | 12 PM EST",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>ALLOPATHIC VS HOLISTIC: Where Allopathic Medicine Intersect with Holistic Pet Care<\/h2><h3><\/h3><p>Join us for an enlightening discussion led by Audrey Moyna, PharmD, a Certified Clinical Aromatherapist, and Certified Holistic Pet Health Practitioner, on the intersection of Allopathic and holistic approaches in pet care.  Audrey will share her unique journey from a traditional pharmacy background to embracing holistic health practices, highlighting the pivotal moments and experiences that shaped her holistic approach to pet care. Learn about the benefits of combining these methodologies and gain insights into practical applications for enhancing your pets' well-being<\/p>",
+            "text": "<h2>COW HUG THERAPY: How The Gentle Barn Animals Teach Us About Life, Death, and Healing<\/h2><p>Join us on May 30th at 12 PM Eastern \/ 6 PM CEST for a session on Cow Hug Therapy with Dr. Jeff Feinman and Ellie Laks! <\/p><p>Learn how cow hugs reduce stress, boost positivity, and promote healing.  Ellie Laks, founder of Gentle Barn, will share stories from her new book, and Dr. Jeff Feinman, a holistic vet and founder of Holistic Actions, will discuss combining conventional and natural pet care.<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "button_label": "REGISTER NOW",
-            "button_link": "https:\/\/fb.me\/e\/267NgCw7M"
+            "button_link": "https:\/\/www.facebook.com\/events\/752938693589313\/"
           }
         }
       },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Appearances_and_events_2.png",
+        "image": "shopify:\/\/shop_images\/Appearances_and_events_3.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
