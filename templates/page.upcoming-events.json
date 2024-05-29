@@ -110,6 +110,7 @@
       "blocks": {
         "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Email_campaign_creatives_1.png",
             "title": "Learning to Work With Spirit and Symptoms to Help Animals",
