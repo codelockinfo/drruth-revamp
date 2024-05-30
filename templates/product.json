@@ -281,13 +281,29 @@
             "title": "{{ product.metafields.custom.faq4.value }}",
             "detail": "<p>{{ product.metafields.custom.faq_a4 | metafield_tag }}<\/p>"
           }
+        },
+        "faq_HgqiGg": {
+          "type": "FAQ",
+          "settings": {
+            "title": "{{ product.metafields.custom.faq5.value }}",
+            "detail": "<p>{{ product.metafields.custom.faq_a5 | metafield_tag }}<\/p>"
+          }
+        },
+        "faq_LaVXf8": {
+          "type": "FAQ",
+          "settings": {
+            "title": "{{ product.metafields.custom.faq6.value }}",
+            "detail": "<p>{{ product.metafields.custom.faq_a6 | metafield_tag }}<\/p>"
+          }
         }
       },
       "block_order": [
         "faq_aYfpQE",
         "faq_Wf66tj",
         "faq_49gTVU",
-        "faq_XYnhz4"
+        "faq_XYnhz4",
+        "faq_HgqiGg",
+        "faq_LaVXf8"
       ],
       "custom_css": [
 
