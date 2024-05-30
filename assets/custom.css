@@ -497,3 +497,7 @@ a.elementor-toggle-title {
 #variant-selects-template--14921794322497__main .product-form__input .select {
     max-width: 100%;
 }
+#variant-selects-template--14921794322497__main .product-form__input .select:after{
+  box-shadow : none;
+  border : 2px solid #184b44;
+}
