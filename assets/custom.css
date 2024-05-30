@@ -486,3 +486,14 @@ a.elementor-toggle-title {
   display: block;
 }
 /*Accordion End*/
+
+
+
+/* varaiants  */
+
+#variant-selects-template--14921794322497__main .product-form__input{
+  max-width : 100%;
+}
+#variant-selects-template--14921794322497__main .product-form__input .product-form__input .select {
+    max-width: 100%;
+}
