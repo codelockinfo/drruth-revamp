@@ -515,3 +515,8 @@ a.elementor-toggle-title {
   font-size: 14px;
   color : #000;
 }
+@media(max-width : 575px){
+  #ProductInfo-template--14921794322497__main .rx_product__text:nth-of-type(2){
+    font-size: 12px;
+  }
+}
