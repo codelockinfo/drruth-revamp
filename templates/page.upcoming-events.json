@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  MAY 30, 2024 | 12 PM EST",
+            "caption": "Thursday,  June 6, 2024 | 12 PM ET",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,7 +29,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>COW HUG THERAPY: How The Gentle Barn Animals Teach Us About Life, Death, and Healing<\/h2><p>Join us on May 30th at 12 PM Eastern \/ 6 PM CEST for a session on Cow Hug Therapy with Dr. Jeff Feinman and Ellie Laks! <\/p><p>Learn how cow hugs reduce stress, boost positivity, and promote healing.  Ellie Laks, founder of Gentle Barn, will share stories from her new book, and Dr. Jeff Feinman, a holistic vet and founder of Holistic Actions, will discuss combining conventional and natural pet care.<\/p>",
+            "text": "<h2>NEUROMODULATION TECHNIQUE (NMT): Transforming Autism Behaviors with NMT – A Live Discussion with Luminara Serdar<\/h2><p>Join us for a live discussion with Luminara Serdar, an autism transformation expert, to explore how NeuroModulation Technique (NMT) can help transform challenging autism behaviors. Learn about effective strategies for addressing the root causes of these behaviors, improving your child's quality of life.<\/p>",
             "text_style": "body"
           }
         },
@@ -37,7 +37,7 @@
           "type": "button",
           "settings": {
             "button_label": "REGISTER NOW",
-            "button_link": "https:\/\/www.facebook.com\/events\/752938693589313\/"
+            "button_link": "https:\/\/www.facebook.com\/share\/e8ikgeRHcs1CCQ27\/"
           }
         }
       },
@@ -58,7 +58,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Appearances_and_events_3.png",
+        "image": "shopify:\/\/shop_images\/Appearances_and_events.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
