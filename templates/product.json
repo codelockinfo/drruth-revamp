@@ -15,6 +15,13 @@
           "settings": {
           }
         },
+        "text_JPb8ck": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.text_under_title.value }}",
+            "text_style": "body"
+          }
+        },
         "751d134f-73fe-4141-86b2-938f1aeacb83": {
           "type": "price",
           "settings": {
@@ -77,6 +84,7 @@
       "block_order": [
         "vendor",
         "title",
+        "text_JPb8ck",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
