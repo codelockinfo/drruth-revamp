@@ -510,3 +510,7 @@ a.elementor-toggle-title {
     color: #1E1E1E;
     height : 50px !important
 }
+#ProductInfo-template--14921794322497__main .rx_product__text:nth-of-type(2){
+  font-style: italic;
+  font-size: 14px;
+}
