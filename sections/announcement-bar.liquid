@@ -1,56 +1,9 @@
-{%- style -%}
-    .announcement-bar {
-  background-color: var(--color-accent-1, #ffcc00); /* Default to accent-1 color */
-  color: var(--color-text, #ffffff); /* Default text color */
-  padding: 10px 20px;
-  text-align: center;
-  font-size: 16px;
-}
-
-.announcement-bar a.announcement-bar__link {
-  color: inherit; /* Inherit color from the announcement bar */
-  text-decoration: none;
-  font-weight: bold;
-}
-
-.announcement-bar__message {
-  margin: 0;
-}
-
-.announcement-bar__message.left {
-  text-align: left;
-}
-
-.announcement-bar__message.center {
-  text-align: center;
-}
-
-.announcement-bar__message.right {
-  text-align: right;
-}
-
-.color-accent-1 {
-  background-color: var(--color-accent-1, #ffcc00);
-}
-
-.color-accent-2 {
-  background-color: var(--color-accent-2, #00ccff);
-}
-
-.color-background-1 {
-  background-color: var(--color-background-1, #ffffff);
-}
-
-.color-background-2 {
-  background-color: var(--color-background-2, #f2f2f2);
-}
-
-.color-inverse {
-  background-color: var(--color-inverse, #333333);
-}
-
-{%- endstyle -%}
-
+<section
+  id="AnnouncementBar-{{ section.id }}"
+  class="announcement-bar-section page-width"
+  data-section="{{ section.id }}"
+>
+  {{ 'announcement-bar.css' | asset_url | stylesheet_tag }}
 
 {% if collection.title == "All" %}
 {%- for block in section.blocks -%}
