@@ -13,32 +13,10 @@
             "color_scheme": "accent-1",
             "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
           }
-        },
-        "e1770a70-d299-486e-8192-16f36df50528": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_alignment": "center",
-            "color_scheme": "accent-1",
-            "link": ""
-          }
-        },
-        "159f6696-b0fe-4f83-8c66-b372b30b0e45": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Welcome to our store",
-            "text_alignment": "center",
-            "color_scheme": "accent-1",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "e1770a70-d299-486e-8192-16f36df50528",
-        "159f6696-b0fe-4f83-8c66-b372b30b0e45"
+        "announcement-bar-0"
       ],
       "settings": {
       }
