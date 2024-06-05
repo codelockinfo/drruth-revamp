@@ -13,20 +13,10 @@
             "color_scheme": "accent-1",
             "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
           }
-        },
-        "announcement_VPyfyW": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "text_alignment": "center",
-            "color_scheme": "accent-1",
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "announcement_VPyfyW"
+        "announcement-bar-0"
       ],
       "settings": {
       }
