@@ -3,11 +3,12 @@
   class="announcement-bar-section page-width"
   data-section="{{ section.id }}"
 >
+  {{ 'announcement-bar.css' | asset_url | stylesheet_tag }}
+
   <style>
     .announcement-bar {
       background-color: #184B44;
       text-align: center;
-      
     }
 
     .announcement-bar__link {
@@ -23,7 +24,7 @@
       font-size: 1em;
     }
 
-     .blink {
+    .blink {
       animation: blink-animation 1s steps(5, start) infinite;
       -webkit-animation: blink-animation 1s steps(5, start) infinite;
     }
@@ -38,7 +39,8 @@
       to {
         visibility: hidden;
       }
-  </style>  
+    }
+  </style>   
 
   {%- for block in section.blocks -%}
     {%- case block.type -%}
