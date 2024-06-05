@@ -24,6 +24,23 @@
       font-weight: bold;
       font-size: 1em;
     }
+
+     .blink {
+      animation: blink-animation 1s steps(5, start) infinite;
+      -webkit-animation: blink-animation 1s steps(5, start) infinite;
+    }
+
+    @keyframes blink-animation {
+      to {
+        visibility: hidden;
+      }
+    }
+
+    @-webkit-keyframes blink-animation {
+      to {
+        visibility: hidden;
+      }
+    }
   </style>  
 
   {%- for block in section.blocks -%}
