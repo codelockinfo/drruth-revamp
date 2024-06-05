@@ -5,6 +5,26 @@
 >
   {{ 'announcement-bar.css' | asset_url | stylesheet_tag }}
 
+  <style>
+    .announcement-bar {
+      background-color: #184B44;
+      text-align: center;
+      
+    }
+
+    .announcement-bar__link {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .announcement-bar__message {
+      margin: 0;
+      padding: 10px 0;
+      font-family: 'BLT-Heirloom', sans-serif;
+      font-weight: bold;
+      font-size: 1em;
+    }
+  </style>  
 
   {%- for block in section.blocks -%}
     {%- case block.type -%}
