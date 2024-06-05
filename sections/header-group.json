@@ -10,13 +10,16 @@
           "settings": {
             "text": "Become a Certified Holistic Pet Health Coach! Register for the June 19 Workshop Now!",
             "text_alignment": "center",
-            "color_scheme": "background-2",
+            "color_scheme": "accent-1",
             "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
           }
         }
       },
       "block_order": [
         "announcement-bar-0"
+      ],
+      "custom_css": [
+
       ],
       "settings": {
       }
