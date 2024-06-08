@@ -21,7 +21,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  June 6, 2024 | 12 PM ET",
+            "caption": "Thursday,  June 13, 2024 | 12 PM ET",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -29,15 +29,15 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>NEUROMODULATION TECHNIQUE (NMT): Transforming Autism Behaviors with NMT – A Live Discussion with Luminara Serdar<\/h2><p>Join us for a live discussion with Luminara Serdar, an autism transformation expert, to explore how NeuroModulation Technique (NMT) can help transform challenging autism behaviors. Learn about effective strategies for addressing the root causes of these behaviors, improving your child's quality of life.<\/p>",
+            "text": "<h2>BOOSTING IMMUNE DEFENSE: How Regular Organ Health Tests Help Combat Disease<br\/><\/h2><p>Join us to learn how to enhance and maintain a healthy immune system to prevent and effectively fight diseases. Our discussion emphasizes the importance of regular and comprehensive testing to monitor the function of various organs, which play a crucial role in supporting the immune system.<\/p>",
             "text_style": "body"
           }
         },
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "REGISTER NOW",
-            "button_link": "https:\/\/www.facebook.com\/share\/e8ikgeRHcs1CCQ27\/"
+            "button_label": "JOIN US HERE",
+            "button_link": ""
           }
         }
       },
