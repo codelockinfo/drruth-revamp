@@ -78,7 +78,7 @@
           "type": "heading",
           "settings": {
             "heading": "The Biggest Contributor To Chronic Disease in Pets That No One is Talking About",
-            "heading_size": "h1"
+            "heading_size": "h2"
           }
         },
         "caption_7Lt6wX": {
@@ -127,7 +127,7 @@
         "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
+        "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
