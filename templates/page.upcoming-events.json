@@ -58,11 +58,65 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Appearances_and_events_4.png",
+        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_6.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_qAmryF": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ek8NMJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Upcoming Events",
+            "heading_size": "h0"
+          }
+        },
+        "caption_7Lt6wX": {
+          "type": "caption",
+          "settings": {
+            "caption": "Thursday,  June 13, 2024 | 1 PM ET",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "large"
+          }
+        },
+        "text_7qzEbY": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>The biggest contributor to chronic disease in pets that no one is talking about<\/h2><p>Are you ready to uncover the secrets to transforming your pet’s health?<\/p><p>Join us for a very special FREE live Zoom event that I'm co-hosting with Monica Hershaft, the renowned Mystery Illness Expert.<\/p><p>We’re going to explore the hidden connections between your fur baby’s symptoms and the factors you might not even be aware of! 🕵️‍♀️<\/p><p>This isn’t just any talk — it could seriously be a game-changer for your pet's health.This is a chance to dive deep into the hidden connections between your pet's symptoms and the changes you can make to help your fur baby live a happier and healthier life! 🐾<strong>🗓️ Date:<\/strong>June 13, 2024<strong>⏰ Time:<\/strong>10 am PT \/ 1 pm EST<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_wnCNCb": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN US HERE",
+            "button_link": "https:\/\/www.treatthesource.com\/zoom"
+          }
+        }
+      },
+      "block_order": [
+        "heading_ek8NMJ",
+        "caption_7Lt6wX",
+        "text_7qzEbY",
+        "button_wnCNCb"
+      ],
+      "settings": {
+        "unique_class": "pic",
+        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_5.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
@@ -337,6 +391,7 @@
   "order": [
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
+    "image_with_text_qAmryF",
     "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
