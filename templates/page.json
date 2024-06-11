@@ -8,144 +8,6 @@
         "padding_bottom": 36
       }
     },
-    "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "We Will Do Anything For Their Wellness From Nose To Tail.",
-            "heading_size": "h0"
-          }
-        },
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Transform the Health of Your Beloved Pets: Unlock the Secrets to Optimal Well-being for Your Dogs and Cats through Personalized Online Pet Consulting Service <\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1",
-        "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1"
-      ],
-      "disabled": true,
-      "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/Group_832-min.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "",
-            "text": "<p>Dr. Ruth Roberts’ team of highly trained and certified holistic pet health consultants is here to help you. Book a consultation today and embark on a personalized journey toward improving your beloved dog’s and cat’s quality of life under the guidance of Dr. Ruth Roberts. <\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__33dcf6b1-6e13-44cf-99dd-765cf3a44117-column-1"
-      ],
-      "disabled": true,
-      "custom_css": [
-        ".title-wrapper-with-link {display: flex; justify-content: center; margin-bottom: 0; margin-top: 35px;}",
-        ".multicolumn .title {font-family: \"BLT-Heirloom\"; color: #2d4b49; font-weight: 300;}",
-        ".button.button--primary {display: none;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "Why Us?",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 1,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Expertise",
-            "text": "<p>Our pet consultants have undergone rigorous training in holistic pet care by Dr. Ruth Roberts, equipping them with in-depth knowledge and practical skills to address a wide range of health concerns for dogs and cats.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Holistic Approach",
-            "text": "<p>We believe in treating pets as whole beings, considering their physical, emotional, and nutritional needs. Our coaches specialize in holistic approaches that emphasize natural remedies and balanced lifestyles.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Personalized Care",
-            "text": "<p>Each consultation is tailored to your pet's unique needs. Our coaches will listen attentively to your concerns, conduct thorough assessments, and provide customized recommendations to support your pet's well-being.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-1",
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-2",
-        "template--14921792946241__e5035dd7-0d99-448e-9e24-80d60b96ee6c-column-3"
-      ],
-      "disabled": true,
-      "custom_css": [
-        "h3 {font-family: \"BLT-Heirloom\"; font-size: 44px; line-height: 40px; font-weight: 300; min-height: 85px;}",
-        ".button.button--primary {display: none;}",
-        ".multicolumn-card__info {background: #f5f8f1; border-radius: 28px; height: 100%; \/* padding: 6rem 4rem; *\/ padding: 65px 35px;}"
-      ],
-      "settings": {
-        "custom_class": "",
-        "title": "",
-        "heading_size": "h0",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1718122449b405d2db": {
       "type": "apps",
       "blocks": {
@@ -207,14 +69,54 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rich_text_HFyfCJ": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_U7GEwM": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Here’s What You Can Expect:<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_tLwRff": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Insightful Explanations: Learn how various symptoms might be key players in your pet's overall health puzzle.<\/li><li>Live Q&A Session: This is your chance to ask me anything you want – whether about your pet's health, holistic veterinary care, or how they intertwine.<\/li><li>Think about it: this could be the missing piece you’ve been searching for. Imagine starting to sort out those issues that your pet cannot communicate just by addressing the hidden connections that you will find out about in this Zoom!<\/li><\/ul><p>PLUS, for those of you who feel called to help others and have a deeper understanding of how to help our furry friends heal, we are going to go over how to become a holistic health coach for pets and what you can do to find out more about THAT!<\/p><p>As always, feel free to respond to this email with any questions or thoughts. I’m here to help and can’t wait to connect with you during the event.<\/p><p><\/p>"
+          }
+        },
+        "button_gFMXeL": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_U7GEwM",
+        "text_tLwRff",
+        "button_gFMXeL"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "left",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
-    "33dcf6b1-6e13-44cf-99dd-765cf3a44117",
-    "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "1718122449b405d2db",
-    "image_with_text_P8Lt63"
+    "image_with_text_P8Lt63",
+    "rich_text_HFyfCJ"
   ]
 }
