@@ -92,7 +92,7 @@
         "text_7qzEbY": {
           "type": "text",
           "settings": {
-            "text": "<p>Are you ready to uncover the secrets to transforming your pet’s health?<\/p><p>Join us for a very special FREE live Zoom event that I'm co-hosting with Monica Hershaft, the renowned Mystery Illness Expert.<\/p><p>We’re going to explore the hidden connections between your fur baby’s symptoms and the factors you might not even be aware of! 🕵️‍♀️<\/p><p>This isn’t just any talk — it could seriously be a game-changer for your pet's health.This is a chance to dive deep into the hidden connections between your pet's symptoms and the changes you can make to help your fur baby live a happier and healthier life! 🐾<strong>🗓️ Date:<\/strong>June 13, 2024<strong>⏰ Time:<\/strong>10 am PT \/ 1 pm EST<\/p>",
+            "text": "<p>Are you ready to uncover the secrets to transforming your pet’s health?<\/p><p>Join us for a very special FREE live Zoom event that I'm co-hosting with Monica Hershaft, the renowned Mystery Illness Expert.<\/p><p>We’re going to explore the hidden connections between your fur baby’s symptoms and the factors you might not even be aware of! 🕵️‍♀️<\/p><p>This isn’t just any talk — it could seriously be a game-changer for your pet's health.  <\/p><p><strong>🗓️ Date:<\/strong>June 13, 2024<\/p><p><strong>⏰ Time:<\/strong>10 am PT \/ 1 pm EST<\/p>",
             "text_style": "body"
           }
         },
@@ -102,13 +102,23 @@
             "button_label": "JOIN US HERE",
             "button_link": "https:\/\/www.treatthesource.com\/zoom"
           }
+        },
+        "caption_qPxQkX": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
         }
       },
       "block_order": [
         "heading_ek8NMJ",
         "caption_7Lt6wX",
         "text_7qzEbY",
-        "button_wnCNCb"
+        "button_wnCNCb",
+        "caption_qPxQkX"
       ],
       "settings": {
         "unique_class": "pic",
