@@ -46,7 +46,7 @@
           "type": "button",
           "settings": {
             "button_label": "JOIN THE Q&A HERE",
-            "button_link": ""
+            "button_link": "https:\/\/www.treatthesource.com\/zoom"
           }
         }
       },
@@ -83,14 +83,14 @@
         "text_tLwRff": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Insightful Explanations: Learn how various symptoms might be key players in your pet's overall health puzzle.<\/li><li>Live Q&A Session: This is your chance to ask me anything you want – whether about your pet's health, holistic veterinary care, or how they intertwine.<\/li><li>Think about it: this could be the missing piece you’ve been searching for. Imagine starting to sort out those issues that your pet cannot communicate just by addressing the hidden connections that you will find out about in this Zoom!<\/li><\/ul><p>PLUS, for those of you who feel called to help others and have a deeper understanding of how to help our furry friends heal, we are going to go over how to become a holistic health coach for pets and what you can do to find out more about THAT!<\/p><p>As always, feel free to respond to this email with any questions or thoughts. I’m here to help and can’t wait to connect with you during the event.<\/p><p><\/p>"
+            "text": "<ul><li>Insightful Explanations: Learn how various symptoms might be key players in your pet's overall health puzzle.<\/li><li>Live Q&A Session: This is your chance to ask me anything you want – whether about your pet's health, holistic veterinary care, or how they intertwine.<\/li><li>Think about it: this could be the missing piece you’ve been searching for. Imagine starting to sort out those issues that your pet cannot communicate just by addressing the hidden connections that you will find out about in this Zoom!<\/li><\/ul><p><\/p>"
           }
         },
         "button_gFMXeL": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "JOIN US HERE",
+            "button_link": "https:\/\/www.treatthesource.com\/zoom",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
