@@ -173,6 +173,7 @@
         "button_wnCNCb",
         "caption_qPxQkX"
       ],
+      "disabled": true,
       "settings": {
         "unique_class": "pic",
         "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_5.png",
@@ -238,6 +239,7 @@
         },
         "column_BccB3j": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/best_in_show_spotlight_finalists_2024.png",
             "title": "Petcare Innovation Europe",
