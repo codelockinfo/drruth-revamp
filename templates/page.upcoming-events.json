@@ -5,6 +5,7 @@
       "blocks": {
         "heading_bWyczr": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "",
             "heading_size": "h1"
@@ -21,8 +22,8 @@
         "buttons_NxtiVN": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "",
-            "button_link_1": "",
+            "button_label_1": "Register Now",
+            "button_link_1": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner#row-AgB_xaP0wf",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -35,8 +36,11 @@
         "text_pYVbec",
         "buttons_NxtiVN"
       ],
+      "custom_css": [
+        ".button--primary {color: #184b44;}"
+      ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/June_Banner.png",
+        "image": "shopify:\/\/shop_images\/Website_June_Banner_2.png",
         "image_overlay_opacity": 0,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
