@@ -209,6 +209,7 @@
         "heading_inbmWH",
         "text_jQj9UA"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 2rem;}"
       ],
@@ -358,6 +359,7 @@
     },
     "rx_blog_cANfJE": {
       "type": "rx-blog",
+      "disabled": true,
       "settings": {
         "heading": "More Events",
         "heading_size": "h1",
