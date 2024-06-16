@@ -42,7 +42,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/threat_to_your_pet_s_health.png",
-        "image_overlay_opacity": 0,
+        "image_overlay_opacity": 20,
         "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
