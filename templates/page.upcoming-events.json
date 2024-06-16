@@ -111,7 +111,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/Appearances_and_events_5.png",
+        "image": "shopify:\/\/shop_images\/phone_banner.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -119,9 +119,9 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
+        "mobile_content_alignment": "center",
         "padding_top": 0,
-        "padding_bottom": 4
+        "padding_bottom": 0
       }
     },
     "image_with_text_qAmryF": {
