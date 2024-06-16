@@ -124,6 +124,49 @@
         "padding_bottom": 0
       }
     },
+    "rx_rich_text_bbJARD": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_eWqazG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Upcoming Events<\/p>"
+          }
+        },
+        "text_aEPraH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Thursday,  June 20, 2024 | 12 PM EST (6 PM CET)<\/p>"
+          }
+        },
+        "button_Rfjebj": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_eWqazG",
+        "text_aEPraH",
+        "button_Rfjebj"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_with_text_qAmryF": {
       "type": "image-with-text",
       "blocks": {
@@ -209,7 +252,6 @@
         "heading_inbmWH",
         "text_jQj9UA"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 2rem;}"
       ],
@@ -455,6 +497,7 @@
     "image_banner_KrpPiB",
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
+    "rx_rich_text_bbJARD",
     "image_with_text_qAmryF",
     "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
