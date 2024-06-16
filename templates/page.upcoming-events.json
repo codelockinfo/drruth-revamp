@@ -74,7 +74,7 @@
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  June 13, 2024 | 12 PM ET",
+            "caption": "Thursday,  June 20, 2024 | 12 PM EST (6 PM CET)",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -82,7 +82,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>BOOSTING IMMUNE DEFENSE: How Regular Organ Health Tests Help Combat Disease<br\/><\/h2><p>Join us to learn how to enhance and maintain a healthy immune system to help combat diseases. Our discussion emphasizes the importance of regular and comprehensive testing to monitor the function of various organs, which play a crucial role in supporting the immune system.<\/p>",
+            "text": "<h2>Transforming Lives of Special Needs Pets with 3D Printing Innovations<br\/><\/h2><p>Are you a specialist interested in this cutting-edge field? Join us this June 20 at 12 pm EST to learn how you can contribute to this revolutionary approach to pet care.Don't miss this opportunity to explore the incredible possibilities that 3D printing brings to our furry family members. Click the link to join us on June 20th and be part of this transformative journey.<\/p>",
             "text_style": "body"
           }
         },
@@ -111,7 +111,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_6.png",
+        "image": "shopify:\/\/shop_images\/Appearances_and_events_5.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
