@@ -53,6 +53,61 @@
         "show_text_below": true
       }
     },
+    "rx_rich_text_bbJARD": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_eWqazG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Upcoming Events<\/p>"
+          }
+        },
+        "text_aEPraH": {
+          "type": "text",
+          "settings": {
+            "text": ""
+          }
+        },
+        "button_Rfjebj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "caption_enKaUR": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eWqazG",
+        "text_aEPraH",
+        "button_Rfjebj",
+        "caption_enKaUR"
+      ],
+      "custom_css": [
+        "p {font-size: 20px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -67,8 +122,8 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Upcoming Events",
-            "heading_size": "h0"
+            "heading": "Transforming Lives of Special Needs Pets with 3D Printing Innovations",
+            "heading_size": "h1"
           }
         },
         "caption_qdnUdA": {
@@ -82,7 +137,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2>Transforming Lives of Special Needs Pets with 3D Printing Innovations<br\/><\/h2><p>Are you a specialist interested in this cutting-edge field? Join us this June 20 at 12 pm EST to learn how you can contribute to this revolutionary approach to pet care.Don't miss this opportunity to explore the incredible possibilities that 3D printing brings to our furry family members. Click the link to join us on June 20th and be part of this transformative journey.<\/p>",
+            "text": "<p>Are you a specialist interested in this cutting-edge field? Join us this June 20 at 12 pm EST to learn how you can contribute to this revolutionary approach to pet care.Don't miss this opportunity to explore the incredible possibilities that 3D printing brings to our furry family members. Click the link to join us on June 20th and be part of this transformative journey.<\/p>",
             "text_style": "body"
           }
         },
@@ -122,49 +177,6 @@
         "mobile_content_alignment": "center",
         "padding_top": 12,
         "padding_bottom": 0
-      }
-    },
-    "rx_rich_text_bbJARD": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "heading_eWqazG": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Upcoming Events<\/p>"
-          }
-        },
-        "text_aEPraH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Thursday,  June 20, 2024 | 12 PM EST (6 PM CET)<\/p>"
-          }
-        },
-        "button_Rfjebj": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_eWqazG",
-        "text_aEPraH",
-        "button_Rfjebj"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#fff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
       }
     },
     "image_with_text_qAmryF": {
@@ -495,9 +507,9 @@
   },
   "order": [
     "image_banner_KrpPiB",
+    "rx_rich_text_bbJARD",
     "main",
     "40ccc761-5f8c-45d8-bc43-9a94c4dffcd7",
-    "rx_rich_text_bbJARD",
     "image_with_text_qAmryF",
     "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
