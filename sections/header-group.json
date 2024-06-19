@@ -14,20 +14,19 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
+        "announcement_rNqJTQ": {
           "type": "announcement",
           "settings": {
-            "text": "Become a Certified Holistic Pet Health Coach! Register for the June 19 Workshop Now!",
+            "text": "🎉 Enjoy FREE Shipping on Orders Over $49! Shop Now and Save Big! 🚚✨",
             "text_alignment": "center",
-            "color_scheme": "background-1",
-            "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
+            "color_scheme": "accent-1",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement_rNqJTQ"
       ],
-      "disabled": true,
       "custom_css": [
 
       ],
