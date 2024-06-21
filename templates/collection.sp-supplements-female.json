@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "banner": {
@@ -15,7 +24,7 @@
         "heading_Jap98B": {
           "type": "heading",
           "settings": {
-            "heading": "Happy Mother's Day!"
+            "heading": "Happy Grandmother's Day!"
           }
         },
         "text_UbRJi3": {
@@ -27,7 +36,7 @@
         "buttons_mKdmG8": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Use Code MOM for 15% Off!",
+            "button_label_1": "Use Code GRANDMOM for 15% Off!",
             "button_link_1": "https:\/\/drruthroberts.com\/collections\/womens-health#product-grid"
           }
         }
@@ -188,7 +197,7 @@
         "heading_PiYpWq": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Mother's Day Care Package<\/p>"
+            "heading": "<p>Grandmother's Day Care Package<\/p>"
           }
         },
         "text_jL7tfY": {
