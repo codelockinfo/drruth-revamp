@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "8519c13e-f76e-4138-8e2e-7be289b7b7da": {
@@ -6,14 +15,14 @@
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Hop into Easter Savings Today! 🐰🌷",
+            "heading": "🎇Declaring Freedom from Pain, Anxiety, and All Things that Bug Us!",
             "heading_size": "h1"
           }
         },
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-text-1": {
           "type": "text",
           "settings": {
-            "text": "Discover Egg-citing Discounts and New Arrivals Today! use code EASTERJOY10",
+            "text": "Discover exciting discounts and new arrivals and clearance sale items! use code FREEDOM10",
             "text_style": "body"
           }
         },
@@ -35,7 +44,7 @@
         "template--14921794256961__8519c13e-f76e-4138-8e2e-7be289b7b7da-buttons-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/three-easter-eggs-on-green-background.jpg",
+        "image": "shopify:\/\/shop_images\/fireworks-over-city-harbor.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "desktop_content_position": "middle-left",
