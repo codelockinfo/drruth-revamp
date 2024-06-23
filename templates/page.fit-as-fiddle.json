@@ -52,7 +52,7 @@
         "buttons_XmcEeU": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "View blogs",
+            "button_label_1": "Read below",
             "button_link_1": "#1"
           }
         }
@@ -143,12 +143,51 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "rx_img_with_text_aiYdwR": {
+      "type": "rx-img-with-text",
+      "blocks": {
+        "text_kmdmDy": {
+          "type": "text",
+          "settings": {
+            "text": "<p>An ounce of prevention is worth a pound of cure. Staying healthy takes effort, and when your pet is healthy this protocol is simply part of the daily routine. Eat, Move, Meditate, Reduce Inflammation, & Keep The Gut Healthy.<\/p><p>This collection of supplements to keep your pets healthy empower pet owners to care for their animals in the same way they care for themselves. We have the incredible capacity to influence the health of our pets if we provide them with the correct nourishment.<\/p>"
+          }
+        },
+        "button_yenL8K": {
+          "type": "button",
+          "settings": {
+            "button_label": "Holistic Supplement Here",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "text_kmdmDy",
+        "button_yenL8K"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PRODUCT_BANNER_700_x_700_px_7.png",
+        "height": "medium",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_title_alignment": "left",
+        "desktop_content_alignment": "left",
+        "desktop_button_alignment": "center",
+        "content_layout": "overlap",
+        "grid_type": "type2",
+        "imgText-bg-color": "",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "1718122449b405d2db",
     "rx_image_banner_aR3Ymi",
-    "multirow_gigaDJ"
+    "multirow_gigaDJ",
+    "rx_img_with_text_aiYdwR"
   ]
 }
