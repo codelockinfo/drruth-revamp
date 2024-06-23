@@ -98,10 +98,11 @@
         "row_ACDf3e": {
           "type": "row",
           "settings": {
-            "caption": "Caption",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/PRODUCT_BANNER_700_x_700_px_4.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/7-ways-to-prevent-medical-problems-in-your-dog\" title=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/7-ways-to-prevent-medical-problems-in-your-dog\">7 Ways to Guard Your Dog Against Medical Problems<\/a>",
+            "text": "<p>As a dog parent, keeping your furry friend healthy and happy is a top priority. With decades of veterinary experience, my mission is to help you prevent health issues before they start. From accidental poisoning to kidney disease, learn how to avoid common dangers and prolong your dog's life with science-backed tips. Read more about seven preventable dog health problems.<\/p>",
+            "button_label": "Read more",
             "button_link": ""
           }
         },
@@ -120,6 +121,11 @@
         "row_bFktRG",
         "row_ACDf3e",
         "row_N9tGLY"
+      ],
+      "custom_css": [
+        "h2 {font-family: BLT-Heirloom;}",
+        "p {font-weight: normal;}",
+        ".button {font-family: Josefin Sans;}"
       ],
       "settings": {
         "image_height": "medium",
