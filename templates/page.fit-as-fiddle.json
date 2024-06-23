@@ -34,86 +34,121 @@
         "include_margins": true
       }
     },
-    "image_with_text_P8Lt63": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_eTQ7jH": {
-          "type": "heading",
-          "settings": {
-            "heading": "Are you ready to uncover the secrets to transforming your pet’s health?",
-            "heading_size": "h1"
-          }
-        },
-        "text_MWDBDW": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join us for a very special FREE live Zoom event that I'm co-hosting with Monica Hershaft, the renowned Mystery Illness Expert.<\/p><p>We’re going to explore the hidden connections between your fur baby’s symptoms and the factors you might not even be aware of! 🕵️‍♀️<\/p><p>This isn’t just any talk — it could seriously be a game-changer for your pet's health.<\/p><p><strong>🗓️ Date:<\/strong>June 13, 2024<\/p><p><strong>⏰ Time:<\/strong>10 am PT \/ 1 pm EST<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_ELF4Xb": {
-          "type": "button",
-          "settings": {
-            "button_label": "JOIN THE Q&A HERE",
-            "button_link": "https:\/\/www.treatthesource.com\/zoom"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eTQ7jH",
-        "text_MWDBDW",
-        "button_ELF4Xb"
-      ],
+    "rx_banner_text_v2_9ccwwB": {
+      "type": "rx-banner-text-v2",
       "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_5.png",
-        "height": "medium",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "heading": "",
+        "caption": "",
+        "content": "",
+        "content2": "",
+        "layout": "image_first"
       }
     },
-    "rich_text_HFyfCJ": {
-      "type": "rich-text",
+    "rx_rich_text_rtePEL": {
+      "type": "rx-rich-text",
       "blocks": {
-        "heading_U7GEwM": {
+        "heading_D7qcbH": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Here’s What You Can Expect:<\/p>",
-            "heading_size": "h1"
+            "heading": "<p>Talk about your brand<\/p>"
           }
         },
-        "text_tLwRff": {
+        "text_kEgx6Q": {
           "type": "text",
           "settings": {
-            "text": "<ul><li>Insightful Explanations: Learn how various symptoms might be key players in your pet's overall health puzzle.<\/li><li>Live Q&A Session: This is your chance to ask me anything you want – whether about your pet's health, holistic veterinary care, or how they intertwine.<\/li><li>Think about it: this could be the missing piece you’ve been searching for. Imagine starting to sort out those issues that your pet cannot communicate just by addressing the hidden connections that you will find out about in this Zoom!<\/li><\/ul><p>PLUS, for those of you who feel called to help others and have a deeper understanding of how to help our furry friends heal, we are going to go over how to become a holistic health coach for pets and what you can do to find out more about THAT!<\/p><p>As always, feel free to respond to this email with any questions or thoughts. I’m here to help and can’t wait to connect with you during the event.<\/p><p><a href=\"https:\/\/www.treatthesource.com\/zoom\"><strong>JOIN US HERE<\/strong><\/a><\/p><p><\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "button_aTGQHx": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "heading_U7GEwM",
-        "text_tLwRff"
+        "heading_D7qcbH",
+        "text_kEgx6Q",
+        "button_aTGQHx"
       ],
       "settings": {
         "desktop_content_position": "center",
-        "content_alignment": "left",
-        "color_scheme": "background-1",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#fff",
+        "image_width": "100%",
         "full_width": true,
-        "padding_top": 0,
+        "padding_top": 40,
         "padding_bottom": 52
+      }
+    },
+    "multirow_gigaDJ": {
+      "type": "multirow",
+      "blocks": {
+        "row_bFktRG": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PRODUCT_BANNER_700_x_700_px_1.png",
+            "caption": "",
+            "heading": "<a href=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/are-flea-control-products-safe-for-your-pet\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/are-flea-control-products-safe-for-your-pet\">Are Flea Control Products Safe for Your Pet?<\/a>",
+            "text": "<p>Fleas pose serious health risks to pets, such as skin infections, allergies, and disease transmission. To protect their pets, owners often use flea control products, but safety concerns arise. This blog examines the safety of these products and offers guidance on choosing the best options for your pet.<\/p>",
+            "button_label": "Read more",
+            "button_link": "https:\/\/drruthroberts.com\/blogs\/pet-blog\/are-flea-control-products-safe-for-your-pet"
+          }
+        },
+        "row_ACDf3e": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_N9tGLY": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_bFktRG",
+        "row_ACDf3e",
+        "row_N9tGLY"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
   "order": [
     "main",
     "1718122449b405d2db",
-    "image_with_text_P8Lt63",
-    "rich_text_HFyfCJ"
+    "rx_banner_text_v2_9ccwwB",
+    "rx_rich_text_rtePEL",
+    "multirow_gigaDJ"
   ]
 }
