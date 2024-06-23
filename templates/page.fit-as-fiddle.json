@@ -80,7 +80,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "caption_alignment": "center",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
@@ -93,7 +93,7 @@
         "row_bFktRG": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/PRODUCT_BANNER_700_x_700_px_2.png",
+            "image": "shopify:\/\/shop_images\/PRODUCT_BANNER_700_x_700_px_3.png",
             "caption": "",
             "heading": "<a href=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/are-flea-control-products-safe-for-your-pet\" target=\"_blank\" title=\"https:\/\/drruthroberts.com\/blogs\/pet-blog\/are-flea-control-products-safe-for-your-pet\">Are Flea Control Products Safe for Your Pet?<\/a>",
             "text": "<p>Fleas pose serious health risks to pets, such as skin infections, allergies, and disease transmission. To protect their pets, owners often use flea control products, but safety concerns arise. This blog examines the safety of these products and offers guidance on choosing the best options for your pet.<\/p>",
