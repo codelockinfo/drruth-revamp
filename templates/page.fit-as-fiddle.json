@@ -34,57 +34,51 @@
         "include_margins": true
       }
     },
-    "rx_banner_text_v2_9ccwwB": {
-      "type": "rx-banner-text-v2",
-      "settings": {
-        "heading": "",
-        "caption": "",
-        "content": "",
-        "content2": "",
-        "layout": "image_first"
-      }
-    },
-    "rx_rich_text_rtePEL": {
-      "type": "rx-rich-text",
+    "rx_image_banner_aR3Ymi": {
+      "type": "rx-image-banner",
       "blocks": {
-        "heading_D7qcbH": {
+        "heading_KKCFrc": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Talk about your brand<\/p>"
+            "heading": "FIT AS FIDDLE - Healthy Pets"
           }
         },
-        "text_kEgx6Q": {
+        "text_fNxWgG": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "It’s wonderful to see your pet enjoying life to the fullest. Keep them free from preventable health issues with Dr. Ruth's recommended reads"
           }
         },
-        "button_aTGQHx": {
-          "type": "button",
+        "buttons_XmcEeU": {
+          "type": "buttons",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "button_label_1": "View blogs",
+            "button_link_1": "#1"
           }
         }
       },
       "block_order": [
-        "heading_D7qcbH",
-        "text_kEgx6Q",
-        "button_aTGQHx"
+        "heading_KKCFrc",
+        "text_fNxWgG",
+        "buttons_XmcEeU"
+      ],
+      "custom_css": [
+        ".content-container {opacity: 70%;}"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#ffffff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "image": "shopify:\/\/shop_images\/FIT_AS_FIDDLE_1.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "container_bg": "#fff",
+        "desktop_content_alignment": "center",
+        "heading_color": "#000",
+        "text_color": "#000",
+        "show_arrow_mobile": "yes",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multirow_gigaDJ": {
@@ -147,8 +141,7 @@
   "order": [
     "main",
     "1718122449b405d2db",
-    "rx_banner_text_v2_9ccwwB",
-    "rx_rich_text_rtePEL",
+    "rx_image_banner_aR3Ymi",
     "multirow_gigaDJ"
   ]
 }
