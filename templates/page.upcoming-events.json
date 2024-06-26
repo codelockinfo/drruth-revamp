@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner_KrpPiB": {
@@ -101,7 +110,7 @@
         "desktop_content_position": "center",
         "content_alignment": "center",
         "caption_alignment": "center",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
         "padding_top": 40,
@@ -122,14 +131,14 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Transforming Lives of Special Needs Pets with 3D Printing Innovations",
+            "heading": "How Can PEMF Therapy Help Manage Pain and Discomfort in Pets",
             "heading_size": "h1"
           }
         },
         "caption_qdnUdA": {
           "type": "caption",
           "settings": {
-            "caption": "Thursday,  June 20, 2024 | 12 PM EST (6 PM CET)",
+            "caption": "Thursday,  June 27, 2024 | 12 PM EST (6 PM CET)",
             "text_style": "caption-with-letter-spacing",
             "text_size": "large"
           }
@@ -137,7 +146,7 @@
         "template--14921792946241__40ccc761-5f8c-45d8-bc43-9a94c4dffcd7-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Are you a specialist interested in this cutting-edge field? Join us this June 20 at 12 pm EST to learn how you can contribute to this revolutionary approach to pet care.Don't miss this opportunity to explore the incredible possibilities that 3D printing brings to our furry family members. Click the link to join us on June 20th and be part of this transformative journey.<\/p>",
+            "text": "<p>Join us tomorrow, June 27th, for an exclusive event with Lori Schmidt, an HPHC graduate and PEMF Therapy expert! Discover the incredible benefits of PEMF Therapy for you and your pets. Lori will share insights into PEMF's history, science, and practical applications, including how it reduces inflammation, enhances circulation, and improves cellular health. Don't miss this chance to enhance your wellness knowledge!<\/p>",
             "text_style": "body"
           }
         },
@@ -166,7 +175,7 @@
       ],
       "settings": {
         "unique_class": "pic",
-        "image": "shopify:\/\/shop_images\/phone_banner_2.png",
+        "image": "shopify:\/\/shop_images\/Appearances_and_events_7.png",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",
