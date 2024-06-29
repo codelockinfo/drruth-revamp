@@ -197,7 +197,7 @@
         "columns_mobile": "1",
         "swipe_on_mobile": true,
         "padding_top": 48,
-        "padding_bottom": 48
+        "padding_bottom": 0
       }
     },
     "after_program_JiyKVR": {
@@ -207,28 +207,28 @@
           "type": "collection",
           "settings": {
             "aftertext": "HOW TO JOIN",
-            "afterdesc": "Share your video story in our Circle community by posting a video detailing your journey into holistic practices and the CrockPet Diet. Ensure your video is clear with good video and audio quality, includes your pet, and features you discussing your firsthand experience with the diet. This opportunity allows you to connect with others who share similar interests and experiences in pet health and holistic approaches."
+            "afterdesc": "Share your video story in our Circle community by posting a video detailing your journey into holistic practices and the CrockPet Diet. Ensure your video is clear with good video and audio quality, includes your pet, and features you discussing your firsthand experience with the diet."
           }
         },
         "collection_kFNhjq": {
           "type": "collection",
           "settings": {
             "aftertext": "VIDEO REQUIREMENTS",
-            "afterdesc": "Your video story should include key elements: the turning point that prompted your shift to holistic practices, whether due to a pet health issue or a lack of reliable resources; how you discovered Dr. Ruth's CrockPet Diet; your reasons for switching to a home-cooked diet through CrockPet; and notable improvements in your pet's health since adopting this diet. Sharing these aspects will provide insights into your journey and inspire others in our community."
+            "afterdesc": "Your video story should include key elements: the turning point that prompted your shift to holistic practices, whether due to a pet health issue or a lack of reliable resources; how you discovered Dr. Ruth's CrockPet Diet; your reasons for switching to a home-cooked diet through CrockPet; and notable improvements in your pet's health since adopting this diet."
           }
         },
         "collection_Djhc9n": {
           "type": "collection",
           "settings": {
             "aftertext": "WHAT WILL YOU GAIN",
-            "afterdesc": "By sharing your journey, you could win 2 FRS tickets valued at $400 for a relaxing weekend getaway in San Diego. Additionally, your story has the power to inspire fellow pet parents on their own holistic health paths. Engage in community fun as you connect with like-minded pet lovers and esteemed leaders such as Rodney Habib, Conor Brady, Angela Ardolino, Judy Morgan, Dr. Ruth Roberts, and many other notable speakers and panelists lined up for the event. Join us in celebrating and learning together at this exciting opportunity!"
+            "afterdesc": "By sharing your journey, you could win 2 FRS tickets valued at $400 for a relaxing weekend getaway in San Diego. Additionally, your story has the power to inspire fellow pet parents on their own holistic health paths. Engage in community fun as you connect with like-minded pet lovers and esteemed leaders such as Rodney Habib, Conor Brady, Angela Ardolino, Judy Morgan, Dr. Ruth Roberts, and many other notable speakers and panelists lined up for the event."
           }
         },
         "collection_dcLKnP": {
           "type": "collection",
           "settings": {
             "aftertext": "JUDGING CRITERIA",
-            "afterdesc": "The judging criteria for the video story contest are designed to highlight various aspects of your submission. Your story will be evaluated based on authenticity, accounting for 25% of the score, which values genuine and heartfelt narratives. Creativity in presentation, making it fun and engaging, also counts for 25%. High-quality production, including clear video and audio, contributes another 25%. Finally, your engagement with other members' posts will make up the remaining 25%. These criteria ensure a fair evaluation of all entries, emphasizing both content and community interaction."
+            "afterdesc": "The judging criteria for the video story contest are designed to highlight various aspects of your submission. Your story will be evaluated based on authenticity, accounting for 25% of the score, which values genuine and heartfelt narratives. Creativity in presentation, making it fun and engaging, also counts for 25%. High-quality production, including clear video and audio, contributes another 25%. Finally, your engagement with other members' posts will make up the remaining 25%."
           }
         }
       },
@@ -244,7 +244,7 @@
       "settings": {
         "programhead": "",
         "programsubhead": "",
-        "pro_btn": "",
+        "pro_btn": "Share Here",
         "program_link": ""
       }
     },
