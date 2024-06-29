@@ -167,7 +167,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Appearances_and_events_8.png",
             "title": "Win 2 Tickets to Feed Real Summit in San Diego! 🎉",
-            "text": "<p>Hey Pet Parents!<\/p><p>Have a success story about switching to holistic practices and Dr. Ruth's CrockPet Diet? Share it and you could win 2 tickets to the Feed Real Summit in San Diego on October 5 & 6, 2024! That's a $400 value! <\/p><p><strong>HOW TO ENTER<\/strong><\/p><p><strong>1. Share Your Video Story:<br\/><\/strong>Post a video in <a href=\"https:\/\/courses.drruthroberts.com\/home\" target=\"_blank\" title=\"https:\/\/courses.drruthroberts.com\/home\">our Circle community <\/a>about your journey to holistic practices and the CrockPet Diet.<strong> <\/strong>Be clear with good video and audio quality, include your pet, feature you talking about your experience with the diet.<strong><br\/><br\/>2. Your Story Should Include:<\/strong><\/p><ul><li><strong>Turning Points:<\/strong> What made you switch to holistic practices? (pet health issue, no reliable resource, etc)<\/li><li><strong>Discovery:<\/strong> How did you hear about Dr. Ruth's CrockPet Diet?<\/li><li><strong>Why CrockPet:<\/strong> Why did you switch to a home-cooked diet?<\/li><li><strong>Health Changes:<\/strong> Improvements in your pet’s health after the CrockPet Diet.<\/li><\/ul><p><strong>Deadline:<\/strong> Submit by July 10, 2024. One lucky winner will be picked by July 20th.<\/p>",
+            "text": "<p>Hey Pet Parents!<\/p><p>Have a success story about switching to holistic practices and Dr. Ruth's CrockPet Diet? Share it and you could win 2 tickets to the Feed Real Summit in San Diego on October 5 & 6, 2024! That's a $400 value! <\/p>",
             "link_label": "Join Here",
             "link": "https:\/\/riverside.fm\/studio\/gutsy-fertility-podcast?t=2c6b2af3acdad27e0bb5"
           }
@@ -198,6 +198,54 @@
         "swipe_on_mobile": true,
         "padding_top": 48,
         "padding_bottom": 48
+      }
+    },
+    "after_program_JiyKVR": {
+      "type": "after_program",
+      "blocks": {
+        "collection_wYT7cf": {
+          "type": "collection",
+          "settings": {
+            "aftertext": "HOW TO JOIN",
+            "afterdesc": "Share your video story in our Circle community by posting a video detailing your journey into holistic practices and the CrockPet Diet. Ensure your video is clear with good video and audio quality, includes your pet, and features you discussing your firsthand experience with the diet. This opportunity allows you to connect with others who share similar interests and experiences in pet health and holistic approaches."
+          }
+        },
+        "collection_kFNhjq": {
+          "type": "collection",
+          "settings": {
+            "aftertext": "VIDEO REQUIREMENTS",
+            "afterdesc": "Your video story should include key elements: the turning point that prompted your shift to holistic practices, whether due to a pet health issue or a lack of reliable resources; how you discovered Dr. Ruth's CrockPet Diet; your reasons for switching to a home-cooked diet through CrockPet; and notable improvements in your pet's health since adopting this diet. Sharing these aspects will provide insights into your journey and inspire others in our community."
+          }
+        },
+        "collection_Djhc9n": {
+          "type": "collection",
+          "settings": {
+            "aftertext": "WHAT WILL YOU GAIN",
+            "afterdesc": "By sharing your journey, you could win 2 FRS tickets valued at $400 for a relaxing weekend getaway in San Diego. Additionally, your story has the power to inspire fellow pet parents on their own holistic health paths. Engage in community fun as you connect with like-minded pet lovers and esteemed leaders such as Rodney Habib, Conor Brady, Angela Ardolino, Judy Morgan, Dr. Ruth Roberts, and many other notable speakers and panelists lined up for the event. Join us in celebrating and learning together at this exciting opportunity!"
+          }
+        },
+        "collection_dcLKnP": {
+          "type": "collection",
+          "settings": {
+            "aftertext": "JUDGING CRITERIA",
+            "afterdesc": "The judging criteria for the video story contest are designed to highlight various aspects of your submission. Your story will be evaluated based on authenticity, accounting for 25% of the score, which values genuine and heartfelt narratives. Creativity in presentation, making it fun and engaging, also counts for 25%. High-quality production, including clear video and audio, contributes another 25%. Finally, your engagement with other members' posts will make up the remaining 25%. These criteria ensure a fair evaluation of all entries, emphasizing both content and community interaction."
+          }
+        }
+      },
+      "block_order": [
+        "collection_wYT7cf",
+        "collection_kFNhjq",
+        "collection_Djhc9n",
+        "collection_dcLKnP"
+      ],
+      "custom_css": [
+        "p {text-align: center;}"
+      ],
+      "settings": {
+        "programhead": "",
+        "programsubhead": "",
+        "pro_btn": "",
+        "program_link": ""
       }
     },
     "fadcc9ee-5901-42d9-8139-51be2d304bad": {
@@ -360,27 +408,6 @@
         "padding_top": 8,
         "padding_bottom": 48
       }
-    },
-    "after_program_JiyKVR": {
-      "type": "after_program",
-      "blocks": {
-        "collection_bBMQRc": {
-          "type": "collection",
-          "settings": {
-            "aftertext": "how to enter",
-            "afterdesc": "Share Your Video Story:Post a video in our Circle community about your journey to holistic practices and the CrockPet Diet.Your video should:Be clear with good video and audio.Include your pet.Feature you talking about your experience with the diet.Your Story Should Include:Turning Points: What made you switch to holistic practices? (pet health issue, no reliable resource, etc)Discovery: How did you hear about Dr. Ruth's CrockPet Diet?Why CrockPet: Why did you switch to a home-cooked diet?Health Changes: Improvements in your pet’s health after the CrockPet Diet."
-          }
-        }
-      },
-      "block_order": [
-        "collection_bBMQRc"
-      ],
-      "settings": {
-        "programhead": "",
-        "programsubhead": "",
-        "pro_btn": "",
-        "program_link": ""
-      }
     }
   },
   "order": [
@@ -389,11 +416,11 @@
     "main",
     "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
+    "after_program_JiyKVR",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "rx_blog_cANfJE",
     "image_banner_CGdj4T",
-    "newsletter_jDqKF8",
-    "after_program_JiyKVR"
+    "newsletter_jDqKF8"
   ]
 }
