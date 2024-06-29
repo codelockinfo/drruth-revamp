@@ -9,59 +9,6 @@
 */
 {
   "sections": {
-    "image_banner_KrpPiB": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_bWyczr": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "",
-            "heading_size": "h1"
-          }
-        },
-        "text_pYVbec": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_NxtiVN": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Register Now",
-            "button_link_1": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner#row-AgB_xaP0wf",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_bWyczr",
-        "text_pYVbec",
-        "buttons_NxtiVN"
-      ],
-      "custom_css": [
-        ".button--primary {color: #e84847; font-weight: bold;}",
-        ".banner__buttons {padding-top: 30px; padding-left: 35px;}"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/threat_to_your_pet_s_health.png",
-        "image_overlay_opacity": 20,
-        "image_height": "adapt",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": true
-      }
-    },
     "rx_rich_text_bbJARD": {
       "type": "rx-rich-text",
       "blocks": {
@@ -103,6 +50,7 @@
         "button_Rfjebj",
         "caption_enKaUR"
       ],
+      "disabled": true,
       "custom_css": [
         "p {font-size: 20px;}"
       ],
@@ -411,7 +359,6 @@
     }
   },
   "order": [
-    "image_banner_KrpPiB",
     "rx_rich_text_bbJARD",
     "main",
     "rx_rich_text_yXXLjK",
