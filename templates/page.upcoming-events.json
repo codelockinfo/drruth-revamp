@@ -9,6 +9,51 @@
 */
 {
   "sections": {
+    "image_with_text_mM7EJV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HzxANr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Purr-fecting Your Skills: Master the Craft of Holistic Pet Health Coaching",
+            "heading_size": "h1"
+          }
+        },
+        "text_rLFaKJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Discover three key principles of functional medicine with real case examples. REGISTER NOW for this career-changing workshop and uncover how you can add more IMPACT and INCOME to your life as a Certified Pet Health Coach.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_MdU9QE": {
+          "type": "button",
+          "settings": {
+            "button_label": "REGISTER NOW",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzxANr",
+        "text_rLFaKJ",
+        "button_MdU9QE"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_16.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rx_rich_text_bbJARD": {
       "type": "rx-rich-text",
       "blocks": {
@@ -356,54 +401,10 @@
         "padding_top": 8,
         "padding_bottom": 48
       }
-    },
-    "image_with_text_mM7EJV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HzxANr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Purr-fecting Your Skills: Master the Craft of Holistic Pet Health Coaching",
-            "heading_size": "h1"
-          }
-        },
-        "text_rLFaKJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover three key principles of functional medicine with real case examples. REGISTER NOW for this career-changing workshop and uncover how you can add more IMPACT and INCOME to your life as a Certified Pet Health Coach.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_MdU9QE": {
-          "type": "button",
-          "settings": {
-            "button_label": "REGISTER NOW",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_HzxANr",
-        "text_rLFaKJ",
-        "button_MdU9QE"
-      ],
-      "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_16.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "image_with_text_mM7EJV",
     "rx_rich_text_bbJARD",
     "main",
     "rx_rich_text_yXXLjK",
@@ -413,7 +414,6 @@
     "8fc8e2e3-d3e7-4115-bdf7-ea9751886ea3",
     "rx_blog_cANfJE",
     "image_banner_CGdj4T",
-    "newsletter_jDqKF8",
-    "image_with_text_mM7EJV"
+    "newsletter_jDqKF8"
   ]
 }
