@@ -16,16 +16,27 @@
       "blocks": {
         "announcement_rNqJTQ": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Master the Craft of Holistic Pet Health Coaching! Sign Up Now For the July 17 workshop. 🐾",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
           }
+        },
+        "announcement_qWPKCT": {
+          "type": "announcement",
+          "settings": {
+            "text": "✨Enjoy FREE shipping on all orders over $49! 🛍️ Stock up on your pet's favorites now! 🚚",
+            "text_alignment": "center",
+            "color_scheme": "accent-1",
+            "link": "https:\/\/drruthroberts.com\/collections\/pet-products"
+          }
         }
       },
       "block_order": [
-        "announcement_rNqJTQ"
+        "announcement_rNqJTQ",
+        "announcement_qWPKCT"
       ],
       "custom_css": [
 
