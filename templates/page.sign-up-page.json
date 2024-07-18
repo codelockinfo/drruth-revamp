@@ -17,6 +17,17 @@
         "padding_bottom": 36
       }
     },
+    "rx_banner_text_v2_GwPkbm": {
+      "type": "rx-banner-text-v2",
+      "settings": {
+        "rx_image_banner": "shopify:\/\/shop_images\/WEB_BANNER_2.png",
+        "heading": "Healing Pet Loss",
+        "caption": "",
+        "content": "<p>You come home after a long day, and there's no excited bark or gentle purr to greet you. <\/p><p>Your home feels emptier, quieter. <\/p>",
+        "content2": "<p>Every corner holds memories, every routine reminds you of what’s missing. It's these everyday moments that hit the hardest, and we're here to help you through them.<\/p>",
+        "layout": "text_first"
+      }
+    },
     "1718122449b405d2db": {
       "type": "apps",
       "blocks": {
@@ -30,58 +41,17 @@
       "block_order": [
         "klaviyo_email_marketing_sms_form_embed_block_q9yCzL"
       ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "rx_image_banner_v2_Xynzzg": {
-      "type": "rx-image-banner-v2",
-      "blocks": {
-        "heading_jzMAUQ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "text_FmJ8Ee": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "buttons_HTKzGX": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_jzMAUQ",
-        "text_FmJ8Ee",
-        "buttons_HTKzGX"
+      "custom_css": [
+
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WEB_BANNER_2.png",
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "container_bg": "#fff",
-        "desktop_content_alignment": "center",
-        "heading_color": "#000",
-        "text_color": "#000",
-        "show_arrow_mobile": "yes",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
+        "include_margins": true
       }
     }
   },
   "order": [
     "main",
-    "1718122449b405d2db",
-    "rx_image_banner_v2_Xynzzg"
+    "rx_banner_text_v2_GwPkbm",
+    "1718122449b405d2db"
   ]
 }
