@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "current": {
     "logo": "shopify:\/\/shop_images\/Dr._Ruth_Roberts_Logo_2.png",
@@ -89,7 +98,7 @@
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "background-1",
     "accent_icons": "text",
-    "social_facebook_link": "https:\/\/web.facebook.com\/crockpetdiet",
+    "social_facebook_link": "https:\/\/www.facebook.com\/TheOriginalHolisticPetHealthCoach",
     "social_instagram_link": "ttps:\/\/www.instagram.com\/dr.ruthroberts\/",
     "social_youtube_link": "https:\/\/youtube.com\/@DrRuthRoberts?si=XnWsWRgripq_rKhe",
     "social_tiktok_link": "https:\/\/www.tiktok.com\/@theoriginalcrockpetdiet",
