@@ -46,6 +46,7 @@
     },
     "custom_liquid_D9YNGQ": {
       "type": "custom-liquid",
+      "disabled": true,
       "settings": {
         "custom_liquid": "<div class=\"klaviyo-form-QQbtwp\"><\/div>",
         "color_scheme": "background-1",

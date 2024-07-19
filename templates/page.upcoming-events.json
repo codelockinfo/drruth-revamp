@@ -9,6 +9,51 @@
 */
 {
   "sections": {
+    "image_with_text_XLNJWM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LrnPgJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash the Extraordinary: Join the Ultimate Doglympics Virtual Challenge!",
+            "heading_size": "h1"
+          }
+        },
+        "text_VEHFpd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hey there, fellow dog lover! Get ready for an incredible adventure with your furry friend in the Ultimate Doglympics Virtual Challenge, endorsed by Dr. Ruth Roberts! Doglympics 2024 features fun challenges in Stamina, Strength, Balance, Coordination, and Flexibility, perfect for all fitness levels. Strengthen your bond, enhance your dog’s wellness, and celebrate their unique strengths. <\/p><p>Plus, $5 from each $27.99 signup supports Lionel's Legacy senior dog rescue. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_9pxGby": {
+          "type": "button",
+          "settings": {
+            "button_label": "Join the Doglympics Challenge",
+            "button_link": "https:\/\/www.theracebuddies.com\/sign-up"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LrnPgJ",
+        "text_VEHFpd",
+        "button_9pxGby"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/doglympics_2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_with_text_mM7EJV": {
       "type": "image-with-text",
       "blocks": {
@@ -39,6 +84,7 @@
         "text_rLFaKJ",
         "button_MdU9QE"
       ],
+      "disabled": true,
       "settings": {
         "unique_class": "",
         "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_16.png",
@@ -404,6 +450,7 @@
     }
   },
   "order": [
+    "image_with_text_XLNJWM",
     "image_with_text_mM7EJV",
     "rx_rich_text_bbJARD",
     "main",
