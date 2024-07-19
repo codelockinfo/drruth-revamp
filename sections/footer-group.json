@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -58,7 +67,7 @@
         "enable_language_selector": false,
         "payment_enable": true,
         "show_policy": false,
-        "fb_url": "https:\/\/www.facebook.com\/crockpetdiet",
+        "fb_url": "https:\/\/www.facebook.com\/TheOriginalHolisticPetHealthCoach",
         "ig_url": "https:\/\/instagram.com\/dr.ruthroberts?igshid=MzRlODBiNWFlZA==",
         "linkedin_url": "https:\/\/www.linkedin.com\/in\/dr-ruth-roberts-72473970",
         "margin_top": 0,
