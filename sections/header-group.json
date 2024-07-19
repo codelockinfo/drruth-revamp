@@ -44,6 +44,15 @@
       "settings": {
       }
     },
+    "custom_liquid_D9YNGQ": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div class=\"klaviyo-form-QQbtwp\"><\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -57,6 +66,12 @@
         "margin_bottom": 0,
         "padding_top": 0,
         "padding_bottom": 0
+      }
+    },
+    "172135207950b70536": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
       }
     },
     "171319935398bc6e18": {
@@ -102,7 +117,9 @@
   },
   "order": [
     "announcement-bar",
+    "custom_liquid_D9YNGQ",
     "header",
+    "172135207950b70536",
     "171319935398bc6e18",
     "1715285349ba063e6c",
     "1715285355ad802300"
