@@ -520,3 +520,70 @@ a.elementor-toggle-title {
     font-size: 12px;
   }
 }
+
+.faq-line::before {
+    display: block;
+    content: "";
+    border-bottom: 0;
+    flex-grow: 1;
+    border-top: 1px solid #4a8073;
+}
+
+.faq-line::after {
+    display: block;
+    content: "";
+    border-bottom: 0;
+    flex-grow: 1;
+    border-top: 1px solid #4a8073;
+}
+
+.faq-line {
+    display: flex;
+    align-items: center;
+}
+
+.faq-line svg {
+    width: 14px;
+    height: 14px;
+    margin: 0 10px;
+}
+
+.article-faq  summary {
+    padding: 10px;
+    cursor: pointer;
+    font-family: "Josefin Sans", Josefin Sans;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: -1px;
+    line-height: 20px;
+    color: #000;
+  }
+  
+  .article-faq  p {
+    padding: 10px;
+    margin: 0;
+    color: #1E1E1E;
+    font-family: "Josefin Sans", Josefin Sans;
+    line-height: 30px;
+    letter-spacing: -1px;
+  }
+
+  .article-faq > summary svg {
+    transform: rotate(90deg);
+    transition: all 0.5 ease;
+  }
+
+  .article-faq[open] > summary svg {
+    transform: rotate(0deg);
+    transition: all 0.5 ease;
+  }
+
+  .article-faq {
+    border-bottom: 1px solid #ccc;
+  }
+
+  .reference-page-button {
+    display: flex;
+    gap: 30px;
+    padding-bottom: 30px;
+  }
