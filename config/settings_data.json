@@ -111,7 +111,7 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": true,
-    "cart_type": "drawer",
+    "cart_type": "page",
     "checkout_accent_color": "#2d4b49",
     "checkout_button_color": "#2d4b49",
     "sections": {
