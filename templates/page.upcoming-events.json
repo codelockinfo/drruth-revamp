@@ -9,51 +9,6 @@
 */
 {
   "sections": {
-    "image_with_text_XLNJWM": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_LrnPgJ": {
-          "type": "heading",
-          "settings": {
-            "heading": "Unleash the Extraordinary: Join the Ultimate Doglympics Virtual Challenge!",
-            "heading_size": "h1"
-          }
-        },
-        "text_VEHFpd": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Hey there, fellow dog lover! Get ready for an incredible adventure with your furry friend in the Ultimate Doglympics Virtual Challenge, endorsed by Dr. Ruth Roberts! Doglympics 2024 features fun challenges in Stamina, Strength, Balance, Coordination, and Flexibility, perfect for all fitness levels. Strengthen your bond, enhance your dog’s wellness, and celebrate their unique strengths. <\/p><p>Plus, $5 from each $27.99 signup supports Lionel's Legacy senior dog rescue. <\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_9pxGby": {
-          "type": "button",
-          "settings": {
-            "button_label": "Join the Doglympics Challenge",
-            "button_link": "https:\/\/www.theracebuddies.com\/sign-up"
-          }
-        }
-      },
-      "block_order": [
-        "heading_LrnPgJ",
-        "text_VEHFpd",
-        "button_9pxGby"
-      ],
-      "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/doglympics_2.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_with_text_mM7EJV": {
       "type": "image-with-text",
       "blocks": {
@@ -213,6 +168,98 @@
         "show_text_below": true
       }
     },
+    "rich_text_AqFFqH": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_WgtYem": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Adopt, Don't Shop: Unveiling the Joy of Rescue Pets<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "text_9NEHBG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us for a heartwarming talk on Adopt, Don't Shop: Unveiling the Joy of Rescue Pets!Learn from Rina Gressett, CHPHC, a passionate pet advocate with years of experience in animal rescue and care. Find out why adoption is the compassionate choice as you explore how rescue pets can enrich your life. Gain valuable tips for successful pet adoption and be inspired by heartwarming stories of rescued animals.<\/p>"
+          }
+        },
+        "button_7RhcU6": {
+          "type": "button",
+          "settings": {
+            "button_label": "JOIN US HERE",
+            "button_link": "https:\/\/streamyard.com\/2zq856etce",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WgtYem",
+        "text_9NEHBG",
+        "button_7RhcU6"
+      ],
+      "custom_css": [
+        ".button {margin-left: 25em; margin-right: 20em; margin-top: 10em;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "image_banner_FXfrHU": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_cRhgT9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_UpgPzb": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_NCHQ48": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "JOIN US HERE",
+            "button_link_1": "https:\/\/streamyard.com\/hudwgz5cyq",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_cRhgT9",
+        "text_UpgPzb",
+        "buttons_NCHQ48"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Appearances_and_events_15.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rx_rich_text_yXXLjK": {
       "type": "rx-rich-text",
       "blocks": {
@@ -245,6 +292,51 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 0
+      }
+    },
+    "image_with_text_XLNJWM": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_LrnPgJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unleash the Extraordinary: Join the Ultimate Doglympics Virtual Challenge!",
+            "heading_size": "h1"
+          }
+        },
+        "text_VEHFpd": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hey there, fellow dog lover! Get ready for an incredible adventure with your furry friend in the Ultimate Doglympics Virtual Challenge, endorsed by Dr. Ruth Roberts! Doglympics 2024 features fun challenges in Stamina, Strength, Balance, Coordination, and Flexibility, perfect for all fitness levels. Strengthen your bond, enhance your dog’s wellness, and celebrate their unique strengths. <\/p><p>Plus, $5 from each $27.99 signup supports Lionel's Legacy senior dog rescue. <\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_9pxGby": {
+          "type": "button",
+          "settings": {
+            "button_label": "Join the Doglympics Challenge",
+            "button_link": "https:\/\/www.theracebuddies.com\/sign-up"
+          }
+        }
+      },
+      "block_order": [
+        "heading_LrnPgJ",
+        "text_VEHFpd",
+        "button_9pxGby"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/doglympics_2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c": {
@@ -499,12 +591,14 @@
     }
   },
   "order": [
-    "image_with_text_XLNJWM",
     "image_with_text_mM7EJV",
     "rx_rich_text_bbJARD",
     "main",
     "image_banner_CXG8P6",
+    "rich_text_AqFFqH",
+    "image_banner_FXfrHU",
     "rx_rich_text_yXXLjK",
+    "image_with_text_XLNJWM",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "after_program_JiyKVR",
     "fadcc9ee-5901-42d9-8139-51be2d304bad",
