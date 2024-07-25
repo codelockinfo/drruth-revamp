@@ -112,7 +112,7 @@
         "text_aEPraH": {
           "type": "text",
           "settings": {
-            "text": "<p>Join Dr. Ruth Roberts and HPHC Coaches for weekly pet health insights!<\/p>"
+            "text": "<p>Join us for a series of weekly events with Dr. Ruth Roberts, alongside holistic pet health coaches and other experts in the field.  Don’t miss the chance to learn, grow, and connect with like-minded individuals dedicated to advancing the health and wellness of pets. <\/p>"
           }
         },
         "button_Rfjebj": {
@@ -141,7 +141,6 @@
         "button_Rfjebj",
         "caption_enKaUR"
       ],
-      "disabled": true,
       "custom_css": [
         "p {font-size: 20px;}"
       ],
@@ -162,6 +161,56 @@
       "settings": {
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "image_banner_CXG8P6": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_7rkjC9": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "text_jXLPf9": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "buttons_qAdEXn": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "JOIN US HERE",
+            "button_link_1": "https:\/\/streamyard.com\/2zq856etce",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "heading_7rkjC9",
+        "text_jXLPf9",
+        "buttons_qAdEXn"
+      ],
+      "custom_css": [
+        ".button {margin-top: 15em; margin-right: 3.5em;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Appearances_and_events_14.png",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "rx_rich_text_yXXLjK": {
@@ -454,6 +503,7 @@
     "image_with_text_mM7EJV",
     "rx_rich_text_bbJARD",
     "main",
+    "image_banner_CXG8P6",
     "rx_rich_text_yXXLjK",
     "e5035dd7-0d99-448e-9e24-80d60b96ee6c",
     "after_program_JiyKVR",
