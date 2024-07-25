@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "1644361594fa530990": {
@@ -21,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "DOWNLOAD SUPPORT PROTOCOL",
-            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/Cardiovascular+Support+Program.pdf"
+            "button_link": "https:\/\/memberareapdf.s3.us-west-2.amazonaws.com\/Holistic+Pet+Care+Programs+-+Post-Surgery+Care.pdf"
           }
         }
       },
@@ -37,6 +46,7 @@
         "div {padding: 10px;}"
       ],
       "settings": {
+        "unique_class": "",
         "image": "shopify:\/\/shop_images\/6_0a0a92d4-183b-4dd4-8019-3c2fd5240c31.png",
         "height": "adapt",
         "desktop_image_width": "small",
