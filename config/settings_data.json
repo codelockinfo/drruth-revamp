@@ -567,6 +567,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "3062113278708352188": {
+        "type": "shopify:\/\/apps\/gp-json-ld-schema-for-seo\/blocks\/gropulse-rich-snippets\/067179e8-363f-48e1-8ee4-5891cda502fa",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
