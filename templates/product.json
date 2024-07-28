@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -12,12 +21,6 @@
         },
         "title": {
           "type": "title",
-          "settings": {
-          }
-        },
-        "0fc63559-d172-47a1-b72e-b3a012e130d4": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "disabled": true,
           "settings": {
           }
         },
@@ -77,7 +80,6 @@
       "block_order": [
         "vendor",
         "title",
-        "0fc63559-d172-47a1-b72e-b3a012e130d4",
         "751d134f-73fe-4141-86b2-938f1aeacb83",
         "quantity_selector",
         "0dd44047-53bd-4401-b151-a60aa1b52a8d",
@@ -110,16 +112,6 @@
     },
     "168683289751e3d974": {
       "type": "apps",
-      "blocks": {
-        "9f8d3100-d03d-474b-86d1-ea7341740df0": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "9f8d3100-d03d-474b-86d1-ea7341740df0"
-      ],
       "settings": {
         "include_margins": true
       }
@@ -229,7 +221,7 @@
         "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-0": {
           "type": "Product",
           "settings": {
-            "product_block": "1986957"
+            "product_block": "gut-health-starter-kit"
           }
         },
         "template--14911504744513__37d355bc-1320-4afc-b381-56eecc54e273-1681971923720bf795-1": {
