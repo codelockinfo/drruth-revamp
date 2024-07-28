@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main": {
@@ -13,7 +22,6 @@
     },
     "newsletter": {
       "type": "newsletter",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -39,6 +47,7 @@
         "paragraph",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-2",
         "full_width": true,
@@ -48,7 +57,6 @@
     },
     "1655751929e34d4e57": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "16557519296bd204f0-0": {
           "type": "featured_collection",
@@ -95,6 +103,7 @@
         "c56b4d3d-e5ba-4cab-8c1a-269a1bd2d7f8",
         "57ac96c7-6522-49c4-beac-4bbc21fe8795"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -110,7 +119,6 @@
     },
     "1684272298d585cb7f": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "db2a1af8-ac62-4337-9bd8-6cca37487096": {
           "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
@@ -122,6 +130,7 @@
       "block_order": [
         "db2a1af8-ac62-4337-9bd8-6cca37487096"
       ],
+      "disabled": true,
       "settings": {
         "include_margins": true
       }
@@ -338,8 +347,8 @@
         "2261eb1e-7610-4d87-aee8-21d473e6504f": {
           "type": "collection",
           "settings": {
-            "product": "1984272",
-            "btnlink": "shopify:\/\/products\/1984272",
+            "product": "kidney-health-starter-kit-course-for-dogs-and-catss",
+            "btnlink": "shopify:\/\/products\/kidney-health-starter-kit-course-for-dogs-and-catss",
             "outlinkbtn": "Course Outlines"
           }
         },
