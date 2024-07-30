@@ -138,12 +138,12 @@
         "buttons_qAdEXn": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "JOIN US HERE",
-            "button_link_1": "https:\/\/streamyard.com\/2zq856etce",
+            "button_label_1": "",
+            "button_link_1": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
-            "button_style_secondary_2": true
+            "button_style_secondary_2": false
           }
         }
       },
@@ -156,8 +156,8 @@
         ".button {margin-top: 15em; margin-right: 3.5em;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Appearances_and_events_14.png",
-        "image_overlay_opacity": 30,
+        "image": "shopify:\/\/shop_images\/4_96ec3872-e500-4b7c-89a1-2059237419da.png",
+        "image_overlay_opacity": 0,
         "image_height": "medium",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -174,21 +174,21 @@
         "heading_WgtYem": {
           "type": "heading",
           "settings": {
-            "heading": "<p>Adopt, Don't Shop: Unveiling the Joy of Rescue Pets<\/p>",
+            "heading": "<p>Bark Up the Right Tree: Explore the World of Holistic Pet Health Coaching<\/p>",
             "heading_size": "h1"
           }
         },
         "text_9NEHBG": {
           "type": "text",
           "settings": {
-            "text": "<p>Join us for a heartwarming talk on Adopt, Don't Shop: Unveiling the Joy of Rescue Pets!Learn from Rina Gressett, CHPHC, a passionate pet advocate with years of experience in animal rescue and care. Find out why adoption is the compassionate choice as you explore how rescue pets can enrich your life. Gain valuable tips for successful pet adoption and be inspired by heartwarming stories of rescued animals.<\/p>"
+            "text": "<p>On August 14th at 1pm EST, we're blowing the lid off the \"Three Business Strategies Holistic Pet Health Coaches Are Using to Generate Income\"<\/p><p>This isn't just another webinar. It's your ticket to the pet health revolution.<\/p><p>Ready to change lives AND fatten your wallet?<\/p>"
           }
         },
         "button_7RhcU6": {
           "type": "button",
           "settings": {
-            "button_label": "JOIN US HERE",
-            "button_link": "https:\/\/streamyard.com\/2zq856etce",
+            "button_label": "REGISTER TO THE WORKSHOP NOW",
+            "button_link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
