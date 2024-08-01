@@ -243,7 +243,7 @@
         "section_bg_color": "#ffffff",
         "image_width": "100%",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 28,
         "padding_bottom": 0
       }
     },
