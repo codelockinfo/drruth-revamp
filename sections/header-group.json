@@ -18,7 +18,7 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Master the Craft of Holistic Pet Health Coaching! Sign Up Now For the July 17 workshop. 🐾",
+            "text": "Explore the World of Holistic Pet Health Coaching 🌿 Sign Up Now For the August 14 workshop. 🐾",
             "text_alignment": "center",
             "color_scheme": "accent-1",
             "link": "https:\/\/www.holisticpethealthcoach.com\/pet-health-training?utm_source=Workshop+&utm_medium=June+&utm_id=Shopify+banner"
@@ -26,6 +26,7 @@
         },
         "announcement_qWPKCT": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "✨Enjoy FREE shipping on all orders over $49! 🛍️ Stock up on your pet's favorites now! 🚚",
             "text_alignment": "center",
