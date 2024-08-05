@@ -156,9 +156,9 @@
         ".button {margin-top: 15em; margin-right: 3.5em;}"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/HPHC_Banners_2.png",
+        "image": "shopify:\/\/shop_images\/HPHC_Banners_5.png",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "adapt",
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
