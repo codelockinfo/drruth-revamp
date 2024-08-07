@@ -9,115 +9,6 @@
 */
 {
   "sections": {
-    "image_with_text_mM7EJV": {
-      "type": "image-with-text",
-      "blocks": {
-        "heading_HzxANr": {
-          "type": "heading",
-          "settings": {
-            "heading": "Purr-fecting Your Skills: Master the Craft of Holistic Pet Health Coaching",
-            "heading_size": "h1"
-          }
-        },
-        "text_rLFaKJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Discover three key principles of functional medicine with real case examples. REGISTER NOW for this career-changing workshop and uncover how you can add more IMPACT and INCOME to your life as a Certified Pet Health Coach.<\/p>",
-            "text_style": "body"
-          }
-        },
-        "button_MdU9QE": {
-          "type": "button",
-          "settings": {
-            "button_label": "REGISTER NOW",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_HzxANr",
-        "text_rLFaKJ",
-        "button_MdU9QE"
-      ],
-      "disabled": true,
-      "settings": {
-        "unique_class": "",
-        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_16.png",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "rx_rich_text_bbJARD": {
-      "type": "rx-rich-text",
-      "blocks": {
-        "heading_eWqazG": {
-          "type": "heading",
-          "settings": {
-            "heading": "<p>Upcoming Events<\/p>"
-          }
-        },
-        "text_aEPraH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Join us for a series of weekly events with Dr. Ruth Roberts, alongside holistic pet health coaches and other experts in the field.  Don’t miss the chance to learn, grow, and connect with like-minded individuals dedicated to advancing the health and wellness of pets. <\/p>"
-          }
-        },
-        "button_Rfjebj": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        },
-        "caption_enKaUR": {
-          "type": "caption",
-          "disabled": true,
-          "settings": {
-            "caption": "Add a tagline"
-          }
-        }
-      },
-      "block_order": [
-        "heading_eWqazG",
-        "text_aEPraH",
-        "button_Rfjebj",
-        "caption_enKaUR"
-      ],
-      "custom_css": [
-        "p {font-size: 20px;}"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "caption_alignment": "center",
-        "section_bg_color": "#ffffff",
-        "image_width": "100%",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "main": {
-      "type": "main-page",
-      "disabled": true,
-      "settings": {
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "image_banner_CXG8P6": {
       "type": "image-banner",
       "blocks": {
@@ -245,6 +136,115 @@
         "full_width": true,
         "padding_top": 28,
         "padding_bottom": 0
+      }
+    },
+    "rx_rich_text_bbJARD": {
+      "type": "rx-rich-text",
+      "blocks": {
+        "heading_eWqazG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Upcoming Events<\/p>"
+          }
+        },
+        "text_aEPraH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us for a series of weekly events with Dr. Ruth Roberts, alongside holistic pet health coaches and other experts in the field.  Don’t miss the chance to learn, grow, and connect with like-minded individuals dedicated to advancing the health and wellness of pets. <\/p>"
+          }
+        },
+        "button_Rfjebj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
+        "caption_enKaUR": {
+          "type": "caption",
+          "disabled": true,
+          "settings": {
+            "caption": "Add a tagline"
+          }
+        }
+      },
+      "block_order": [
+        "heading_eWqazG",
+        "text_aEPraH",
+        "button_Rfjebj",
+        "caption_enKaUR"
+      ],
+      "disabled": true,
+      "custom_css": [
+        "p {font-size: 20px;}"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "caption_alignment": "center",
+        "section_bg_color": "#ffffff",
+        "image_width": "100%",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "image_with_text_mM7EJV": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_HzxANr": {
+          "type": "heading",
+          "settings": {
+            "heading": "Know Better, Do Better: Expert Sessions on Canine Longevity.",
+            "heading_size": "h1"
+          }
+        },
+        "text_rLFaKJ": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Join us on September 8, 2024, from 12:30 PM to 5 PM at the Morgan Arts Complex, Chicago. <\/p><p>This must-attend event features top experts in canine health sharing cutting-edge strategies and practical tips for extending your dog's life and improving their overall health.<\/p><p>🎟 <strong>Tickets:<\/strong> $29.99 (all proceeds support local dog rescue\/adoption)<br\/>💚 Nutritional strategies, training tips, holistic wellness, and more<br\/>💚 Free swag bags for the first 100 ticket purchasers!<\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_MdU9QE": {
+          "type": "button",
+          "settings": {
+            "button_label": "REGISTER NOW",
+            "button_link": "https:\/\/www.holisticpethealthcoach.com\/knowbetterdobetter2024"
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzxANr",
+        "text_rLFaKJ",
+        "button_MdU9QE"
+      ],
+      "settings": {
+        "unique_class": "",
+        "image": "shopify:\/\/shop_images\/IG_LAYOUT-_EVENTS_5_f31fe42e-bba3-4377-bdf4-9a9293c2f715.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "image_with_text_XLNJWM": {
@@ -432,12 +432,12 @@
     }
   },
   "order": [
-    "image_with_text_mM7EJV",
-    "rx_rich_text_bbJARD",
-    "main",
     "image_banner_CXG8P6",
     "rich_text_AqFFqH",
     "rx_rich_text_yXXLjK",
+    "rx_rich_text_bbJARD",
+    "image_with_text_mM7EJV",
+    "main",
     "image_with_text_XLNJWM",
     "image_with_text_KHN4eT",
     "rx_blog_cANfJE",
